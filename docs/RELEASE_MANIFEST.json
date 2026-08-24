@@ -62,7 +62,7 @@
       "sha256": "8ad43b9407e4e632d234ba93ff97e9373e0f1bc47f0a186999f21f4441737fb7"
     }
   },
-  "source_revision": "59f1900d01ac1dff26090002e0b43441c24736fc",
+  "source_revision": "f5efb335cc183f97b5aab27465c2910eccd295bc",
   "build": ".venv/bin/python src/pipeline.py build",
   "tests": [
     ".venv/bin/python -m unittest test_pipeline test_deck test_glosses test_phase3 test_release -v",
