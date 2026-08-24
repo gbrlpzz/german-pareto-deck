@@ -97,3 +97,10 @@ inspectable artifacts; raw corpora are never committed, only re-fetched with rec
 ## 8. Changelog
 
 - v0.1 — methodology fixed; both research reports merged; empirical curves measured.
+
+## 9. Figures
+
+Figure 1 (`docs/figures/fig1_coverage_curves.png`) visualizes the measured curves in §2.
+Figure 2 (`docs/figures/fig2_marginal_gains.png`) visualizes the marginal-return argument
+in §4a. Regenerate with `.venv/bin/python src/plots.py`; anchor values for the OpenSubtitles
+series live in `derived/subtitles_curve.csv`.

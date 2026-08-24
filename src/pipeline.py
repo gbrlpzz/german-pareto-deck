@@ -18,10 +18,16 @@ FILES = {
 }
 TOKEN_RE = re.compile(r"[a-z\u00e4\u00f6\u00fc\u00df']+")
 
+LOCAL_NAMES = {
+    "deu": "deu_sentences_detailed.tsv.bz2",
+    "eng": "eng_sentences_detailed.tsv.bz2",
+    "links": "links.tar.bz2",
+}
+
 def fetch():
     DATA.mkdir(exist_ok=True)
     for key, url in FILES.items():
-        out = DATA / f"{key}.tsv.bz2"
+        out = DATA / LOCAL_NAMES[key]
         pos = out.stat().st_size if out.exists() else 0
         total = int(requests.head(url, timeout=20).headers.get("Content-Length", 0))
         while 0 < pos < total or (pos == 0 and not out.exists()):
@@ -45,7 +51,7 @@ def _tokens(text):
             yield w
 
 def freq():
-    src = DATA / "deu.tsv.bz2"
+    src = DATA / "deu_sentences_detailed.tsv.bz2"
     counter = collections.Counter(); total_tokens = 0
     with bz2.open(src, "rt", encoding="utf-8") as fh:
         for line in fh:

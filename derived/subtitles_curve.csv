@@ -1,0 +1,6 @@
+rank,cum_share_pct,source
+1000,79.9,"OpenSubtitles-2016 DE, measured from primary FrequencyWords data"
+2000,85.3,"OpenSubtitles-2016 DE, measured from primary FrequencyWords data"
+3000,88.2,"OpenSubtitles-2016 DE, measured from primary FrequencyWords data"
+5000,91.3,"OpenSubtitles-2016 DE, measured from primary FrequencyWords data"
+10000,94.8,"OpenSubtitles-2016 DE, measured from primary FrequencyWords data"

@@ -1,3 +1,5 @@
 requests>=2.31
 genanki>=0.13
-spacy>=3.7
+matplotlib>=3.8
+# Optional: spacy + de_core_news_sm improve lemma grouping quality.
+# Without them the pipeline falls back to rule-based grouping (documented in METHODOLOGY D6).
