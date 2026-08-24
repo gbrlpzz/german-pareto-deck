@@ -47,6 +47,18 @@ pattern_model = genanki.Model(
     css=CSS)
 
 
+pattern_rec_model = genanki.Model(
+    1607392399, "GP Pattern (recognize)",
+    fields=[{"name": "Chunk"}, {"name": "Sentence"}, {"name": "Translation"},
+            {"name": "Class"}],
+    templates=[{"name": "recognize",
+                "qfmt": '<div class="de">{{Chunk}}</div>'
+                        '<div class="ex">{{Sentence}}</div>',
+                "afmt": '{{FrontSide}}<hr id=answer>'
+                        '<div class="en">{{Translation}}</div>'}],
+    css=CSS)
+
+
 def load(path):
     p = DERIVED / path
     return list(csv.DictReader(open(p))) if p.exists() else []
@@ -57,38 +69,67 @@ def blank(text, form):
     return pat.sub("______", text, count=1)
 
 
+WORD_RE = re.compile(r"[A-Za-z\u00c4\u00d6\u00dc\u00e4\u00f6\u00fc\u00df']+")
+
+JUNK_GLOSS_PREFIXES = ("nominative", "genitive", "dative", "accusative",
+                       "inflection of", "third-person", "second-person",
+                       "first-person", "plural of", "past participle of",
+                       "present participle of", "preterite", "singular of")
+
+
+def clean_gloss(g):
+    """Drop grammar-only descriptors; an empty cue beats a junk cue."""
+    g = (g or "").strip()
+    low = g.lower()
+    if any(low.startswith(p) for p in JUNK_GLOSS_PREFIXES):
+        return ""
+    return g
+
+
+def _norm_word(w):
+    return w.lower().replace("'", "\u2019").replace("\u2019", "")
+
+
 def make_cloze(de, pattern):
-    """Cloze the pattern inside the sentence; None if it does not occur.
+    """Cloze `pattern` inside sentence `de`; None if absent.
 
-    Apostrophe-stripped retry covers token forms like gehts <-> geht's.
-    Strict word-boundary matching otherwise; unmatched patterns are skipped
-    and counted (build log), never silently dropped.
+    Token-span matching: tolerant of punctuation and apostrophes between and
+    inside words (geht's <-> gehts, "ich wei\u00df nicht, ob" keeps its comma).
+    Each matched word gets its own {{c1::...}}; punctuation stays visible.
     """
-    def attempt(text):
-        if " \u2026 " in pattern:
-            a, b = pattern.split(" \u2026 ")
-            m1 = re.search(r"\b" + re.escape(a) + r"\b", text, re.IGNORECASE)
-            if not m1:
-                return None
-            out = text[:m1.start()] + "{{c1::" + m1.group(0) + "}}" + text[m1.end():]
-            m2 = re.search(r"\b" + re.escape(b) + r"\b", out, re.IGNORECASE)
-            if not m2:
-                return None
-            return out[:m2.start()] + "{{c1::" + m2.group(0) + "}}" + out[m2.end():]
-        m = re.search(r"\b" + re.escape(pattern) + r"\b", text, re.IGNORECASE)
-        if not m:
+    pwords = [_norm_word(w) for w in WORD_RE.findall(pattern)]
+    toks = [(m.group(0), m.start(), m.end()) for m in WORD_RE.finditer(de)]
+    nt = [_norm_word(t[0]) for t in toks]
+    if " \u2026 " in pattern:
+        if len(pwords) != 2:
             return None
-        return text[:m.start()] + "{{c1::" + m.group(0) + "}}" + text[m.end():]
-
-    for text in (de, de.replace("'", "")):
-        got = attempt(text)
-        if got:
-            return got
-    return None
+        ia = next((i for i, w in enumerate(nt) if w == pwords[0]), None)
+        if ia is None:
+            return None
+        ib = next((i for i in range(ia + 1, len(nt)) if nt[i] == pwords[1]), None)
+        if ib is None:
+            return None
+        spans = [toks[ia], toks[ib]]
+    else:
+        n = len(pwords)
+        spans = None
+        for i in range(len(nt) - n + 1):
+            if nt[i:i + n] == pwords:
+                spans = toks[i:i + n]
+                break
+        if spans is None:
+            return None
+    out = de
+    for word, s, e in sorted(spans, key=lambda x: -x[1]):
+        out = out[:s] + "{{c1::" + word + "}}" + out[e:]
+    return out
 
 
 def main():
     gloss = {r["form"]: (r["pos"], r["gloss"]) for r in load("glosses.csv")}
+    for r in load("glosses_lemma.csv"):      # lemma-level glosses win (v0.2)
+        if r["gloss"].strip():
+            gloss[r["lemma"]] = (r["pos"], r["gloss"])
     trans = {r["deu_sid"]: r["eng_text"] for r in load("translations.csv") if r["has_en"] == "yes"}
     ws = {r["form"]: r for r in load("word_sentences.csv")}
 
@@ -103,7 +144,7 @@ def main():
             continue
         de = s["de_text"]
         en = trans.get(s["sid"], "")
-        _, g = gloss.get(r["lemma"], gloss.get(f, ("", "")))
+        g = clean_gloss(gloss.get(r["lemma"], gloss.get(f, ("", "")))[1])
         note = genanki.Note(
             model=word_model,
             fields=[f, g, blank(de, f), de, en, r["tier"]],
@@ -113,6 +154,7 @@ def main():
         n_words += 1
 
     n_pat = 0
+    n_rec = 0
     n_skipped = [0]
     # pattern sentence texts
     need = set()
@@ -147,9 +189,23 @@ def main():
         decks["pat"].add_note(note)
         n_pat += 1
 
+    for r in load("patterns_selected.csv"):
+        if r["class"] not in ("routine", "particle_frame"):
+            continue
+        exs = [x for x in r["examples"].split(";") if x and x in sid_text]
+        if not exs:
+            continue
+        note = genanki.Note(
+            model=pattern_rec_model,
+            fields=[r["pattern"], sid_text[exs[0]], trans.get(exs[0], ""), r["class"]],
+            guid=genanki.guid_for("gppatr", r["pattern"]),
+            tags=[r["group"], r["class"], "recognize"])
+        decks["pat"].add_note(note)
+        n_rec += 1
+
     OUT.parent.mkdir(exist_ok=True)
     genanki.Package(list(decks.values())).write_to_file(str(OUT))
-    print(f"word cards: {n_words}  pattern cards: {n_pat}  patterns skipped (no cloze match): {n_skipped[0]}")
+    print(f"word cards: {n_words}  pattern cards: {n_pat}  patterns skipped (no cloze match): {n_skipped[0]}  recognition cards: {n_rec}")
     print("wrote", OUT)
 
 
