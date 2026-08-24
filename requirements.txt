@@ -1,0 +1,3 @@
+requests>=2.31
+genanki>=0.13
+spacy>=3.7
