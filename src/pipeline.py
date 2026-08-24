@@ -69,7 +69,8 @@ def freq():
     print(f"forms: {len(counter):,}; tokens: {total_tokens:,} -> {DERIVED/'top_forms.csv'}")
 
 def patterns():
-    sys.exit("patterns: WIP (n-gram extraction + class templates)")
+    import subprocess
+    subprocess.run([sys.executable, str(ROOT / "src" / "patterns.py")], check=True)
 
 def sentences():
     sys.exit("sentences: WIP")

@@ -96,5 +96,5 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 
 ## License
 
-Code: Apache-2.0. Generated lists are attributable derivatives of the cited sources. Raw
+Code: MIT. Generated lists are attributable derivatives of the cited sources. Raw
 corpora are never redistributed — the pipeline refetches them and records checksums.

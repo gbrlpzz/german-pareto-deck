@@ -1,0 +1,2250 @@
+class,pattern,count,kind,examples
+routine,ich weiß nicht,1839,routine,210;245;93
+routine,nicht wahr,1573,routine,355167;361417;344537
+routine,es tut mir leid,525,routine,344;338473;338474
+routine,keine ahnung,464,routine,140001;368591;310
+routine,in ordnung,446,routine,369874;346955;369603
+routine,vielen dank,297,routine,347929;342029;341149
+routine,bis morgen,193,routine,353747;338309;353751
+routine,viel spaß,165,routine,503975;503974;330601
+routine,meiner meinung nach,136,routine,369196;395431;449995
+routine,guten tag,127,routine,403851;404146;441182
+routine,ich habe keine zeit,124,routine,362672;363963;344441
+routine,kein problem,111,routine,789482;645127;349948
+routine,gute nacht,109,routine,1002;404221;409089
+routine,viel glück,96,routine,485474;387985;413747
+routine,ich bin müde,92,routine,451195;579529;395287
+routine,wie geht es dir,91,routine,358124;394218;396544
+routine,was ist los,87,routine,621494;309;621487
+routine,guten morgen,80,routine,404689;6065;417591
+routine,ich weiß es nicht,73,routine,394166;560890;553375
+routine,auf wiedersehen,72,routine,479631;485463;485466
+routine,alles gute,68,routine,841792;355043;932798
+routine,herzlichen glückwunsch,56,routine,404606;697964;82
+routine,ich habe hunger,43,routine,1690550;863;1471536
+routine,natürlich nicht,41,routine,352551;1222502;1226945
+routine,danke schön,38,routine,403064;1716815;1716823
+routine,guten abend,33,routine,444481;1597904;6062
+routine,na ja,32,routine,4682978;4491480;4714166
+routine,mir geht es gut,23,routine,659407;444746;1535945
+routine,ich muss los,22,routine,608679;344352;700812
+routine,ach so,22,routine,657981;716205;394256
+routine,wie bitte,18,routine,1515147;2738775;1935278
+routine,ich habe durst,17,routine,943175;361107;809053
+routine,bitte schön,16,routine,1607651;1607652;561069
+routine,was ist mit dir,16,routine,766790;1201901;1844130
+routine,mir ist kalt,15,routine,814159;343615;547865
+routine,gern geschehen,13,routine,10769609;2786012;5075869
+routine,pass auf dich auf,9,routine,531349;724939;589971
+routine,bis bald,8,routine,1419211;8098820;394482
+routine,bis dann,5,routine,353839;6376408;7054234
+routine,gute besserung,5,routine,5992220;6681637;5838711
+routine,bis später,4,routine,3384030;6638945;7315426
+routine,mir ist heiß,1,routine,8237338
+routine,später vielleicht,1,routine,2722630
+routine,stimmt genau,0,routine,
+routine,entschuldigung,0,routine,
+routine,machs gut,0,routine,
+perfekt_frame,hat … gesagt,2046,frame,6095;6107;1021
+perfekt_frame,habe … gesehen,1052,frame,136445;496;1007
+perfekt_frame,hat … gemacht,865,frame,341272;136448;342300
+perfekt_frame,habe … gesagt,838,frame,369816;855;445216
+perfekt_frame,habe … gehört,639,frame,341236;342522;342560
+perfekt_frame,haben … gesagt,568,frame,480073;783330;883052
+perfekt_frame,ist … passiert,542,frame,348422;6157;840
+perfekt_frame,hast … gesehen,540,frame,359070;353061;344484
+perfekt_frame,ist … gegangen,528,frame,340881;343042;136435
+perfekt_frame,hast … gesagt,513,frame,630;838;821
+perfekt_frame,hat … gekauft,506,frame,330461;342798;348421
+perfekt_frame,habe … gemacht,493,frame,353005;6187;350142
+perfekt_frame,habe … gekauft,484,frame,136256;236461;6165
+perfekt_frame,haben … gesehen,475,frame,443606;443525;369838
+perfekt_frame,ist … geworden,471,frame,341248;341715;877
+perfekt_frame,ist … leicht,470,frame,347916;341375;344550
+perfekt_frame,ist … gekommen,448,frame,1225;495;342081
+perfekt_frame,habe … vergessen,432,frame,353110;366498;351787
+perfekt_frame,hat … getan,408,frame,353010;352099;6156
+perfekt_frame,hat … gefallen,397,frame,1155;369168;353054
+perfekt_frame,hast … gemacht,381,frame,353009;341594;6079
+perfekt_frame,ist … stadt,379,frame,1260;431;1233
+perfekt_frame,hat … gesehen,379,frame,359068;368204;479731
+perfekt_frame,ist … gestorben,369,frame,136444;135992;136437
+perfekt_frame,habe … gefunden,367,frame,360894;343090;344913
+perfekt_frame,hat … angst,360,frame,351098;348855;209
+perfekt_frame,hat … gegeben,358,frame,331896;344926;370145
+perfekt_frame,haben … gemacht,344,frame,345364;360542;903
+perfekt_frame,habe … gegessen,323,frame,1243;342586;350677
+perfekt_frame,habe … angst,318,frame,620;341668;342622
+perfekt_frame,hat … gefunden,291,frame,352550;360905;374170
+perfekt_frame,habe … getan,282,frame,441432;345009;356530
+perfekt_frame,habe … getroffen,281,frame,1261;591;135750
+perfekt_frame,ist … hauptstadt,276,frame,331890;331891;331892
+perfekt_frame,ist … gefährlich,273,frame,138816;332361;342290
+perfekt_frame,hat … gegessen,271,frame,592268;450008;620916
+perfekt_frame,habe … gelesen,256,frame,358417;693;670
+perfekt_frame,sind … gegangen,256,frame,702;139101;6162
+perfekt_frame,hat … geschrieben,255,frame,139116;330596;139165
+perfekt_frame,habe … versucht,252,frame,180443;344535;341610
+perfekt_frame,habt … gesehen,252,frame,931306;611604;901346
+perfekt_frame,ist … arbeit,249,frame,365037;353274;361511
+perfekt_frame,bin … gegangen,248,frame,688;1240;826
+perfekt_frame,ist … gewesen,247,frame,158;367316;364968
+perfekt_frame,hast … gekauft,243,frame,356158;361014;374564
+perfekt_frame,hast … gehört,237,frame,370467;360830;370789
+perfekt_frame,habe … gelernt,235,frame,874;287;1028
+perfekt_frame,haben … angst,235,frame,360551;357470;380746
+perfekt_frame,hat … erzählt,227,frame,608483;860609;947115
+perfekt_frame,hatte … angst,226,frame,356667;341567;778
+perfekt_frame,hat … geholfen,225,frame,344473;338348;360
+perfekt_frame,ist … selbst,218,frame,406642;398898;342830
+perfekt_frame,hat … arbeit,212,frame,406826;406848;361377
+perfekt_frame,bin … gekommen,209,frame,347993;477787;815
+perfekt_frame,hat … vergessen,209,frame,352022;399764;341962
+perfekt_frame,habe … verstanden,209,frame,446568;414297;424260
+perfekt_frame,ist … bekannt,202,frame,350969;344656;354810
+perfekt_frame,sind … gekommen,194,frame,363271;353682;389129
+perfekt_frame,war … überrascht,192,frame,351615;352790;342624
+perfekt_frame,habe … gebeten,188,frame,342820;351575;350904
+perfekt_frame,ist … beschäftigt,187,frame,342561;364958;361105
+perfekt_frame,ist … interessant,185,frame,353250;353694;338314
+perfekt_frame,hat … gelernt,184,frame,641826;411080;516064
+perfekt_frame,hat … gefragt,178,frame,413746;139988;362162
+perfekt_frame,hat … gebeten,178,frame,344678;602966;399493
+perfekt_frame,hast … gegessen,177,frame,644;967;904
+perfekt_frame,haben … gegessen,177,frame,368569;461400;400017
+perfekt_frame,haben … gefunden,175,frame,353572;435691;628379
+perfekt_frame,hast … getan,173,frame,521562;629;707551
+perfekt_frame,habe … geschrieben,172,frame,360723;344635;348141
+perfekt_frame,ist … gefallen,171,frame,345250;700;345047
+perfekt_frame,hat … gewonnen,171,frame,369143;370386;384222
+perfekt_frame,ist … wahrheit,168,frame,622;1100;682
+perfekt_frame,haben … gekauft,167,frame,767631;497231;593573
+perfekt_frame,bin … beschäftigt,165,frame,359103;356647;356648
+perfekt_frame,bist … gekommen,162,frame,352027;509;119750
+perfekt_frame,habe … gegeben,161,frame,381123;408757;426460
+perfekt_frame,habe … gedacht,160,frame,570139;626752;259
+perfekt_frame,hat … gebracht,159,frame,353003;648;364546
+perfekt_frame,haben … getan,155,frame,989615;740900;913868
+perfekt_frame,ist … geschichte,154,frame,364994;710;361126
+perfekt_frame,hat … versucht,153,frame,684873;343050;641821
+perfekt_frame,haben … gehört,151,frame,383173;383174;425621
+perfekt_frame,habe … gesprochen,150,frame,1262;365949;370162
+perfekt_frame,hat … geheiratet,150,frame,345253;341532;341535
+perfekt_frame,ist … kaputt,149,frame,722;341913;331882
+perfekt_frame,ist … kunst,149,frame,366742;435890;535332
+perfekt_frame,hast … gefunden,148,frame,360332;449994;446
+perfekt_frame,hat … gestohlen,145,frame,341284;361468;398612
+perfekt_frame,habt … gesagt,144,frame,942950;1761226;1121694
+perfekt_frame,habt … gemacht,143,frame,703802;823106;370118
+perfekt_frame,ist … genauso,141,frame,332357;340816;353601
+perfekt_frame,ist … verheiratet,141,frame,341538;341581;344701
+perfekt_frame,habe … gefühl,141,frame,658192;669540;563287
+perfekt_frame,hat … verändert,140,frame,340914;353317;1244
+perfekt_frame,habe … gewartet,140,frame,461423;357798;362210
+perfekt_frame,hat … gekostet,136,frame,341587;354524;341990
+perfekt_frame,habe … arbeit,134,frame,180999;562;343074
+perfekt_frame,hat … selbst,134,frame,347942;1166;363393
+perfekt_frame,ist … verrückt,133,frame,463698;446694;344283
+perfekt_frame,hat … beigebracht,133,frame,361609;344530;368328
+perfekt_frame,habe … gefragt,132,frame,712305;522110;147
+perfekt_frame,ist … überhaupt,132,frame,351772;372608;350
+perfekt_frame,haben … gesprochen,132,frame,340909;633935;659430
+perfekt_frame,ist … gefahren,130,frame,404131;343083;349865
+perfekt_frame,hat … genommen,130,frame,402375;423832;370212
+perfekt_frame,hat … aufgehört,129,frame,15773;342533;343488
+perfekt_frame,hat … gearbeitet,129,frame,353255;344617;348157
+perfekt_frame,bist … gegangen,128,frame,361382;364443;351572
+perfekt_frame,bin … gewesen,128,frame,360646;361599;385561
+perfekt_frame,hat … gesprochen,128,frame,644212;362201;612838
+perfekt_frame,hast … angst,127,frame,755392;955089;811261
+perfekt_frame,ist … äußerst,126,frame,392449;400535;399516
+perfekt_frame,ist … entfernt,125,frame,358247;366401;341995
+perfekt_frame,sind … geworden,122,frame,358224;351709;351712
+perfekt_frame,hast … gelernt,121,frame,590706;622959;662716
+perfekt_frame,ist … gesagt,119,frame,480096;137;668
+perfekt_frame,hast … gelesen,119,frame,349827;359674;344569
+perfekt_frame,hat … geändert,119,frame,351683;369826;372281
+perfekt_frame,hat … nacht,118,frame,352523;6061;359676
+perfekt_frame,bist … gewesen,118,frame,521493;724214;620284
+perfekt_frame,war … beschäftigt,117,frame,353765;344570;343548
+perfekt_frame,hast … vergessen,117,frame,1250502;700336;619338
+perfekt_frame,habe … geschlafen,116,frame,341455;694;642
+perfekt_frame,ist … geboren,116,frame,6081;119749;345359
+perfekt_frame,bin … bereit,116,frame,368291;393444;404572
+perfekt_frame,hat … getrunken,114,frame,414588;135990;341129
+perfekt_frame,ist … macht,114,frame,411146;588920;400636
+perfekt_frame,ist … bereit,112,frame,341419;603269;590907
+perfekt_frame,hat … getroffen,112,frame,584072;344595;344647
+perfekt_frame,hat … geschickt,112,frame,576213;367783;661814
+perfekt_frame,habe … getrunken,112,frame,901278;928393;801636
+perfekt_frame,ist … beliebt,111,frame,399891;364460;439395
+perfekt_frame,hat … geschlagen,111,frame,604113;413978;691771
+perfekt_frame,ist … gelungen,111,frame,1454651;1072115;1039093
+perfekt_frame,ist … perfekt,110,frame,705393;341918;424577
+perfekt_frame,ist … geschehen,109,frame,346958;576627;403650
+perfekt_frame,hat … geregnet,109,frame,426287;398625;410064
+perfekt_frame,haben … vergessen,106,frame,6086;619339;1306604
+perfekt_frame,hat … geburtstag,106,frame,556814;556257;588695
+perfekt_frame,ist … antwort,105,frame,503569;626984;360882
+perfekt_frame,sind … verheiratet,104,frame,359645;365404;342614
+perfekt_frame,hat … geschichte,104,frame,360736;353320;374095
+perfekt_frame,ist … geschlossen,103,frame,403798;626124;638368
+perfekt_frame,ist … bestimmt,103,frame,419206;642295;1250207
+perfekt_frame,habe … kennengelernt,102,frame,367787;635635;347617
+perfekt_frame,ist … verliebt,101,frame,1000640;345457;437480
+perfekt_frame,haben … gelernt,101,frame,641636;398893;597255
+perfekt_frame,ist … gesundheit,100,frame,360575;361556;342323
+perfekt_frame,ist … geblieben,100,frame,501361;421648;432876
+perfekt_frame,hat … gehört,99,frame,365824;754289;363916
+perfekt_frame,habe … gesucht,98,frame,342046;449964;316
+perfekt_frame,war … nacht,96,frame,345019;351658;365303
+perfekt_frame,hat … gelesen,96,frame,353790;359678;359685
+perfekt_frame,ist … nacht,96,frame,668737;675339;406874
+perfekt_frame,habe … nachricht,95,frame,354897;599031;455259
+perfekt_frame,habe … nacht,95,frame,369997;397830;372649
+perfekt_frame,hast … gegeben,95,frame,396592;503973;443186
+perfekt_frame,habe … gearbeitet,94,frame,414180;585203;544593
+perfekt_frame,hat … geschafft,94,frame,746391;991563;665942
+perfekt_frame,habt … gehört,94,frame,1530985;683155;851591
+perfekt_frame,ist … gesund,93,frame,417569;414284;417580
+perfekt_frame,hast … gedacht,93,frame,612808;453807;556020
+perfekt_frame,bin … geboren,92,frame,392732;360728;370019
+perfekt_frame,hat … besucht,92,frame,372867;362227;395221
+perfekt_frame,habt … gekauft,92,frame,1315657;784575;992855
+perfekt_frame,ist … geschenk,91,frame,139440;367781;412972
+perfekt_frame,haben … geheiratet,91,frame,361602;340882;361437
+perfekt_frame,hat … verdient,91,frame,713174;564349;792928
+perfekt_frame,habe … gewusst,91,frame,1573533;1573525;1703259
+perfekt_frame,bin … gewohnt,90,frame,412227;417250;353784
+perfekt_frame,hat … verkauft,90,frame,662729;373087;563270
+perfekt_frame,ist … monat,89,frame,352334;119745;119748
+perfekt_frame,haben … getroffen,89,frame,341653;350902;394186
+perfekt_frame,habe … selbst,89,frame,351580;394437;380705
+perfekt_frame,ist … gefahr,89,frame,368611;365421;368615
+perfekt_frame,hast … gesprochen,88,frame,599265;658198;374125
+perfekt_frame,ist … erlaubt,88,frame,418965;631488;679821
+perfekt_frame,ist … intelligent,87,frame,343082;343035;675
+perfekt_frame,haben … gespielt,87,frame,344652;361397;342548
+perfekt_frame,ist … kommt,87,frame,343516;360792;362150
+perfekt_frame,haben … versucht,87,frame,392929;351638;626187
+perfekt_frame,hat … gezeigt,87,frame,354817;406911;427518
+perfekt_frame,bin … geworden,87,frame,358416;364374;626808
+perfekt_frame,bin … überzeugt,87,frame,368745;454769;414290
+perfekt_frame,ist … geheimnis,87,frame,453828;822433;435961
+perfekt_frame,ist … angelegenheit,85,frame,465989;510001;342125
+perfekt_frame,hat … verstanden,85,frame,431957;882535;802298
+perfekt_frame,sind … gefahren,85,frame,708500;541255;754335
+perfekt_frame,hat … gespielt,84,frame,350974;367544;349917
+perfekt_frame,sind … gewesen,84,frame,796705;603079;364528
+perfekt_frame,hat … bezahlt,84,frame,571515;787639;631895
+perfekt_frame,ist … kompliziert,83,frame,894838;600;723888
+perfekt_frame,hat … geschlafen,83,frame,344623;391637;406376
+perfekt_frame,ist … getan,83,frame,808292;403793;410795
+perfekt_frame,habe … überhaupt,83,frame,455575;925555;413185
+perfekt_frame,ist … berühmt,82,frame,404190;365821;403847
+perfekt_frame,habe … bezahlt,82,frame,366502;450244;453892
+perfekt_frame,hat … geöffnet,82,frame,396631;396638;479624
+perfekt_frame,hast … gefragt,81,frame,819204;965988;682715
+perfekt_frame,war … leicht,79,frame,412970;482161;482967
+perfekt_frame,hat … wahrheit,78,frame,473931;751735;728307
+perfekt_frame,haben … gegeben,77,frame,358248;623052;332157
+perfekt_frame,habe … verpasst,77,frame,349953;372576;407778
+perfekt_frame,sind … beschäftigt,77,frame,368832;358314;446391
+perfekt_frame,haben … gelesen,77,frame,370306;358418;359681
+perfekt_frame,ist … gegenüber,77,frame,368299;416457;414008
+perfekt_frame,hat … geküsst,77,frame,910954;910955;910956
+perfekt_frame,bin … gefahren,76,frame,343601;597299;522108
+perfekt_frame,hat … überhaupt,75,frame,368593;541334;413
+perfekt_frame,hat … gebrochen,75,frame,497;370218;701290
+perfekt_frame,ist … geöffnet,75,frame,343086;119824;345238
+perfekt_frame,habe … geholfen,75,frame,331894;331893;331895
+perfekt_frame,ist … geschrieben,75,frame,383393;344275;444931
+perfekt_frame,habe … nachgedacht,75,frame,347991;1325346;1846724
+perfekt_frame,haben … kennengelernt,75,frame,582221;1894263;653382
+perfekt_frame,habt … getan,75,frame,1576012;989614;1515081
+perfekt_frame,hat … geschmeckt,74,frame,1260946;444620;660453
+perfekt_frame,habe … gehabt,74,frame,1059042;583008;1391420
+perfekt_frame,habe … erwartet,73,frame,1198;1148;351812
+perfekt_frame,hat … umgebracht,73,frame,438755;343572;425088
+perfekt_frame,ist … gemacht,72,frame,353006;368712;1102
+perfekt_frame,bin … arbeit,72,frame,342793;332134;362796
+perfekt_frame,ist … ernst,72,frame,446398;657093;368544
+perfekt_frame,habe … erzählt,72,frame,1139190;1298717;1293433
+perfekt_frame,habe … besucht,71,frame,138819;343687;349943
+perfekt_frame,hast … verstanden,71,frame,1003505;441622;343485
+perfekt_frame,hat … geschenkt,71,frame,579532;406891;448161
+perfekt_frame,hat … gebaut,70,frame,356180;638523;348152
+perfekt_frame,hat … verletzt,70,frame,734009;406849;356534
+perfekt_frame,bin … verliebt,70,frame,362656;499783;732746
+perfekt_frame,habt … gegessen,70,frame,368568;425623;622918
+perfekt_frame,habe … verbracht,69,frame,876;366488;905
+perfekt_frame,ist … gelaufen,69,frame,642928;6121;454206
+perfekt_frame,ist … zurückgekehrt,69,frame,343057;351739;342017
+perfekt_frame,hat … erklärt,68,frame,349850;139395;351059
+perfekt_frame,war … enttäuscht,68,frame,783472;399903;556136
+perfekt_frame,hast … geschrieben,67,frame,361459;139105;346945
+perfekt_frame,war … beeindruckt,67,frame,705736;608752;584200
+perfekt_frame,bin … überrascht,67,frame,626968;792212;658105
+perfekt_frame,hat … gedauert,66,frame,351262;370376;608429
+perfekt_frame,ist … gebäude,66,frame,362809;431448;439108
+perfekt_frame,hat … gebissen,66,frame,654637;437928;520743
+perfekt_frame,hat … getötet,66,frame,660543;443667;701709
+perfekt_frame,ist … korrekt,65,frame,428487;555834;341736
+perfekt_frame,hat … gerettet,65,frame,362256;353315;344359
+perfekt_frame,habt … angst,65,frame,755393;396465;351677
+perfekt_frame,habe … mitgebracht,65,frame,627291;860282;392466
+perfekt_frame,hat … gehabt,65,frame,1290598;910367;1109106
+perfekt_frame,hat … gelogen,64,frame,345539;404608;374131
+perfekt_frame,habe … gespielt,64,frame,349920;349919;349922
+perfekt_frame,haben … arbeit,64,frame,371790;392401;624295
+perfekt_frame,hast … selbst,64,frame,710121;535979;934240
+perfekt_frame,hast … erzählt,63,frame,612551;1084;380791
+perfekt_frame,habe … bemerkt,63,frame,876430;408543;737411
+perfekt_frame,sind … bereit,63,frame,604247;682993;563921
+perfekt_frame,hat … studiert,63,frame,725927;829287;785316
+perfekt_frame,haben … verstanden,63,frame,1012397;1391222;757004
+perfekt_frame,ist … krankheit,62,frame,404401;683;539186
+perfekt_frame,hat … geschenk,62,frame,351104;370220;403855
+perfekt_frame,ist … bewusst,62,frame,413917;614839;561999
+perfekt_frame,haben … geschafft,61,frame,1270;926074;935673
+perfekt_frame,hat … geschneit,61,frame,509800;348425;363364
+perfekt_frame,habe … gewarnt,61,frame,1824900;398881;1824352
+perfekt_frame,haben … gefragt,61,frame,1195732;819206;682718
+perfekt_frame,hat … gebacken,61,frame,1441026;688290;1777506
+perfekt_frame,haben … geschrieben,61,frame,796487;943763;846217
+perfekt_frame,ist … gefängnis,60,frame,1213;426786;367271
+perfekt_frame,hat … verpasst,60,frame,344357;344472;344918
+perfekt_frame,hast … getroffen,60,frame,344523;371726;345036
+perfekt_frame,ist … student,60,frame,351790;527027;660639
+perfekt_frame,habe … genommen,60,frame,379875;353041;370209
+perfekt_frame,sind … befreundet,60,frame,424721;365899;609772
+perfekt_frame,sind … geblieben,60,frame,628940;369795;389133
+perfekt_frame,bin … begegnet,60,frame,370159;812746;657429
+perfekt_frame,hat … gestellt,60,frame,403838;431491;612048
+perfekt_frame,hast … getrunken,60,frame,1210577;480337;924899
+perfekt_frame,hatte … vergessen,60,frame,743657;876733;503697
+perfekt_frame,habe … geträumt,59,frame,370104;812;644403
+perfekt_frame,haben … gewonnen,59,frame,776159;554516;342021
+perfekt_frame,war … arbeit,59,frame,405814;370878;381147
+perfekt_frame,habt … gefunden,59,frame,758207;1611490;2381491
+perfekt_frame,hat … gelebt,58,frame,348144;360554;381153
+perfekt_frame,habe … gestellt,58,frame,796517;990267;368266
+perfekt_frame,hat … genannt,58,frame,1390683;1369706;474412
+perfekt_frame,ist … denkst,58,frame,1336742;905309;974753
+perfekt_frame,habe … gelebt,57,frame,343073;341911;348
+perfekt_frame,hat … überrascht,57,frame,353580;400206;820
+perfekt_frame,hat … gelassen,57,frame,344432;357160;370391
+perfekt_frame,ist … planet,57,frame,473787;576265;379078
+perfekt_frame,ist … geburtstag,57,frame,396183;656408;467715
+perfekt_frame,haben … geholfen,57,frame,607009;645681;2047820
+perfekt_frame,hat … gehalten,56,frame,343448;358440;412235
+perfekt_frame,ist … schönheit,56,frame,351106;407336;517365
+perfekt_frame,ist … restaurant,56,frame,403076;360859;511236
+perfekt_frame,haben … gemeinsam,56,frame,480103;532582;396499
+perfekt_frame,seid … gekommen,56,frame,457927;638844;781086
+perfekt_frame,haben … gebracht,56,frame,1559945;1724053;947534
+perfekt_frame,haben … gewartet,55,frame,353331;366456;421677
+perfekt_frame,hat … gesicht,55,frame,385365;431406;361539
+perfekt_frame,habe … geliebt,55,frame,1784912;1098538;1440157
+perfekt_frame,bin … geblieben,54,frame,427898;403856;344478
+perfekt_frame,hast … bezahlt,54,frame,399326;358426;622703
+perfekt_frame,ist … absolut,54,frame,368733;612329;395431
+perfekt_frame,hat … gefangen,54,frame,705689;402033;621455
+perfekt_frame,habe … gelassen,54,frame,562289;727393;404728
+perfekt_frame,haben … nacht,54,frame,493378;690128;407624
+perfekt_frame,ist … weisheit,54,frame,442879;978662;659742
+perfekt_frame,hat … geliebt,54,frame,1013895;644485;1252342
+perfekt_frame,hat … funktioniert,53,frame,1476221;603944;94
+perfekt_frame,ist … wissenschaft,53,frame,1101;424571;486924
+perfekt_frame,hat … geglaubt,53,frame,1153201;1288886;352570
+perfekt_frame,haben … gehabt,53,frame,651882;364488;860624
+perfekt_frame,seid … gegangen,53,frame,829345;785329;781955
+perfekt_frame,hatte … gehofft,52,frame,569540;360760;369835
+perfekt_frame,bin … enttäuscht,52,frame,365799;1224659;812455
+perfekt_frame,habe … erkannt,52,frame,397920;407454;1587419
+perfekt_frame,ist … gestiegen,52,frame,427490;643760;725940
+perfekt_frame,haben … gearbeitet,52,frame,1314095;601463;711601
+perfekt_frame,bist … bereit,52,frame,601645;732024;682998
+perfekt_frame,hat … gewarnt,51,frame,1235;969469;768595
+perfekt_frame,ist … pflicht,51,frame,351612;373101;619332
+perfekt_frame,hat … stadt,51,frame,363321;362279;413659
+perfekt_frame,war … interessant,51,frame,367254;444558;403633
+perfekt_frame,bist … geworden,51,frame,1080135;383312;1300154
+perfekt_frame,ist … freiheit,51,frame,438948;759319;810914
+perfekt_frame,hat … gewartet,51,frame,585197;660616;929656
+perfekt_frame,haben … gedacht,51,frame,2458313;612811;1702922
+perfekt_frame,hast … versucht,51,frame,749063;1652732;1695746
+perfekt_frame,ist … breit,50,frame,355048;984;372825
+perfekt_frame,ist … geschäft,50,frame,139177;452570;476771
+perfekt_frame,war … bewusst,50,frame,588442;343536;782872
+perfekt_frame,hat … geantwortet,50,frame,352307;370826;382528
+perfekt_frame,ist … unbedingt,50,frame,360634;793524;622510
+perfekt_frame,haben … besucht,50,frame,392740;363381;454155
+perfekt_frame,habt … gesprochen,50,frame,419014;2355806;3014914
+perfekt_frame,ist … bleibt,50,frame,1224466;585303;644170
+perfekt_frame,habe … gewohnt,50,frame,687259;812575;731222
+perfekt_frame,ist … gesehen,50,frame,815400;1137104;1018392
+perfekt_frame,hatte … gefühl,50,frame,1989247;1238380;1863589
+perfekt_frame,haben … genommen,49,frame,1245;904871;940127
+perfekt_frame,war … bereit,49,frame,365335;720464;345046
+perfekt_frame,hast … mitgebracht,49,frame,360649;633575;1931352
+perfekt_frame,ist … moment,49,frame,404092;368614;527545
+perfekt_frame,habe … sofort,49,frame,629281;479559;739449
+perfekt_frame,hat … nachricht,49,frame,479778;601498;734496
+perfekt_frame,war … gewesen,49,frame,666369;657080;769431
+perfekt_frame,hat … absicht,49,frame,757778;790022;779223
+perfekt_frame,ist … aussieht,48,frame,372280;396500;345531
+perfekt_frame,hast … kennengelernt,48,frame,347985;412328;582220
+perfekt_frame,habe … geschickt,48,frame,591222;757074;354819
+perfekt_frame,ist … sieht,48,frame,1335837;356630;609445
+perfekt_frame,haben … gebraucht,48,frame,878244;358330;532251
+perfekt_frame,war … verliebt,48,frame,379804;1390595;379942
+perfekt_frame,bin … aufgewacht,48,frame,757587;1019591;613168
+perfekt_frame,sind … selbst,48,frame,742335;843403;930697
+perfekt_frame,hat … gerufen,48,frame,1178652;1343569;743967
+perfekt_frame,hat … erwähnt,48,frame,1018451;786581;766280
+perfekt_frame,habe … bestellt,47,frame,341397;344628;358651
+perfekt_frame,habe … gehalten,47,frame,353032;356645;354526
+perfekt_frame,habt … gelesen,47,frame,370307;358419;1520297
+perfekt_frame,habe … durst,47,frame,413628;361107;724059
+perfekt_frame,hat … verursacht,47,frame,463612;363369;372764
+perfekt_frame,hat … geraten,47,frame,368268;371712;410969
+perfekt_frame,sind … gestorben,47,frame,381396;605976;404757
+perfekt_frame,hat … erreicht,47,frame,596453;450714;486124
+perfekt_frame,hast … geschlafen,47,frame,475877;1764129;2179518
+perfekt_frame,hast … überhaupt,47,frame,1315665;562363;641919
+perfekt_frame,hast … geholfen,47,frame,758383;1909206;943486
+perfekt_frame,bin … verheiratet,46,frame,783505;563;601055
+perfekt_frame,hat … mitgebracht,46,frame,342562;345015;637459
+perfekt_frame,habe … antwort,46,frame,360902;753354;753355
+perfekt_frame,bist … beschäftigt,46,frame,368776;406415;394499
+perfekt_frame,hat … bemerkt,46,frame,443196;1335372;373094
+perfekt_frame,hat … kaputtgemacht,46,frame,400225;392629;405038
+perfekt_frame,bin … interessiert,46,frame,726125;392640;810199
+perfekt_frame,ist … geeignet,46,frame,471931;607199;395435
+perfekt_frame,haben … getrunken,46,frame,1137130;1210543;428491
+perfekt_frame,ist … licht,46,frame,676951;448366;604402
+perfekt_frame,haben … bezahlt,46,frame,2216186;749810;622704
+perfekt_frame,hast … gebraucht,46,frame,1599066;1599067;660549
+perfekt_frame,hast … geschafft,46,frame,743760;1315480;1454652
+perfekt_frame,habt … vergessen,46,frame,2423899;2570196;1733895
+perfekt_frame,ist … angst,45,frame,659730;542716;169
+perfekt_frame,war … verheiratet,45,frame,876428;1273997;349889
+perfekt_frame,haben … selbst,45,frame,461390;703785;928284
+perfekt_frame,ist … unbekannt,45,frame,1208867;1208896;1314590
+perfekt_frame,habe … gebraucht,44,frame,359668;344521;421
+perfekt_frame,habe … geglaubt,44,frame,1429017;404647;818
+perfekt_frame,ist … spricht,44,frame,344471;642244;399980
+perfekt_frame,habe … geschafft,44,frame,1223697;784549;360611
+perfekt_frame,hast … nacht,44,frame,541596;391507;482088
+perfekt_frame,hast … genommen,44,frame,656327;396566;740445
+perfekt_frame,hat … bestimmt,44,frame,1307353;641117;412785
+perfekt_frame,hat … geklaut,44,frame,789530;789532;492436
+perfekt_frame,habe … geschenk,44,frame,1624910;799733;1445392
+perfekt_frame,hast … gebracht,44,frame,1432889;982038;1926109
+perfekt_frame,hat … geschossen,44,frame,1314467;1087057;1317373
+perfekt_frame,hat … geheimnis,43,frame,350905;914391;645860
+perfekt_frame,habe … geheiratet,43,frame,352310;440155;617871
+perfekt_frame,habe … verkauft,43,frame,357809;362683;570399
+perfekt_frame,hatten … angst,43,frame,360811;426291;806598
+perfekt_frame,war … äußerst,43,frame,463975;368527;369377
+perfekt_frame,hat … geliehen,43,frame,387229;912842;759462
+perfekt_frame,ist … punkt,43,frame,497076;724906;589966
+perfekt_frame,sind … gefährlich,43,frame,667252;669817;511288
+perfekt_frame,haben … erzählt,43,frame,3181429;5758458;6803548
+perfekt_frame,war … bedeckt,42,frame,342620;349819;351286
+perfekt_frame,ist … doppelt,42,frame,360823;344591;399159
+perfekt_frame,habe … vermisst,42,frame,361445;638608;743174
+perfekt_frame,sind … arbeit,42,frame,362244;372993;619105
+perfekt_frame,ist … interessiert,42,frame,677923;365692;828090
+perfekt_frame,haben … verbracht,42,frame,373123;593098;374133
+perfekt_frame,ist … fähigkeit,42,frame,917150;1196448;562522
+perfekt_frame,hat … gewaschen,42,frame,1023142;1074393;682925
+perfekt_frame,sind … verwandt,42,frame,935081;1014006;1211705
+perfekt_frame,sind … gestiegen,41,frame,436;586161;617847
+perfekt_frame,habe … absicht,41,frame,1184;342050;603782
+perfekt_frame,habe … aufgehört,41,frame,182039;344607;349970
+perfekt_frame,ist … bedeckt,41,frame,353851;364469;413232
+perfekt_frame,hat … monat,41,frame,361987;562583;642172
+perfekt_frame,ist … gewohnt,41,frame,367335;904832;679900
+perfekt_frame,bin … gewöhnt,41,frame,501284;405755;399941
+perfekt_frame,ist … heißt,41,frame,465552;465554;465557
+perfekt_frame,hat … gedacht,41,frame,1545887;527955;2661381
+perfekt_frame,ist … gezogen,41,frame,1339259;603984;1022938
+perfekt_frame,hat … versteckt,41,frame,1514852;1527098;1545908
+perfekt_frame,hast … gehabt,40,frame,342192;620922;364
+perfekt_frame,habe … gewonnen,40,frame,395276;920;757098
+perfekt_frame,hat … gewohnt,40,frame,440979;349868;555049
+perfekt_frame,habe … geschichte,40,frame,570854;359690;370313
+perfekt_frame,habe … gebracht,40,frame,651892;361494;483266
+perfekt_frame,hat … angewohnheit,40,frame,593042;367336;454945
+perfekt_frame,hatte … gesehen,40,frame,605502;621905;392765
+perfekt_frame,hat … gesucht,40,frame,405704;754307;424251
+perfekt_frame,ist … heimat,40,frame,1936165;417078;1817176
+perfekt_frame,haben … gewählt,40,frame,558561;421868;603985
+perfekt_frame,hast … arbeit,40,frame,1286009;835216;607067
+perfekt_frame,hat … gesetzt,40,frame,1217504;1137108;666912
+perfekt_frame,ist … denkt,40,frame,1406695;974756;1933948
+perfekt_frame,hast … geküsst,40,frame,1482692;1863634;1722709
+perfekt_frame,sind … verrückt,39,frame,362;550202;938627
+perfekt_frame,hat … gedächtnis,39,frame,341165;406843;363368
+perfekt_frame,hat … geschnitten,39,frame,344594;437853;393046
+perfekt_frame,ist … sport,39,frame,793706;793702;363278
+perfekt_frame,ist … frucht,39,frame,431392;691765;398827
+perfekt_frame,bin … genauso,39,frame,1066778;1312528;400349
+perfekt_frame,sind … bekannt,39,frame,465395;979455;834910
+perfekt_frame,haben … gesucht,39,frame,548070;477789;880847
+perfekt_frame,haben … geändert,39,frame,1513588;518918;1919409
+perfekt_frame,waren … überrascht,39,frame,604058;768573;643060
+perfekt_frame,habt … gefragt,39,frame,3082019;819205;682716
+perfekt_frame,ist … gesetz,39,frame,952493;893298;757685
+perfekt_frame,war … verärgert,38,frame,1528985;396052;806
+perfekt_frame,habe … wahrheit,38,frame,340950;401435;634011
+perfekt_frame,ist … zukunft,38,frame,431852;342654;362186
+perfekt_frame,hat … unrecht,38,frame,901398;349973;410058
+perfekt_frame,hat … sofort,38,frame,909972;725323;395867
+perfekt_frame,ist … sofort,38,frame,402515;566261;563011
+perfekt_frame,ist … schritt,38,frame,541780;439644;1054809
+perfekt_frame,ist … gesperrt,38,frame,582532;754328;815650
+perfekt_frame,haben … bemerkt,38,frame,1442400;947669;1442391
+perfekt_frame,haben … geöffnet,38,frame,989623;1100828;1841947
+perfekt_frame,habt … gelernt,38,frame,1500213;1508366;1585869
+perfekt_frame,seid … gewesen,38,frame,1924854;1999478;2217875
+perfekt_frame,ist … menschheit,37,frame,530599;552238;331705
+perfekt_frame,haben … erreicht,37,frame,601514;709474;342035
+perfekt_frame,ist … anwalt,37,frame,356669;383307;361449
+perfekt_frame,hat … gelegt,37,frame,1196697;362639;724779
+perfekt_frame,hab … gesagt,37,frame,1070725;365305;943076
+perfekt_frame,habe … gemocht,37,frame,457375;914168;613550
+perfekt_frame,haben … überhaupt,37,frame,1315667;1179669;669089
+perfekt_frame,hat … gefressen,37,frame,678134;717452;1043999
+perfekt_frame,hat … überzeugt,37,frame,1423455;909976;988855
+perfekt_frame,war … absicht,36,frame,204;389062;389063
+perfekt_frame,habe … monat,36,frame,380744;349;6073
+perfekt_frame,ist … gefühl,36,frame,587761;386715;1105
+perfekt_frame,ist … freundschaft,36,frame,340927;376134;340932
+perfekt_frame,hat … gewechselt,36,frame,2798420;2222112;358336
+perfekt_frame,ist … gegenteil,36,frame,396620;362752;404688
+perfekt_frame,ist … wirklichkeit,36,frame,394474;662195;932302
+perfekt_frame,ist … universität,36,frame,600093;404183;713664
+perfekt_frame,hatte … absicht,36,frame,445915;1366253;463704
+perfekt_frame,hat … geweint,36,frame,860218;486849;667257
+perfekt_frame,habe … geküsst,36,frame,518372;2221259;912824
+perfekt_frame,hat … geführt,36,frame,662721;589863;650215
+perfekt_frame,ist … geist,36,frame,810550;645691;794442
+perfekt_frame,hast … bemerkt,36,frame,904929;660640;1293510
+perfekt_frame,haben … mitgebracht,36,frame,4843918;4843926;3336111
+perfekt_frame,ist … braucht,35,frame,879;1009267;1328308
+perfekt_frame,hat … verbessert,35,frame,563272;373104;345041
+perfekt_frame,habe … gebrochen,35,frame,584094;348859;715083
+perfekt_frame,hat … verliebt,35,frame,351185;575300;408550
+perfekt_frame,hast … gearbeitet,35,frame,353770;440996;701854
+perfekt_frame,hast … gespielt,35,frame,639936;363326;451208
+perfekt_frame,ist … ausgezeichnet,35,frame,393438;368770;557460
+perfekt_frame,bist … gefahren,35,frame,455203;399927;707481
+perfekt_frame,hat … bestellt,35,frame,404277;731825;452649
+perfekt_frame,sind … leicht,35,frame,497658;760601;774170
+perfekt_frame,ist … umsonst,35,frame,594459;944302;652379
+perfekt_frame,habt … gedacht,35,frame,3010312;3150931;612809
+perfekt_frame,hat … kennengelernt,35,frame,1926175;2765897;768896
+perfekt_frame,bin … befreundet,35,frame,1099042;1561888;1104306
+perfekt_frame,ist … nachricht,35,frame,1516723;1233522;1366161
+perfekt_frame,habe … geändert,35,frame,1788783;2683011;2462461
+perfekt_frame,bist … geblieben,34,frame,175;914390;2223238
+perfekt_frame,habe … geliehen,34,frame,424687;361837;363924
+perfekt_frame,hat … gestrichen,34,frame,415157;551709;587046
+perfekt_frame,ist … hundert,34,frame,449655;897639;662170
+perfekt_frame,hat … beantwortet,34,frame,645803;657222;577520
+perfekt_frame,hat … geworfen,34,frame,746652;805019;577827
+perfekt_frame,bin … überhaupt,33,frame,1170;344520;368571
+perfekt_frame,haben … gestritten,33,frame,1242;1285448;353536
+perfekt_frame,ist … jahreszeit,33,frame,139394;343068;344335
+perfekt_frame,ist … gefolgt,33,frame,344603;454199;426781
+perfekt_frame,habt … gebraucht,33,frame,7470209;358331;6291146
+perfekt_frame,war … verwirrt,33,frame,361613;555019;363385
+perfekt_frame,ist … besetzt,33,frame,406918;383150;366383
+perfekt_frame,sind … geschlossen,33,frame,1144107;707187;372912
+perfekt_frame,hab … angst,33,frame,782778;380702;914614
+perfekt_frame,habe … gefreut,33,frame,481920;396244;569212
+perfekt_frame,habe … gebaut,33,frame,1144709;405756;812148
+perfekt_frame,hast … gewaschen,33,frame,440778;627259;518792
+perfekt_frame,habe … verdient,33,frame,1345431;562301;1413535
+perfekt_frame,ist … gestohlen,33,frame,759023;759026;976632
+perfekt_frame,ist … zeitpunkt,33,frame,1290697;814950;2443281
+perfekt_frame,ist … verletzt,32,frame,767614;781360;912
+perfekt_frame,hat … geredet,32,frame,344992;431447;721287
+perfekt_frame,war … sofort,32,frame,347622;767186;437371
+perfekt_frame,ist … gewöhnlich,32,frame,348417;441295;716285
+perfekt_frame,bin … beeindruckt,32,frame,352031;770488;989597
+perfekt_frame,war … gegangen,32,frame,352521;353552;407181
+perfekt_frame,habe … geburtstag,32,frame,370483;576332;592763
+perfekt_frame,war … schockiert,32,frame,1199551;379015;748837
+perfekt_frame,ist … gelaunt,32,frame,1555424;392570;1713194
+perfekt_frame,ist … sicherheit,32,frame,674999;397534;689862
+perfekt_frame,sind … gefallen,32,frame,399134;641727;535835
+perfekt_frame,haben … verkauft,32,frame,1267153;1519068;435713
+perfekt_frame,haben … erwartet,32,frame,499768;1275280;973603
+perfekt_frame,war … selbst,32,frame,677039;721465;531251
+perfekt_frame,habt … kennengelernt,32,frame,1227703;582222;1688217
+perfekt_frame,hat … erlaubt,32,frame,814016;901174;625807
+perfekt_frame,hat … beeindruckt,32,frame,717490;631070;778401
+perfekt_frame,ist … vergessen,32,frame,657744;1302876;834156
+perfekt_frame,war … gesagt,32,frame,1371751;675876;1352464
+perfekt_frame,habe … gewöhnt,32,frame,684860;1294849;706187
+perfekt_frame,bin … selbst,32,frame,742429;688393;1286234
+perfekt_frame,war … verrückt,32,frame,738956;804482;719430
+perfekt_frame,hat … repariert,32,frame,1070448;909629;728750
+perfekt_frame,hat … übersetzt,32,frame,1302938;845417;784061
+perfekt_frame,war … erwartet,32,frame,922651;1218692;1341447
+perfekt_frame,habe … gehofft,32,frame,2634038;929136;2670031
+perfekt_frame,hatte … erwartet,32,frame,1294599;948113;1514644
+perfekt_frame,ist … längst,32,frame,1241830;1733347;1366706
+perfekt_frame,ist … geduldig,32,frame,1695535;1338961;1695532
+perfekt_frame,ist … begabt,32,frame,1507689;2116308;1547002
+perfekt_frame,ist … glaubt,32,frame,1527424;1833320;2145066
+perfekt_frame,bin … verrückt,31,frame,443742;450558;941
+perfekt_frame,hat … gesungen,31,frame,139445;120013;603740
+perfekt_frame,habe … geirrt,31,frame,476126;342785;755234
+perfekt_frame,hatte … gelegenheit,31,frame,343577;367462;403180
+perfekt_frame,ist … gestattet,31,frame,344380;1765888;1413329
+perfekt_frame,hast … nachricht,31,frame,352216;727099;727100
+perfekt_frame,haben … gewohnt,31,frame,360537;862834;1140572
+perfekt_frame,haben … verpasst,31,frame,635398;363408;747022
+perfekt_frame,hatte … arbeit,31,frame,627326;406927;395230
+perfekt_frame,ist … kraft,31,frame,568455;396898;1680980
+perfekt_frame,ist … staat,31,frame,478472;478503;409890
+perfekt_frame,ist … leidenschaft,31,frame,516063;610244;657134
+perfekt_frame,ist … verdammt,31,frame,581440;663951;856080
+perfekt_frame,ist … gebaut,31,frame,646648;705568;772237
+perfekt_frame,hat … macht,31,frame,843433;731284;655801
+perfekt_frame,ist … scheint,31,frame,914219;670603;947138
+perfekt_frame,habe … geredet,31,frame,1997801;972767;715927
+perfekt_frame,war … besorgt,31,frame,1083750;1741903;744286
+perfekt_frame,ist … erwartet,31,frame,793716;1406831;1552227
+perfekt_frame,haben … gebaut,31,frame,1401863;1276690;799236
+perfekt_frame,bist … verliebt,31,frame,1986492;816934;1699282
+perfekt_frame,hat … geschlossen,31,frame,915232;1952224;3219991
+perfekt_frame,habt … geschrieben,31,frame,3523830;1802287;1863271
+perfekt_frame,hat … überlebt,30,frame,136447;519205;427416
+perfekt_frame,hat … zerstört,30,frame,424723;719888;331704
+perfekt_frame,hat … verbracht,30,frame,1203982;342647;912357
+perfekt_frame,war … gekleidet,30,frame,343476;503691;402028
+perfekt_frame,war … geschichte,30,frame,346953;367447;383905
+perfekt_frame,ist … gewachsen,30,frame,406846;348428;628913
+perfekt_frame,habe … gefühlt,30,frame,594416;354896;1088745
+perfekt_frame,ist … feucht,30,frame,1003504;360603;920321
+perfekt_frame,war … monat,30,frame,365637;408536;452230
+perfekt_frame,ist … bewölkt,30,frame,569435;383396;741477
+perfekt_frame,habe … studiert,30,frame,396616;455134;509803
+perfekt_frame,ist … herbst,30,frame,513093;396920;517359
+perfekt_frame,hat … talent,30,frame,416429;454924;748720
+perfekt_frame,hat … vorgestellt,30,frame,431485;431486;481948
+perfekt_frame,hat … braucht,30,frame,901523;999104;442669
+perfekt_frame,ist … präsident,30,frame,507888;474705;600512
+perfekt_frame,habe … gekannt,30,frame,1720060;1720063;525031
+perfekt_frame,ist … geraten,30,frame,551698;783460;913839
+perfekt_frame,ist … gefährlicher,30,frame,1036924;756827;560958
+perfekt_frame,hat … gemeldet,30,frame,694759;1046937;948979
+perfekt_frame,sind … geboren,30,frame,762084;1239558;880055
+perfekt_frame,sind … begegnet,29,frame,457378;678593;331
+perfekt_frame,hat … gezogen,29,frame,705826;1135;960858
+perfekt_frame,habe … erklärt,29,frame,1388548;358238;340852
+perfekt_frame,ist … gewöhnt,29,frame,403695;342542;372897
+perfekt_frame,waren … beschäftigt,29,frame,1574290;345022;1204302
+perfekt_frame,war … stadt,29,frame,352581;751732;855947
+perfekt_frame,haben … genannt,29,frame,358245;575566;871904
+perfekt_frame,ist … arbeitet,29,frame,361051;385352;508441
+perfekt_frame,ist … gebiet,29,frame,362217;411754;486092
+perfekt_frame,habe … erlebt,29,frame,405664;642263;1786553
+perfekt_frame,war … gezwungen,29,frame,601512;406921;660323
+perfekt_frame,war … geschlossen,29,frame,639423;679424;414213
+perfekt_frame,ist … idiot,29,frame,840136;661704;522500
+perfekt_frame,ist … übersetzt,29,frame,770074;915225;612836
+perfekt_frame,sind … geschwister,29,frame,869610;715938;631688
+perfekt_frame,hast … nachgedacht,29,frame,674684;974925;1722814
+perfekt_frame,hat … gefehlt,29,frame,1008520;1008521;794125
+perfekt_frame,habe … übersetzt,29,frame,1361142;1020067;1604585
+perfekt_frame,bin … getan,29,frame,2399892;1100835;1100836
+perfekt_frame,ist … unterricht,28,frame,446051;379224;194
+perfekt_frame,ist … gewinnen,28,frame,341253;1383794;550
+perfekt_frame,ist … wohnt,28,frame,1107207;135754;768570
+perfekt_frame,hat … geschmack,28,frame,475762;344600;647431
+perfekt_frame,hat … gezwungen,28,frame,413650;492418;360749
+perfekt_frame,hat … gestanden,28,frame,362260;884568;746017
+perfekt_frame,war … aufgeregt,28,frame,477974;423505;593117
+perfekt_frame,haben … geredet,28,frame,633995;766478;424241
+perfekt_frame,hat … gelöst,28,frame,451205;753169;491298
+perfekt_frame,hatte … gesagt,28,frame,964505;727066;454940
+perfekt_frame,hat … gewählt,28,frame,1946723;457104;642315
+perfekt_frame,hat … licht,28,frame,715957;959971;757595
+perfekt_frame,ist … überzeugt,28,frame,914142;766270;1703421
+perfekt_frame,ist … qualität,28,frame,940251;1331431;770492
+perfekt_frame,war … getan,28,frame,898681;1391183;867757
+perfekt_frame,hast … verdient,28,frame,1690617;902860;1366584
+perfekt_frame,haben … gelebt,28,frame,1241574;1105837;1070385
+perfekt_frame,hast … gestohlen,28,frame,1909095;3322945;3322946
+perfekt_frame,ist … gebrochen,27,frame,340905;776217;446607
+perfekt_frame,hat … hundert,27,frame,343578;582180;599982
+perfekt_frame,war … schönheit,27,frame,759619;349965;657022
+perfekt_frame,hast … gewartet,27,frame,353329;1300158;362691
+perfekt_frame,ist … besorgt,27,frame,911696;370810;770416
+perfekt_frame,habe … gefangen,27,frame,1393461;729799;383075
+perfekt_frame,habe … bericht,27,frame,562587;765496;386337
+perfekt_frame,ist … gegend,27,frame,397868;708475;708476
+perfekt_frame,haben … geschlafen,27,frame,400743;1309318;1701870
+perfekt_frame,hast … unrecht,27,frame,1057689;751778;403853
+perfekt_frame,war … überzeugt,27,frame,410981;417034;593124
+perfekt_frame,habe … beantwortet,27,frame,414323;677725;426286
+perfekt_frame,ist … gelegen,27,frame,1395742;1605445;454944
+perfekt_frame,ist … gemein,27,frame,1984188;1984189;459259
+perfekt_frame,hat … zukunft,27,frame,1218802;555875;1067124
+perfekt_frame,bin … gefallen,27,frame,1405453;657316;1514487
+perfekt_frame,ist … gemütlich,27,frame,661774;1814827;2389757
+perfekt_frame,haben … gefangen,27,frame,2761868;712314;1747606
+perfekt_frame,hast … gewusst,27,frame,865399;915230;982758
+perfekt_frame,habt … verstanden,27,frame,1012398;2326377;1391221
+perfekt_frame,habe … gelogen,27,frame,2131261;1031148;1482175
+perfekt_frame,ist … verknallt,27,frame,1290174;1699234;1699235
+perfekt_frame,habt … versucht,27,frame,3506069;1708097;3386038
+perfekt_frame,hat … geklingelt,26,frame,351623;460611;331886
+perfekt_frame,ist … beendet,26,frame,341741;406825;630171
+perfekt_frame,habe … verliebt,26,frame,344544;360616;522576
+perfekt_frame,hat … krankheit,26,frame,361952;364463;370285
+perfekt_frame,ist … verlobt,26,frame,503572;363474;493736
+perfekt_frame,ist … mannschaft,26,frame,365833;871155;412212
+perfekt_frame,ist … lässt,26,frame,391817;393785;437136
+perfekt_frame,hat … ignoriert,26,frame,1513586;679247;398882
+perfekt_frame,ist … botschaft,26,frame,1187389;403087;1358624
+perfekt_frame,war … zerstört,26,frame,1557260;682613;405118
+perfekt_frame,ist … glatt,26,frame,441710;415116;493553
+perfekt_frame,ist … gericht,26,frame,418675;1497168;1700294
+perfekt_frame,ist … steht,26,frame,1496890;756250;430917
+perfekt_frame,haben … aufgehört,26,frame,1459889;978293;465379
+perfekt_frame,haben … gestohlen,26,frame,3403787;897599;533840
+perfekt_frame,haben … geschlossen,26,frame,554233;1308510;768581
+perfekt_frame,bist … verheiratet,26,frame,559779;886506;957310
+perfekt_frame,ist … bedeutet,26,frame,1547488;587872;792645
+perfekt_frame,hat … erkannt,26,frame,2438292;2224235;634004
+perfekt_frame,sind … stadt,26,frame,757029;948399;645146
+perfekt_frame,haben … antwort,26,frame,679238;2772377;1109094
+perfekt_frame,habt … gegeben,26,frame,949231;2690941;3103517
+perfekt_frame,hab … gesehen,26,frame,1345761;1072632;1284758
+perfekt_frame,habe … geweckt,26,frame,1121697;1121700;1720640
+perfekt_frame,habe … überlegt,26,frame,2396976;2682999;1180391
+perfekt_frame,hat … gestochen,26,frame,1365286;1260911;1535976
+perfekt_frame,ist … gedanke,26,frame,1263830;1549787;1588088
+perfekt_frame,hast … probiert,26,frame,2443337;3382945;1708102
+perfekt_frame,ist … befreundet,26,frame,3585004;5368996;4948048
+perfekt_frame,hast … geöffnet,25,frame,470192;772328;445
+perfekt_frame,war … bekannt,25,frame,758075;459787;740
+perfekt_frame,war … erfreut,25,frame,362759;412284;352253
+perfekt_frame,ist … geburt,25,frame,642270;353120;963252
+perfekt_frame,hat … gefärbt,25,frame,1557258;1688122;353249
+perfekt_frame,sind … enttäuscht,25,frame,2954249;2954251;358244
+perfekt_frame,habe … verletzt,25,frame,359609;359610;369855
+perfekt_frame,sind … gefahr,25,frame,363365;368612;441771
+perfekt_frame,ist … projekt,25,frame,621906;366442;509863
+perfekt_frame,ist … gekleidet,25,frame,372269;415197;424247
+perfekt_frame,habe … genauso,25,frame,389070;389071;940293
+perfekt_frame,sind … genauso,25,frame,452472;393005;404115
+perfekt_frame,habe … verirrt,25,frame,738022;475875;480366
+perfekt_frame,hat … projekt,25,frame,533736;1172603;809897
+perfekt_frame,bist … selbst,25,frame,1030360;1820572;653116
+perfekt_frame,waren … verheiratet,25,frame,2351964;742528;677016
+perfekt_frame,habt … getroffen,25,frame,682854;995464;739977
+perfekt_frame,habt … bezahlt,25,frame,3189376;749820;3189389
+perfekt_frame,hat … akzent,25,frame,1039596;1066851;1440618
+perfekt_frame,hat … gefreut,25,frame,1706831;1706833;1215215
+perfekt_frame,hast … geträumt,25,frame,1809130;2918148;1419371
+perfekt_frame,hat … gesessen,25,frame,3169996;1728210;2030166
+perfekt_frame,habt … mitgebracht,25,frame,4843930;4843931;2482189
+separable_frame,sieht … aus,754,frame,341539;342987;350897
+separable_frame,siehst … aus,213,frame,383215;449;372899
+separable_frame,rufe … an,123,frame,353798;341617;359026
+separable_frame,kommt … an,121,frame,135;351091;348145
+separable_frame,stimme … zu,114,frame,368711;6108;397923
+separable_frame,kommt … vor,107,frame,1084450;842003;935931
+separable_frame,sehen … aus,104,frame,600085;609021;639528
+separable_frame,hängt … ab,103,frame,396921;367142;511880
+separable_frame,sieht … an,99,frame,1144;362709;782528
+separable_frame,ruft … an,98,frame,358369;789092;796716
+separable_frame,kehrte … zurück,93,frame,439076;605519;367463
+separable_frame,rufen … an,86,frame,453988;358370;363312
+separable_frame,fängt … an,85,frame,348136;331884;328
+separable_frame,steht … auf,84,frame,412186;370035;400008
+separable_frame,findet … statt,77,frame,351805;454808;437807
+separable_frame,fangen … an,75,frame,566858;710087;964234
+separable_frame,schaut … an,70,frame,358305;357458;375411
+separable_frame,hört … an,68,frame,350965;644406;651832
+separable_frame,stehe … auf,67,frame,362285;365619;408784
+separable_frame,bot … an,67,frame,616946;509654;568451
+separable_frame,kommt … zurück,66,frame,351585;367385;638617
+separable_frame,lehnte … ab,64,frame,353094;363918;368057
+separable_frame,stimmte … zu,63,frame,408725;594544;414505
+separable_frame,stellte … vor,62,frame,473969;432654;347987
+separable_frame,hört … zu,60,frame,910950;369874;697871
+separable_frame,fährt … ab,60,frame,444469;383114;414499
+separable_frame,geht … an,60,frame,619978;626251;677667
+separable_frame,sehen … an,59,frame,689416;622195;759315
+separable_frame,zieht … an,58,frame,373089;608486;852589
+separable_frame,kennt … aus,56,frame,360621;439329;379158
+separable_frame,fällt … ein,55,frame,531700;346973;444005
+separable_frame,sieht … fern,55,frame,357192;622948;659531
+separable_frame,schauen … an,55,frame,358304;375412;361462
+separable_frame,hörte … zu,53,frame,361355;808186;345259
+separable_frame,geht … aus,51,frame,678653;721018;1103279
+separable_frame,hole … ab,50,frame,516999;344697;344700
+separable_frame,kamen … an,47,frame,365870;406862;367452
+separable_frame,ziehe … vor,47,frame,483306;656998;626270
+separable_frame,setzte … auf,47,frame,1352538;1804750;1712485
+separable_frame,hielt … an,45,frame,360733;340898;441707
+separable_frame,sehe … an,44,frame,369922;767268;882560
+separable_frame,sehe … aus,41,frame,1920727;2329943;1270960
+separable_frame,halte … aus,40,frame,362322;342117;361439
+separable_frame,passt … auf,39,frame,404667;537552;341123
+separable_frame,denke … nach,39,frame,975680;1637046;1516669
+separable_frame,spricht … aus,36,frame,868;365801;419123
+separable_frame,kommen … an,36,frame,341228;438819;663192
+separable_frame,komme … zurück,36,frame,360913;356578;397940
+separable_frame,bereitet … zu,36,frame,399564;936433;518388
+separable_frame,hört … auf,36,frame,1220046;1344456;444394
+separable_frame,macht … aus,36,frame,829312;1235855;675569
+separable_frame,fühlt … an,34,frame,345043;366348;441711
+separable_frame,deine … aus,34,frame,360300;393432;444906
+separable_frame,nehme … an,34,frame,931702;1008067;850100
+separable_frame,schaute … an,33,frame,349791;452421;350180
+separable_frame,denkt … nach,33,frame,796756;357462;1733461
+separable_frame,geht … vor,33,frame,555806;357804;402526
+separable_frame,dachte … nach,33,frame,639934;401098;756040
+separable_frame,ziehen … an,32,frame,330597;373090;439389
+separable_frame,nimmt … an,32,frame,1225557;1709329;1709330
+separable_frame,stellt … her,31,frame,560891;582542;601444
+separable_frame,bereitet … vor,30,frame,348434;664162;609010
+separable_frame,stelle … vor,30,frame,797870;454445;1060372
+separable_frame,deine … an,30,frame,766650;708516;896112
+separable_frame,seht … aus,30,frame,1020513;755436;797794
+separable_frame,komme … vor,29,frame,676973;1923358;1923361
+separable_frame,ziehe … an,28,frame,360794;356270;1194896
+separable_frame,seinen … aus,28,frame,361102;390566;690605
+separable_frame,deine … auf,28,frame,362729;475903;518619
+separable_frame,setzte … ab,28,frame,2779087;521356;2707673
+separable_frame,geht … auf,28,frame,808296;935709;710086
+separable_frame,kenne … aus,28,frame,814068;940548;812456
+separable_frame,nehmen … an,27,frame,344930;369278;338294
+separable_frame,geht … hin,27,frame,1293226;1074766;351789
+separable_frame,seinen … an,26,frame,1266055;361089;1352730
+separable_frame,sehe … fern,26,frame,449916;593100;372323
+separable_frame,deine … ab,26,frame,880046;1291323;621293
+separable_frame,höre … zu,26,frame,828813;712576;1812258
+separable_frame,geht … los,26,frame,1344036;1219292;1673348
+separable_frame,morgen … an,25,frame,353743;444025;345242
+separable_frame,kommt … her,25,frame,710120;359059;603667
+modal_frame,kann … helfen,351,frame,352775;370316;370317
+modal_frame,kann … sprechen,263,frame,360566;360573;353785
+modal_frame,kann … finden,213,frame,160;426784;476107
+modal_frame,kann … kaufen,193,frame,352782;358220;391526
+modal_frame,kann … spielen,159,frame,352777;358383;347962
+modal_frame,möchte … sprechen,148,frame,370907;348135;383940
+modal_frame,kann … fahren,144,frame,344703;182048;924
+modal_frame,kann … verstehen,139,frame,406383;554557;439895
+modal_frame,will … sprechen,135,frame,703;341970;343084
+modal_frame,kann … kommen,126,frame,423263;351628;372777
+modal_frame,will … lernen,122,frame,354432;423318;360997
+modal_frame,kann … lassen,120,frame,479786;385348;398581
+modal_frame,können … helfen,119,frame,700306;748251;703725
+modal_frame,kann … schwimmen,116,frame,341456;352778;349967
+modal_frame,kannst … helfen,107,frame,348433;437482;359030
+modal_frame,kann … schreiben,103,frame,409093;435512;453074
+modal_frame,kann … ertragen,101,frame,342652;368740;139487
+modal_frame,kann … leisten,99,frame,564226;363406;645128
+modal_frame,können … sprechen,97,frame,353705;353706;363360
+modal_frame,will … kaufen,94,frame,536611;626757;360750
+modal_frame,kann … bekommen,93,frame,341700;399753;491
+modal_frame,will … wissen,89,frame,668082;360779;360780
+modal_frame,muss … kaufen,88,frame,359524;359551;363327
+modal_frame,möchte … kaufen,87,frame,481886;581347;656960
+modal_frame,kann … warten,86,frame,341373;352774;340820
+modal_frame,kann … schlafen,83,frame,454121;664044;725944
+modal_frame,kann … ausstehen,82,frame,749851;360936;917314
+modal_frame,kann … bleiben,79,frame,455344;589613;344
+modal_frame,möchte … lernen,78,frame,508453;642683;404282
+modal_frame,kann … kochen,76,frame,361614;351748;414053
+modal_frame,könnte … helfen,75,frame,926248;363902;1036404
+modal_frame,muss … lernen,74,frame,636538;95;359533
+modal_frame,kann … lernen,73,frame,353257;651337;662775
+modal_frame,wollte … sprechen,73,frame,981906;1688443;1390555
+modal_frame,muss … lassen,72,frame,359544;370444;1136
+modal_frame,kann … laufen,72,frame,352780;333643;341486
+modal_frame,will … bleiben,72,frame,2399958;1829947;1807311
+modal_frame,kann … glauben,68,frame,609932;866;457362
+modal_frame,kann … erklären,67,frame,254;928451;1056476
+modal_frame,muss … sprechen,66,frame,555887;604258;714430
+modal_frame,will … helfen,66,frame,1842000;1956633;1956634
+modal_frame,kann … vorstellen,64,frame,367512;367514;367524
+modal_frame,kann … vertrauen,63,frame,352776;616763;369380
+modal_frame,kann … beantworten,62,frame,352785;342485;511458
+modal_frame,will … spielen,60,frame,358085;909895;1705645
+modal_frame,kann … erreichen,60,frame,438748;397804;478522
+modal_frame,kannst … sprechen,59,frame,392872;369381;445224
+modal_frame,kann … aufhalten,59,frame,396297;529333;923538
+modal_frame,will … arbeiten,57,frame,354441;344923;641743
+modal_frame,kann … singen,57,frame,413168;348867;424242
+modal_frame,musst … lernen,57,frame,392869;396560;396565
+modal_frame,muss … bleiben,57,frame,609751;465966;594627
+modal_frame,kann … zählen,56,frame,127531;405032;425029
+modal_frame,kann … bezahlen,55,frame,1063;441212;458653
+modal_frame,muss … arbeiten,55,frame,359573;359574;351689
+modal_frame,kann … umgehen,55,frame,543877;550152;543876
+modal_frame,können … lassen,55,frame,787682;583559;1952476
+modal_frame,könnte … bekommen,55,frame,783165;752391;878833
+modal_frame,kann … unterscheiden,54,frame,370121;363444;372290
+modal_frame,muss … finden,53,frame,364409;589984;602442
+modal_frame,kannst … kommen,53,frame,589906;392876;522612
+modal_frame,kann … benutzen,51,frame,404745;358623;406926
+modal_frame,kann … leihen,51,frame,365813;454157;767330
+modal_frame,können … warten,51,frame,641166;783164;406821
+modal_frame,müssen … finden,51,frame,758209;561341;1403421
+modal_frame,muss … wissen,51,frame,1392950;1392951;689501
+modal_frame,könnte … sprechen,50,frame,423;627641;840028
+modal_frame,kannst … lassen,50,frame,583561;693830;398582
+modal_frame,kann … trinken,50,frame,913982;661005;951495
+modal_frame,kann … leiden,49,frame,934033;413796;813188
+modal_frame,kann … vergessen,47,frame,635592;653378;1045835
+modal_frame,kann … passieren,46,frame,342665;358307;708048
+modal_frame,muss … helfen,46,frame,359514;359515;349974
+modal_frame,kann … verlassen,46,frame,662710;368251;408284
+modal_frame,muss … bezahlen,46,frame,601455;392548;438421
+modal_frame,können … kommen,46,frame,596853;612927;612928
+modal_frame,muss … nehmen,45,frame,6077;359525;358328
+modal_frame,will … lassen,45,frame,951590;764802;425043
+modal_frame,will … heiraten,44,frame,345006;354422;354427
+modal_frame,kannst … bleiben,44,frame,347981;623515;759609
+modal_frame,kann … arbeiten,44,frame,352784;1308501;561325
+modal_frame,kannst … warten,44,frame,591240;408565;659685
+modal_frame,müssen … lernen,44,frame,620765;450266;860236
+modal_frame,können … fahren,43,frame,369846;765383;404137
+modal_frame,kann … denken,43,frame,421567;664526;410041
+modal_frame,muss … denken,42,frame,679968;404669;493713
+modal_frame,willst … wissen,42,frame,1224632;440938;689397
+modal_frame,soll … helfen,42,frame,574656;574658;574659
+modal_frame,kann … führen,42,frame,650211;705443;682610
+modal_frame,möchte … bleiben,41,frame,465;725768;637812
+modal_frame,will … schlafen,41,frame,518361;352803;579529
+modal_frame,kann … nehmen,41,frame,588962;397930;790109
+modal_frame,kann … treffen,41,frame,754152;1045423;948252
+modal_frame,kann … ausleihen,40,frame,353026;387222;345405
+modal_frame,darf … stellen,40,frame,364970;365945;365946
+modal_frame,können … anfangen,40,frame,1493445;1079229;584140
+modal_frame,wollte … helfen,40,frame,698128;1779963;720270
+modal_frame,können … finden,40,frame,1953735;1187415;783683
+modal_frame,darf … benutzen,39,frame,353027;361110;361434
+modal_frame,darf … ausleihen,39,frame,359628;366751;387220
+modal_frame,soll … kommen,39,frame,440912;480052;397797
+modal_frame,kann … übersetzen,39,frame,701346;832921;784466
+modal_frame,kannst … leihen,38,frame,135762;428472;607191
+modal_frame,müssen … warten,38,frame,1500257;363932;723304
+modal_frame,müssen … helfen,38,frame,448635;367375;371925
+modal_frame,möchte … treffen,38,frame,750579;1177114;396668
+modal_frame,kann … bringen,38,frame,700008;503338;927543
+modal_frame,können … bleiben,38,frame,927950;639676;915876
+modal_frame,möchte … danken,38,frame,949541;1305067;793536
+modal_frame,kannst … fahren,37,frame,363349;938427;953
+modal_frame,müssen … kaufen,37,frame,641203;504378;365948
+modal_frame,müssen … bleiben,37,frame,1097727;700013;1218745
+modal_frame,möchte … besuchen,37,frame,768875;768969;768970
+modal_frame,möchte … helfen,36,frame,2034129;1791235;360764
+modal_frame,kann … zustimmen,36,frame,386721;474418;576275
+modal_frame,kannst … benutzen,36,frame,503702;603837;639751
+modal_frame,willst … bleiben,36,frame,601489;1556063;1971340
+modal_frame,können … treffen,36,frame,1048200;941198;1967473
+modal_frame,wollen … bleiben,36,frame,1634520;3982634;4908051
+modal_frame,kann … tanzen,35,frame,356594;797;1189
+modal_frame,kann … trauen,35,frame,923558;89330;718549
+modal_frame,kann … öffnen,35,frame,446604;518453;343061
+modal_frame,kann … annehmen,35,frame,358427;347620;361364
+modal_frame,können … leisten,35,frame,1250063;352788;480363
+modal_frame,will … treffen,35,frame,550212;360758;830562
+modal_frame,willst … lernen,35,frame,1037459;399010;973653
+modal_frame,möchte … kennenlernen,35,frame,1018420;1918918;676066
+modal_frame,will … kommen,35,frame,2023384;2306859;1717082
+modal_frame,können … schwimmen,34,frame,659535;466498;424686
+modal_frame,kann … erkennen,34,frame,586970;690629;664174
+modal_frame,soll … kaufen,34,frame,3997776;1141966;3815731
+modal_frame,kannst … verlassen,33,frame,361521;370523;622420
+modal_frame,kannst … bringen,33,frame,362123;948244;584233
+modal_frame,kannst … spielen,33,frame,389101;751293;857881
+modal_frame,willst … kaufen,33,frame,656299;1090377;1830070
+modal_frame,muss … kommen,33,frame,949733;712933;753525
+modal_frame,kann … halten,33,frame,943090;1045479;1014615
+modal_frame,wollen … wissen,33,frame,1347084;1806777;1697237
+modal_frame,möchte … kommen,32,frame,340790;449304;683810
+modal_frame,darf … vorstellen,32,frame,581339;735136;342310
+modal_frame,müssen … sprechen,32,frame,3183673;3183674;361098
+modal_frame,kannst … unterscheiden,32,frame,406813;452073;452050
+modal_frame,möchte … wissen,32,frame,745907;815547;631683
+modal_frame,kann … konzentrieren,31,frame,628179;881;913630
+modal_frame,möchte … trinken,31,frame,345591;449860;370289
+modal_frame,kann … reparieren,31,frame,2326981;758220;368590
+modal_frame,möchte … lassen,31,frame,404390;497657;371874
+modal_frame,sollte … lassen,31,frame,398587;891381;963263
+modal_frame,kannst … nehmen,31,frame,406955;654363;406133
+modal_frame,müssen … halten,31,frame,554559;409898;545827
+modal_frame,willst … kommen,31,frame,2219381;602753;2030447
+modal_frame,möchte … vorstellen,31,frame,927135;932587;796099
+modal_frame,kann … erzählen,31,frame,1291737;1401457;915542
+modal_frame,kann … beibringen,31,frame,1280124;1743766;1725845
+modal_frame,kann … zeigen,30,frame,754132;151;1719929
+modal_frame,kann … merken,30,frame,1372210;1360907;805
+modal_frame,können … spielen,30,frame,344664;751295;362715
+modal_frame,will … trinken,30,frame,360771;396387;424261
+modal_frame,musst … bleiben,30,frame,464617;368331;406795
+modal_frame,möchte … zeigen,30,frame,1466789;1493415;625719
+modal_frame,kannst … kaufen,30,frame,656384;785889;773622
+modal_frame,müssen … lassen,30,frame,2228491;2340403;1059094
+modal_frame,will … warten,29,frame,1500230;240;1409333
+modal_frame,muss … treffen,29,frame,599984;359545;689824
+modal_frame,darf … fragen,29,frame,630370;630371;361960
+modal_frame,müssen … arbeiten,29,frame,755979;362782;379075
+modal_frame,kann … folgen,29,frame,563318;367206;675270
+modal_frame,müssen … treffen,29,frame,942966;411746;957690
+modal_frame,muss … erledigen,29,frame,419114;1215491;644926
+modal_frame,will … verbringen,29,frame,529763;531312;531314
+modal_frame,wollte … lassen,29,frame,2027353;1587247;753119
+modal_frame,wollen … lassen,29,frame,2659363;1541151;920309
+modal_frame,kann … tragen,28,frame,139996;364441;408747
+modal_frame,muss … schreiben,28,frame,359518;359527;332132
+modal_frame,will … verlieren,28,frame,769404;360774;930734
+modal_frame,muss … bringen,28,frame,387149;689502;715930
+modal_frame,will … wiedersehen,28,frame,550158;522474;946858
+modal_frame,darf … fahren,28,frame,1881604;544622;1289411
+modal_frame,kann … gewinnen,28,frame,1973186;937508;1963484
+modal_frame,können … kaufen,28,frame,2272639;1014048;2120723
+modal_frame,wollen … helfen,28,frame,2632151;1935208;1935210
+modal_frame,muss … halten,27,frame,343609;343613;359582
+modal_frame,musst … helfen,27,frame,359516;359517;346963
+modal_frame,will … studieren,27,frame,1494377;360759;616190
+modal_frame,möchte … verbringen,27,frame,1976968;2228717;372259
+modal_frame,wollte … kaufen,27,frame,2210075;446457;703723
+modal_frame,kannst … finden,27,frame,923231;964454;767203
+modal_frame,kann … nennen,27,frame,1290735;1309513;788197
+modal_frame,wollen … lernen,27,frame,1691590;2223282;955711
+modal_frame,wollte … lernen,27,frame,2062405;1104182;1931814
+modal_frame,muss … warten,27,frame,1144829;1910154;1196676
+modal_frame,wollte … treffen,26,frame,509741;1114206;342312
+modal_frame,können … nehmen,26,frame,1973786;2300339;353377
+modal_frame,will … fahren,26,frame,431662;933471;605927
+modal_frame,kann … lieben,26,frame,1771633;557959;1812310
+modal_frame,willst … helfen,26,frame,916878;1935207;1572906
+modal_frame,kann … verzichten,26,frame,933950;2531606;2372972
+modal_frame,darf … kommen,26,frame,1413307;1724225;2394435
+modal_frame,darf … lassen,26,frame,1965992;2345724;1966010
+modal_frame,kann … wissen,25,frame,1391606;634320;330968
+modal_frame,möchte … fahren,25,frame,659049;399202;441183
+modal_frame,kannst … nennen,25,frame,408783;932735;745408
+modal_frame,wollen … treffen,25,frame,478449;653549;775137
+modal_frame,kannst … übersetzen,25,frame,1356156;630351;515350
+modal_frame,kann … fliegen,25,frame,812357;576346;544873
+modal_frame,musst … kommen,25,frame,2026997;975689;604234
+modal_frame,kann … anrufen,25,frame,1187832;1044976;1045295
+modal_frame,wollte … bleiben,25,frame,1483464;2928175;2434612
+modal_frame,wollte … beeindrucken,25,frame,4382548;4693276;6198798
+funkverbgefüge,ein paar fragen stellen,42,bundle,342639;945189;1514492
+funkverbgefüge,das nicht noch einmal machen,12,bundle,5243204;6611286;6643652
+particle_frame,das erste mal dass ich,104,bundle,414285;607880;445553
+particle_frame,ist das erste mal dass,91,bundle,414285;1401025;782127
+particle_frame,es ist das erste mal,75,bundle,414285;1541786;782127
+particle_frame,ich habe dir doch gesagt,71,bundle,662089;1691019;1507946
+particle_frame,hast du das letzte mal,58,bundle,801638;1747611;1518984
+particle_frame,bist du schon einmal,56,bundle,659578;1540497;465212
+particle_frame,was hast du denn,54,bundle,922019;6079;935910
+particle_frame,hast du schon einmal einen,52,bundle,1540498;1635249;344484
+particle_frame,schon seit drei jahren,51,bundle,2483747;1946631;1792978
+particle_frame,schon den ganzen tag,47,bundle,605394;1105580;1268778
+particle_frame,was ist denn das für,46,bundle,3280668;598777;3032610
+particle_frame,weißt du noch wie,43,bundle,1843263;3078430;2793447
+particle_frame,zum ersten mal in,42,bundle,1179204;479618;136253
+particle_frame,ist denn das für ein,37,bundle,3280668;5315518;6316344
+particle_frame,habe dir doch gesagt dass,37,bundle,2063442;1691019;1507946
+particle_frame,warst du schon einmal in,36,bundle,340842;377742;412281
+particle_frame,erinnerst du dich noch an,33,bundle,602952;3136976;2404533
+particle_frame,das ist das erste mal,33,bundle,882369;1694133;1401025
+particle_frame,dir doch gesagt dass du,32,bundle,2063442;1691019;2063459
+particle_frame,wie lange bist du schon,31,bundle,1383453;1527567;837110
+particle_frame,ist nicht das erste mal,31,bundle,2736238;2629453;2629454
+particle_frame,waren sie schon einmal in,29,bundle,377743;403249;438739
+particle_frame,noch daran erinnern was sie,27,bundle,2236087;2236090;2235640
+particle_frame,dann noch daran erinnern was,27,bundle,2235534;2235535;2235536
+particle_frame,wie lange sind sie schon,24,bundle,830886;1897931;837112
+particle_frame,war das erste mal dass,24,bundle,607880;845023;445553
+particle_frame,warst du schon mal in,23,bundle,561031;664881;727450
+particle_frame,sowohl tom als auch maria,23,bundle,2419015;1768580;2435233
+particle_frame,ich arbeite hier schon seit,23,bundle,2711007;2711012;2711019
+particle_frame,war das letzte mal dass,22,bundle,3094977;2231713;2523236
+particle_frame,sich dann noch daran erinnern,22,bundle,2236078;2236080;2236081
+particle_frame,ich habe dir ja gesagt,21,bundle,1907415;1805384;2881123
+particle_frame,nur eine frage der zeit,20,bundle,1194772;1852652;997200
+particle_frame,jahren noch daran erinnern was,20,bundle,2235638;2235639;2235640
+particle_frame,nicht das erste mal dass,19,bundle,2736238;2629453;2629454
+particle_frame,haben sie das letzte mal,19,bundle,1747605;1747596;1747600
+particle_frame,schon seit jahren nicht mehr,18,bundle,2657161;497259;1729769
+particle_frame,ich weiß noch nicht einmal,18,bundle,2056893;2419163;2727875
+particle_frame,habt ihr tom schon einmal,18,bundle,3508025;3183631;4105330
+particle_frame,es noch einmal zu versuchen,18,bundle,379910;342078;383168
+particle_frame,weiß schon gar nicht mehr,17,bundle,3156728;3165470;8184807
+particle_frame,nicht nur englisch sondern auch,17,bundle,347949;348134;683462
+particle_frame,hast du tom schon einmal,17,bundle,3155467;3508024;2941537
+particle_frame,haben sie tom schon einmal,17,bundle,3508026;3183630;4105331
+particle_frame,tom ist schon seit drei,16,bundle,5316193;5955697;4090890
+particle_frame,ist nur eine frage der,16,bundle,1072899;1194772;997200
+particle_frame,habe dir ja gesagt dass,16,bundle,3081835;1805384;2881123
+particle_frame,das letzte mal dass ich,16,bundle,1302762;1401283;2050138
+particle_frame,wird er sich dann noch,15,bundle,2236078;2236080;2236081
+particle_frame,sich in einigen jahren noch,15,bundle,2236091;2236092;2236094
+particle_frame,in einigen jahren noch daran,15,bundle,2236091;2236092;2236094
+particle_frame,ich habe noch nie jemanden,15,bundle,1918790;1918791;1918792
+particle_frame,er sich dann noch daran,15,bundle,2236078;2236080;2236081
+particle_frame,einigen jahren noch daran erinnern,15,bundle,2236091;2236092;2236094
+particle_frame,in meinem leben noch nie,14,bundle,1690561;2191568;3143941
+particle_frame,ich habe euch doch gesagt,14,bundle,12448726;12509737;6298119
+particle_frame,du weißt doch dass ich,14,bundle,1811954;1811956;3089098
+particle_frame,das erste mal daß ich,14,bundle,12570964;12668572;12833080
+particle_frame,ist das erste mal daß,13,bundle,12695820;12570964;12668572
+particle_frame,ich habe tom schon seit,13,bundle,2108965;2657161;2657162
+particle_frame,ich habe ihnen doch gesagt,13,bundle,12448727;5333084;6298123
+particle_frame,habe euch doch gesagt daß,13,bundle,12448726;12509737;12541617
+particle_frame,es ist noch zu früh,13,bundle,4268748;445278;476117
+particle_frame,erste mal dass ich einen,13,bundle,1694133;1709564;1709693
+particle_frame,wann war das letzte mal,12,bundle,2231713;2523236;3278632
+particle_frame,noch mal gut machen sonst,12,bundle,
+particle_frame,nicht nur klug sondern auch,12,bundle,2570263;2570267;2570269
+particle_frame,nicht das erste mal daß,12,bundle,12547663;12547664;12547665
+particle_frame,lange bist du schon in,12,bundle,1527567;2271009;2811351
+particle_frame,ja gesagt daß tom und,12,bundle,12632513;12616665;12616666
+particle_frame,ich freue mich ja so,12,bundle,2671998;2671999;2672001
+particle_frame,haben sie schon einmal einen,12,bundle,1986461;2661145;1717452
+particle_frame,habe ihnen doch gesagt daß,12,bundle,12448727;12509738;12541619
+particle_frame,habe ich noch nie gehört,12,bundle,2924557;2019562;2810105
+particle_frame,habe dir doch gesagt daß,12,bundle,12448725;12509736;12541616
+particle_frame,wir uns das letzte mal,11,bundle,1702544;1702549;6076
+particle_frame,waren sie schon mal in,11,bundle,561033;664884;814918
+particle_frame,und maria sind schon seit,11,bundle,2746327;1562456;1792978
+particle_frame,tom tut nur so als,11,bundle,2738761;3410577;3458497
+particle_frame,noch nie in boston gewesen,11,bundle,3207331;3487420;3474491
+particle_frame,noch daran erinnern was er,11,bundle,2236078;2236080;2236081
+particle_frame,jedes mal wenn ich dieses,11,bundle,698142;448302;663143
+particle_frame,ich weiß schon gar nicht,11,bundle,3156728;3165470;8184807
+particle_frame,ich hatte ja keine ahnung,11,bundle,2489391;2705491;2750400
+particle_frame,hast du dich schon einmal,11,bundle,1729386;1688221;1729406
+particle_frame,habt ihr schon einmal einen,11,bundle,10012763;3474706;7010938
+particle_frame,du hast doch gesagt tom,11,bundle,1963135;1963136;1963134
+particle_frame,du hast doch gesagt du,11,bundle,1963394;1963399;1963393
+particle_frame,wie kannst du nur so,10,bundle,1538137;2807544;1819151
+particle_frame,weißt du es gibt noch,10,bundle,
+particle_frame,warum hast du mir denn,10,bundle,3514438;7286049;3433911
+particle_frame,tom das letzte mal gesehen,10,bundle,1747598;2767965;3411673
+particle_frame,ich schon lange nicht mehr,10,bundle,3102133;4272317;4272321
+particle_frame,ich dir schon seit langem,10,bundle,1703446;1703450;1703488
+particle_frame,hatte ja keine ahnung dass,10,bundle,2489391;2705491;2750400
+particle_frame,hast du dir schon einmal,10,bundle,1540494;1718167;1722664
+particle_frame,euch doch gesagt daß ihr,10,bundle,12509737;12541617;12615738
+particle_frame,doch wohl nicht daß ich,10,bundle,12661662;12661663;12661664
+particle_frame,das war das letzte mal,10,bundle,8239222;8439145;2163010
+particle_frame,bist du das letzte mal,10,bundle,1751562;1751518;1751535
+connector_bundle,tom und maria sagten johannes,600,bundle,7469360;7469361;7469362
+connector_bundle,und maria sagten johannes dass,363,bundle,7469360;7469361;7469362
+connector_bundle,maria sagten johannes dass sie,354,bundle,7469360;7469361;7469362
+connector_bundle,und maria sagten johannes sie,225,bundle,7469401;7469498;7469499
+connector_bundle,tom und maria haben johannes,185,bundle,7466633;7423909;7469492
+connector_bundle,und maria haben johannes gesagt,182,bundle,7469495;7469492;7469494
+connector_bundle,ich kann nicht glauben dass,178,bundle,1754202;1591090;608879
+connector_bundle,maria sagte tom dass sie,161,bundle,6595607;6854696;7469353
+connector_bundle,es tut mir leid dass,160,bundle,561090;562297;535346
+connector_bundle,tut mir leid dass ich,149,bundle,367028;402371;342649
+connector_bundle,ich glaube nicht dass tom,149,bundle,1971422;2214057;2316999
+connector_bundle,ich bin mir sicher dass,131,bundle,408524;406346;415985
+connector_bundle,tom und maria waren,130,bundle,2419027;2625638;2739363
+connector_bundle,sagten johannes dass sie glaubten,128,bundle,7470029;7470031;7470038
+connector_bundle,sagte tom dass sie glaube,123,bundle,7472813;7477708;7472815
+connector_bundle,maria haben johannes gesagt dass,120,bundle,7469492;7469494;7469609
+connector_bundle,es tut mir leid aber,118,bundle,338473;400879;621893
+connector_bundle,haben johannes gesagt dass sie,112,bundle,7469492;7469494;7469609
+connector_bundle,tom und mary sind,112,bundle,1068158;1287740;1512948
+connector_bundle,johannes dass sie glaubten elke,111,bundle,7470029;7470031;7470038
+connector_bundle,tut mir leid aber ich,104,bundle,351689;338473;400879
+connector_bundle,tom und mary haben,99,bundle,1105821;1251410;1476551
+connector_bundle,ich hätte nicht gedacht dass,97,bundle,1200074;369188;221
+connector_bundle,er sagte dass er,92,bundle,366449;728265;353064
+connector_bundle,ich glaube nicht dass ich,90,bundle,1802814;2214137;1812893
+connector_bundle,ich möchte dass sie,89,bundle,449304;637812;509867
+connector_bundle,sagten johannes dass sie nicht,86,bundle,7469415;7469421;7469422
+connector_bundle,es sieht so aus als,84,bundle,787524;389079;425471
+connector_bundle,ich wusste gar nicht dass,81,bundle,1820730;673984;901304
+connector_bundle,stimmt es dass du,81,bundle,1729254;1729253;1729258
+connector_bundle,maria sagte dass sie,81,bundle,6462801;3263757;6606898
+connector_bundle,ich glaube dass tom,81,bundle,582471;1688282;1678387
+connector_bundle,dass sie glaubten elke sei,78,bundle,7470029;7470031;7470039
+connector_bundle,sie sagte dass sie,78,bundle,497084;595044;527938
+connector_bundle,ich hoffe dass du,75,bundle,409130;808666;723615
+connector_bundle,tom und maria wissen,72,bundle,4552804;6642254;2132277
+connector_bundle,ich wusste nicht dass du,71,bundle,550201;967145;601056
+connector_bundle,bist du sicher dass du,69,bundle,418983;955425;1072989
+connector_bundle,tom und maria sagten sie,63,bundle,2781073;2798434;2747869
+connector_bundle,johannes dass sie nicht glaubten,62,bundle,7479282;7479291;7479281
+connector_bundle,ich hätte nie gedacht dass,62,bundle,584114;352571;973756
+connector_bundle,tom dass sie glaube dass,61,bundle,7472815;7477710;7477785
+connector_bundle,dass sie glaube dass johannes,61,bundle,7472815;7477710;7472819
+connector_bundle,ganz und gar nicht,61,bundle,722074;351833;596089
+connector_bundle,tom dass sie glaube johannes,60,bundle,7472813;7477708;7469349
+connector_bundle,sagte tom sie glaube dass,60,bundle,7477709;7477783;7477792
+connector_bundle,ich glaube nicht dass es,60,bundle,907727;760626;852453
+connector_bundle,ich denke dass tom,59,bundle,2115984;1757971;1688280
+connector_bundle,tom sie glaube dass johannes,58,bundle,7477709;7477783;7477792
+connector_bundle,ich wusste dass tom,57,bundle,3261105;2063158;2063159
+connector_bundle,tom hat gesagt dass er,56,bundle,1537115;3681951;4766291
+connector_bundle,ich denke nicht dass tom,56,bundle,2119998;3054352;3101970
+connector_bundle,ich möchte dass ihr,56,bundle,2226863;2439759;2417137
+connector_bundle,als ich klein war,56,bundle,333864;351680;351699
+connector_bundle,möchtest du dass ich,55,bundle,562527;423282;1646661
+connector_bundle,ich wusste nicht dass tom,53,bundle,2726980;3531498;2717281
+connector_bundle,ich glaube dass ich,53,bundle,487048;617545;368563
+connector_bundle,als ich nach hause kam,52,bundle,522666;670376;365006
+connector_bundle,wirklich daß tom und maria,51,bundle,12615696;12615697;12615698
+connector_bundle,tom sagte mir dass er,50,bundle,1709170;1691303;1218986
+connector_bundle,ich bin froh dass ich,50,bundle,1831002;1615815;1805867
+connector_bundle,bist du dir sicher dass,50,bundle,1103260;2848509;3017855
+connector_bundle,ich hoffe dass tom,50,bundle,2297041;1202774;2185258
+connector_bundle,ich wusste dass du,49,bundle,644167;2109238;2115986
+connector_bundle,ich hoffe dass ich,49,bundle,577727;387155;331956
+connector_bundle,es ist wichtig dass,49,bundle,444111;624583;783457
+connector_bundle,ich bin froh dass du,48,bundle,1438044;782823;580438
+connector_bundle,ist alles andere als,48,bundle,341375;364447;446606
+connector_bundle,es wäre schön wenn,48,bundle,396006;414308;400640
+connector_bundle,als ich jung war,47,bundle,592198;342657;352815
+connector_bundle,dass sie glaube johannes sei,46,bundle,7472813;7477708;7472817
+connector_bundle,bin mir ziemlich sicher dass,45,bundle,2297463;2297465;2428181
+connector_bundle,ist nichts anderes als,44,bundle,767718;2157694;2583548
+connector_bundle,dass ich recht habe,44,bundle,594552;822228;822229
+connector_bundle,tom und maria haben gesagt,43,bundle,6921185;7414994;6766093
+connector_bundle,tom hat mir gesagt dass,43,bundle,1171708;1290506;4010002
+connector_bundle,kann nicht glauben dass ich,43,bundle,1959582;1959583;1959584
+connector_bundle,tom sagte maria dass er,42,bundle,2817173;1704517;2762112
+connector_bundle,ich glaube nicht dass du,42,bundle,2441303;2841499;1898656
+connector_bundle,ich glaube dass er,42,bundle,341446;353763;348436
+connector_bundle,als ich erwartet hatte,42,bundle,1683951;1683952;640574
+connector_bundle,sagten johannes dass sie elke,41,bundle,7470022;7470027;7470032
+connector_bundle,ich glaube tom und maria,41,bundle,7826931;7360701;7664517
+connector_bundle,wenn ich du wäre würde,39,bundle,742417;683203;767233
+connector_bundle,kann nicht glauben dass tom,39,bundle,1960443;1959559;1960442
+connector_bundle,ich glaube nicht dass sie,39,bundle,1923938;357442;362154
+connector_bundle,ich glaube nicht dass das,39,bundle,2030564;368558;582683
+connector_bundle,ich freue mich dass du,38,bundle,1447337;852426;458667
+connector_bundle,hättest du etwas dagegen wenn,38,bundle,454629;836164;2061202
+connector_bundle,sicher daß tom und maria,37,bundle,12452096;12452097;12452098
+connector_bundle,kann nicht glauben dass du,37,bundle,1951039;1805099;1591090
+connector_bundle,du etwas dagegen wenn ich,37,bundle,454629;836164;2061202
+connector_bundle,ich mag es nicht wenn,36,bundle,1550041;1556036;1799710
+connector_bundle,ich habe das gefühl dass,36,bundle,658192;669540;728070
+connector_bundle,hat tom gesagt dass sie,35,bundle,7472807;7472804;7472805
+connector_bundle,hat mir gesagt dass er,35,bundle,4145068;1290506;4010002
+connector_bundle,wußtest du daß tom und,34,bundle,12618792;12612197;12536762
+connector_bundle,tom und maria sind beide,34,bundle,2746320;2781091;2746321
+connector_bundle,tom und maria sahen sich,34,bundle,2419106;2419110;2419109
+connector_bundle,sind sie sicher dass sie,34,bundle,1180920;1234758;1516522
+connector_bundle,ich möchte nicht dass du,34,bundle,2142665;1327620;2060944
+connector_bundle,es stellte sich heraus dass,34,bundle,657346;457098;655565
+connector_bundle,ich wusste nicht dass sie,33,bundle,370219;563737;449997
+connector_bundle,johannes sie glaubten nicht dass,32,bundle,7479283;7479290;7479303
+connector_bundle,ich glaube nicht dass er,32,bundle,639199;498131;718220
+connector_bundle,es wäre besser wenn du,32,bundle,635110;1361631;406338
+connector_bundle,dass sie nicht glaubten dass,32,bundle,7479281;7479289;7479302
+connector_bundle,wußtet ihr daß tom und,31,bundle,12618793;12612198;12536764
+connector_bundle,wußten sie daß tom und,31,bundle,12618794;12612199;12536765
+connector_bundle,um sicher zu sein dass,31,bundle,2701093;2701096;2701101
+connector_bundle,ich gebe zu dass ich,31,bundle,381142;1248336;669833
+connector_bundle,ich denke nicht dass ich,31,bundle,1802815;2902681;2977717
+connector_bundle,ich bin sicher dass tom,31,bundle,2696127;3106404;2119339
+connector_bundle,maria hat tom gesagt dass,30,bundle,7472807;7472804;7472805
+connector_bundle,ist zwei jahre älter als,30,bundle,368275;342523;370226
+connector_bundle,ich habe tom gesagt dass,30,bundle,2660063;2999749;3210405
+connector_bundle,sie nicht glaubten dass elke,29,bundle,7479281;7479289;7479302
+connector_bundle,sie glaubten nicht dass elke,29,bundle,7479283;7479290;7479303
+connector_bundle,mir ziemlich sicher dass tom,29,bundle,2428181;2766584;3075420
+connector_bundle,mir leid dass ich dich,29,bundle,708660;584081;786578
+connector_bundle,glaube nicht dass ich das,29,bundle,1802814;2584479;2214137
+connector_bundle,blieb nichts anderes übrig als,29,bundle,1442820;2365547;2233908
+connector_bundle,bin mir sicher dass tom,29,bundle,2983099;2737964;3507866
+connector_bundle,und maria haben gesagt daß,28,bundle,12612509;12628329;12628330
+connector_bundle,dass sie nicht glaubten elke,28,bundle,7479282;7479291;7479300
+connector_bundle,sicher zu sein dass er,27,bundle,2701093;2701096;2701101
+connector_bundle,sagte tom dass sie johannes,27,bundle,7472801;7472803;7477722
+connector_bundle,ich glaube nicht dass wir,27,bundle,3191849;3261699;3237933
+connector_bundle,wusste gar nicht dass du,26,bundle,2051477;1820730;2169382
+connector_bundle,ruf mich an wenn du,26,bundle,342033;370224;413891
+connector_bundle,was würdest du tun wenn,25,bundle,364461;689622;705825
+connector_bundle,maria hat gesagt dass sie,25,bundle,7535349;7535427;7535447
+connector_bundle,hätten sie etwas dagegen wenn,25,bundle,2185338;836167;2061204
+connector_bundle,es ist höchste zeit dass,25,bundle,343058;393009;560936
+connector_bundle,er sagte mir dass er,25,bundle,1830704;690932;1548834
+connector_bundle,tom gesagt dass sie johannes,24,bundle,7472807;7472808;7472804
+connector_bundle,ich hatte keine ahnung dass,24,bundle,1186767;2938730;2664417
+connector_bundle,und maria sagten sie hätten,23,bundle,6842923;6821115;6964714
+connector_bundle,tom und maria wohnen in,23,bundle,2435210;2746333;2791986
+connector_bundle,mir leid aber ich kann,23,bundle,969160;754368;439489
+connector_bundle,ich würde mich freuen wenn,23,bundle,927139;1832925;957282
+connector_bundle,ich bin so froh dass,23,bundle,3039163;3121099;3701573
+connector_bundle,es wäre mir lieber wenn,23,bundle,797636;783204;850879
+connector_bundle,dass das nicht wahr ist,23,bundle,4934162;2450363;3064755
+connector_bundle,tom wusste nicht dass maria,22,bundle,2433809;2433813;3442564
+connector_bundle,sie etwas dagegen wenn ich,22,bundle,509852;836167;2061204
+connector_bundle,ich gehe davon aus dass,22,bundle,1341279;767020;1470897
+connector_bundle,ich bin sicher dass sie,22,bundle,1071043;1205170;1100835
+connector_bundle,hättet ihr etwas dagegen wenn,22,bundle,836166;2061205;2996897
+connector_bundle,würde mich sehr freuen wenn,21,bundle,1585894;2297261;1838669
+connector_bundle,wie wäre es wenn wir,21,bundle,406693;737354;406380
+connector_bundle,wie kommt es dass du,21,bundle,1023501;979618;1358594
+connector_bundle,wenn ich dieses lied höre,21,bundle,698142;439724;752283
+connector_bundle,tom wollte nicht dass maria,21,bundle,2739318;2750458;2750459
+connector_bundle,tom maria johannes und elke,21,bundle,6477103;6477105;2968183
+connector_bundle,tat so als wäre er,21,bundle,3479771;3699741;3762019
+connector_bundle,mit dem bus oder mit,21,bundle,352086;352086;776245
+connector_bundle,kommt mir so vor als,21,bundle,1711490;3065119;3065120
+connector_bundle,ich liebe dich mehr als,21,bundle,845789;846077;433307
+connector_bundle,ich habe gehört dass tom,21,bundle,2475286;2770840;2441268
+connector_bundle,ich habe gehört dass sie,21,bundle,374089;1393212;1194403
+connector_bundle,ich erinnere mich dass ich,21,bundle,341670;412184;358438
+connector_bundle,ich denke nicht dass das,21,bundle,2030563;2317001;424283
+connector_bundle,ich bin sicher dass er,21,bundle,784327;363294;352552
+connector_bundle,gesagt daß tom und maria,21,bundle,12611831;12611832;12611834
+connector_bundle,schön wär s wenn ich,20,bundle,5921708;5921711;5921713
+connector_bundle,nicht dass tom und mary,20,bundle,10072258;10072262;3315923
+connector_bundle,ihr etwas dagegen wenn ich,20,bundle,836166;2061205;2996897
+connector_bundle,ich möchte dass du das,20,bundle,2500595;2744537;2744538
+connector_bundle,hätte nie gedacht dass ich,20,bundle,584114;1147655;973756
+connector_bundle,hatte keine andere wahl als,20,bundle,628372;725096;344375
+connector_bundle,es ist undenkbar dass du,20,bundle,1237708;1237707;1237704
+connector_bundle,es ist sehr wichtig dass,20,bundle,1349640;1349641;1349642
+connector_bundle,wusste gar nicht dass tom,19,bundle,2745103;2935778;2976151
+connector_bundle,willst du damit sagen daß,19,bundle,12526746;12526754;12437301
+connector_bundle,wenn ich mich nicht irre,19,bundle,1079269;1079270;924981
+connector_bundle,tom tat so als wäre,19,bundle,3042078;3479771;3699741
+connector_bundle,tom sagte dass er nicht,19,bundle,2993832;2993833;2746392
+connector_bundle,sieht so aus als ob,19,bundle,1761361;2624449;1852792
+connector_bundle,mir leid aber ich habe,19,bundle,2239268;2239298;1541890
+connector_bundle,ist drei jahre älter als,19,bundle,1060376;1323715;720588
+connector_bundle,ich möchte nicht dass sie,19,bundle,3497655;2943859;2060946
+connector_bundle,ich habe nicht gesagt dass,19,bundle,2398583;3337507;3609096
+connector_bundle,glaube nicht daß tom und,19,bundle,12662496;12649852;12649853
+connector_bundle,zwei jahre älter als ich,18,bundle,368275;413522;342523
+connector_bundle,wie alt warst du als,18,bundle,2190047;1052541;2062424
+connector_bundle,tom und maria saßen auf,18,bundle,2747872;2762173;2766602
+connector_bundle,sind sie sich sicher dass,18,bundle,3411733;6774710;2848513
+connector_bundle,sieht nicht so aus als,18,bundle,1907246;1907219;1907220
+connector_bundle,johannes dass sie elke für,18,bundle,7470022;7470027;7470032
+connector_bundle,ich habe den eindruck dass,18,bundle,581272;1620341;797869
+connector_bundle,ich freue mich dass sie,18,bundle,2636971;2636980;2636997
+connector_bundle,ich bin ziemlich sicher dass,18,bundle,2298217;2026832;1712717
+connector_bundle,hätte nicht gedacht dass tom,18,bundle,6968963;7415072;2778645
+connector_bundle,es wäre besser wenn sie,18,bundle,1361636;1361634;413596
+connector_bundle,als sie die nachricht hörte,18,bundle,352262;352247;352253
+connector_bundle,willst du damit sagen dass,17,bundle,2746062;2746060;2661434
+connector_bundle,wie kommst du darauf dass,17,bundle,908155;934042;1691455
+connector_bundle,sie wirklich daß tom und,17,bundle,12619086;12615698;12615701
+connector_bundle,seid ihr sicher dass ihr,17,bundle,2421587;2926907;1389026
+connector_bundle,ihr wirklich daß tom und,17,bundle,12619085;12615697;12615700
+connector_bundle,ich wusste nicht dass er,17,bundle,938519;1206;455563
+connector_bundle,du wirklich daß tom und,17,bundle,12619084;12615696;12615699
+connector_bundle,die wahrheit ist dass ich,17,bundle,1797783;1798267;1798273
+connector_bundle,war so heiß dass ich,16,bundle,352313;635891;792663
+connector_bundle,und maria wohnen in einem,16,bundle,6131613;2746333;6126822
+connector_bundle,tut mir leid dass du,16,bundle,2264804;938493;2297293
+connector_bundle,tom und maria sagten mir,16,bundle,6787823;6798165;7372668
+connector_bundle,tom dass sie johannes für,16,bundle,7472801;7472803;7477722
+connector_bundle,mir leid dass ich dir,16,bundle,909630;343396;596387
+connector_bundle,ich werde dafür sorgen dass,16,bundle,2977777;2463297;3081520
+connector_bundle,ich möchte dass du mir,16,bundle,2019780;2081893;2720908
+connector_bundle,ich bin sehr froh dass,16,bundle,2883361;3404462;2883362
+connector_bundle,ich bin froh dass tom,16,bundle,3073389;4918787;5233781
+connector_bundle,hat mir gesagt dass ich,16,bundle,3770535;4289750;811722
+connector_bundle,gesagt dass sie johannes für,16,bundle,7472807;7472808;7472804
+connector_bundle,es tut mir leid wenn,16,bundle,2112474;985901;3539437
+connector_bundle,du weißt dass ich dich,16,bundle,1575822;2755616;2999926
+connector_bundle,dass tom das getan hat,16,bundle,3588698;6643190;6914622
+connector_bundle,dass sie glaubten elke habe,16,bundle,7470044;7470047;7470062
+connector_bundle,dass ich das getan habe,16,bundle,7427947;2227043;5215748
+connector_bundle,wollt ihr damit sagen daß,15,bundle,12526748;12536992;12526755
+connector_bundle,wollen sie damit sagen daß,15,bundle,12526753;12536993;12526756
+connector_bundle,wissen warum tom und maria,15,bundle,7421872;7011208;7361212
+connector_bundle,wenn ich gewusst hätte dass,15,bundle,1020674;3041632;509739
+connector_bundle,wenn du willst kannst du,15,bundle,913751;1804790;926549
+connector_bundle,weiß dass das ab morgen,15,bundle,2227794;2227814;2227816
+connector_bundle,weil du so bist wie,15,bundle,2881312;2881313;2881314
+connector_bundle,versteht sich von selbst dass,15,bundle,782779;725510;760460
+connector_bundle,tut mir leid wenn ich,15,bundle,985901;3701469;3701470
+connector_bundle,tom und maria wirklich für,15,bundle,7349658;8080242;8080243
+connector_bundle,tom und maria gesagt daß,15,bundle,12628394;12616410;12616411
+connector_bundle,ich hätte gerne dass du,15,bundle,1047363;1257;1845044
+connector_bundle,ich habe nicht gewusst dass,15,bundle,3339075;4051811;1995691
+connector_bundle,ich freue mich dass ihr,15,bundle,2636970;2636982;2636996
+connector_bundle,glaubst du wirklich dass tom,15,bundle,4257042;6477986;2134112
+connector_bundle,es ist schade dass du,15,bundle,550197;338268;605939
+connector_bundle,er hat gesagt dass er,15,bundle,1547134;8975740;9984451
+connector_bundle,dass sie den weg verlieren,15,bundle,1575260;1575262;1575264
+connector_bundle,bleibt nichts anderes übrig als,15,bundle,2195719;2996977;2604545
+connector_bundle,angst dass sie den weg,15,bundle,1575260;1575262;1575264
+connector_bundle,alt warst du als du,15,bundle,1052541;2062424;2448457
+connector_bundle,aber ich habe kein geld,15,bundle,575317;1119205;643624
+connector_bundle,würdest du tun wenn du,14,bundle,689622;1699018;940344
+connector_bundle,woher wusstest du dass tom,14,bundle,1926147;1926135;1926146
+connector_bundle,um sicher zu gehen dass,14,bundle,3856496
+connector_bundle,seid ihr euch sicher dass,14,bundle,3411732;7121581;6774709
+connector_bundle,pass auf dass du nicht,14,bundle,2265659;372909;2926831
+connector_bundle,ob er kommt oder nicht,14,bundle,364459;435717;407188
+connector_bundle,mir leid dass ich sie,14,bundle,1848728;708657;786580
+connector_bundle,johannes dass sie glaubten dass,14,bundle,7478717;7478722;7478736
+connector_bundle,ich freue mich dass ich,14,bundle,2224642;1423804;2250694
+connector_bundle,ich bin sicher dass du,14,bundle,2307781;2336575;2480450
+connector_bundle,ich bin froh dass sie,14,bundle,2636991;2636994;2465773
+connector_bundle,hätte nicht gedacht dass du,14,bundle,1200074;2224170;2690111
+connector_bundle,wenn ich reich wäre würde,13,bundle,421875;593090;431273
+connector_bundle,was tom und maria wollen,13,bundle,12629633;12629634;6641074
+connector_bundle,und ich sage dir wer,13,bundle,900461;424753;804716
+connector_bundle,sie hat gesagt dass sie,13,bundle,11859498;9984530;1766142
+connector_bundle,sein dass er sie erreicht,13,bundle,2701093;2701096;2701101
+connector_bundle,sagten johannes sie glaubten dass,13,bundle,7478720;7478725;7478738
+connector_bundle,sagten johannes dass sie meinten,13,bundle,7470055;7470058;7470148
+connector_bundle,mir leid dass ich so,13,bundle,367028;561090;562297
+connector_bundle,mir auf die nerven wenn,13,bundle,1274882;1274884;1274886
+connector_bundle,ist zwei jahre jünger als,13,bundle,435165;484199;909861
+connector_bundle,ist höchste zeit dass du,13,bundle,343058;612109;393009
+connector_bundle,ich hoffe tom und maria,13,bundle,6970842;7482314;7373445
+connector_bundle,ich freue mich sehr dass,13,bundle,3012110;3248669;2736911
+connector_bundle,habt ihr tom und maria,13,bundle,12462574;12621147;12628328
+connector_bundle,gut und fleißig zu sein,13,bundle,1943461;1943463;1943464
+connector_bundle,glaubt ihr tom und maria,13,bundle,12635308;12632056;12615750
+connector_bundle,glaubst du tom und maria,13,bundle,12635307;12632055;12615749
+connector_bundle,glauben sie tom und maria,13,bundle,12635309;12632057;12615751
+connector_bundle,glaube nicht dass tom und,13,bundle,2316999;3315923;6583919
+connector_bundle,es sieht so aus dass,13,bundle,1503693;701340;662370
+connector_bundle,es ist schade dass sie,13,bundle,403832;1489492;621837
+connector_bundle,es ist nicht nötig dass,13,bundle,1598901;709685;1262374
+connector_bundle,es ist lange her dass,13,bundle,1207877;508535;1207881
+connector_bundle,es gibt nichts besseres als,13,bundle,1179477;591930;1116516
+connector_bundle,du siehst so aus als,13,bundle,8466644;8014405;6396122
+connector_bundle,dass sie glaubten dass elke,13,bundle,7478717;7478722;7478736
+connector_bundle,dass er sein ziel erreicht,13,bundle,
+connector_bundle,auf die nerven wenn du,13,bundle,1274882;1274884;1274886
+connector_bundle,aber ich glaube nicht dass,13,bundle,2601948;2422492;399138
+connector_bundle,wäre mir lieber wenn du,12,bundle,10300257;797636;783204
+connector_bundle,willst du nicht dass ich,12,bundle,6611622;2756470;6624866
+connector_bundle,wenn ich mit dir rede,12,bundle,1529626;538681;1847104
+connector_bundle,wenn ich geld hätte würde,12,bundle,540983;809964;939542
+connector_bundle,wenn du nicht willst dass,12,bundle,2027308;12704994;1056493
+connector_bundle,wasser der schildkröte sauber und,12,bundle,12499745;12499746;12499747
+connector_bundle,was würden sie tun wenn,12,bundle,689628;533803;1128990
+connector_bundle,was hieltest du davon wenn,12,bundle,7031242;2705326;2714554
+connector_bundle,und maria sagten sie seien,12,bundle,2798434;2798435;7330756
+connector_bundle,und maria gesagt daß sie,12,bundle,12628396;12616410;12616411
+connector_bundle,tom wäre sehr enttäuscht wenn,12,bundle,6472884;12666263;12666264
+connector_bundle,tom und maria unterhielten sich,12,bundle,2418878;2826829;2982223
+connector_bundle,tom und maria sagten dass,12,bundle,6767585;6831667;6731052
+connector_bundle,tom und maria gar nicht,12,bundle,12612696;12612697;12612698
+connector_bundle,tom schloss die augen und,12,bundle,2739094;2757879;2755698
+connector_bundle,tom glaubt nicht dass maria,12,bundle,1131153;1131166;1131157
+connector_bundle,sieht so aus als würde,12,bundle,1008514;1928628;389079
+connector_bundle,schildkröte sauber und frisch ist,12,bundle,12499745;12499746;12499747
+connector_bundle,passen sie auf dass sie,12,bundle,639458;639462;1898903
+connector_bundle,nicht wissen warum tom und,12,bundle,12623539;12623540;12623541
+connector_bundle,johannes sie glaubten dass elke,12,bundle,7478720;7478725;7478738
+connector_bundle,johannes dass sie elke nicht,12,bundle,7470146;7470127;7470130
+connector_bundle,ich wusste nicht dass ihr,12,bundle,6633544;1514992;2343702
+connector_bundle,ich wollte nicht dass tom,12,bundle,7337581;7423188;3645481
+connector_bundle,ich habe dir gesagt dass,12,bundle,1045030;3523258;911832
+connector_bundle,ich denke nicht dass es,12,bundle,2217699;1107748;1186773
+connector_bundle,ich bin froh dass wir,12,bundle,3073390;4168544;5549336
+connector_bundle,ich bin davon überzeugt dass,12,bundle,550242;822228;822229
+connector_bundle,hieltest du davon wenn wir,12,bundle,7031242;2705326;2714554
+connector_bundle,glaube nicht dass tom weiß,12,bundle,4488044;4733962;6486172
+connector_bundle,gesagt dass sie das nicht,12,bundle,5315470;5315471;5315472
+connector_bundle,für den fall dass es,12,bundle,358213;484266;557854
+connector_bundle,es ist kein wunder dass,12,bundle,404906;729930;731818
+connector_bundle,es in ordnung wenn ich,12,bundle,4733997;4940447;1695692
+connector_bundle,ein mann oder eine frau,12,bundle,3489049;4633813;1309529
+connector_bundle,ein hund oder eine katze,12,bundle,3766008;3766017;3766018
+connector_bundle,dich weil du so bist,12,bundle,2881312;2881313;2881314
+connector_bundle,der schildkröte sauber und frisch,12,bundle,12499745;12499746;12499747
+connector_bundle,dass er ans ziel gelangt,12,bundle,
+connector_bundle,dass das wasser der schildkröte,12,bundle,12499745;12499746;12499747
+connector_bundle,bist du sicher dass es,12,bundle,3556377;1585912;1948476
+connector_bundle,bist du sicher dass das,12,bundle,1881394;1190957;3320204
+connector_bundle,bis halb drei damit fertig,12,bundle,7341123;7407256;7407257
+connector_bundle,wenn er nach hause kommt,11,bundle,2705308;5953478;6616015
+connector_bundle,wenn du die straße überquerst,11,bundle,541861;767069;782506
+connector_bundle,weiß dass das ihre pflicht,11,bundle,2227750;2227755;2227762
+connector_bundle,und maria sagten mir sie,11,bundle,6787823;7372668;7407620
+connector_bundle,tom hat gesagt dass mary,11,bundle,4701145;6373514;6373516
+connector_bundle,tat so als ob er,11,bundle,2557934;2658953;3556100
+connector_bundle,so aus als würde es,11,bundle,6644995;1928628;389079
+connector_bundle,sicher zu gehen dass er,11,bundle,
+connector_bundle,nicht glauben dass ich das,11,bundle,2144979;1959630;2227041
+connector_bundle,mir leid aber ich muss,11,bundle,351689;4142567;338473
+connector_bundle,macht mir nichts aus wenn,11,bundle,904875;1079139;905525
+connector_bundle,kann es nicht fassen dass,11,bundle,4246232;5528732;4177549
+connector_bundle,ist cookie ein hund oder,11,bundle,3766008;3766017;3766018
+connector_bundle,ich schlage vor dass du,11,bundle,3439136;3765972;3522783
+connector_bundle,ich nehme an dass du,11,bundle,4800942;2634047;4157096
+connector_bundle,ich habe gehört dass du,11,bundle,1046948;899803;432625
+connector_bundle,ich denke nicht dass er,11,bundle,1286080;418981;1533273
+connector_bundle,glaubt ihr daß tom und,11,bundle,12612249;12618860;12612304
+connector_bundle,glaubst du daß tom und,11,bundle,12612248;12618859;12612303
+connector_bundle,glauben sie daß tom und,11,bundle,12612247;12618862;12612305
+connector_bundle,es ist offensichtlich dass er,11,bundle,403788;403789;403786
+connector_bundle,drei jahre älter als ich,11,bundle,1060376;720588;2747801
+connector_bundle,dass sie glaube johannes habe,11,bundle,7477816;7477833;7477856
+connector_bundle,cookie ein hund oder eine,11,bundle,3766008;3766017;3766018
+connector_bundle,bist du sicher dass tom,11,bundle,3301632;3405930;4914283
+connector_bundle,woher willst du wissen dass,10,bundle,2437487;2437489;4493392
+connector_bundle,willst du dass ich das,10,bundle,6624854;1841961;5126104
+connector_bundle,werde dafür sorgen dass tom,10,bundle,2977777;3081520;3081526
+connector_bundle,tom öffnete die tür und,10,bundle,2745955;2754339;764907
+connector_bundle,tom und mary sagen sie,10,bundle,6864548;11539177;11604914
+connector_bundle,tom und maria wussten dass,10,bundle,6787814;7536330;7349567
+connector_bundle,tom und maria sahen einander,10,bundle,2418884;2419022;2419088
+connector_bundle,tom und maria meinten sie,10,bundle,7342555;7342556;7339587
+connector_bundle,tom und maria kennen sich,10,bundle,4046076;2747862;2754311
+connector_bundle,tom und maria gingen zusammen,10,bundle,2419071;2419124;2419073
+connector_bundle,tom sagt dass er das,10,bundle,6557067;6625358;6625359
+connector_bundle,tom hätte nicht gedacht dass,10,bundle,4081473;6794039;6391817
+connector_bundle,sie sagte mir dass sie,10,bundle,4433461;759463;798478
+connector_bundle,sie glaube dass johannes nicht,10,bundle,7477863;7477865;7477880
+connector_bundle,pass auf dass du dich,10,bundle,639456;639459;2403776
+connector_bundle,ob du willst oder nicht,10,bundle,3191941;1916575;2415279
+connector_bundle,mir so vor als ob,10,bundle,3350262;3065119;3065120
+connector_bundle,mir leid dass ich nicht,10,bundle,402371;1040115;1875377
+connector_bundle,mag es nicht wenn man,10,bundle,3386318;3307826;3773059
+connector_bundle,johannes dass sie nicht den,10,bundle,7479348;7479365;7479368
+connector_bundle,ist lange her dass ich,10,bundle,1207877;508535;1207881
+connector_bundle,ihnen gesagt dass sie das,10,bundle,5315470;5315471;5315472
+connector_bundle,ich war mir sicher dass,10,bundle,11984945;11984947;3101488
+connector_bundle,ich möchte dass du tom,10,bundle,2632794;3411534;2219240
+connector_bundle,ich möchte dass du dich,10,bundle,2736975;2019800;2705949
+connector_bundle,ich kann nicht anders als,10,bundle,2039789;1639077;1768823
+connector_bundle,ich hoffe dass es dir,10,bundle,878802;603518;678524
+connector_bundle,ich denke nicht dass wir,10,bundle,5259317;5259324;3523777
+connector_bundle,ich dachte tom und maria,10,bundle,2793423;2938726;6644626
+connector_bundle,ich bin hier weil ich,10,bundle,2155973;2716742;2716743
+connector_bundle,hältst du tom und maria,10,bundle,12612243;12620806;7349658
+connector_bundle,hat tom gesagt dass er,10,bundle,6611638;7452575;7452576
+connector_bundle,haltet ihr tom und maria,10,bundle,12612244;12635411;12620807
+connector_bundle,halten sie tom und maria,10,bundle,12612246;12635412;12620808
+connector_bundle,glaube nicht dass tom das,10,bundle,6644414;6644415;6469948
+connector_bundle,gesichtsausdruck sehen sollen als ich,10,bundle,7053886;7053887;7053888
+connector_bundle,fürchtet dass sie sich verirren,10,bundle,1575186;1575190;1575194
+connector_bundle,fürchten dass sie sich verirren,10,bundle,1575171;1575177;1575179
+connector_bundle,frage mich ob tom und,10,bundle,8166145;8556614;8631676
+connector_bundle,es ist ein wunder dass,10,bundle,682756;405659;1211080
+connector_bundle,er hat mir gesagt dass,10,bundle,8481189;8688361;8560923
+connector_bundle,du damit sagen daß tom,10,bundle,12621161;12536990;12447891
+connector_bundle,den fall dass es regnet,10,bundle,358213;484266;557854
+connector_bundle,daß tom und maria allein,10,bundle,12616553;12616554;12616555
+connector_bundle,dass sie sich verirren werden,10,bundle,1575210;1575214;1575221
+connector_bundle,dass sie nicht den eindruck,10,bundle,7479348;7479365;7479368
+connector_bundle,dass du wieder da bist,10,bundle,1597642;2783575;915939
+connector_bundle,dass das von morgen an,10,bundle,2227785;2227846;2227847
+connector_bundle,dass das ihre pflicht war,10,bundle,2227762;2227771;2228032
+connector_bundle,dass das ihre pflicht ist,10,bundle,2227750;2227755;2227924
+connector_bundle,bist du für oder gegen,10,bundle,439771;370011;412277
+connector_bundle,bin mir sicher dass er,10,bundle,408524;633662;415985
+lexical_bundle,um wie viel uhr,209,bundle,372579;375474;375475
+lexical_bundle,ich bin mir nicht sicher,201,bundle,1509574;947990;1422905
+lexical_bundle,kennt nicht den unterschied zwischen,176,bundle,1231842;1234496;1234499
+lexical_bundle,tom kennt nicht den unterschied,174,bundle,1231842;1234496;1234499
+lexical_bundle,maria sagte tom sie glaube,121,bundle,7472814;7477707;7477709
+lexical_bundle,ich weiß nicht ob ich,117,bundle,261;93;496845
+lexical_bundle,so schnell wie möglich,116,bundle,358412;360653;363490
+lexical_bundle,wie man das macht,114,bundle,1231884;352800;747752
+lexical_bundle,bin mir nicht sicher ob,105,bundle,1863577;1791742;1853941
+lexical_bundle,ist die hauptstadt von,103,bundle,331890;331891;331892
+lexical_bundle,maria sagten johannes sie glaubten,100,bundle,7470030;7478713;7478720
+lexical_bundle,wie geht es dir,100,bundle,358124;394218;396544
+lexical_bundle,auf den ersten blick,100,bundle,397920;362298;397919
+lexical_bundle,maria hat gesagt daß sie,98,bundle,12607800;12574459;12612722
+lexical_bundle,mit dem rauchen aufzuhören,95,bundle,375499;351688;368268
+lexical_bundle,ich erinnere mich an,95,bundle,139486;343509;560050
+lexical_bundle,tom ist ein guter,93,bundle,647751;1277070;1354046
+lexical_bundle,was hältst du von,90,bundle,374380;367483;369153
+lexical_bundle,ich hätte nicht gedacht daß,89,bundle,12513108;12513109;12526113
+lexical_bundle,ich habe ein paar,87,bundle,369983;136256;236460
+lexical_bundle,was ist der unterschied zwischen,86,bundle,430938;451326;673292
+lexical_bundle,was du getan hast,85,bundle,966214;1219083;341149
+lexical_bundle,ich wünschte ich wäre,85,bundle,403429;450531;352935
+lexical_bundle,an deiner stelle würde ich,83,bundle,486869;486870;363405
+lexical_bundle,tom sagte er sei,82,bundle,1932143;2585826;2766626
+lexical_bundle,tut mir leid daß ich,81,bundle,12432574;12427902;12432575
+lexical_bundle,es tut mir leid daß,81,bundle,12432574;12427902;12432575
+lexical_bundle,er hat gesagt daß er,80,bundle,12436340;12448818;12548999
+lexical_bundle,ich frage mich ob tom,79,bundle,1971421;2214384;2008066
+lexical_bundle,so bald wie möglich,79,bundle,412158;423330;501057
+lexical_bundle,was tom gesagt hat,78,bundle,1897922;2660585;1688322
+lexical_bundle,mach dir keine sorgen,78,bundle,109;363362;370014
+lexical_bundle,nicht den unterschied zwischen einem,77,bundle,1234521;1234524;1234536
+lexical_bundle,ich kann mich nicht erinnern,77,bundle,454220;441672;363486
+lexical_bundle,was ich gesagt habe,76,bundle,446424;421859;508447
+lexical_bundle,er ist ein guter,74,bundle,1209;361488;402374
+lexical_bundle,es war einmal ein,73,bundle,401699;353625;633603
+lexical_bundle,ich glaube tom ist,72,bundle,1109004;2588836;2585841
+lexical_bundle,ich bin mir ziemlich sicher,71,bundle,934391;2297463;2297465
+lexical_bundle,zu fuß zur schule,71,bundle,351765;357784;360938
+lexical_bundle,ich glaube tom hat,71,bundle,2581213;2585822;2585858
+lexical_bundle,es tut mir leid ich,70,bundle,344;360636;338474
+lexical_bundle,ich habe angst vor,70,bundle,382346;739304;763270
+lexical_bundle,ist ein mensch der,67,bundle,385352;735059;1295917
+lexical_bundle,ich habe das buch,67,bundle,359679;358417;359694
+lexical_bundle,ich glaube ich bin,67,bundle,1194759;662215;1579328
+lexical_bundle,das problem zu lösen,66,bundle,427274;440367;443817
+lexical_bundle,mit dem rauchen aufgehört,64,bundle,15773;182039;349908
+lexical_bundle,den ganzen tag zu hause,63,bundle,351100;372318;507904
+lexical_bundle,wie wäre es mit,63,bundle,721407;360818;370453
+lexical_bundle,weiß nicht den unterschied zwischen,62,bundle,1283532;1283546;1283559
+lexical_bundle,sagten johannes sie glaubten nicht,62,bundle,7479286;7479292;7479283
+lexical_bundle,maria sagten johannes sie seien,62,bundle,7469498;7469499;7469500
+lexical_bundle,maria sagte sie sei,62,bundle,6814096;6964747;5462844
+lexical_bundle,ist ein mann der,62,bundle,1318098;361051;1368636
+lexical_bundle,in der nähe von,62,bundle,949770;392737;591436
+lexical_bundle,es fällt mir schwer,61,bundle,366924;637465;655148
+lexical_bundle,tom weiß nicht den unterschied,60,bundle,1283532;1283546;1283559
+lexical_bundle,nach hause zu gehen,60,bundle,369206;361024;809388
+lexical_bundle,ich glaube das ist,60,bundle,1687737;739461;784373
+lexical_bundle,ich den ganzen tag,60,bundle,368811;613564;342038
+lexical_bundle,würde es dir etwas ausmachen,59,bundle,795111;1219422;1771346
+lexical_bundle,sagte tom sie glaube johannes,59,bundle,7472814;7477707;7477782
+lexical_bundle,ins kino zu gehen,59,bundle,483376;444052;612131
+lexical_bundle,ich frage mich wie,59,bundle,682744;408;624574
+lexical_bundle,ich habe dieses buch,58,bundle,343090;359673;361837
+lexical_bundle,er sagte er habe,58,bundle,2972276;5698959;2814517
+lexical_bundle,ich habe den ganzen tag,57,bundle,509177;570139;655556
+lexical_bundle,es hat keinen sinn,57,bundle,416127;444601;640651
+lexical_bundle,einmal in der woche,57,bundle,1158967;783280;370175
+lexical_bundle,wann hast du das letzte,56,bundle,801638;1747611;1518984
+lexical_bundle,sie hat gesagt daß sie,56,bundle,12415792;12424635;12436341
+lexical_bundle,maria haben johannes gesagt sie,56,bundle,7469495;7469611;7469613
+lexical_bundle,in den letzten jahren,56,bundle,367565;342058;455737
+lexical_bundle,es ist nicht leicht,55,bundle,362179;362594;450248
+lexical_bundle,er sagte er sei,55,bundle,622905;778378;1709359
+lexical_bundle,tom fragte maria ob sie,54,bundle,1081439;1081695;1081193
+lexical_bundle,weißt du wie man,54,bundle,392432;578436;609242
+lexical_bundle,ich halte es für,54,bundle,1816132;932606;1070590
+lexical_bundle,den ganzen tag lang,53,bundle,345257;372323;563290
+lexical_bundle,auf der anderen straßenseite,53,bundle,450549;532562;641168
+lexical_bundle,ich frage mich warum tom,52,bundle,2436283;3281222;3169848
+lexical_bundle,in der mitte des,52,bundle,776433;341225;345571
+lexical_bundle,ich dachte du würdest,52,bundle,1820150;165;369927
+lexical_bundle,wann hast du das letztemal,51,bundle,7767899;9994436;9999169
+lexical_bundle,es ist mir egal was,51,bundle,588920;718515;1690721
+lexical_bundle,kannst du mir helfen,51,bundle,348433;606007;515350
+lexical_bundle,ist alles in ordnung,51,bundle,576338;923969;454191
+lexical_bundle,in ein paar tagen,51,bundle,407490;431384;560612
+lexical_bundle,der mensch ist ein,51,bundle,444480;941458;400257
+lexical_bundle,den ganzen tag im,51,bundle,391535;594627;362202
+lexical_bundle,mein vater hat mir,50,bundle,406891;426351;371712
+lexical_bundle,würde es ihnen etwas ausmachen,49,bundle,478983;795115;1219421
+lexical_bundle,ich habe genug von,48,bundle,356313;356309;356310
+lexical_bundle,geht mir auf die nerven,47,bundle,355046;718445;370087
+lexical_bundle,tom hat gesagt er,47,bundle,4009863;4009992;4009968
+lexical_bundle,mitten in der nacht,47,bundle,351658;910983;799835
+lexical_bundle,ich bin es gewohnt,47,bundle,674012;417250;502029
+lexical_bundle,das ist eine gute,47,bundle,372;424678;700317
+lexical_bundle,ich weiß nicht ob tom,45,bundle,2747823;2319868;1848808
+lexical_bundle,was tom getan hat,45,bundle,1904387;1904389;1904384
+lexical_bundle,was ich getan habe,45,bundle,1739725;1918600;401768
+lexical_bundle,ich fühle mich wie,45,bundle,1684246;984866;1684257
+lexical_bundle,ich finde wir sollten,45,bundle,2581157;2581162;2581155
+lexical_bundle,ich denke das ist,45,bundle,1328643;1758572;1779924
+lexical_bundle,ich dachte du wärst,45,bundle,1453940;2260007;1295604
+lexical_bundle,ich dachte du hättest,45,bundle,2177489;2186751;2142544
+lexical_bundle,bei mir zu hause,45,bundle,409091;1037346;1397539
+lexical_bundle,mir nicht sicher ob ich,44,bundle,1863577;1791742;2399943
+lexical_bundle,haben johannes gesagt sie seien,44,bundle,7469495;7469611;7469613
+lexical_bundle,wie lange haben sie,44,bundle,353331;1105837;358330
+lexical_bundle,wie lange dauert es,44,bundle,353328;409092;362158
+lexical_bundle,in die vereinigten staaten,44,bundle,343470;404695;402390
+lexical_bundle,ich interessiere mich für,44,bundle,364481;575567;405817
+lexical_bundle,ich dachte ich hätte,44,bundle,1965856;1965858;2302282
+lexical_bundle,die ganze nacht lang,44,bundle,1605657;397830;725784
+lexical_bundle,sieht aus wie ein,43,bundle,679966;774967;568232
+lexical_bundle,sag mir was du,43,bundle,720717;725193;809224
+lexical_bundle,mit der arbeit fertig,43,bundle,604142;373533;476116
+lexical_bundle,ich hätte gerne einen,43,bundle,341692;404924;439872
+lexical_bundle,gestern den ganzen tag,43,bundle,1401797;896438;822792
+lexical_bundle,er ist ein mann,43,bundle,369870;486182;457038
+lexical_bundle,das buch das ich,43,bundle,917357;361596;379811
+lexical_bundle,tom sie glaube johannes sei,42,bundle,7472814;7477707;7477790
+lexical_bundle,tom hat gesagt daß er,42,bundle,12454169;12454172;12454168
+lexical_bundle,in der letzten zeit,42,bundle,1361397;599029;799605
+lexical_bundle,ich glaube nicht an,42,bundle,508500;641181;826140
+lexical_bundle,ich denke ich werde,42,bundle,450;344293;395287
+lexical_bundle,es ist nicht einfach,42,bundle,452051;343092;366465
+lexical_bundle,du kannst mich nicht,42,bundle,924800;1857905;1907309
+lexical_bundle,bitte geben sie mir,42,bundle,394346;330600;338345
+lexical_bundle,wie kannst du es wagen,41,bundle,367468;484195;590332
+lexical_bundle,tom ist ein sehr guter,41,bundle,1941102;2531576;1707063
+lexical_bundle,auf der anderen seite des,40,bundle,407770;473802;741423
+lexical_bundle,nicht den unterschied zwischen einer,39,bundle,1234538;1234541;1234544
+lexical_bundle,in diesem brief geschrieben hatte,39,bundle,2265636;2265641;2265645
+lexical_bundle,ich kann mir nicht vorstellen,39,bundle,1831848;403642;1905152
+lexical_bundle,ich habe einen freund der,39,bundle,357143;357165;357166
+lexical_bundle,ich du wäre würde ich,39,bundle,742417;683203;767233
+lexical_bundle,ist das haus in dem,38,bundle,364466;349782;427494
+lexical_bundle,ich wüsste gerne warum tom,38,bundle,6372450;6372451;6372449
+lexical_bundle,ich kann es kaum erwarten,38,bundle,1909901;2365513;1537802
+lexical_bundle,ich habe keine ahnung was,38,bundle,901273;714564;971153
+lexical_bundle,hat mir gesagt daß sie,38,bundle,12450623;12450626;12452055
+lexical_bundle,bis spät in die nacht,37,bundle,372573;373102;498001
+lexical_bundle,ich frage mich ob ich,36,bundle,1699534;628045;675998
+lexical_bundle,ich bin es nicht gewohnt,35,bundle,613641;608476;611850
+lexical_bundle,es hier in der nähe,35,bundle,344340;367455;413762
+lexical_bundle,sind sie sich sicher daß,34,bundle,12522301;12437110;12551285
+lexical_bundle,ist nicht so groß wie,34,bundle,344470;377136;379869
+lexical_bundle,ich weiß nicht ob er,34,bundle,560565;364459;362760
+lexical_bundle,es tut mir sehr leid,34,bundle,459124;783559;1561077
+lexical_bundle,bist du dir sicher daß,34,bundle,12522299;12437107;12551284
+lexical_bundle,wie weit ist es von,33,bundle,366441;367253;480953
+lexical_bundle,seid ihr euch sicher daß,33,bundle,12522300;12437108;12551286
+lexical_bundle,machen sie sich keine sorgen,33,bundle,1284867;1123247;548997
+lexical_bundle,ich glaube es ist an,33,bundle,1383794;1383793;1383798
+lexical_bundle,ich weiß nicht ob sie,32,bundle,612847;358228;1187465
+lexical_bundle,hast du in letzter zeit,32,bundle,1827802;677009;366377
+lexical_bundle,glaube es ist an der,32,bundle,1383794;1383793;1383798
+lexical_bundle,es macht mir nichts aus,32,bundle,904875;445894;724727
+lexical_bundle,es ist mir egal ob,32,bundle,1287290;1483630;407188
+lexical_bundle,den ich je gesehen habe,32,bundle,345466;357177;371764
+lexical_bundle,tut mir leid ich habe,31,bundle,1252;140001;140000
+lexical_bundle,mit dem bus zur schule,31,bundle,344996;372327;430501
+lexical_bundle,ich kann nicht glauben daß,31,bundle,12551799;12551802;12551803
+lexical_bundle,die ich je gesehen habe,31,bundle,1260922;923273;1407681
+lexical_bundle,auf dem weg nach hause,31,bundle,938372;454020;525069
+lexical_bundle,wann haben sie das letztemal,30,bundle,7767900;9999173;12447846
+lexical_bundle,ohne ein wort zu sagen,30,bundle,343025;367510;344315
+lexical_bundle,ich wußte gar nicht daß,30,bundle,12448475;12448476;12448477
+lexical_bundle,ich wusste nicht was ich,30,bundle,726021;1368312;944095
+lexical_bundle,ich glaube nicht daß tom,30,bundle,12581800;12581801;12581802
+lexical_bundle,ich bin der einzige der,30,bundle,3217660;3754715;2329318
+lexical_bundle,hat gesagt daß sie sich,30,bundle,12415792;12543862;12582506
+lexical_bundle,wie heißt die hauptstadt von,29,bundle,2639502;2639513;2639517
+lexical_bundle,mit dem auto zur arbeit,29,bundle,3191585;1923658;731110
+lexical_bundle,ich weiß nicht ob es,29,bundle,345375;646229;637421
+lexical_bundle,der vereinigten staaten von amerika,29,bundle,435542;435551;917350
+lexical_bundle,soweit ich weiß ist er,28,bundle,475737;475774;407707
+lexical_bundle,sie glaubten elke sei nicht,28,bundle,7470129;7470132;7470133
+lexical_bundle,kann es mir nicht leisten,28,bundle,458653;391526;377595
+lexical_bundle,johannes sie glaubten nicht elke,28,bundle,7479286;7479292;7479301
+lexical_bundle,fing es an zu regnen,28,bundle,426353;781964;338289
+lexical_bundle,wann habt ihr das letztemal,27,bundle,12630470;9999172;12447845
+lexical_bundle,um die wahrheit zu sagen,27,bundle,367400;606331;591981
+lexical_bundle,es tut mir wirklich leid,27,bundle,461394;775963;395863
+lexical_bundle,das ist genau das was,27,bundle,1678714;1678718;362674
+lexical_bundle,was sie in diesem brief,26,bundle,2265641;2265658;2265661
+lexical_bundle,was glaubst du wie viele,26,bundle,6144413;10311884;10569453
+lexical_bundle,tom ist der einzige der,26,bundle,1523736;3231938;3537039
+lexical_bundle,tom fragte mich ob ich,26,bundle,3028223;3065872;3316054
+lexical_bundle,maria hat mir gesagt daß,26,bundle,12626696;12626697;12574420
+lexical_bundle,ich würde mich sehr freuen,26,bundle,1841345;5992952;5168561
+lexical_bundle,auf der suche nach einem,26,bundle,1197070;1372000;1039691
+lexical_bundle,so lange habe warten lassen,25,bundle,406868;342649;406957
+lexical_bundle,nicht in die schule gehen,25,bundle,671;359589;423280
+lexical_bundle,mit dem fahrrad zur schule,25,bundle,135991;2573014;2573016
+lexical_bundle,maria sagten johannes sie hätten,25,bundle,7469401;7469520;7469528
+lexical_bundle,ich habe keine ahnung wo,25,bundle,1509772;435707;1080927
+lexical_bundle,ich habe keine ahnung wie,25,bundle,747750;401925;901701
+lexical_bundle,ich habe in meinem leben,25,bundle,3407403;3143941;2935759
+lexical_bundle,ich erinnere mich nicht an,25,bundle,3046009;383641;437571
+lexical_bundle,du bist die einzige die,25,bundle,4277799;5272785;6213729
+lexical_bundle,weit ist es von hier,24,bundle,366441;367253;480953
+lexical_bundle,sie in diesem brief geschrieben,24,bundle,2265641;2265658;2265661
+lexical_bundle,sagten johannes sie glaubten elke,24,bundle,7470030;7478713;7478730
+lexical_bundle,mir den weg zum bahnhof,24,bundle,360724;731815;351624
+lexical_bundle,kann es sich nicht leisten,24,bundle,1521289;446485;636128
+lexical_bundle,ich erinnere mich nicht mehr,24,bundle,1261935;370273;370274
+lexical_bundle,ich denke es ist zeit,24,bundle,851092;922710;1030546
+lexical_bundle,ich bin nicht der einzige,24,bundle,2151673;2498106;3943890
+lexical_bundle,hat mir gesagt daß er,24,bundle,12448491;12423322;12500763
+lexical_bundle,er fragte mich ob ich,24,bundle,444427;547294;383165
+lexical_bundle,der mensch ist das einzige,24,bundle,392956;555847;373604
+lexical_bundle,das ist das haus in,24,bundle,768570;349782;640915
+lexical_bundle,wie viel geld hast du,23,bundle,1642306;1527497;2926007
+lexical_bundle,wie spät ist es jetzt,23,bundle,1097419;608655;1242104
+lexical_bundle,war nicht in der lage,23,bundle,767186;1548907;1974884
+lexical_bundle,nicht was sie in diesem,23,bundle,2265640;2265641;2265647
+lexical_bundle,maria sagte mir daß sie,23,bundle,12659414;12626693;12626694
+lexical_bundle,ich wünschte ich könnte so,23,bundle,2428367;4199238;4087632
+lexical_bundle,ich wußte nicht daß sie,23,bundle,12551322;12547482;12547486
+lexical_bundle,ich bin nicht sicher ob,23,bundle,678050;347630;396840
+lexical_bundle,es ist nie zu spät,23,bundle,1794753;852;1919489
+lexical_bundle,bin mir nicht sicher was,23,bundle,1690928;2861249;2246347
+lexical_bundle,aus dem weg zu gehen,23,bundle,1605543;1931852;2839020
+lexical_bundle,auf dem weg zur schule,23,bundle,402006;365579;368247
+lexical_bundle,ist der unterschied zwischen einem,22,bundle,1190243;451326;673292
+lexical_bundle,in diesem brief geschrieben hatten,22,bundle,2265648;2265661;2265667
+lexical_bundle,ich wußte nicht daß du,22,bundle,12551320;12547480;12547484
+lexical_bundle,ich verstehe nicht was du,22,bundle,412182;714646;714636
+lexical_bundle,ich habe keine lust mehr,22,bundle,2924954;1294761;1699058
+lexical_bundle,ich frage mich was tom,22,bundle,3081928;1996631;2752102
+lexical_bundle,ein leben nach dem tod,22,bundle,364971;576131;477794
+lexical_bundle,der anderen seite des flusses,22,bundle,407770;473802;741423
+lexical_bundle,das leben ist zu kurz,22,bundle,1159015;409342;1644345
+lexical_bundle,bin mir ziemlich sicher daß,22,bundle,12407266;12462845;12546212
+lexical_bundle,bin auf der suche nach,22,bundle,1843990;844973;851296
+lexical_bundle,wie lange ist es her,21,bundle,3604784;1020676;3004993
+lexical_bundle,sie nicht glaubten elke sei,21,bundle,7479282;7479291;7479300
+lexical_bundle,sie glaubten nicht elke sei,21,bundle,7479286;7479292;7479301
+lexical_bundle,nicht in der lage zu,21,bundle,2109061;2200681;2346377
+lexical_bundle,mit dem auto zur schule,21,bundle,2573493;406399;1567491
+lexical_bundle,ich kann es nicht fassen,21,bundle,4246232;5528732;4177549
+lexical_bundle,ich habe keine angst vor,21,bundle,2376984;2558871;1111469
+lexical_bundle,ich bin auf dem weg,21,bundle,1040031;2853347;2853350
+lexical_bundle,es kommt mir so vor,21,bundle,1711490;3065119;3065120
+lexical_bundle,den nagel auf den kopf,21,bundle,1215187;442852;603774
+lexical_bundle,das haus in dem ich,21,bundle,349782;343509;773877
+lexical_bundle,bevor es zu spät ist,21,bundle,1855649;3177594;616783
+lexical_bundle,über den fluss zu schwimmen,20,bundle,363423;1526921;486442
+lexical_bundle,würde es euch etwas ausmachen,20,bundle,5868335;6986078;2938912
+lexical_bundle,wie kommst du darauf daß,20,bundle,12549032;12526307;12525155
+lexical_bundle,was hier vor sich geht,20,bundle,1442401;2049909;2151085
+lexical_bundle,was glaubt ihr wie viele,20,bundle,12463984;12427565;12423378
+lexical_bundle,was glauben sie wie viele,20,bundle,12463985;12427564;12423380
+lexical_bundle,nicht was ich tun soll,20,bundle,796318;913848;1421090
+lexical_bundle,mit tränen in den augen,20,bundle,407331;789418;1488309
+lexical_bundle,ist nicht in der lage,20,bundle,2238173;482945;1771459
+lexical_bundle,ist genau das was ich,20,bundle,362674;382344;578413
+lexical_bundle,in letzter zeit habe ich,20,bundle,372596;352082;357467
+lexical_bundle,ich wußte nicht daß ihr,20,bundle,12551321;12547481;12547485
+lexical_bundle,ich kann nicht verstehen warum,20,bundle,1293265;1305987;1204856
+lexical_bundle,ich kann mich nicht entscheiden,20,bundle,1216677;1508791;659434
+lexical_bundle,ich kann dir beibringen wie,20,bundle,1743767;1743769;1743771
+lexical_bundle,hat gesagt daß er sich,20,bundle,12454276;12527607;12527608
+lexical_bundle,er hat mir gesagt daß,20,bundle,12448491;12423322;12500763
+lexical_bundle,die vereinigten staaten von amerika,20,bundle,435561;849551;402390
+lexical_bundle,wußtet ihr nicht daß tom,19,bundle,12536798;12616554;12627232
+lexical_bundle,wußtest du nicht daß tom,19,bundle,12536797;12616553;12627231
+lexical_bundle,wußten sie nicht daß tom,19,bundle,12536799;12616555;12627233
+lexical_bundle,welche sprache spricht man in,19,bundle,353696;353698;353703
+lexical_bundle,tut mir leid ich kann,19,bundle,1561664;936804;344
+lexical_bundle,tom wusste nicht was er,19,bundle,1511522;1511525;1522511
+lexical_bundle,tom ist sich nicht sicher,19,bundle,3353669;1848674;1853934
+lexical_bundle,sie hat mir gesagt daß,19,bundle,12450623;12450626;12452055
+lexical_bundle,nagel auf den kopf getroffen,19,bundle,1215187;442852;603774
+lexical_bundle,mit der angst zu tun,19,bundle,1482622;1301310;2588868
+lexical_bundle,kannst du mir sagen wie,19,bundle,1013871;1512840;1512843
+lexical_bundle,kann dir beibringen wie man,19,bundle,1743767;1743769;1743771
+lexical_bundle,ich würde gerne mit dir,19,bundle,355352;1635972;1684973
+lexical_bundle,ich weiß nicht wann ich,19,bundle,2319876;2319889;2319886
+lexical_bundle,ich verstehe nicht was sie,19,bundle,354815;366512;412288
+lexical_bundle,ich mache mir sorgen um,19,bundle,399322;438708;361474
+lexical_bundle,ich kann nicht so schnell,19,bundle,407712;361616;407747
+lexical_bundle,ich hatte keine ahnung daß,19,bundle,12556277;12556279;12556280
+lexical_bundle,ich halte ihn für einen,19,bundle,909784;1104437;1217507
+lexical_bundle,ich habe nicht verstanden was,19,bundle,587166;948164;474873
+lexical_bundle,ich habe nicht die absicht,19,bundle,755443;788520;342050
+lexical_bundle,ich habe in letzter zeit,19,bundle,1251443;412308;905069
+lexical_bundle,ich habe gesehen wie sie,19,bundle,3222876;4538599;5708755
+lexical_bundle,ich habe das gefühl daß,19,bundle,12549908;12509420;12520113
+lexical_bundle,ich frage mich ob er,19,bundle,405708;416863;1415404
+lexical_bundle,ich bin froh daß du,19,bundle,12547779;12457898;12552727
+lexical_bundle,ich bin auf der suche,19,bundle,1843990;844973;851296
+lexical_bundle,ein neues auto zu kaufen,19,bundle,345388;391526;453371
+lexical_bundle,du bist der einzige der,19,bundle,1038049;945170;2298583
+lexical_bundle,auf der anderen seite der,19,bundle,522464;985395;985396
+lexical_bundle,von der hand in den,18,bundle,352076;357187;450050
+lexical_bundle,um alles in der welt,18,bundle,460141;783973;491298
+lexical_bundle,sie sagte mir daß sie,18,bundle,12450621;12452054;12452058
+lexical_bundle,sich keine sorgen zu machen,18,bundle,3105272;5868353;5868354
+lexical_bundle,ist sich nicht sicher ob,18,bundle,1791743;1791745;1938220
+lexical_bundle,ist fast so groß wie,18,bundle,1284771;635621;940114
+lexical_bundle,in den vereinigten staaten von,18,bundle,3261096;1079447;1111050
+lexical_bundle,ich wünschte ich hätte mehr,18,bundle,1888502;629842;1506121
+lexical_bundle,ich wußte nicht daß ich,18,bundle,12423426;12407230;12407231
+lexical_bundle,ich interessiere mich sehr für,18,bundle,566346;661648;661654
+lexical_bundle,ich glaube es ist zeit,18,bundle,1383778;1516777;1497808
+lexical_bundle,ich freue mich darauf dich,18,bundle,641582;361091;370380
+lexical_bundle,ich fragte tom ob er,18,bundle,2292039;1888841;2292015
+lexical_bundle,hätte nicht gedacht daß tom,18,bundle,12550002;12659518;12513108
+lexical_bundle,er sagte mir er sei,18,bundle,2138855;7663963;7909393
+lexical_bundle,der hand in den mund,18,bundle,352076;357187;450050
+lexical_bundle,über die runden zu kommen,17,bundle,2174911;1865352;1940985
+lexical_bundle,wie weit ist es bis,17,bundle,452172;815700;432010
+lexical_bundle,wie kommt ihr darauf daß,17,bundle,12570669;12526308;12525156
+lexical_bundle,von hier bis zum bahnhof,17,bundle,716406;741253;940453
+lexical_bundle,um den ersten zug zu,17,bundle,438436;675963;759622
+lexical_bundle,tom war der einzige der,17,bundle,5509576;3159803;3561587
+lexical_bundle,tom fragte mary ob sie,17,bundle,1048026;1048017;1048018
+lexical_bundle,so groß wie sein vater,17,bundle,696643;743991;372397
+lexical_bundle,sie sich sicher daß sie,17,bundle,12437110;12566558;12566561
+lexical_bundle,nicht was ich sagen soll,17,bundle,1293233;140014;89
+lexical_bundle,nicht so schnell wie tom,17,bundle,2736192;4126512;4126513
+lexical_bundle,maria haben gesagt daß sie,17,bundle,12612509;12628331;12633003
+lexical_bundle,koste es was es wolle,17,bundle,1587259;784056;351063
+lexical_bundle,kein blatt vor den mund,17,bundle,1600465;1403414;577814
+lexical_bundle,jeder hat das recht auf,17,bundle,2216198;570668;569965
+lexical_bundle,je älter man wird desto,17,bundle,398597;361466;714084
+lexical_bundle,ist nicht so einfach wie,17,bundle,1833320;1833321;1836987
+lexical_bundle,in die schule zu gehen,17,bundle,344292;1226531;429841
+lexical_bundle,ich wußte nicht daß tom,17,bundle,12549987;12727077;12727078
+lexical_bundle,ich kann es nicht glauben,17,bundle,866;1854300;1959562
+lexical_bundle,ich hatte keine andere wahl,17,bundle,628372;725096;792621
+lexical_bundle,ich bin sehr stolz auf,17,bundle,1545946;1545947;1401792
+lexical_bundle,hier in der nähe ein,17,bundle,672698;413762;446044
+lexical_bundle,glaubt ihr wirklich daß tom,17,bundle,12574430;12616259;12619085
+lexical_bundle,glaubst du wirklich daß tom,17,bundle,12574429;12616258;12619084
+lexical_bundle,glauben sie wirklich daß tom,17,bundle,12574431;12616260;12619086
+lexical_bundle,du dir sicher daß du,17,bundle,12437107;12566556;12566559
+lexical_bundle,die schuld in die schuhe,17,bundle,2869418;2275427;2194982
+lexical_bundle,bis ich wieder da bin,17,bundle,11563584;4475147;2294189
+lexical_bundle,aus einer mücke einen elefanten,17,bundle,1096798;871174;1420435
+lexical_bundle,an ihrer stelle würde ich,17,bundle,398646;1840339;486866
+lexical_bundle,alles was du tun musst,17,bundle,361485;412278;982095
+lexical_bundle,wie kommen sie darauf daß,16,bundle,12570670;12526309;12525157
+lexical_bundle,was du tun musst ist,16,bundle,361485;412278;982095
+lexical_bundle,was du mir gesagt hast,16,bundle,675447;964511;1857892
+lexical_bundle,tom sie halte johannes für,16,bundle,7472800;7472802;7477721
+lexical_bundle,sie sind die einzige die,16,bundle,12212901;12450397;9965920
+lexical_bundle,sagte tom sie halte johannes,16,bundle,7472800;7472802;7477721
+lexical_bundle,nicht mehr so oft wie,16,bundle,1544225;6128855;6964807
+lexical_bundle,nicht der einzige der das,16,bundle,11756027;6686293;6873588
+lexical_bundle,menschen auf der ganzen welt,16,bundle,3454880;379014;1995003
+lexical_bundle,maria sagte tom sie halte,16,bundle,7472800;7472802;7477721
+lexical_bundle,maria sagte mir sie sei,16,bundle,7364468;7372094;7418913
+lexical_bundle,maria hat tom gesagt sie,16,bundle,7472809;7472812;7472816
+lexical_bundle,ihr euch sicher daß ihr,16,bundle,12437108;12566557;12566560
+lexical_bundle,ich weiß nicht wie lange,16,bundle,6643882;2150811;6643846
+lexical_bundle,ich bin froh daß sie,16,bundle,12547780;12552730;12552731
+lexical_bundle,gestern nicht in der schule,16,bundle,379853;450696;702224
+lexical_bundle,geben sie mir bitte ein,16,bundle,1171493;1758064;615035
+lexical_bundle,es versteht sich von selbst,16,bundle,782779;725510;587288
+lexical_bundle,die hälfte von dem was,16,bundle,3170044;3167775;3170049
+lexical_bundle,das ist der grund warum,16,bundle,1275480;1514604;1514612
+lexical_bundle,das ist das einzige was,16,bundle,5645773;4488325;1247896
+lexical_bundle,das ich je gesehen habe,16,bundle,1497823;653374;754228
+lexical_bundle,bei den hausaufgaben zu helfen,16,bundle,1392963;1683845;1683848
+lexical_bundle,auf die resultate der aufnahmeprüfung,16,bundle,1714520;1714531;730648
+lexical_bundle,an eurer stelle würde ich,16,bundle,913590;486868;12257387
+lexical_bundle,an den tag an dem,16,bundle,560050;344551;396019
+lexical_bundle,wissen was zu tun ist,15,bundle,3421045;2775820;2798425
+lexical_bundle,wird sie sich in einigen,15,bundle,2236091;2236092;2236094
+lexical_bundle,was glaubst du wie lange,15,bundle,1599757;7551850;7281443
+lexical_bundle,wartete sie auf die resultate,15,bundle,1714520;1714531;1714537
+lexical_bundle,tom war nicht der einzige,15,bundle,3506078;6787707;1683576
+lexical_bundle,tom sagte mir ich solle,15,bundle,5707199;3283258;3770538
+lexical_bundle,tom sagte er wolle nicht,15,bundle,4228449;2777528;2766567
+lexical_bundle,tom hat gesagt daß maria,15,bundle,12454150;12526370;12526372
+lexical_bundle,sonst kommst du zu spät,15,bundle,407722;739462;412940
+lexical_bundle,sie sich in einigen jahren,15,bundle,2236091;2236092;2236094
+lexical_bundle,sie auf die resultate der,15,bundle,1714520;1714531;1714537
+lexical_bundle,mir leid daß ich nicht,15,bundle,12572233;12572235;12572237
+lexical_bundle,mir gar nicht gesagt daß,15,bundle,12566649;12566650;12566651
+lexical_bundle,mehr so oft wie früher,15,bundle,6128855;7522732;6964807
+lexical_bundle,kein wort von dem was,15,bundle,3546092;563398;5688098
+lexical_bundle,johannes sie glaubten elke sei,15,bundle,7470030;7478713;7478730
+lexical_bundle,ich habe tom nicht gesagt,15,bundle,6818876;7334973;7340027
+lexical_bundle,ich habe gehört daß sie,15,bundle,12454099;12501762;12501763
+lexical_bundle,hätte nicht gedacht daß du,15,bundle,12633252;12633255;12526113
+lexical_bundle,heute nicht in die schule,15,bundle,1070673;359589;423280
+lexical_bundle,es kommt nicht darauf an,15,bundle,4484340;362208;1360060
+lexical_bundle,es geht mir auf die,15,bundle,1274882;1274884;1274886
+lexical_bundle,erinnerst du dich an den,15,bundle,344551;734452;396019
+lexical_bundle,er hat den ganzen tag,15,bundle,1089798;391637;406908
+lexical_bundle,die antwort auf diese frage,15,bundle,782603;1883851;1883850
+lexical_bundle,den vereinigten staaten von amerika,15,bundle,1079447;388197;1111050
+lexical_bundle,zu spät zur schule gekommen,14,bundle,1356643;561072;1497833
+lexical_bundle,woher wußtet ihr daß tom,14,bundle,12616635;12643774;12648955
+lexical_bundle,woher wußtest du daß tom,14,bundle,12616634;12643773;12648954
+lexical_bundle,woher wußten sie daß tom,14,bundle,12616636;12643775;12648956
+lexical_bundle,wie viele bücher hast du,14,bundle,431160;1104119;431166
+lexical_bundle,wie lange hast du gebraucht,14,bundle,2448391;2068313;3560115
+lexical_bundle,wie ein ei dem anderen,14,bundle,1290602;742310;1254711
+lexical_bundle,was ich in diesem brief,14,bundle,2265645;2265653;2265678
+lexical_bundle,was er in diesem brief,14,bundle,2265636;2265650;2265676
+lexical_bundle,von der schule nach hause,14,bundle,383399;809922;1521385
+lexical_bundle,von der arbeit nach hause,14,bundle,6885672;2817151;2133972
+lexical_bundle,um ehrlich zu sein ich,14,bundle,349976;455684;439080
+lexical_bundle,tom weiß nicht wann mary,14,bundle,1217656;1217648;1217654
+lexical_bundle,tom setzte sich neben maria,14,bundle,2533642;2739402;2745964
+lexical_bundle,sie sagte mir sie sei,14,bundle,2558646;7663961;7909371
+lexical_bundle,sich nicht sicher ob er,14,bundle,1791743;3324489;5656476
+lexical_bundle,ohne deine hilfe hätte ich,14,bundle,363116;643623;773893
+lexical_bundle,mit dem kopf durch die,14,bundle,2368181;2498051;411150
+lexical_bundle,meiner meinung nach ist das,14,bundle,1657297;621853;764899
+lexical_bundle,in dieser stadt gibt es,14,bundle,1563363;1982846;2734484
+lexical_bundle,in der nähe meines hauses,14,bundle,1464195;404653;822622
+lexical_bundle,ich ärgere mich über fehler,14,bundle,13334387;13334402;13334398
+lexical_bundle,ich würde gerne wissen was,14,bundle,2574607;4256104;4256103
+lexical_bundle,ich werde nie vergessen wie,14,bundle,343717;786654;2926957
+lexical_bundle,ich weiß nicht wann tom,14,bundle,2319879;1192619;1825197
+lexical_bundle,ich weiß nicht so recht,14,bundle,917582;2686789;2686795
+lexical_bundle,ich weiß nicht ob du,14,bundle,1498500;666623;1344173
+lexical_bundle,ich weiß nicht ob das,14,bundle,893311;2116053;1421575
+lexical_bundle,ich schlage vor daß ihr,14,bundle,12450500;12549411;12611821
+lexical_bundle,ich schlage vor daß du,14,bundle,12450499;12549410;12611820
+lexical_bundle,ich in diesem brief geschrieben,14,bundle,2265645;2265653;2265678
+lexical_bundle,ich habe so das gefühl,14,bundle,2708204;2703542;2703543
+lexical_bundle,ich habe gesehen wie du,14,bundle,3152091;341956;2527717
+lexical_bundle,ich habe einen freund dessen,14,bundle,412196;640713;662241
+lexical_bundle,ich habe eine freundin die,14,bundle,3857390;3857391;2976061
+lexical_bundle,ich fragte ihn ob er,14,bundle,755971;1865591;947592
+lexical_bundle,ich frage mich ob das,14,bundle,829021;955746;1445167
+lexical_bundle,ich bin zu müde um,14,bundle,3769929;1097217;1100832
+lexical_bundle,ich bin froh daß ihr,14,bundle,12547781;12566835;12561859
+lexical_bundle,hätte nicht gedacht daß ihr,14,bundle,12633253;12633993;12526114
+lexical_bundle,habe einen freund der in,14,bundle,357165;357166;366454
+lexical_bundle,es mit der angst zu,14,bundle,6458307;1482622;2588868
+lexical_bundle,es ist nicht immer leicht,14,bundle,1190220;806774;664931
+lexical_bundle,es ist nicht das erste,14,bundle,6600526;1764794;5805662
+lexical_bundle,es handelt sich um eine,14,bundle,976739;1601087;2297167
+lexical_bundle,er sagte mir daß er,14,bundle,12450620;12491473;12500767
+lexical_bundle,eine neue sprache zu lernen,14,bundle,682530;508433;703781
+lexical_bundle,den kopf in den sand,14,bundle,1215207;1402147;411151
+lexical_bundle,dem kopf durch die wand,14,bundle,2368181;2498051;411150
+lexical_bundle,brach sie in tränen aus,14,bundle,361411;432648;466615
+lexical_bundle,bei einem autounfall ums leben,14,bundle,2306980;461430;3267931
+lexical_bundle,auf dem weg zur arbeit,14,bundle,3402747;2513842;3402754
+lexical_bundle,zwei fliegen mit einer klappe,13,bundle,365515;442528;1041
+lexical_bundle,zu fuß nach hause gehen,13,bundle,353276;4352126;1626058
+lexical_bundle,wünschte ich könnte so gut,13,bundle,2428367;4199238;4087632
+lexical_bundle,wo du es gefunden hast,13,bundle,477413;360897;948871
+lexical_bundle,wie viel uhr ist es,13,bundle,460;408527;439732
+lexical_bundle,wer ist der mann der,13,bundle,1496890;1732056;1732053
+lexical_bundle,tom war den ganzen tag,13,bundle,4085448;7452707;7317015
+lexical_bundle,tom sagte er wisse nicht,13,bundle,4046034;4068295;3070351
+lexical_bundle,tom sagte er habe nicht,13,bundle,6790110;6787744;6703469
+lexical_bundle,tom hat mir nicht gesagt,13,bundle,2824301;3299881;2746354
+lexical_bundle,sie wissen nicht was sie,13,bundle,1010854;432600;432605
+lexical_bundle,sie sind der einzige der,13,bundle,9965919;9132682;10621739
+lexical_bundle,sie mir den weg zum,13,bundle,360724;361979;439585
+lexical_bundle,sage dir wer du bist,13,bundle,900461;424753;804716
+lexical_bundle,per einschreiben schicken um sicher,13,bundle,
+lexical_bundle,nichts mehr von ihm gehört,13,bundle,425621;851108;800013
+lexical_bundle,nicht was ich machen soll,13,bundle,358386;1509722;917318
+lexical_bundle,nicht was er in diesem,13,bundle,2265636;2265642;2265650
+lexical_bundle,nicht die einzige die das,13,bundle,12405270;12443750;6686294
+lexical_bundle,mit dem fahrrad zur arbeit,13,bundle,3179464;540050;1995530
+lexical_bundle,mit dem bus zur arbeit,13,bundle,1034858;378297;921097
+lexical_bundle,mir war nicht klar daß,13,bundle,12547581;12547582;12547583
+lexical_bundle,kannst du mir sagen wo,13,bundle,4719807;1550302;1011035
+lexical_bundle,kann ich mir nicht vorstellen,13,bundle,1054507;636678;1952541
+lexical_bundle,ist es von hier bis,13,bundle,1549186;367253;480953
+lexical_bundle,ist auf der suche nach,13,bundle,3518805;753357;1197070
+lexical_bundle,ich wußte nicht einmal daß,13,bundle,12562008;12562009;12562010
+lexical_bundle,ich war den ganzen tag,13,bundle,1342007;912362;372821
+lexical_bundle,ich verstehe nicht warum du,13,bundle,3754739;5913799;1968015
+lexical_bundle,ich schlage vor daß sie,13,bundle,12450501;12549409;12611822
+lexical_bundle,ich sagte ihnen nicht was,13,bundle,2270911;2270912;2270913
+lexical_bundle,ich sage dir wer du,13,bundle,900461;424753;804716
+lexical_bundle,ich reich wäre würde ich,13,bundle,421875;593090;431273
+lexical_bundle,ich mir ein neues auto,13,bundle,1586862;1529411;1586863
+lexical_bundle,ich kann dir nicht helfen,13,bundle,568577;1561664;411158
+lexical_bundle,ich habe gehört daß du,13,bundle,12454100;12526213;12526215
+lexical_bundle,ich bin gleich wieder da,13,bundle,1435621;8636643;7813776
+lexical_bundle,ich bin gekommen um dir,13,bundle,2063169;2063173;3261716
+lexical_bundle,ich bin froh daß ich,13,bundle,12462907;12462908;12406714
+lexical_bundle,hätte nicht gedacht daß sie,13,bundle,12633996;12635330;12526115
+lexical_bundle,hier in der nähe einen,13,bundle,1112946;1639412;932522
+lexical_bundle,hat gesagt daß sie es,13,bundle,12632617;12621210;12621211
+lexical_bundle,hat gesagt daß es ihr,13,bundle,12456217;12456218;12456219
+lexical_bundle,es wird nicht lange dauern,13,bundle,653403;604953;613566
+lexical_bundle,es sieht nicht so aus,13,bundle,1907246;1907219;1907220
+lexical_bundle,es gibt zwei arten von,13,bundle,2298451;789477;1212228
+lexical_bundle,es besteht dringender bedarf an,13,bundle,1695901;1695906;1695904
+lexical_bundle,er in diesem brief geschrieben,13,bundle,2265636;2265650;2265676
+lexical_bundle,einschreiben schicken um sicher zu,13,bundle,
+lexical_bundle,die wissenschaft von den sternen,13,bundle,11685418;11685423;3749128
+lexical_bundle,den brief per einschreiben senden,13,bundle,10781059
+lexical_bundle,den brief per einschreiben schicken,13,bundle,
+lexical_bundle,brief per einschreiben schicken um,13,bundle,
+lexical_bundle,bin nicht der einzige der,13,bundle,2151673;2498106;3943890
+lexical_bundle,zu spät in die schule,12,bundle,787610;815;935569
+lexical_bundle,vor dem essen die hände,12,bundle,379038;442451;700927
+lexical_bundle,um eine frage zu stellen,12,bundle,585209;756042;604685
+lexical_bundle,tun lassen was sie will,12,bundle,12629200;12629201;12629202
+lexical_bundle,tom sagte mir er habe,12,bundle,3938459;3588682;2739419
+lexical_bundle,tom ist ein ziemlich guter,12,bundle,1367895;1687642;3325869
+lexical_bundle,tom hatte nicht den mut,12,bundle,2913357;2599810;3004933
+lexical_bundle,sie fragte mich ob ich,12,bundle,1629959;1629961;1393269
+lexical_bundle,per einschreiben senden um sicher,12,bundle,
+lexical_bundle,nichts auf der welt ist,12,bundle,2785932;3698619;956164
+lexical_bundle,nicht was ich in diesem,12,bundle,2265639;2265645;2265678
+lexical_bundle,nicht wann tom nach algerien,12,bundle,3685073;5566283;5566285
+lexical_bundle,nicht auf die leichte schulter,12,bundle,588728;399067;864073
+lexical_bundle,mir ziemlich sicher daß tom,12,bundle,12462845;12546212;12614824
+lexical_bundle,mir nie gesagt daß tom,12,bundle,12616829;12616830;12616831
+lexical_bundle,maria sagte sie habe tom,12,bundle,7370804;7536241;6974782
+lexical_bundle,lange ist es her seit,12,bundle,12443792;11120411;12284881
+lexical_bundle,lange hast du gebraucht um,12,bundle,2448391;2068313;3560115
+lexical_bundle,können es uns nicht leisten,12,bundle,2226666;2226869;1893961
+lexical_bundle,kannst du es wagen so,12,bundle,484195;590332;610632
+lexical_bundle,ist nie zu spät um,12,bundle,1920160;3104287;1985815
+lexical_bundle,ist nicht so alt wie,12,bundle,1707282;1938287;1938288
+lexical_bundle,ist hier in der nähe,12,bundle,400235;658466;672698
+lexical_bundle,ist doppelt so groß wie,12,bundle,344591;399159;1193519
+lexical_bundle,in der nähe der schule,12,bundle,408279;365546;942317
+lexical_bundle,ich weiß nicht wohin ich,12,bundle,3073154;1991817;1991819
+lexical_bundle,ich habe nicht ganz verstanden,12,bundle,1659067;1659068;1659069
+lexical_bundle,ich habe gehört daß tom,12,bundle,13107574;13370874;12747301
+lexical_bundle,ich geld hätte würde ich,12,bundle,540983;809964;939542
+lexical_bundle,ich freue mich sehr daß,12,bundle,12483152;12483153;12483154
+lexical_bundle,ich bin nicht die einzige,12,bundle,2151674;10065704;2498107
+lexical_bundle,ich bin die einzige die,12,bundle,7255124;7352651;7330143
+lexical_bundle,hätte ich das nie geschafft,12,bundle,8850501;12483120;12483121
+lexical_bundle,heute nachmittag mit uns schwimmen,12,bundle,12633814;12633818;12633819
+lexical_bundle,hat gesagt daß sie nicht,12,bundle,12586624;12659273;12660443
+lexical_bundle,habe einen freund dessen vater,12,bundle,640713;662241;684200
+lexical_bundle,geachtet um wieviel uhr tom,12,bundle,12747271;12747273;12747274
+lexical_bundle,fährt mit dem bus zur,12,bundle,372327;430501;534029
+lexical_bundle,film den ich je gesehen,12,bundle,2146139;2975182;2975910
+lexical_bundle,es ist sehr nett von,12,bundle,411167;361004;366371
+lexical_bundle,er sagte mir ich solle,12,bundle,677933;1950495;944304
+lexical_bundle,einschreiben senden um sicher zu,12,bundle,
+lexical_bundle,der wichtigste monat des jahres,12,bundle,6815577;6815579;6815581
+lexical_bundle,der kongress bietet uns gelegenheit,12,bundle,1235669;1235700;1235701
+lexical_bundle,daß tom das nicht getan,12,bundle,12445843;12445844;12445845
+lexical_bundle,daß ich ihm einige fragen,12,bundle,13267506;13267481;13267488
+lexical_bundle,daß das nicht passieren wird,12,bundle,12459876;12544417;12544419
+lexical_bundle,das wasser der schildkröte sauber,12,bundle,12499745;12499746;12499747
+lexical_bundle,das gegenteil von dem was,12,bundle,1814847;3724278;9092761
+lexical_bundle,darauf geachtet um wieviel uhr,12,bundle,12747271;12747273;12747274
+lexical_bundle,brief per einschreiben senden um,12,bundle,
+lexical_bundle,aus allen ländern der europäischen,12,bundle,1235701;1235702;1235705
+lexical_bundle,auf dem heimweg von der,12,bundle,1837117;735279;1798400
+lexical_bundle,allen ländern der europäischen union,12,bundle,1235701;1235702;1235705
+lexical_bundle,wird nicht lange dauern bis,11,bundle,653403;604953;613566
+lexical_bundle,wie lange es dauern wird,11,bundle,408;1944692;401925
+lexical_bundle,was hast du mit meinem,11,bundle,360705;362764;782610
+lexical_bundle,war sich nicht sicher ob,11,bundle,3324489;5656476;6815804
+lexical_bundle,war nicht der einzige der,11,bundle,6826608;2837361;6787707
+lexical_bundle,um wieviel uhr seid ihr,11,bundle,11827994;11286415;11995519
+lexical_bundle,tut mir leid ich wollte,11,bundle,784101;784102;784105
+lexical_bundle,tom sie glaube johannes habe,11,bundle,7477817;7477832;7477854
+lexical_bundle,tom hat mir gesagt er,11,bundle,4009951;6617372;4019532
+lexical_bundle,tom fragte sich warum maria,11,bundle,2418854;2726984;2750343
+lexical_bundle,soweit ich weiß ist das,11,bundle,12841399;12841409;367997
+lexical_bundle,sie sich keine sorgen zu,11,bundle,7805261;7805262;7805263
+lexical_bundle,sich wie ein ei dem,11,bundle,1290602;742310;1254711
+lexical_bundle,sagten johannes sie seien nicht,11,bundle,7469571;7469583;7469584
+lexical_bundle,paris sagte tom nach paris,11,bundle,1729673;1729662;1729670
+lexical_bundle,nicht was wir in diesem,11,bundle,2265648;2265673;2270823
+lexical_bundle,nicht in der lage sein,11,bundle,2407651;1230719;1909103
+lexical_bundle,nach paris sagte tom nach,11,bundle,1729662;1729662;1729670
+lexical_bundle,monat des jahres ist der,11,bundle,13694029;13694044;13694046
+lexical_bundle,mir nicht ganz sicher was,11,bundle,4448480;4843433;4843441
+lexical_bundle,mir leid daß ich euch,11,bundle,12553602;12544256;12551282
+lexical_bundle,maria sagten johannes sie fänden,11,bundle,7478823;7479294;7479346
+lexical_bundle,maria sagte tom sie finde,11,bundle,7477733;7477735;7477737
+lexical_bundle,lied höre denke ich an,11,bundle,1452505;439724;752283
+lexical_bundle,ist sehr nett von dir,11,bundle,784762;361004;432016
+lexical_bundle,ist nicht so intelligent wie,11,bundle,2024315;3403851;451539
+lexical_bundle,ist das einzige tier das,11,bundle,555847;642244;373604
+lexical_bundle,ist auf dem weg nach,11,bundle,1940795;3438328;5664761
+lexical_bundle,in der nähe des parks,11,bundle,512214;948270;1695846
+lexical_bundle,in der nähe des bahnhofs,11,bundle,1354152;943275;418948
+lexical_bundle,in dem er geboren wurde,11,bundle,640915;766656;905378
+lexical_bundle,im wahrsten sinne des wortes,11,bundle,1913793;3275349;1925812
+lexical_bundle,ich interessiere mich nicht für,11,bundle,3865101;645794;7000011
+lexical_bundle,ich bin mir sicher daß,11,bundle,12459877;12459915;12596488
+lexical_bundle,ich bin echt stolz auf,11,bundle,8508943;8508944;8508946
+lexical_bundle,hätte ich das nicht geschafft,11,bundle,2030530;3346170;4113405
+lexical_bundle,hatte keine ahnung daß sie,11,bundle,12556277;12556279;12556280
+lexical_bundle,hast du nicht gesagt du,11,bundle,1963403;1963396;1963397
+lexical_bundle,gibt es etwas besonderes was,11,bundle,1965795;1965796;1965798
+lexical_bundle,gibt es auf der welt,11,bundle,2550656;2867647;5970042
+lexical_bundle,es tut mir leid es,11,bundle,4128166;5262966;5262965
+lexical_bundle,es ist kaum zu glauben,11,bundle,2185697;7273551;6479621
+lexical_bundle,es gibt keinen grund zur,11,bundle,1771103;586702;935619
+lexical_bundle,der kongress bot uns gelegenheit,11,bundle,1235709;1235672;1235699
+lexical_bundle,das was du gesagt hast,11,bundle,2277535;2201813;415110
+lexical_bundle,das haus in dem er,11,bundle,364466;358211;427494
+lexical_bundle,das fünfte rad am wagen,11,bundle,1055552;1482782;1245380
+lexical_bundle,bist du sicher daß du,11,bundle,12616858;12620475;12633391
+lexical_bundle,bin nicht die einzige die,11,bundle,2151674;10065704;2498107
+lexical_bundle,an dem tag an dem,11,bundle,10292427;10292427;6569798
+lexical_bundle,wußte nicht daß ich das,10,bundle,13217795;12423426;13046116
+lexical_bundle,wird von tag zu tag,10,bundle,608684;709631;716417
+lexical_bundle,wie lange brauchst du um,10,bundle,2916249;2589220;4109043
+lexical_bundle,wie ein blitz aus heiterem,10,bundle,1205917;547203;622804
+lexical_bundle,warum du das getan hast,10,bundle,4049362;3169870;6794538
+lexical_bundle,wann bist du das letzte,10,bundle,1751562;1751518;1751535
+lexical_bundle,verstanden was er gesagt hat,10,bundle,343485;424260;757004
+lexical_bundle,um wieviel uhr sind sie,10,bundle,11827993;11286416;12186406
+lexical_bundle,um wieviel uhr bist du,10,bundle,11827992;11286399;12186405
+lexical_bundle,um halb drei nicht da,10,bundle,10073690;10073691;10073692
+lexical_bundle,um die prüfung zu bestehen,10,bundle,361448;411610;581457
+lexical_bundle,um alles zu kaufen was,10,bundle,4571925;4571927;4571928
+lexical_bundle,tom weiß nicht was mary,10,bundle,1217690;1217717;1217715
+lexical_bundle,tom weiß nicht ob mary,10,bundle,1217606;1217610;1217608
+lexical_bundle,tom nach paris fahre ich,10,bundle,1729673;1729662;1729670
+lexical_bundle,tom kann sich nicht erinnern,10,bundle,1045465;1967703;1967707
+lexical_bundle,tom ist zu jung um,10,bundle,1938390;1938387;1938388
+lexical_bundle,tom ist nicht der einzige,10,bundle,6611332;3557949;5432136
+lexical_bundle,tom ist einer der besten,10,bundle,2779066;4104482;3625058
+lexical_bundle,tom hat einen sohn der,10,bundle,1946689;1946690;3421353
+lexical_bundle,tom fragte mary warum sie,10,bundle,1047987;1047993;1047990
+lexical_bundle,tag an dem ich nicht,10,bundle,11130889;12696160;12696161
+lexical_bundle,sind sie sicher daß sie,10,bundle,12616860;12620478;12633395
+lexical_bundle,sie nicht den eindruck hätten,10,bundle,7479348;7479365;7479368
+lexical_bundle,sie ist stolz auf ihre,10,bundle,341193;344525;344625
+lexical_bundle,sie hätten nicht den eindruck,10,bundle,7479354;7479359;7479351
+lexical_bundle,sie haben gesagt daß sie,10,bundle,12436336;12615517;12615518
+lexical_bundle,sie den weg verlieren werden,10,bundle,1575260;1575264;1575268
+lexical_bundle,sagten johannes sie hätten nicht,10,bundle,7479354;7479359;7479351
+lexical_bundle,sagte tom sie finde johannes,10,bundle,7477733;7477735;7477737
+lexical_bundle,sagte tom nach paris fahre,10,bundle,1729673;1729662;1729670
+lexical_bundle,sagen sollte daß sie das,10,bundle,12929952;12929953;12927849
+lexical_bundle,rund um die uhr geöffnet,10,bundle,119824;12494505;12494506
+lexical_bundle,nichts mehr von tom gehört,10,bundle,5511602;2869825;5514078
+lexical_bundle,nicht mehr in der lage,10,bundle,2022198;3854093;3134769
+lexical_bundle,mit dem rad zur schule,10,bundle,642982;362255;1188597
+lexical_bundle,mit dem bus in die,10,bundle,613562;450127;760487
+lexical_bundle,mit dem auto nach boston,10,bundle,637798;6790151;3464105
+lexical_bundle,mir nicht sicher ob das,10,bundle,3050817;2706051;2718774
+lexical_bundle,mensch ist das einzige tier,10,bundle,555847;642244;373604
+lexical_bundle,maria sagen sollte daß sie,10,bundle,12929952;12929953;12927849
+lexical_bundle,maria hat gesagt daß es,10,bundle,12456217;12456218;12456219
+lexical_bundle,könnten sie mir sagen wie,10,bundle,2722092;2771061;363384
+lexical_bundle,kongress wird uns gelegenheit bieten,10,bundle,1235710;1235714;1235733
+lexical_bundle,johannes sie hätten nicht den,10,bundle,7479354;7479359;7479351
+lexical_bundle,ist ein guter freund von,10,bundle,1941162;3557440;638313
+lexical_bundle,in der schule nichts gelernt,10,bundle,2573051;2573053;2573054
+lexical_bundle,ich wünschte ich könnte dir,10,bundle,363902;1708886;1888504
+lexical_bundle,ich wünschte ich hätte ein,10,bundle,1338620;1699086;1699087
+lexical_bundle,ich wünschte ich hätte das,10,bundle,4256987;3754702;5225820
+lexical_bundle,ich werde nie wieder mit,10,bundle,12549061;12365357;12365358
+lexical_bundle,ich weiß nicht wann er,10,bundle,370204;367401;555877
+lexical_bundle,ich sehe keinen grund warum,10,bundle,12424492;12858293;12858294
+lexical_bundle,ich hoffe tom ist nicht,10,bundle,3101972;5587895;7464174
+lexical_bundle,ich habe keine lust auf,10,bundle,6174072;8968348;907943
+lexical_bundle,ich habe kein geld um,10,bundle,1005995;370213;404747
+lexical_bundle,ich habe gesehen wie ihr,10,bundle,11247977;7023685;7023688
+lexical_bundle,ich habe gerade erfahren daß,10,bundle,12636131;12437291;12437292
+lexical_bundle,ich glaube ich habe einen,10,bundle,361112;1768918;2722574
+lexical_bundle,ich finde du solltest tom,10,bundle,3388194;9802042;5704646
+lexical_bundle,ich dieses lied höre denke,10,bundle,1452505;439724;752283
+lexical_bundle,hat gesagt daß er das,10,bundle,12436340;12460567;12460568
+lexical_bundle,gewöhnlich mit dem fahrrad zur,10,bundle,2573014;2573016;2573018
+lexical_bundle,ganzen tag zu hause geblieben,10,bundle,526272;1000860;351100
+lexical_bundle,es ist wichtig daß du,10,bundle,12551712;12560854;12621141
+lexical_bundle,es ist mir egal wie,10,bundle,4164005;4164006;4070305
+lexical_bundle,es freut mich zu sehen,10,bundle,2634461;2634475;2634476
+lexical_bundle,er wusste nicht was er,10,bundle,344529;359105;352545
+lexical_bundle,er ist zwei jahre älter,10,bundle,413522;829804;850155
+lexical_bundle,einige fragen zu stellen habe,10,bundle,13267481;13267482;13267488
+lexical_bundle,ein blitz aus heiterem himmel,10,bundle,1205917;547203;622804
+lexical_bundle,du sagtest ihr nicht was,10,bundle,2271169;2271171;2280665
+lexical_bundle,dieses lied höre denke ich,10,bundle,1452505;439724;752283
+lexical_bundle,die erde um die sonne,10,bundle,1179416;1179415;344348
+lexical_bundle,der kongress wird uns gelegenheit,10,bundle,1235710;1235714;1235733
+lexical_bundle,der in der park street,10,bundle,11955419;11955420;11955421
+lexical_bundle,den weg zum bahnhof zu,10,bundle,1482180;351624;623491
+lexical_bundle,daß tom das getan hat,10,bundle,12454117;12621454;12621455
+lexical_bundle,daß sie nicht glaube daß,10,bundle,12660443;12662988;12662988
+lexical_bundle,daß ich ihr einige fragen,10,bundle,13267498;13267482;13267494
+lexical_bundle,das wenige geld das ich,10,bundle,343078;709673;343662
+lexical_bundle,bevor du ins bett gehst,10,bundle,362136;881129;360345
+lexical_bundle,bei dem unfall ums leben,10,bundle,364473;915727;424249
+lexical_bundle,auf während ich weg bin,10,bundle,3082712;3082713;1840160
+lexical_bundle,auf den weg zur schule,10,bundle,2573465;2573466;2573468

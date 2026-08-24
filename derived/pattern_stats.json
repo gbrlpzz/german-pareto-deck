@@ -1,0 +1,90 @@
+{
+  "totals": {
+    "routine": 46,
+    "perfekt_frame": 713,
+    "separable_frame": 81,
+    "modal_frame": 209,
+    "funkverbgefüge": 2,
+    "particle_frame": 100,
+    "connector_bundle": 404,
+    "lexical_bundle": 694
+  },
+  "sentences": 778331,
+  "runtime_s": 17.3,
+  "top_by_class": {
+    "routine": [
+      "ich weiß nicht",
+      "nicht wahr",
+      "es tut mir leid",
+      "keine ahnung",
+      "in ordnung",
+      "vielen dank",
+      "bis morgen",
+      "viel spaß"
+    ],
+    "perfekt_frame": [
+      "hat … gesagt",
+      "habe … gesehen",
+      "hat … gemacht",
+      "habe … gesagt",
+      "habe … gehört",
+      "haben … gesagt",
+      "ist … passiert",
+      "hast … gesehen"
+    ],
+    "separable_frame": [
+      "sieht … aus",
+      "siehst … aus",
+      "rufe … an",
+      "kommt … an",
+      "stimme … zu",
+      "kommt … vor",
+      "sehen … aus",
+      "hängt … ab"
+    ],
+    "modal_frame": [
+      "kann … helfen",
+      "kann … sprechen",
+      "kann … finden",
+      "kann … kaufen",
+      "kann … spielen",
+      "möchte … sprechen",
+      "kann … fahren",
+      "kann … verstehen"
+    ],
+    "funkverbgefüge": [
+      "ein paar fragen stellen",
+      "das nicht noch einmal machen"
+    ],
+    "particle_frame": [
+      "das erste mal dass ich",
+      "ist das erste mal dass",
+      "es ist das erste mal",
+      "ich habe dir doch gesagt",
+      "hast du das letzte mal",
+      "bist du schon einmal",
+      "was hast du denn",
+      "hast du schon einmal einen"
+    ],
+    "connector_bundle": [
+      "tom und maria sagten johannes",
+      "und maria sagten johannes dass",
+      "maria sagten johannes dass sie",
+      "und maria sagten johannes sie",
+      "tom und maria haben johannes",
+      "und maria haben johannes gesagt",
+      "ich kann nicht glauben dass",
+      "maria sagte tom dass sie"
+    ],
+    "lexical_bundle": [
+      "um wie viel uhr",
+      "ich bin mir nicht sicher",
+      "kennt nicht den unterschied zwischen",
+      "tom kennt nicht den unterschied",
+      "maria sagte tom sie glaube",
+      "ich weiß nicht ob ich",
+      "so schnell wie möglich",
+      "wie man das macht"
+    ]
+  }
+}
