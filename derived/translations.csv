@@ -1,5 +1,5 @@
 deu_sid,has_en,eng_text
-10008063,yes,A nail punctured the tire.
+10008063,yes,A nail punctured the tyre.
 10008456,no,
 10008740,no,
 10011935,no,
@@ -48,6 +48,7 @@ deu_sid,has_en,eng_text
 10162421,yes,Tom said he had proof.
 10162459,yes,Tom shot back at the men who were shooting at him.
 10169528,no,
+10189535,yes,My brain hurts whenever I read it.
 10190105,no,
 10191002,yes,Is Warsaw cheaper than London?
 10191325,yes,This bag of peanuts may contain peanuts.
@@ -313,6 +314,7 @@ deu_sid,has_en,eng_text
 11998152,yes,Why aren't pigs kosher?
 12000036,no,
 1200074,no,
+12005389,yes,I can't help but smile every time I think of that.
 12005783,yes,Churches hold services via YouTube.
 12017626,yes,His noble deed deserves praise indeed.
 1201901,no,
@@ -905,6 +907,7 @@ deu_sid,has_en,eng_text
 1406965,yes,I'll see to it first thing tomorrow.
 1408118,no,
 1410995,yes,I'll just have a kip.
+1412400,yes,Roads emerge because we walk them.
 1412430,no,
 1415879,no,
 1418883,yes,He gave me a blank stare.
@@ -935,6 +938,7 @@ deu_sid,has_en,eng_text
 1475678,yes,Thousands of people sleep rough in the freezing cold.
 1475914,yes,The treaty bans the use of chemical weapons.
 1481646,yes,I prefer working to doing nothing.
+1483482,no,
 1489266,no,
 1495360,no,
 1497002,yes,Tom poured himself a glass of scotch.
@@ -1000,7 +1004,7 @@ deu_sid,has_en,eng_text
 15773,yes,She quit smoking.
 1578112,no,
 1578733,yes,Performance and responsibility are not in their vocabulary; sloppiness comes as standard.
-158,yes,That has always been so.
+158,yes,It was always like that.
 1585868,yes,He disappeared again.
 1587729,yes,He requested a blow job.
 1589497,yes,The king ordered that the prisoner should be set free.
@@ -1179,7 +1183,7 @@ deu_sid,has_en,eng_text
 1818253,yes,Italy invaded Ethiopia in 1935.
 1818809,no,
 1818993,yes,She still alleges innocence.
-1819205,yes,Tom put his glasses on.
+1819205,yes,Tom put on his glasses.
 1820329,yes,I didn't hear my alarm clock.
 182048,yes,Can your brother drive a car?
 1820730,yes,I didn't know that you were a monster.
@@ -1412,6 +1416,7 @@ deu_sid,has_en,eng_text
 2278889,yes,A lot of birthday cards will arrive soon.
 2280478,no,
 2283974,yes,The situation is deteriorating dramatically.
+2290779,no,
 2291493,yes,The cart was in the shed.
 2291558,yes,"The bill's correct, thank you."
 2292949,yes,Swallow it. Don't chew it.
@@ -1753,7 +1758,7 @@ deu_sid,has_en,eng_text
 3163370,no,
 3164603,no,
 3165773,yes,Tom will pick me up after school.
-3170868,yes,Could I borrow your grey suit?
+3170868,yes,Could I borrow your gray suit?
 3179737,yes,The priest blessed the marriage of the happy couple.
 3180517,yes,This chair is made from recycled materials.
 3186473,yes,This is a sick joke.
@@ -1799,7 +1804,7 @@ deu_sid,has_en,eng_text
 331890,yes,Paris is the capital of France.
 331891,yes,Ottawa is Canada's capital.
 331892,yes,London is the capital of England.
-331896,yes,She gave him a clock.
+331896,yes,She gave him a watch.
 3319632,no,
 3320681,no,
 332149,yes,"The opposite of ""inconvenient"" is ""convenient""."
@@ -1842,7 +1847,7 @@ deu_sid,has_en,eng_text
 340816,yes,She is as clever as she is beautiful.
 340817,yes,Do you know where he bought his camera?
 340818,yes,Rain is scarce in this country.
-340820,yes,I can't wait anymore.
+340820,yes,I can wait no longer.
 340845,yes,Can I make a booking?
 340860,yes,Dutch is closely related to German.
 340881,yes,Susan left an hour ago.
@@ -1869,7 +1874,7 @@ deu_sid,has_en,eng_text
 341581,yes,She is married to a foreigner.
 341587,yes,How much did the glasses cost?
 341594,yes,What've you done with my glasses?
-341617,yes,I'll call you tonight.
+341617,yes,I'll ring you tonight.
 341661,yes,We must look at the problem from a global point of view.
 341668,no,
 341683,yes,I prefer coffee to tea.
@@ -1916,7 +1921,6 @@ deu_sid,has_en,eng_text
 343615,yes,My feet are cold.
 344,yes,"I'm sorry, I can't stay long."
 344276,yes,How did the car accident come about?
-344327,yes,My daughter is but a child.
 344352,yes,"Sorry, I've got to go."
 344362,yes,He is stronger than ever.
 344441,yes,I have no time to write to her.
@@ -1930,7 +1934,7 @@ deu_sid,has_en,eng_text
 344537,yes,"He's a good violinist, is this not true?"
 344559,no,
 344572,yes,Are you going anywhere this summer?
-344595,yes,He made an important decision.
+344595,yes,He took an important decision.
 344635,yes,I wrote a letter to Jim.
 344642,yes,Let's stop and have a rest.
 344645,yes,He thinks that blue is the most beautiful colour.
@@ -1952,7 +1956,7 @@ deu_sid,has_en,eng_text
 345484,yes,Do you play football or rugby?
 345556,yes,He married a rich girl.
 3456130,yes,His antisocial behavior isolated him.
-346955,yes,"Yes, I think it's okay."
+346955,yes,"Yes, I think that's OK."
 346973,yes,I forget his name.
 3471923,yes,I wonder if anyone wants to do my homework for me?
 3474462,yes,Cows are considered sacred animals in India.
@@ -1973,7 +1977,7 @@ deu_sid,has_en,eng_text
 348855,yes,She is afraid of her own shadow.
 3494976,no,
 3494977,no,
-349778,yes,The computers are selling like hot cakes.
+349778,yes,The computers are flying off the shelves.
 349806,no,
 349809,no,
 349825,yes,She came home very late.
@@ -1998,7 +2002,7 @@ deu_sid,has_en,eng_text
 350965,no,
 350969,no,
 351091,yes,He arrives in Kyoto tomorrow.
-351098,yes,He's scared of dogs.
+351098,yes,He's afraid of dogs.
 3511451,yes,The wall was painted yellow.
 351575,yes,I asked Mother to wake me up at four.
 351585,no,
@@ -2022,7 +2026,7 @@ deu_sid,has_en,eng_text
 352588,yes,He's intelligent and polite as well.
 352782,yes,You can't buy happiness.
 352783,yes,Can your brother drive?
-352790,yes,I was slightly surprised.
+352790,yes,I was a little surprised.
 352802,yes,Bob can also drive.
 352803,yes,I want to sleep a little more.
 353003,yes,He made me sing.
@@ -2033,7 +2037,7 @@ deu_sid,has_en,eng_text
 353061,yes,Have you ever seen a UFO?
 353088,yes,I'm annoyed at his selfishness.
 353094,yes,She turned down his invitation.
-353110,yes,I forget his name.
+353110,yes,I forgot his name.
 353250,yes,This novel is interesting enough.
 353274,yes,Time is up. Hand in your papers.
 353298,yes,His eyes betrayed his fear.
@@ -2341,7 +2345,7 @@ deu_sid,has_en,eng_text
 372920,no,
 372943,yes,There is a marked difference between them.
 372960,no,
-373,yes,Round trip? Just one way.
+373,yes,Round trip? Only one-way.
 373090,yes,Please get dressed.
 373127,yes,It is anything but big.
 374,yes,It's a pity when somebody dies.
@@ -2354,7 +2358,7 @@ deu_sid,has_en,eng_text
 375411,yes,"Look at this picture, please."
 375412,no,
 3755310,no,
-3755363,yes,Who are you calling an idiot?
+3755363,yes,Who are you calling a donkey?
 3770630,yes,I use my VISA card.
 3771605,no,
 3776757,yes,"In fact, Grant did not agree."
@@ -2464,7 +2468,7 @@ deu_sid,has_en,eng_text
 399753,yes,Where can I get my baggage?
 399763,no,
 399764,no,
-399772,yes,We have to water the flowers.
+399772,yes,We need to water the flowers.
 399790,no,
 399891,yes,Bob is popular at school.
 399925,yes,Leave it to me.
@@ -2475,7 +2479,7 @@ deu_sid,has_en,eng_text
 400628,no,
 401098,no,
 401749,no,
-402013,yes,I'll be back by six o'clock.
+402013,yes,I'll be back at six o'clock.
 402371,yes,Sorry for not replying sooner.
 402375,yes,Jack may have taken my umbrella by mistake.
 402526,no,
@@ -2496,7 +2500,6 @@ deu_sid,has_en,eng_text
 404402,yes,Mary spends a lot of money on clothes.
 404622,yes,I'm busy looking for an apartment.
 404641,no,
-404650,yes,We have a little time before the next train.
 404667,yes,Grandmother looks after the children during the day.
 404683,yes,"""Is his story true?"" ""I'm afraid not."""
 404689,yes,"Good morning, said Tom, smiling."
@@ -2568,7 +2571,7 @@ deu_sid,has_en,eng_text
 4181702,no,
 4181815,yes,Prices keep on soaring.
 418465,no,
-418865,yes,Is this a cat or a dog?
+418865,yes,Is that a cat or a dog?
 418983,yes,Are you sure you haven't forgotten anything?
 419011,yes,You're responsible for what you do.
 419082,yes,It's a ten minutes walk to the bus stop.
@@ -3065,7 +3068,7 @@ deu_sid,has_en,eng_text
 587811,no,
 588586,no,
 5887014,yes,Princess Diana's tragic death shocked the world.
-5887034,yes,I can't go on like that.
+5887034,yes,I can't go on like this.
 5888935,yes,"By the way, we're now flying over Poland."
 589613,yes,I can't stay long today.
 5896333,no,
@@ -3097,7 +3100,7 @@ deu_sid,has_en,eng_text
 596477,yes,The company plans to expand abroad.
 5968245,yes,A litre of water weighs a kilo.
 5968261,no,
-5969025,yes,You need to stay here until we get back.
+5969025,yes,You have to stay here until we get back.
 596936,yes,But no man could help me.
 5969549,no,
 5972063,no,
@@ -3236,7 +3239,7 @@ deu_sid,has_en,eng_text
 6287506,yes,The case was settled out of court.
 628828,no,
 628949,yes,I don't blame you.
-629,yes,You did this on purpose!
+629,yes,You did that on purpose!
 629252,no,
 6294775,no,
 6298579,yes,Her red dress was unique.
@@ -3331,7 +3334,7 @@ deu_sid,has_en,eng_text
 662716,yes,Did you study by yourself?
 6631564,no,
 663192,yes,Are they coming at six or at seven?
-664044,yes,I can't sleep at all!
+664044,yes,I can't sleep at all.
 664049,yes,This doll costs only sixty cents.
 664162,yes,She's getting breakfast ready.
 664202,yes,Have you recently taken a trip anywhere?
@@ -3354,7 +3357,7 @@ deu_sid,has_en,eng_text
 6681637,no,
 6681878,no,
 6688664,yes,Tom was utterly disappointed.
-669771,yes,Tom returned to his home town.
+669771,yes,Tom went back to his hometown.
 6698176,no,
 6703710,no,
 6703719,yes,O positive is the most common blood type.
@@ -3598,7 +3601,6 @@ deu_sid,has_en,eng_text
 748699,yes,Cattle were grazing in the field.
 748827,yes,Did the test results shock you?
 749638,yes,He discovered that he had made a mistake.
-749725,yes,There is a little milk left in the bottle.
 749741,no,
 749851,yes,I can't stand him.
 750359,yes,Did you know that you were wearing odd socks?
@@ -3906,7 +3908,7 @@ deu_sid,has_en,eng_text
 838,yes,Did you say that I could never win?
 838031,yes,Paper napkins are sold in packs of ten.
 8383399,yes,Translate and shut up!
-839029,yes,Mould appeared on my boots.
+839029,yes,My boots started to mildew.
 839713,yes,He got the runs in Mexico.
 839993,yes,Kristy Anderson is the wife of Larry Ewing.
 840,yes,What happened? There's water all over the apartment.
@@ -4255,6 +4257,7 @@ deu_sid,has_en,eng_text
 962256,yes,These chairs are not comfortable.
 9637490,no,
 963765,yes,The reporter criticized the politician.
+9638419,yes,Our gate squeaks whenever someone opens it.
 9641780,yes,Tom worked hard to achieve his goals.
 964234,no,
 966165,yes,Write your date of birth here.

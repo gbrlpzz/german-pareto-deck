@@ -1,85 +1,178 @@
 #!/usr/bin/env python3
-"""german-pareto-deck reproducible pipeline.
+"""Run one reproducible stage of the German Anki deck pipeline.
 
-Stages: fetch -> freq -> patterns -> sentences -> deck
-Every artifact lands in data/ (gitignored) or derived/ (tracked, inspectable).
+Stages write inspectable files in derived/ or the built deck in out/.
+Raw sources stay in data/ and are not committed.
 """
-import argparse, bz2, collections, csv, hashlib, pathlib, re, sys
+import argparse
+import bz2
+import collections
+import csv
+import hashlib
+import pathlib
+import re
+import subprocess
+import sys
+import time
+
 import requests
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-DATA = ROOT / "data"; DERIVED = ROOT / "derived"
-TATOEBA = "https://downloads.tatoeba.org/exports/per_language"
-
+DATA = ROOT / "data"
+DERIVED = ROOT / "derived"
+TATOEBA = "https://downloads.tatoeba.org/exports"
 FILES = {
-    "deu": f"{TATOEBA}/deu/deu_sentences_detailed.tsv.bz2",
-    "eng": f"{TATOEBA}/eng/eng_sentences_detailed.tsv.bz2",
-    "links": f"{TATOEBA}/deu/deu_links.tsv.bz2",
+    "deu": f"{TATOEBA}/per_language/deu/deu_sentences_detailed.tsv.bz2",
+    "eng": f"{TATOEBA}/per_language/eng/eng_sentences_detailed.tsv.bz2",
+    "links": f"{TATOEBA}/links.tar.bz2",
 }
-TOKEN_RE = re.compile(r"[a-z\u00e4\u00f6\u00fc\u00df']+")
-
 LOCAL_NAMES = {
     "deu": "deu_sentences_detailed.tsv.bz2",
-    "eng": "eng_sentences_detailed.tsv.bz2",
+    "eng": "eng_sents.tsv.bz2",
     "links": "links.tar.bz2",
 }
+TOKEN_RE = re.compile(r"[a-zäöüß']+")
+
+
+def _sha256(path):
+    h = hashlib.sha256()
+    with open(path, "rb") as fh:
+        for chunk in iter(lambda: fh.read(8 * 1024 * 1024), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
+def _download(key, url, out):
+    total = int(requests.head(url, timeout=30).headers.get("Content-Length", 0))
+    pos = out.stat().st_size if out.exists() else 0
+    for attempt in range(1, 11):
+        if total and pos >= total:
+            break
+        headers = {"Range": f"bytes={pos}-"} if pos else {}
+        try:
+            with requests.get(url, headers=headers, stream=True,
+                              timeout=(30, 120)) as response:
+                response.raise_for_status()
+                append = pos > 0 and response.status_code == 206
+                if not append:
+                    pos = 0
+                with open(out, "ab" if append else "wb") as fh:
+                    for chunk in response.iter_content(1024 * 1024):
+                        if chunk:
+                            fh.write(chunk)
+                            pos += len(chunk)
+            if not total or pos >= total:
+                break
+        except requests.RequestException as exc:
+            if attempt == 10:
+                raise RuntimeError(f"{key}: download failed: {exc}") from exc
+            time.sleep(2)
+    digest = _sha256(out)
+    print(f"{key}: {out.stat().st_size:,} bytes  sha256={digest}")
+
 
 def fetch():
     DATA.mkdir(exist_ok=True)
     for key, url in FILES.items():
-        out = DATA / LOCAL_NAMES[key]
-        pos = out.stat().st_size if out.exists() else 0
-        total = int(requests.head(url, timeout=20).headers.get("Content-Length", 0))
-        while 0 < pos < total or (pos == 0 and not out.exists()):
-            r = requests.get(url, headers={"Range": f"bytes={pos}-"} if pos else {},
-                             stream=True, timeout=(10, 30))
-            mode = "ab" if r.status_code == 206 and pos else "wb"
-            if mode == "wb":
-                pos = 0
-            with open(out, mode) as fh:
-                for ch in r.iter_content(262144):
-                    fh.write(ch); pos += len(ch)
-            if pos >= total:
-                break
-        digest = hashlib.sha256(out.read_bytes()).hexdigest()
-        print(f"{key}: {pos:,} bytes  sha256={digest}")
+        _download(key, url, DATA / LOCAL_NAMES[key])
+
 
 def _tokens(text):
-    for m in TOKEN_RE.findall(text.lower()):
-        w = m.strip("'")
-        if w:
-            yield w
+    for match in TOKEN_RE.findall(text.lower()):
+        word = match.strip("'")
+        if word:
+            yield word
+
 
 def freq():
     src = DATA / "deu_sentences_detailed.tsv.bz2"
-    counter = collections.Counter(); total_tokens = 0
+    counter = collections.Counter()
+    total_tokens = 0
     with bz2.open(src, "rt", encoding="utf-8") as fh:
         for line in fh:
             parts = line.rstrip("\n").split("\t")
             if len(parts) >= 3 and parts[1] == "deu":
-                for w in _tokens(parts[2]):
-                    counter[w] += 1; total_tokens += 1
+                for word in _tokens(parts[2]):
+                    counter[word] += 1
+                    total_tokens += 1
     DERIVED.mkdir(exist_ok=True)
-    cum = 0
+    cumulative = 0
     with open(DERIVED / "top_forms.csv", "w", newline="", encoding="utf-8") as fh:
-        wr = csv.writer(fh); wr.writerow(["rank", "form", "count", "cum_share_pct"])
-        for i, (w, c) in enumerate(counter.most_common(), 1):
-            cum += c
-            wr.writerow([i, w, c, round(cum / total_tokens * 100, 4)])
+        writer = csv.writer(fh)
+        writer.writerow(["rank", "form", "count", "cum_share_pct"])
+        for rank, (word, count) in enumerate(counter.most_common(), 1):
+            cumulative += count
+            writer.writerow([rank, word, count,
+                             round(cumulative / total_tokens * 100, 4)])
     print(f"forms: {len(counter):,}; tokens: {total_tokens:,} -> {DERIVED/'top_forms.csv'}")
 
+
+def run_script(name):
+    subprocess.run([sys.executable, str(ROOT / "src" / name)], check=True)
+
+
 def patterns():
-    import subprocess
-    subprocess.run([sys.executable, str(ROOT / "src" / "patterns.py")], check=True)
+    run_script("patterns.py")
+
+
+def select():
+    run_script("select_patterns.py")
+
+
+def lemmatize():
+    run_script("lemmatize.py")
+
+
+def words():
+    run_script("words.py")
+
 
 def sentences():
-    sys.exit("sentences: WIP")
+    run_script("sentences.py")
+
+
+def translations():
+    run_script("translations.py")
+
+
+def fetch_kaikki():
+    run_script("fetch_kaikki.py")
+
+
+def lemma_glosses():
+    run_script("lemma_glosses.py")
+
+
+def glosses():
+    run_script("glosses.py")
+
 
 def deck():
-    sys.exit("deck: WIP (genanki)")
+    run_script("deck.py")
+
+
+def plots():
+    run_script("plots.py")
+
+
+STAGES = {
+    "fetch": fetch,
+    "freq": freq,
+    "patterns": patterns,
+    "select": select,
+    "lemmatize": lemmatize,
+    "words": words,
+    "sentences": sentences,
+    "translations": translations,
+    "fetch-kaikki": fetch_kaikki,
+    "lemma-glosses": lemma_glosses,
+    "glosses": glosses,
+    "deck": deck,
+    "plots": plots,
+}
+
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument("stage", choices=["fetch", "freq", "patterns", "sentences", "deck"])
-    args = ap.parse_args()
-    globals()[args.stage]()
+    ap.add_argument("stage", choices=sorted(STAGES))
+    STAGES[ap.parse_args().stage]()

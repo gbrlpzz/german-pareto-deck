@@ -370,7 +370,6 @@ def main():
         "totals": dict(collections.Counter(r["class"] for r in out_rows)),
         "top_by_class": {c: [r["pattern"] for r in out_rows if r["class"] == c][:8]
                          for c in order},
-        "runtime_s": round(time.time() - t0, 1),
     }
     (DERIVED / "pattern_stats.json").write_text(
         json.dumps(stats, ensure_ascii=False, indent=2))

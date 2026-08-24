@@ -1,8 +1,7 @@
 # Methodology
 
-Goal: an Anki deck teaching German through the Pareto-optimal set of words AND patterns,
-with every number either measured here or cited. Non-goal: reading-literature coverage
-(that needs 8,000–9,000 word families; out of scope).
+Goal: teach German with high-frequency words and patterns.
+Reading-literature coverage is out of scope. That needs 8,000-9,000 word families.
 
 ## 0. Decisions at a glance
 
@@ -14,7 +13,7 @@ with every number either measured here or cited. Non-goal: reading-literature co
 | D4 | Pattern class mix | see §4b table | ADOPTED |
 | D5 | Card format | production cloze sentence; recognition reverse only for particles/routines | ADOPTED |
 | D6 | Lemma handling | rule-based lemmatizer (`src/lemmatize.py`), 24.5% of types grouped, suppletive paradigms via closed dictionary, conservative by design | IMPLEMENTED |
-| D7 | Licensing | code Apache-2.0; no raw-corpus redistribution; refetch instead | ADOPTED |
+| D7 | Licensing | code MIT; no raw-corpus redistribution; refetch instead | ADOPTED |
 
 ## 1. Terms
 
@@ -36,7 +35,7 @@ with every number either measured here or cited. Non-goal: reading-literature co
 | 10,000 | 94.8% | 93.5% |
 
 ¹ measured directly from the primary FrequencyWords dataset during research for this project.
-² `derived/coverage_curve.csv`, reproducible via `src/pipeline.py freq`.
+² `derived/top_forms.csv`, produced by `src/pipeline.py freq`.
 
 Tatoeba reads lower at equal rank (translated, noun-heavier register; smaller corpus ⇒ more
 proper-noun/hapax noise). Subtitles remain the better speech proxy; the two curves bracket reality.
@@ -77,26 +76,32 @@ Bundle research shows the highest ROI in dialogue. We adopt ~500 cards with this
 
 ## 5. Card specification
 
-Default card: a German sentence with the pattern cloze-deleted. The learner produces the
-answer. The back shows the full sentence, a short EN gloss, and the EN translation when
-available. Particles and routines get recognition reverses. Every card uses exactly one
-authentic Tatoeba sentence. Tags encode tier and pattern class.
+Word cards use English cues and production blanks. Pattern cards delete the pattern inside a
+German sentence. The learner produces the answer. Routine and particle cards also have a
+recognition card. The back shows the full sentence, a short English gloss, and the English
+translation when available. Every card uses one authentic Tatoeba sentence. Tags encode tier
+and pattern class.
 
 ## 6. Pipeline
 
-fetch → freq → patterns → sentences → deck (see README quickstart). Each stage writes
-inspectable artifacts; raw corpora are never committed, only re-fetched with recorded sha256.
+The stages are `fetch`, `freq`, `patterns`, `select`, `lemmatize`, `words`, `sentences`,
+`translations`, `fetch-kaikki`, `lemma-glosses`, `deck`, and `plots`. Each stage writes an
+inspectable artifact. Raw sources stay in `data/` and are not committed. Downloads print a
+sha256 checksum.
 
 ## 7. Limitations
 
-- Form-level curves approximate lemma coverage; lemmatization pass pending (D6).
-- Tatoeba is translated prose-flavored dialogue — good, imperfect speech proxy.
-- 500-pattern scale extrapolates from English list research (PHRASE List), acknowledged medium confidence.
-- Sentence selection optimizes length/naturalness heuristics; no audio.
+- Coverage curves are form-level. The rule-based lemmatizer leaves some homographs and
+  irregular forms unresolved. Kaikki form-of links improve glosses but do not change grouping.
+- Tatoeba is translated prose-flavored dialogue. It is a useful but imperfect speech proxy.
+- The 500-pattern scale uses the PHRASE List as an anchor. The list is not German-specific.
+- Sentence selection uses corpus length and frequency. The deck has no audio.
 
 ## 8. Changelog
 
-- v0.1 — methodology fixed; both research reports merged; empirical curves measured.
+- v0.1 - methodology fixed; empirical curves measured; first deck released.
+- v0.2 - all 500 patterns receive cloze cards; 62 recognition cards added; lemma-first
+  glosses added; reproducibility stages wired.
 
 ## 9. Figures
 
@@ -134,23 +139,26 @@ one of three kinds:
 | Funktionsverbgefüge shape guards | len ≤ 9, no *ge-* | HEURISTIC | prevents *Haltestelle*→"halt" and *gebrochen*→"geb" stem collisions |
 | Word cutoffs | 2,000 / 4,000 | LIT+DATA | = D2 |
 | Translation choice | shortest per sentence | RULE | card fit |
-| EN glosses | best-effort | NOTE | quality enhancement, not a selection threshold |
+| EN glosses | Kaikki lemma-first; form-of and form fallbacks; 2,937/2,963 rows | NOTE | quality enhancement, not a selection threshold |
 
 Observed redistribution (v0.1): one move of 78 slots, funkverbgefüge (20 available of 90)
 and routine (42 of 50) shortfalls absorbed by perfekt/modal, separable, particle/connector,
 bundle — trace in `derived/selection_summary.json`.
 
 
-## 11. Build results (v0.1)
+## 11. Build results (v0.2)
 
 | Artifact | Count | Notes |
 |---|---:|---|
-| Word cards | 2,963 | 1,507 core + 1,456 extension; from top-4,000 forms — the ~26% form-to-lemma compression matches the D2 adjustment |
-| Pattern cards | 461 | from 500 selected; 39 skipped at build with explicit accounting (authentic sentence could not host the cloze: punctuation/apostrophe variants) |
-| Translations attached | ~65% of cards | Tatoeba deu-eng links; untranslated cards still carry the authentic sentence + gloss |
-| EN glosses | best-effort | Wiktionary definitions, rate-limit-aware fetcher, resume-safe |
-| Tests | OK | schema + selection-invariant suite; lemmatizer rule tests |
+| Total Anki cards | 3,525 | 2,963 word + 500 pattern cloze + 62 recognition |
+| Word cards | 2,963 | 1,507 core + 1,456 extension |
+| Pattern cloze cards | 500 | all selected patterns have an exemplar; 0 cloze skips |
+| Pattern recognition cards | 62 | 42 routines + 20 particle frames |
+| Translated sentence IDs | 2,836/4,348 | 65.2%; untranslated cards keep the German sentence |
+| Lemma gloss rows | 2,937/2,963 | Kaikki extract; form-of, alias, and two documented phrase fallbacks |
+| Word cards without a gloss | 26 | mostly names or corpus-specific items |
+| Tests | OK | pipeline, cloze matcher, and lemmatizer tests |
 
-Known limitations at ship: form-level residual homograph merges (~0.3%, no POS resource);
-preterite vowel-change forms outside the closed dictionary stay ungrouped; 39-pattern cloze
-skips; Tatoeba register bias (Fig. 1 bracket). All are visible in the decision log above.
+Known limitations: the word grouping remains rule-based; some forms use a clipped stem or
+remain separate from their citation lemma. The source corpora are not redistributed. Tatoeba
+has register and translation bias. The deck has no audio.

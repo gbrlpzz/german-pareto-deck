@@ -3,9 +3,10 @@
 
     .venv/bin/python src/plots.py
 """
-import csv, json, pathlib
+import csv, json, os, pathlib
+os.environ["MPLBACKEND"] = "Agg"
 import matplotlib
-matplotlib.use("Agg")
+matplotlib.use("Agg", force=True)
 import matplotlib.pyplot as plt
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]

@@ -54,7 +54,7 @@ for sid in sorted(need):
         rows.append((sid, "no", ""))
 
 with open(DERIVED / "translations.csv", "w", newline="", encoding="utf-8") as fh:
-    w = csv.writer(fh)
+    w = csv.writer(fh, lineterminator="\n")
     w.writerow(["deu_sid", "has_en", "eng_text"])
     w.writerows(rows)
 print(f"translations: {have}/{len(need)} ({have / len(need) * 100:.1f}%)")
