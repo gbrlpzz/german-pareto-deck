@@ -2,7 +2,18 @@
 
 An evidence-sized German Anki deck: the Pareto-optimal core vocabulary, taught inside the highest-frequency sentence patterns. Every number is measured or cited — nothing is arbitrary.
 
-Status: **v0.1 released** — deck, pipeline, tests and methodology complete. Download: [Releases](https://github.com/gbrlpzz/german-pareto-deck/releases/latest).
+Status: **v0.1 released**.
+
+## Start here
+
+1. Download `german-pareto-deck.apkg` from [Releases](https://github.com/gbrlpzz/german-pareto-deck/releases/latest).
+2. In Anki: **File → Import**.
+3. Study **German Pareto::Core** (1,507 cards) first — it is the steep part of the curve.
+4. Add **German Pareto::Patterns** (461 cards) from day one; chunks make the words stick.
+5. Take **German Pareto::Extension** when Core feels easy.
+
+Everything is tagged (`core`, `ext`, rank bands, pattern classes) — suspend freely, the
+deck does not depend on card order.
 
 ## Scientific overview
 
@@ -64,6 +75,11 @@ v0.1 ships **3,425 cards**:
 
 *Figure 3. Final pattern mix: the D4 literature allocation after D8-significant candidate
 availability and documented redistribution (trace: `derived/selection_summary.json`).*
+
+## Roadmap
+
+See [docs/ROADMAP.md](docs/ROADMAP.md) — prioritized follow-ups, each tied to a documented
+limitation. Nothing blocks daily use.
 
 ## Companion documents
 
