@@ -56,15 +56,15 @@ proper-noun/hapax noise). Subtitles remain the better speech proxy; the two curv
 
 ## 4a. Why 2,000 + 4,000 words
 
-German inflection means ~1.5–2 forms per frequent lemma, so form-rank overstates lemma count.
-Form-level 85–88% ≈ roughly 90% at lemma level for the same material. Cross-checking with
-Adolphs & Schmitt (spoken families): the 95% line lands between 3,000 and 4,000 lemmas.
-Beyond 5,000 lemmas buys under 3 percentage points — parked as optional extension, not built.
+German inflection adds ~1.5-2 forms per frequent lemma. Form-rank therefore overstates
+lemma count. Form-level 85-88% is roughly 90% at lemma level for the same material.
+Adolphs & Schmitt put the spoken 95% line at 3,000-4,000 families. We set the cutoff there.
+Beyond 5,000 lemmas buys under 3 percentage points. That band stays an optional extension.
 
 ## 4b. Why ~500 patterns, and which
 
-No canonical constant exists; the strongest list-scale anchor is the 505-item PHRASE List,
-and bundle research shows ROI peaking in dialogue. Class mix adopted for the German deck:
+No canonical constant exists. The strongest list-scale anchor is the 505-item PHRASE List.
+Bundle research shows the highest ROI in dialogue. We adopt ~500 cards with this class mix:
 
 | Class | ~count | Example |
 |---|---:|---|
@@ -77,10 +77,10 @@ and bundle research shows ROI peaking in dialogue. Class mix adopted for the Ger
 
 ## 5. Card specification
 
-Default: German sentence, pattern cloze-deleted, **production** answer; back shows the completed
-sentence, a short EN gloss of the chunk, and (when available) the EN sentence translation.
-Recognition-reverse cards reserved for modal particles and routines. Every card carries exactly
-one authentic Tatoeba example sentence. Tags encode tier + pattern class for suspend/skip control.
+Default card: a German sentence with the pattern cloze-deleted. The learner produces the
+answer. The back shows the full sentence, a short EN gloss, and the EN translation when
+available. Particles and routines get recognition reverses. Every card uses exactly one
+authentic Tatoeba sentence. Tags encode tier and pattern class.
 
 ## 6. Pipeline
 
@@ -108,11 +108,12 @@ series live in `derived/subtitles_curve.csv`.
 
 ## 10. Decision D8 — no arbitrary thresholds (owner directive)
 
-Applied to EVERY selection in this repo, not only vocabulary size. Each constant is one of:
+This applies to every selection in this repo, not only vocabulary size. Each constant is
+one of three kinds:
 
-- **(a) DATA-DERIVED** — computed by a stated formula from the corpus at run time;
-- **(b) LITERATURE** — anchored to a cited source;
-- **(c) HEURISTIC** — explicitly flagged, with rationale and observed effect.
+- **(a) DATA-DERIVED** - computed by a stated formula from the corpus at run time.
+- **(b) LITERATURE** - anchored to a cited source.
+- **(c) HEURISTIC** - flagged as such, with rationale and observed effect.
 
 ### Selection registry
 
