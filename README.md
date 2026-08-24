@@ -1,6 +1,6 @@
 # german-pareto-deck
 
-> **Suggested GitHub description:** German Anki deck sized by evidence — the Pareto-optimal core vocabulary taught inside the highest-frequency sentence patterns. Reproducible pipeline, every number traced to its source.
+An evidence-sized German Anki deck: the Pareto-optimal core vocabulary, taught inside the highest-frequency sentence patterns. Every number is measured or cited — nothing is arbitrary.
 
 Status: **v0.1 released** — deck, pipeline, tests and methodology complete. Download: [Releases](https://github.com/gbrlpzz/german-pareto-deck/releases/latest).
 
