@@ -33,7 +33,7 @@ with bz2.open(DATA / "deu_sentences_detailed.tsv.bz2", "rt", encoding="utf-8") a
         p = line.rstrip("\n").split("\t")
         if len(p) < 3 or p[1] != "deu":
             continue
-        sid, text = p[0], p[2]
+        sid, text = p[0], p[2].strip()
         tk = toks(text)
         if not (q1 <= len(tk) <= q3):
             continue
@@ -60,7 +60,8 @@ for r in wl:
                  "de_text": texts[sid]})
 
 with open(DERIVED / "word_sentences.csv", "w", newline="", encoding="utf-8") as fh:
-    w = csv.DictWriter(fh, fieldnames=["form", "sid", "alt", "de_text"])
+    w = csv.DictWriter(fh, fieldnames=["form", "sid", "alt", "de_text"],
+                      lineterminator="\n")
     w.writeheader()
     w.writerows(rows)
 covered = sum(1 for r in rows if r["sid"])

@@ -85,7 +85,8 @@ Known residual imperfections (accepted, documented):
 - war/wart/warst cluster under waren; aufs/fuers-class contractions group under
   their preposition.
 
-Output: derived/lemma_groups.csv
+Output: derived/lemma_groups.csv. If present, derived/lemma_overrides.csv
+adds safe dictionary links before the rule set runs.
 """
 import csv
 import pathlib
@@ -94,6 +95,7 @@ from collections import defaultdict
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 TOP_FORMS = ROOT / "derived" / "top_forms.csv"
 OUT = ROOT / "derived" / "lemma_groups.csv"
+OVERRIDES = ROOT / "derived" / "lemma_overrides.csv"
 
 VOCAB_VERB_MAX_RANK = 15000   # D8: infinitives beyond the top 15k forms sit below
                               # 95.17% cumulative token share where hapax/proper-noun
@@ -172,7 +174,14 @@ def build_admitted(rank_of, count_of):
     return admitted
 
 
-def lemmatize(form, rank_of, count_of, admitted=None, irregular=None):
+def load_overrides(path=OVERRIDES):
+    if not path.exists():
+        return {}
+    with open(path, encoding="utf-8") as fh:
+        return {row["form"]: row["lemma"] for row in csv.DictReader(fh)}
+
+
+def lemmatize(form, rank_of, count_of, admitted=None, irregular=None, overrides=None):
     """Return (lemma, method) for one form. Pure and deterministic."""
     if admitted is None:
         admitted = build_admitted(rank_of, count_of)
@@ -180,7 +189,11 @@ def lemmatize(form, rank_of, count_of, admitted=None, irregular=None):
         vocab = set(rank_of)
         irregular = {k: v for k, v in IRREGULAR_PARTICIPLES.items() if v in vocab}
         irregular.update({k: v for k, v in SUPPLETIVE_FINITE.items() if v in vocab})
+    if overrides is None:
+        overrides = {}
 
+    if form in overrides:
+        return overrides[form], "dictionary"
     if form in EXCEPTION_FORMS or len(form) < MIN_STEM:
         return form, "ungrouped"
 
@@ -235,16 +248,17 @@ def main():
     vocab = set(rank_of)
     irregular = {k: v for k, v in IRREGULAR_PARTICIPLES.items() if v in vocab}
     irregular.update({k: v for k, v in SUPPLETIVE_FINITE.items() if v in vocab})
+    overrides = load_overrides()
 
     rows_out = []
     with open(TOP_FORMS, encoding="utf-8") as fh:
         for row in csv.DictReader(fh):
             form = row["form"]
-            lemma, method = lemmatize(form, rank_of, count_of, admitted, irregular)
+            lemma, method = lemmatize(form, rank_of, count_of, admitted, irregular, overrides)
             rows_out.append((form, row["rank"], lemma, lemma, method))
 
     with open(OUT, "w", encoding="utf-8", newline="") as fh:
-        w = csv.writer(fh)
+        w = csv.writer(fh, lineterminator="\n")
         w.writerow(["form", "rank", "lemma", "group_id", "method"])
         w.writerows(rows_out)
 

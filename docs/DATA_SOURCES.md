@@ -10,3 +10,10 @@
 
 Raw sources are not redistributed. `src/pipeline.py fetch` and
 `src/fetch_kaikki.py` download them again and print checksums.
+
+## Generated publication artifacts
+
+The v0.3 manifest records the final APKG hash, local source hashes, card counts, and build revision:
+[docs/RELEASE_MANIFEST.json](RELEASE_MANIFEST.json).
+
+The release does not upload `data/`. Rebuild it with the URLs above.

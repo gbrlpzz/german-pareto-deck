@@ -1,0 +1,31 @@
+{
+  "title": "German Pareto Deck: frequent words in frequent sentence patterns",
+  "upload_type": "software",
+  "publication_date": "2026-08-24",
+  "version": "v0.3",
+  "description": "A research-backed German Anki deck with 2,560 high-frequency word cards, 500 pattern cloze cards, and 62 recognition cards. Word cards use authentic Tatoeba sentences. The release has no audio and does not redistribute raw corpora. Code is MIT. Generated sentence material derives from Tatoeba (CC BY 2.0 FR); glosses and form links derive from Kaikki/Wiktionary (CC BY-SA 3.0). See the included provenance and license notes.",
+  "creators": [
+    {
+      "name": "gbrlpzz"
+    }
+  ],
+  "keywords": [
+    "German",
+    "Anki",
+    "language learning",
+    "frequency",
+    "sentence patterns",
+    "cloze"
+  ],
+  "access_right": "open",
+  "license": "other-open",
+  "rights": "Composite release: MIT code; Tatoeba-derived sentence material under CC BY 2.0 FR; Kaikki/Wiktionary-derived glosses and form links under CC BY-SA 3.0. See LICENSE_NOTE.md.",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/gbrlpzz/german-pareto-deck/releases/tag/v0.3",
+      "relation": "isIdenticalTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "Do not redistribute the raw source corpora. The repository records URLs, licenses, sizes, and checksums for refetching."
+}

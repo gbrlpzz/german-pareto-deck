@@ -11,7 +11,8 @@ DERIVED = ROOT / "derived"
 
 
 def rows(name):
-    return list(csv.DictReader(open(DERIVED / name)))
+    with open(DERIVED / name, encoding="utf-8", newline="") as fh:
+        return list(csv.DictReader(fh))
 
 
 class TestFrequencyArtifacts(unittest.TestCase):
@@ -31,7 +32,8 @@ class TestFrequencyArtifacts(unittest.TestCase):
 class TestPatternSelection(unittest.TestCase):
     def setUp(self):
         self.sel = rows("patterns_selected.csv")
-        self.summary = json.load(open(DERIVED / "selection_summary.json"))
+        with open(DERIVED / "selection_summary.json", encoding="utf-8") as fh:
+            self.summary = json.load(fh)
 
     def test_total_is_literature_anchor(self):
         self.assertEqual(len(self.sel), 500)  # D3: PHRASE-List scale
@@ -46,7 +48,8 @@ class TestPatternSelection(unittest.TestCase):
                 self.assertGreaterEqual(int(r["n"]), 3)  # D8 registry
 
     def test_no_blocklist_names(self):
-        stats = json.load(open(DERIVED / "pattern_stats.json"))
+        with open(DERIVED / "pattern_stats.json", encoding="utf-8") as fh:
+            stats = json.load(fh)
         banned = set(stats["criteria"]["name_blocklist"])
         for r in self.sel:
             if r["kind"] == "bundle":

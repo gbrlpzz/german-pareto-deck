@@ -6,7 +6,7 @@ Card spec (METHODOLOGY D5):
   Pattern cards cloze: the pattern deleted inside one authentic sentence.
 Stable GUIDs: re-import updates existing cards instead of duplicating.
 """
-import collections, csv, pathlib, re
+import collections, csv, pathlib, re, time, zipfile
 
 import genanki
 
@@ -14,9 +14,10 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 DERIVED = ROOT / "derived"
 OUT = ROOT / "out" / "german-pareto-deck.apkg"
 
-DECK_IDS = {"core": 1704000001, "ext": 1704000002, "pat": 1704000003}
+DECK_IDS = {"core": 1704000001, "ext": 1704000002, "patterns": 1704000003}
 MODEL_WORD = 1607392319
 MODEL_PAT = 1607392398
+BUILD_TIMESTAMP = 1700000000
 
 CSS = """.card{font-family:-apple-system,Helvetica,sans-serif;font-size:20px;
 text-align:center;color:#222;background:#fafafa}
@@ -61,7 +62,22 @@ pattern_rec_model = genanki.Model(
 
 def load(path):
     p = DERIVED / path
-    return list(csv.DictReader(open(p))) if p.exists() else []
+    return list(csv.DictReader(open(p, encoding="utf-8", newline=""))) if p.exists() else []
+
+
+def normalize_apkg(path):
+    """Normalize ZIP metadata so identical inputs produce identical bytes."""
+    temporary = path.with_suffix(path.suffix + ".normalized")
+    stamp = time.gmtime(BUILD_TIMESTAMP)[:6]
+    with zipfile.ZipFile(path, "r") as source, zipfile.ZipFile(
+            temporary, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=9) as target:
+        for name in sorted(source.namelist()):
+            info = zipfile.ZipInfo(name, date_time=stamp)
+            info.compress_type = zipfile.ZIP_DEFLATED
+            info.create_system = 3
+            info.external_attr = 0o600 << 16
+            target.writestr(info, source.read(name))
+    temporary.replace(path)
 
 
 def blank(text, form):
@@ -133,7 +149,8 @@ def main():
     trans = {r["deu_sid"]: r["eng_text"] for r in load("translations.csv") if r["has_en"] == "yes"}
     ws = {r["form"]: r for r in load("word_sentences.csv")}
 
-    decks = {k: genanki.Deck(v, f"German Pareto::{k.capitalize()}")
+    deck_names = {"core": "Core", "ext": "Extension", "patterns": "Patterns"}
+    decks = {k: genanki.Deck(v, f"German Pareto::{deck_names[k]}")
              for k, v in DECK_IDS.items()}
 
     n_words = 0
@@ -170,7 +187,7 @@ def main():
             for line in fh:
                 p = line.rstrip("\n").split("\t")
                 if len(p) >= 3 and p[0] in need:
-                    sid_text[p[0]] = p[2]
+                    sid_text[p[0]] = p[2].strip()
 
     for r in load("patterns_selected.csv"):
         exs = [x for x in r["examples"].split(";") if x and x in sid_text]
@@ -186,7 +203,7 @@ def main():
             fields=[cloze, trans.get(exs[0], ""), r["class"]],
             guid=genanki.guid_for("gppat", r["pattern"]),
             tags=[r["group"], r["class"]])
-        decks["pat"].add_note(note)
+        decks["patterns"].add_note(note)
         n_pat += 1
 
     for r in load("patterns_selected.csv"):
@@ -200,11 +217,13 @@ def main():
             fields=[r["pattern"], sid_text[exs[0]], trans.get(exs[0], ""), r["class"]],
             guid=genanki.guid_for("gppatr", r["pattern"]),
             tags=[r["group"], r["class"], "recognize"])
-        decks["pat"].add_note(note)
+        decks["patterns"].add_note(note)
         n_rec += 1
 
     OUT.parent.mkdir(exist_ok=True)
-    genanki.Package(list(decks.values())).write_to_file(str(OUT))
+    genanki.Package(list(decks.values())).write_to_file(
+        str(OUT), timestamp=BUILD_TIMESTAMP)
+    normalize_apkg(OUT)
     print(f"word cards: {n_words}  pattern cards: {n_pat}  patterns skipped (no cloze match): {n_skipped[0]}  recognition cards: {n_rec}")
     print("wrote", OUT)
 

@@ -1,0 +1,81 @@
+{
+  "release": "v0.3",
+  "artifact": {
+    "path": "out/german-pareto-deck.apkg",
+    "bytes": 369193,
+    "sha256": "1221a8079ac22aca53c5efbd1a636b5aad4434f05e14751e472cc2756e503eba"
+  },
+  "apkg": {
+    "notes": 3122,
+    "cards": 3122,
+    "models": {
+      "1607392319": 2560,
+      "1607392398": 500,
+      "1607392399": 62
+    },
+    "media_files": 0
+  },
+  "word_cards": {
+    "total": 2560,
+    "core": 1313,
+    "extension": 1247
+  },
+  "patterns": {
+    "selected": 500,
+    "recognition": 62
+  },
+  "lemma_overrides": {
+    "accepted": 882,
+    "rejected": 6
+  },
+  "vocabulary_exclusions": 28,
+  "translations": {
+    "total": 3966,
+    "translated": 2596
+  },
+  "derived_sha256": {
+    "wordlist.csv": "35baf5acbb426255f7c86d84c567a5267ac7840356352bd8ba2ea6bd3be285c1",
+    "lemma_overrides.csv": "828f4d8e33319a9ccd483a8bd4b63999e984221a0171c74988c47d11e428dbf6",
+    "lemma_override_exclusions.csv": "6b21a0ecd56c3a9483ed1af498bed15a4f0458d7e775cb2e19aadffda9a4f28a",
+    "vocab_exclusions.csv": "04efdae26b1bff1f3d236e31d574c25b614e4b99dc08659cdeb4418d84e15a35",
+    "translations.csv": "2688f90efcbcaa2676c9515b8593b8df4981f773289b70fd39bebafcee0c0124"
+  },
+  "source_checksums": {
+    "tatoeba_deu": {
+      "path": "data/deu_sentences_detailed.tsv.bz2",
+      "bytes": 17539296,
+      "sha256": "254ab55937691edf9d5b6159095e6f6eff40ba0ed61e2ff16d682500703d18f4"
+    },
+    "tatoeba_eng": {
+      "path": "data/eng_sents.tsv.bz2",
+      "bytes": 34837075,
+      "sha256": "53159b53f4f3a8de8df7c797b73be8adbf1e498c19ed9b8e7bad0ba1ab1e8273"
+    },
+    "tatoeba_links": {
+      "path": "data/links.tar.bz2",
+      "bytes": 149334724,
+      "sha256": "560404e552abbc78f1849c596e143fade91aca79648e111c602ae17b52655d30"
+    },
+    "kaikki_german": {
+      "path": "data/kaikki_de.jsonl",
+      "bytes": 1071113941,
+      "sha256": "8ad43b9407e4e632d234ba93ff97e9373e0f1bc47f0a186999f21f4441737fb7"
+    }
+  },
+  "source_revision": "59f1900d01ac1dff26090002e0b43441c24736fc",
+  "build": ".venv/bin/python src/pipeline.py build",
+  "tests": [
+    ".venv/bin/python -m unittest test_pipeline test_deck test_glosses test_phase3 test_release -v",
+    ".venv/bin/python test_lemmatize.py"
+  ],
+  "scope": {
+    "audio": false,
+    "raw_corpora_redistributed": false,
+    "optional_5k_band": false
+  },
+  "licenses": {
+    "code": "MIT",
+    "tatoeba": "CC BY 2.0 FR",
+    "kaikki_wiktionary": "CC BY-SA 3.0"
+  }
+}

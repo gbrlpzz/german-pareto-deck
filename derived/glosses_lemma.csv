@@ -6,7 +6,6 @@ abenteuer,noun,adventure,lemma
 aber,adv,"rather; quite; unusually; used with adjectives to express a surprising degree, whether this surprise be real or for effect",lemma
 abgeben,verb,"to give up, relinquish, let go, concede, hand over, etc. (power, money, valuable objects, etc.)",lemma
 abgelehnt,adj,"rejected, declined",lemma
-abgenommen,verb,to take off (to remove something that is attached to something or on top of it),form-of
 abgesagt,adj,"postponed; called off, cancelled",lemma
 abgeschlossen,adj,"separate, enclosed",lemma
 abhalten,verb,"to keep off, away, or out; to hold off",lemma
@@ -28,7 +27,7 @@ achten,verb,"to care about, to pay attention to",lemma
 achtung,noun,attention,lemma
 achtzehn,noun,eighteen (number),lemma
 adresse,noun,address,lemma
-aff,noun,monkey or ape (male or female or of unspecified sex),form-of
+affe,noun,monkey or ape (male or female or of unspecified sex),lemma
 afrika,name,Africa (the continent south of Europe and between the Atlantic and Indian Oceans),lemma
 ahnung,noun,"anticipation, inkling",lemma
 aktiv,adj,active,lemma
@@ -39,6 +38,7 @@ algier,name,Algiers (the capital city of Algeria),lemma
 alkohol,noun,"alcohol, ethanol (substance)",lemma
 all,det,all,lemma
 allein,adj,alone,lemma
+allem,pron,masculine and neutral gender forms,form-of
 allerdings,adv,"but, however",lemma
 allergisch,adj,allergic,lemma
 allgemein,adj,"general (common, basic, usual), universal",lemma
@@ -57,34 +57,25 @@ amt,noun,agency; department; office (state institution responsible for specified
 an,adj,on,lemma
 anblick,noun,"view, sight, look",lemma
 andere,noun,nominalization of andere: the other / different one (female),lemma
-anderem,adj,"other, different",form-of
-anderen,adj,"other, different",form-of
 anderer,adj,"other, different",lemma
 andern,pron,alternative form of anderen,lemma
 anders,adv,"different, differently",lemma
 anfang,noun,"start, beginning, origin (spatially or temporally)",lemma
 anfangen,verb,to begin; to commence,lemma
-anfänger,verb,to begin; to commence,form-of
 angebot,noun,"offer, proposition",lemma
-angefangen,verb,to begin; to commence,form-of
 angegriffen,adj,attacked,lemma
 angehen,verb,"to concern, regard",lemma
-angekommen,verb,to arrive,form-of
 angelegenheit,noun,"matter, issue, affair",lemma
 angeln,verb,"to angle, to fish (with a fishing rod)",lemma
-angelogen,verb,"to lie to, to tell someone a lie, to tell someone lies",form-of
 angenehm,adj,"pleasant, pleasing",lemma
-angenommen,verb,"to assume, to suppose (as given)",form-of
-angerufen,verb,"to call, to ring (by telephone or similar technology)",form-of
 angesehen,adj,reputable,lemma
 angetan,verb,done,form-of
 angewohnheit,noun,"habit, custom",lemma
-angezogen,verb,senses related to dressing,form-of
 angst,noun,fear; fright; anxiety,lemma
 anhalt,noun,indication,lemma
-ankam,verb,dependent preterite,form-of
 ankommen,verb,to arrive,lemma
 ankunft,noun,arrival,lemma
+anlügen,verb,"to lie to, to tell someone a lie, to tell someone lies",lemma
 ann,name,"a female given name, variant of Anna",form-fallback
 annehmen,verb,"to assume, to suppose (as given)",lemma
 anruf,noun,a (phone) call,lemma
@@ -98,28 +89,23 @@ anspruch,noun,"entitlement, demand, expectation of what should come from someone
 anstatt,conj,instead of,lemma
 antwort,noun,answer,lemma
 antworten,verb,"to answer, to reply",lemma
-antwortet,verb,"to answer, to reply",form-of
 anwalt,noun,"attorney, lawyer",lemma
 anweisung,noun,"directive, order",lemma
 anwesend,adj,present (in the immediate vicinity),lemma
 anzahl,noun,"number, an amount; a few",lemma
 anziehen,verb,senses related to dressing,lemma
 anzug,noun,"suit (of clothes), outfit",lemma
-anzunehmen,verb,"to assume, to suppose (as given)",form-of
-anzurufen,verb,"to call, to ring (by telephone or similar technology)",form-of
-anzusehen,verb,"to look at, to have a look at (taking in information in doing so)",form-of
 apfel,noun,apple (fruit),lemma
 appetit,noun,appetite,lemma
 april,noun,April,lemma
 arabisch,adj,"Arabian, Arabic, Arab (of or pertaining to Arabs or Arab culture, etc.)",lemma
 arbeit,noun,"toil, regularly performed work, regularly pursued economic activity, labor, job, employment, occupation",lemma
 arbeiten,verb,to work (to do a specific task by employing physical or mental powers),lemma
-arbeitet,verb,to work (to do a specific task by employing physical or mental powers),form-of
 arbeitslos,adj,unemployed (having no work despite being willing to work),lemma
 arbeitsplatz,noun,workplace,lemma
 arm,adj,poor (having little money),lemma
 armbanduhr,noun,wristwatch,lemma
-arme,adj,poor (having little money),form-of
+armee,noun,army (large tactical contingent consisting of several divisions),lemma
 armut,noun,poverty,lemma
 arsch,noun,"arse, posterior, buttocks",lemma
 art,noun,"kind, sort, type",lemma
@@ -131,16 +117,13 @@ atmen,verb,to breathe,lemma
 atmosphäre,noun,atmosphere,lemma
 auch,adv,"also, too, as well (in addition to whatever or whoever has previously been listed)",lemma
 auf,adj,open,lemma
+auffallen,verb,"to stand out, to be noticeable",lemma
 aufgab,verb,dependent preterite,form-of
+aufgabe,noun,"task, job",lemma
 aufgeben,verb,to give up on (one's efforts),lemma
-aufgefallen,verb,"to stand out, to be noticeable",form-of
 aufgegeben,adj,"abandoned, derelict, forsaken",lemma
-aufgehört,verb,to stop; to quit; to cease,form-of
 aufgenommen,adj,recorded,lemma
 aufgeregt,adj,excited,lemma
-aufgestanden,verb,to get up (move from a sitting or lying position to a standing position; to get up from bed),form-of
-aufgewachsen,verb,to grow up,form-of
-aufgewacht,verb,"to awake, to wake up",form-of
 aufgrund,prep,"due to, because of, as a result of, by reason of, on account of",lemma
 aufhalten,verb,"to halt, to stop; to hold (someone) up",lemma
 aufhören,verb,to stop; to quit; to cease,lemma
@@ -150,18 +133,16 @@ aufpassen,verb,"to watch out, to be alert",lemma
 aufrichtig,adj,"candid, frank, sincere, genuine, honest",lemma
 aufsatz,noun,essay,lemma
 aufstehen,verb,to get up (move from a sitting or lying position to a standing position; to get up from bed),lemma
+aufwachen,verb,"to awake, to wake up",lemma
+aufwachsen,verb,to grow up,lemma
 aufzug,noun,"Clipping of Aufzugsanlage: lift, elevator",lemma
-aufzugeben,verb,to give up on (one's efforts),form-of
-aufzuhören,verb,to stop; to quit; to cease,form-of
-aufzustehen,verb,to get up (move from a sitting or lying position to a standing position; to get up from bed),form-of
-aug,noun,eye,lemma
+auge,noun,eye,lemma
 augenblick,noun,"moment, instant, blink of an eye (very short period of time)",lemma
 august,noun,August (month),lemma
 aus,adj,over; finished; done; up,lemma
 ausdruck,noun,"expression, term",lemma
 ausdrücken,verb,"to squeeze, to squeeze out",lemma
-ausgegangen,verb,to go out (to leave one's abode to go to public places),form-of
-ausgegeben,verb,"to spend, to expend; to pay out",form-of
+ausgeben,verb,"to spend, to expend; to pay out",lemma
 ausgehen,verb,to go out (to leave one's abode to go to public places),lemma
 ausgesprochen,adv,"decidedly, markedly",lemma
 ausgezeichnet,adj,"excellent, outstanding",lemma
@@ -177,7 +158,6 @@ ausruhen,verb,"to rest, to recover (through rest and relaxation)",lemma
 aussage,noun,proposition,lemma
 aussehen,verb,"to look, seem",lemma
 aussicht,noun,"scenery, view, outlook (also figuratively)",lemma
-aussieht,verb,dependent present,form-of
 aussprache,noun,pronunciation,lemma
 ausstehen,verb,"to stand, to endure",lemma
 australien,name,"Australia (a country consisting of a main island, the island of Tasmania and other smaller islands, located in Oceania; historically, a collection of former colonies of the British",lemma
@@ -201,17 +181,16 @@ bahnhof,noun,"railway depot, railroad station, railway station, train station",l
 bald,adv,soon (near in time),lemma
 balkon,noun,"balcony (an accessible structure extending from a building, especially outside a window or overlooking a stage)",lemma
 ball,noun,"ball (round or roundish object, most commonly used in games)",lemma
-bananen,noun,bananas,form-of
+banane,noun,banana (fruit or tree),lemma
 band,noun,"tape, ribbon",lemma
 bank,noun,bench (which people sit on); pew,lemma
 bar,adj,bare,lemma
 bart,noun,beard,lemma
 baseball,noun,baseball (ballgame),lemma
-bat,verb,"to ask, to beg, to plead, to bid, to request",form-of
 bau,noun,"building, construction (the act of constructing)",lemma
 bauch,noun,"abdomen, belly",lemma
 bauen,verb,"to build, to construct",lemma
-bauern,noun,farmer (male or of unspecified gender),form-of
+bauer,noun,farmer (male or of unspecified gender),lemma
 baum,noun,tree,lemma
 beantworten,verb,to answer (a question),lemma
 bedanken,verb,"to thank, to express thanks",lemma
@@ -221,24 +200,19 @@ bedeuten,verb,"to imply, to mean, to signify, to indicate, to spell, to betoken"
 bedeutung,noun,"meaning, sense",lemma
 bedingung,noun,"requirement, prerequisite",lemma
 bedroht,adj,threatened,lemma
-beeil,verb,"to hurry, to hasten, to rush",form-of
 beeilen,verb,"to hurry, to hasten, to rush",lemma
 beeindrucken,verb,"to impress, to impose",lemma
 beenden,verb,"to finish, to complete, to (bring/put to an) end",lemma
-befand,verb,to occupy a place; to be located; to be situated,form-of
 befehl,noun,"command, order",lemma
 befinden,verb,to occupy a place; to be located; to be situated,lemma
 befolgen,verb,"to observe, follow, obey (orders, laws, rules etc); to comply with or abide by",lemma
 befreundet,adj,"friendly, friends",lemma
-begang,verb,"to commit, perpetrate (a crime, an offense)",form-of
-begann,verb,to begin; to commence; to be started,form-of
 begegnen,verb,"meet, to encounter, to come across",lemma
 begehen,verb,"to commit, perpetrate (a crime, an offense)",lemma
 begeistert,adj,"enthusiastic, thrilled",lemma
 beginn,noun,"start, beginning",lemma
 beginnen,verb,to begin; to commence; to be started,lemma
 begleiten,verb,to accompany,lemma
-begonnen,verb,to begin; to commence; to be started,form-of
 begraben,verb,to bury (also figuratively),lemma
 begreifen,verb,"to grasp fully; to comprehend; to conceive, to fathom",lemma
 begriff,noun,"term, word",lemma
@@ -252,22 +226,18 @@ beherrschen,verb,to master,lemma
 bei,prep,"by, near",lemma
 beibringen,verb,to teach,lemma
 beide,pron,both,lemma
-beiden,pron,both,form-of
-beigebracht,verb,to teach,form-of
 beim,contraction,"contraction of bei + dem: at the, by the, etc.",lemma
 bein,noun,"leg of a person, animal, or object",lemma
-beinah,adv,alternative form of beinahe,lemma
+beinahe,adv,almost; nearly,lemma
 beispiel,noun,example,lemma
 beißen,verb,to bite,lemma
-bekam,verb,to receive; to get,form-of
 bekannt,adj,"known, familiar",lemma
 bekommen,verb,to receive; to get,lemma
 beleidigen,verb,"to offend, to insult, to annoy",lemma
 belieben,verb,to please someone,lemma
 bellen,verb,to bark:,lemma
-belog,verb,"to lie to, to tell someone a lie, to tell someone lies",form-of
+belügen,verb,"to lie to, to tell someone a lie, to tell someone lies",lemma
 bemerken,verb,"to notice, to perceive",lemma
-bemerkt,verb,"to notice, to perceive",form-of
 bemühen,verb,to make an effort,lemma
 bemühung,noun,effort; endeavor,lemma
 benehmen,verb,"to behave, to act, to conduct oneself (in a certain way - specifically in a good/appropriate way if not otherwise specified)",lemma
@@ -279,6 +249,7 @@ bequem,adj,"comfortable, convenient",lemma
 bereich,noun,"area, realm, range, scope",lemma
 bereit,adj,ready,lemma
 bereiten,verb,"to prepare, to make",lemma
+bereits,adv,already,lemma
 bereuen,verb,"to regret, to rue",lemma
 berg,noun,"a mountain, hill",lemma
 bericht,noun,"report, account, news story",lemma
@@ -289,6 +260,7 @@ berühmt,adj,"famous, well-known, renowned, celebrated, noted",lemma
 berühren,verb,to touch,lemma
 bescheid,noun,"notification, information",lemma
 bescheiden,verb,"to confer the decision or fate formally, to announce, to proclaim",lemma
+beschließen,verb,"to conclude, end; to terminate",lemma
 beschloss,verb,alternative form of beschloss,lemma
 beschreiben,verb,to describe,lemma
 beschweren,verb,"to weight, to weight down",lemma
@@ -303,13 +275,12 @@ besorgen,verb,"to deal, to manage, to procure",lemma
 besprechen,verb,to discuss (to converse or debate concerning a particular topic),lemma
 besprechung,noun,"meeting, discussion, (gathering among business people to discuss their business)",lemma
 bess,adj,better,form-fallback
-besser,adj,better,lemma
+bessern,verb,"to improve, to better",lemma
 best,adj,"good (acting in the interest of what is beneficial, ethical, or moral)",form-of
 bestand,noun,"stock, inventory",lemma
 bestanden,adj,covered in plants; overgrown,lemma
 bestehen,verb,"to succeed, to pass (an exam)",lemma
 bestellen,verb,"to order (e.g. food at a restaurant, items for delivery)",lemma
-bestellt,verb,"to order (e.g. food at a restaurant, items for delivery)",form-of
 bestimmen,verb,to determine,lemma
 bestimmt,verb,to determine,form-of
 bestrafen,verb,to punish,lemma
@@ -319,12 +290,12 @@ besucht,verb,"to visit, to see",form-of
 beten,verb,to pray,lemma
 betrachten,verb,"to look at, to consider, to behold",lemma
 betrachtet,adj,"considered, regarded",lemma
-betrat,verb,"to enter, to go or come into",form-of
+betragen,verb,"to amount to, to be (a numerical value)",lemma
+betreffen,verb,"to concern, to have to do with or affect a business of",lemma
 betreten,verb,"to enter, to go or come into",lemma
-betrifft,verb,"to concern, to have to do with or affect a business of",form-of
-betrog,verb,to deceive (usually deliberately),form-of
 betrunken,adj,"drunk, inebriated",lemma
-beträgt,verb,"to amount to, to be (a numerical value)",form-of
+betrügen,verb,to deceive (usually deliberately),lemma
+bett,noun,"bed (piece of furniture, usually flat and soft, for resting or sleeping on; one's place of sleep or rest)",lemma
 beurteilen,verb,"to form an opinion on, to judge",lemma
 bevor,conj,before,lemma
 bevölkerung,noun,population,lemma
@@ -333,17 +304,17 @@ bewegen,verb,to motivate; to persuade; to prompt (someone or something to do som
 bewegung,noun,motion,lemma
 beweis,noun,proof,lemma
 beweisen,verb,to prove,lemma
-bewundere,verb,"to admire, to highly respect (something of high quality)",form-of
+bewundern,verb,"to admire, to highly respect (something of high quality)",lemma
 bewusst,adj,"conscious, aware",lemma
 bewusstsein,noun,"consciousness, awareness",lemma
 bezahlen,verb,"to pay, give money",lemma
 bezeichnen,verb,"to name (give a name to), to call, to designate, to denote",lemma
 beziehung,noun,"relation, relationship, connection",lemma
 bezug,noun,reference,lemma
-bezweifle,verb,"to doubt, to question (Used with either a noun or dass.)",form-of
+bezweifeln,verb,"to doubt, to question (Used with either a noun or dass.)",lemma
 bibel,noun,"Bible, bible",lemma
 bibliothek,noun,library,lemma
-bien,noun,bee colony superorganism,lemma
+biene,noun,bee,lemma
 bier,noun,beer (alcoholic beverage fermented from starch material; a serving of this beverage),lemma
 bieten,verb,to offer; to present,lemma
 bild,noun,"depiction, image, picture",lemma
@@ -354,22 +325,18 @@ bis,conj,until,lemma
 bisher,adv,"so far, until now, as yet",lemma
 bisschen,adv,(a) bit; (a) little,lemma
 bitt,verb,"to ask, to beg, to plead, to bid, to request",form-of
-bittet,verb,"to ask, to beg, to plead, to bid, to request",form-of
+bitten,verb,"to ask, to beg, to plead, to bid, to request",lemma
 bißchen,adv,(a) bit; (a) little,lemma
 blatt,noun,leaf (green and flat organ of a plant),lemma
 blau,adj,blue (color/colour),lemma
-bleib,verb,to remain (to continue to be),form-of
 bleiben,verb,to remain (to continue to be),lemma
 bleistift,noun,pencil (writing utensil with a graphite shaft),lemma
 blick,noun,"glance, look",lemma
 blicken,verb,to look (usually in a certain direction toward something),lemma
-blickt,verb,to look (usually in a certain direction toward something),form-of
-blieb,verb,to remain (to continue to be),form-of
-blieben,verb,to remain (to continue to be),form-of
 blind,adj,blind,lemma
 blitz,noun,a bolt of lightning,lemma
 bloß,adj,"mere, sole",lemma
-blum,noun,"flower, blossom (colorful, conspicuous reproductive structure(s) of an angiosperm)",form-of
+blume,noun,"flower, blossom (colorful, conspicuous reproductive structure(s) of an angiosperm)",lemma
 blut,noun,blood,lemma
 blätter,verb,to browse,form-of
 blöd,adj,"stupid, dim-witted",lemma
@@ -380,46 +347,40 @@ bord,noun,shelf (board fixed to the wall),lemma
 bot,noun,bot,lemma
 botschaft,noun,message,lemma
 brach,adj,fallow,lemma
-bracht,verb,"to bring, to fetch, to take, to convey, to bear",form-of
+bracht,verb,to break,form-of
 brand,noun,"fire, blaze (destructive occurrence)",lemma
 brasilien,name,Brazil (a large Portuguese-speaking country in South America),lemma
 brauchen,verb,"to need, to be in need of, to require",lemma
-braucht,verb,"to need, to be in need of, to require",form-of
 braun,adj,brown,lemma
 braut,noun,bride; a woman taking part in a marriage,lemma
 brechen,verb,to break,lemma
 breit,adj,"broad, wide",lemma
 brennen,verb,to burn; to light on fire,lemma
-bricht,verb,to break,form-of
 brief,noun,letter (written message),lemma
-briefmarken,noun,postage stamp,form-of
-brill,noun,"glasses, spectacles (frames bearing two lenses worn in front of the eyes to correct vision)",form-fallback
-bring,verb,"to bring, to fetch, to take, to convey, to bear",form-of
+briefmarke,noun,postage stamp,lemma
+brille,noun,"glasses, spectacles (frames bearing two lenses worn in front of the eyes to correct vision)",lemma
 bringen,verb,"to bring, to fetch, to take, to convey, to bear",lemma
 brot,noun,bread,lemma
 bruder,noun,brother,lemma
 brunnen,noun,well,lemma
 brust,noun,chest,lemma
 brötchen,noun,"a bun, bread roll",lemma
-brück,noun,bridge,form-fallback
+brücke,noun,bridge,lemma
 brüder,noun,brethren,lemma
 buch,noun,book (collection of sheets of paper bound together to hinge at one edge; long work fit for publication),lemma
-buchstaben,noun,letters (of the alphabet),form-of
+buchstabe,noun,letter (of the alphabet),lemma
 bus,noun,bus (public transport),lemma
 bushaltestelle,noun,bus stop,lemma
 butter,noun,butter,lemma
 bär,noun,bear (animal),lemma
-bäume,noun,tree,form-of
 bäumen,verb,to rear up,lemma
 bös,adj,alternative form of böse,lemma
-bücher,noun,book (collection of sheets of paper bound together to hinge at one edge; long work fit for publication),form-of
-büchern,noun,book (collection of sheets of paper bound together to hinge at one edge; long work fit for publication),form-of
+böse,adj,evil; malicious; wicked,lemma
 bühne,noun,a stage,lemma
 bürger,noun,"citizen, inhabitant, resident; legally recognized inhabitant of a city or state",lemma
 bürgermeister,noun,"mayor (leader of a city, male or unspecified sex)",lemma
 büro,noun,office (room for working),lemma
 chance,noun,chance,lemma
-chancen,noun,chance,form-of
 charakter,noun,character; the totality of someone's personal qualities,lemma
 chef,noun,"boss, chief",lemma
 chicago,name,"Chicago (a large city, the county seat of Cook County, in northeastern Illinois, United States, located on Lake Michigan)",lemma
@@ -430,15 +391,14 @@ cousin,noun,male cousin,lemma
 da,adv,there,lemma
 dabei,adv,"with one, on one",lemma
 dach,noun,roof,lemma
-dacht,verb,to think,form-of
 dadurch,adv,"through it, through that",lemma
 dafür,adv,"for that, for it",lemma
 dagegen,adv,"against it, against that",lemma
 daheim,adv,"home, at home (adverb)",lemma
 daher,adv,"from there, thence",lemma
 dahin,adv,there (to or into that place; thither),lemma
-dam,noun,lady (woman of good breeding and manners),form-of
 damals,adv,"at that time (in the past); at the time, then",lemma
+dame,noun,lady (woman of good breeding and manners),lemma
 damit,adv,"therefore, as a result",lemma
 danach,adv,"after it, after that; thereafter (formal), afterwards",lemma
 daneben,adv,"next to it, next to that",lemma
@@ -449,18 +409,14 @@ dar,adv,only used in darstellen etc.,lemma
 daran,adv,"on it, on that",lemma
 darauf,adv,after (behind; later in time; following),lemma
 daraus,adv,"out of it, out of that, of it",lemma
-darf,verb,to be allowed (to do something); to be permitted (to do something); may,form-of
-darfst,verb,to be allowed (to do something); to be permitted (to do something); may,form-of
 darin,adv,"in it, in that, therein",lemma
 darum,adv,"around it, around that",lemma
 darüber,adv,"above, above it/this/that",lemma
 das,pron,"who, that, which",lemma
 dasein,noun,"being there, presence, existence",lemma
 dass,conj,that,lemma
-dasselbe,pron,neuter,form-of
 daten,verb,to date,lemma
 dauern,verb,"to last, to continue, to persist (for a period of time)",lemma
-dauert,verb,"to last, to continue, to persist (for a period of time)",form-of
 david,name,David,lemma
 davon,adv,"from it, from that, therefrom, off it, off that",lemma
 davor,adv,in front of that/it,lemma
@@ -468,19 +424,16 @@ dazu,adv,"in addition to it, in addition, besides",lemma
 daß,conj,that,lemma
 deck,noun,deck (of a ship or boat),lemma
 dein,pron,alternative letter-case form of dein (“your (singular)”),lemma
-dem,pron,who; that; which,form-of
 demokratie,noun,democracy,lemma
 den,pron,that; whom; accusative masculine singular of der,lemma
 denk,verb,to think,form-of
-denkst,verb,to think,form-of
-denkt,verb,to think,form-of
+denken,verb,to think,lemma
 denn,adv,"so, then, ever, but, now; used for emphasis or to express interest, surprise or doubt, or in rhetorical questions",lemma
 dennoch,adv,"anyhow, however",lemma
-denselben,pron,the same,form-of
 der,pron,who; that; which,lemma
 derart,adv,"so, thus, in such a manner",lemma
 derjenige,pron,he (who),lemma
-derselben,pron,the same,form-of
+derselbe,pron,the same,lemma
 derzeit,adv,"currently, at present (implying that this state is likely temporary)",lemma
 des,article,alternative form of das,lemma
 deshalb,adv,"therefore; for that (reason), because of that",lemma
@@ -492,20 +445,16 @@ deutlich,adj,"articulate, clear",lemma
 deutsch,adj,German (of or pertaining to the German people),lemma
 deutschland,name,"Germany (a nation or civilization occupying the country around the Rhine, Elbe, and upper Danube Rivers in Central Europe, taken as a whole under its various governments)",lemma
 dezember,noun,December,lemma
-dich,pron,"you (singular familiar), thou",form-of
 dicht,adj,"thick, tight, dense",lemma
 dick,adj,thick,lemma
 die,article,feminine,form-of
 dieb,noun,thief (male or of unspecified gender),lemma
-diejenige,pron,he (who),form-of
 diejenigen,pron,those,form-of
 dienen,verb,to serve,lemma
 dienstag,noun,Tuesday,lemma
-dies,pron,alternative form of dieses,lemma
-dieselbe,pron,the same,form-of
+dieser,pron,"this one, this",lemma
 diesmal,adv,this time,lemma
 ding,noun,thing,lemma
-dir,pron,alternative letter-case form of dir,lemma
 direkt,adj,"direct, straight, without deviation or interruption",lemma
 diskussion,noun,"discussion, debate",lemma
 diskutieren,verb,to discuss,lemma
@@ -524,7 +473,6 @@ dran,adv,alternative form of daran,lemma
 drauf,adv,alternative form of darauf,lemma
 draußen,adv,outside,lemma
 drehen,verb,to turn,lemma
-dreht,verb,to turn,form-of
 drei,noun,three (digit/figure 3),lemma
 dreimal,adv,"thrice, three times",lemma
 dreizehn,noun,thirteen (number),lemma
@@ -532,13 +480,12 @@ dreißig,noun,thirty (number),lemma
 drin,adv,inside,lemma
 dringend,adj,urgent,lemma
 drinnen,adv,inside (a room),lemma
-dritt,particle,only used in zu dritt.,lemma
+dritte,adj,third,lemma
 drittel,noun,third,lemma
 drogen,noun,drugs,lemma
 druck,noun,pressure,lemma
 drüben,adv,over (implying some distance from the listener),lemma
 drücken,verb,"to press, to push (a button/key; a finger or other object against something)",lemma
-drückt,verb,"to press, to push (a button/key; a finger or other object against something)",form-of
 du,pron,"you (singular familiar), thou",lemma
 duft,noun,"aroma, fragrance",lemma
 dumm,adj,"dumb, stupid",lemma
@@ -548,7 +495,6 @@ dunkel,adj,dark,lemma
 dunkelheit,noun,darkness,lemma
 dunkeln,verb,to darken,lemma
 dunkle,verb,to darken,form-of
-dunklen,adj,dark,form-of
 durch,adj,"crazy, freaked out",lemma
 durchaus,adv,"absolutely, fully, entirely",lemma
 durcheinander,adj,"disordered, confused",lemma
@@ -557,12 +503,11 @@ durstig,adj,thirsty,lemma
 dusch,verb,to shower,form-of
 dünn,adj,"thin, slender, slim",lemma
 dürfen,verb,to be allowed (to do something); to be permitted (to do something); may,lemma
-dürft,verb,subjunctive II,form-of
 eben,adj,"flat, smooth, even (of a surface)",lemma
 ebenfalls,adv,"also, likewise, as well",lemma
 ebenso,adv,"equally, as much",lemma
 echt,adj,"authentic, genuine, true",lemma
-eck,noun,synonym of Ecke f (“corner”),lemma
+ecke,noun,"corner, edge",lemma
 egal,adj,"all the same, unimportant",lemma
 eh,adv,"anyway, in any case",lemma
 ehe,conj,"before, ere",lemma
@@ -577,7 +522,6 @@ eichhörnchen,noun,"squirrel (in the narrow sense, Sciurus vulgaris)",lemma
 eier,verb,to wobble (of a wheel),form-of
 eifersüchtig,adj,jealous,lemma
 eigen,adj,"own, peculiar or private to someone, idiosyncratic, proper or proprietary",lemma
-eigenen,adj,"own, peculiar or private to someone, idiosyncratic, proper or proprietary",form-of
 eigentlich,adj,"actual, real, proper (as opposed to something secondary serving as a distraction or impostor)",lemma
 eignen,verb,"to suit, to be apt for",lemma
 eile,noun,hurry,lemma
@@ -589,8 +533,6 @@ eindruck,noun,impression,lemma
 einfach,adj,easy,lemma
 einfluss,noun,"inflow, influx",lemma
 eingang,noun,entrance (doorway or passageway into a building or other enclosed space),lemma
-eingeladen,verb,to invite (to ask someone to come),form-of
-eingeschlafen,verb,to fall asleep,form-of
 eingestellt,adj,adjusted,lemma
 einig,adj,united,lemma
 einkaufen,verb,to shop,lemma
@@ -616,7 +558,8 @@ eltern,noun,parents,lemma
 empfang,noun,"receipt, acceptance, welcome (act of receiving someone or something)",lemma
 empfehlen,verb,"to propose, to advise in favor of",lemma
 end,verb,to end,form-of
-endet,verb,to end,form-of
+ende,noun,"end, finish",lemma
+enden,verb,to end,lemma
 endlich,adj,"finite, limited",lemma
 energie,noun,energy,lemma
 eng,adj,"narrow, tight",lemma
@@ -630,19 +573,18 @@ entfernen,verb,to remove,lemma
 entfernung,noun,distance,lemma
 entgegen,adv,against,lemma
 enthalt,verb,"to contain, comprise, include",form-of
-enthält,verb,"to contain, comprise, include",form-of
+enthalten,verb,"to contain, comprise, include",lemma
 entkommen,verb,to escape,lemma
 entlang,adv,along,lemma
 entlassen,verb,to release,lemma
 entscheiden,verb,"to decide, to make a decision",lemma
 entscheidung,noun,decision,lemma
-entschied,verb,"to decide, to make a decision",form-of
 entschieden,adj,"determined, resolute",lemma
 entschloss,verb,to decide,form-of
 entschluss,noun,alternative spelling of Entschluss,lemma
 entschuldigen,verb,to excuse (something or (formal) someone),lemma
 entschuldigung,noun,apology (expression of remorse or regret),lemma
-entspricht,verb,"to correspond (be equivalent or similar in character, etc.)",form-of
+entsprechen,verb,"to correspond (be equivalent or similar in character, etc.)",lemma
 entstand,verb,"to come into being, to arise, to be produced",form-of
 entstehen,verb,"to come into being, to arise, to be produced",lemma
 enttäuschen,verb,to disappoint (displease by not fulfilling an expectation),lemma
@@ -653,35 +595,25 @@ entwicklung,noun,evolution,lemma
 er,pron,he,lemma
 erd,verb,to earth,form-of
 erdbeben,noun,earthquake,lemma
-erdbeer,noun,strawberries,form-of
-ereignisse,noun,event (occurrence of social or personal importance),form-of
+erdbeere,noun,strawberry,lemma
+ereignis,noun,event (occurrence of social or personal importance),lemma
 erfahren,verb,"to find out, learn, to come to know",lemma
 erfahrung,noun,experience (event through which empirical knowledge is gained),lemma
 erfindung,noun,invention,lemma
 erfolg,noun,success,lemma
 erfolgreich,adj,successful,lemma
 erforderlich,adj,"necessary, required, essential",lemma
-erfordert,verb,"to necessitate, to require",form-of
+erfordern,verb,"to necessitate, to require",lemma
 erfreuen,verb,to please; to make happy,lemma
-erfuhr,verb,"to find out, learn, to come to know",form-of
 erfunden,adj,"invented, contrived",lemma
-erfährt,verb,"to find out, learn, to come to know",form-of
 erfüllen,verb,to fill (with something physical or abstract),lemma
 ergeben,verb,"to yield, produce",lemma
 ergebnis,noun,"result, outcome, conclusion, finding, fruit, consequence, upshot, answer",lemma
-ergebnisse,noun,"result, outcome, conclusion, finding, fruit, consequence, upshot, answer",form-of
-ergibt,verb,"to yield, produce",form-of
 erhalten,verb,"to receive (something given, sent, won, etc.)",lemma
-erhielt,verb,"to receive (something given, sent, won, etc.)",form-of
-erinner,verb,to remind,form-of
 erinnern,verb,to remind,lemma
-erinnerst,verb,to remind,form-of
-erinnert,verb,to remind,form-of
 erinnerung,noun,memory (recall); remembrance,lemma
-erkannt,verb,"to recognize, perceive",form-of
 erkennen,verb,"to recognize, perceive",lemma
 erklären,verb,"to explain, to make clear",lemma
-erklärt,adj,"declared, avowed, professed",lemma
 erklärung,noun,explanation,lemma
 erkälten,verb,to catch a cold,lemma
 erkältung,noun,cold (illness),lemma
@@ -696,35 +628,30 @@ ernst,adj,"serious, severe, grave",lemma
 ernsthaft,adj,"serious (important, weighty)",lemma
 ernähren,verb,"to nourish, to feed",lemma
 erreichen,verb,to reach (to attain by stretching),lemma
-erreicht,verb,to reach (to attain by stretching),form-of
 erschaffen,verb,to create; to produce; to make,lemma
 erscheinen,verb,to appear,lemma
-erschien,verb,to appear,form-of
-erschoss,verb,to shoot dead,form-of
+erschießen,verb,to shoot dead,lemma
 erschöpft,adj,exhausted,lemma
 ersetzen,verb,to replace,lemma
 erst,adv,"first, at first",lemma
 erstaunen,verb,"to astonish, astound",lemma
+erste,adj,first,lemma
 ertragen,verb,"to bear, to stand, to endure, to take, to suffer, to tolerate, to handle",lemma
 erwachsen,verb,"to grow up, to grow",lemma
 erwarten,verb,"to expect, to consider likely",lemma
 erwartung,noun,"expectation, expectancy",lemma
-erwidert,adj,"reciprocated, returned",lemma
+erwidern,verb,"to reciprocate, return, to react with something analogous",lemma
 erwischen,verb,to catch (often referring to catching someone in an act of wrongdoing),lemma
 erwähnen,verb,to mention [with accusative or (archaic) genitive ‘something’] (speak of something),lemma
 erziehung,noun,"education; upbringing; character formation (process of imparting basic knowledge, judgment, morals, and manners, especially to a child)",lemma
-erzähl,verb,"to tell, to narrate, to recount",form-of
 erzählen,verb,"to tell, to narrate, to recount",lemma
-erzählt,verb,"to tell, to narrate, to recount",form-of
 es,pron,"Refers to a neuter noun (person, animal, thing or abstract)",lemma
 esel,noun,"ass, donkey",lemma
 esperanto,name,Esperanto,lemma
 essen,verb,to eat,lemma
 etwa,adv,approximately,lemma
 etwas,adv,"somewhat, slightly",lemma
-euch,pron,"you, ye (plural, familiar)",form-of
 euer,det,your (addressing two or more people informally),lemma
-eur,det,your (plural) (referring to a feminine or plural noun in the nominative or accusative),form-of
 euro,noun,euro (currency),lemma
 europa,name,Europe (a continent located west of Asia and north of Africa),lemma
 europäisch,adj,European,lemma
@@ -735,7 +662,6 @@ existieren,verb,to exist,lemma
 extrem,adj,extreme,lemma
 fabrik,noun,plant (factory or industrial facility),lemma
 facebook,name,Facebook,lemma
-fahr,verb,to go at speed,form-of
 fahren,verb,to go at speed,lemma
 fahrkarte,noun,fare ticket,lemma
 fahrrad,noun,bicycle,lemma
@@ -744,55 +670,46 @@ fall,noun,"fall, drop (the act of falling or an instance thereof)",lemma
 fallen,verb,"to fall, to drop",lemma
 falsch,adj,"false, unfactual, untrue",lemma
 familie,noun,family,lemma
-familien,noun,family,form-of
-fand,verb,to find; to discover,form-of
-fanden,verb,to find; to discover,form-of
 fangen,verb,to catch (grab something flying in the air),lemma
 fantasie,noun,imagination,lemma
-farb,verb,to color,form-of
+farbe,noun,colour,lemma
 fass,noun,"barrel, keg, cask",lemma
 fassen,verb,"to gird, to surround, to confine into a form",lemma
 fast,adv,almost; nearly,lemma
 faul,adj,"foul, rotten, rancid",lemma
 februar,noun,February,lemma
-fehl,adv,only used in fehl am Platz,lemma
 fehlen,verb,for there to be a lack [with dative ‘to someone/something’ and an (+ dative) ‘of something’] (idiomatically translated by English lack with the dative object as the subject),lemma
-fehlern,noun,"fault, error, mistake",form-of
-fehlt,verb,for there to be a lack [with dative ‘to someone/something’ and an (+ dative) ‘of something’] (idiomatically translated by English lack with the dative object as the subject),form-of
+fehler,noun,"fault, error, mistake",lemma
 feier,noun,celebration,lemma
 feiern,verb,to celebrate; to party; applicable from the most solemn to the most revelrous forms,lemma
 feind,adj,enemy; hostile,lemma
 feld,noun,"field (plot of open land, especially one used to grow crops)",lemma
-fels,noun,rock,lemma
+felsen,noun,rock,lemma
 fenster,noun,window,lemma
 ferien,noun,"holidays during which an institution (especially a school, university) or a business is closed; break (usually three days or more)",lemma
 fern,adj,remote,lemma
-fernseh,noun,"a television set, a TV",form-fallback
 fernsehen,verb,to watch television,lemma
+fernseher,noun,"a television set, a TV",lemma
 fertig,adj,ready for use; done; fully prepared,lemma
 fest,adj,firm; compact; hard,lemma
-festgenommen,verb,to arrest (take into legal custody),form-of
+festnehmen,verb,to arrest (take into legal custody),lemma
 fett,adj,fat,lemma
 feu,verb,to fire,form-of
+feuern,verb,to fire,lemma
 fieber,noun,fever (heightened body temperature),lemma
-fiel,verb,"to fall, to drop",form-of
 figur,noun,"figure, figurine",lemma
 film,noun,film (a thin layer of some substance),lemma
 finden,verb,to find; to discover,lemma
-fing,verb,to catch (grab something flying in the air),form-of
-fingen,verb,to catch (grab something flying in the air),form-of
+finger,noun,finger,lemma
 finnland,name,Finland (a country in Northern Europe),lemma
 firma,noun,"A company, a business.",lemma
 fisch,noun,fish (cold-blooded vertebrates living in water),lemma
 flagge,noun,flag,lemma
 flasche,noun,bottle; flask; flagon,lemma
-flaschen,noun,bottle; flask; flagon,form-of
 fleisch,noun,flesh,lemma
 fleißig,adj,"diligent, hard-working, industrious, busy, assiduous, sedulous",lemma
 fliegen,verb,to fly; to travel by air,lemma
 fließen,verb,Switzerland and Liechtenstein standard spelling of fließen,lemma
-flog,verb,to fly; to travel by air,form-of
-flogen,verb,to fly; to travel by air,form-of
 fluchen,verb,"to swear, to curse",lemma
 flug,noun,flight (in the air),lemma
 flughafen,noun,airport,lemma
@@ -801,8 +718,7 @@ fluss,noun,river,lemma
 flügel,noun,"wing (of a bird, airplane, etc.)",lemma
 folgen,verb,to follow (on the same path or in a sequence),lemma
 folgend,adj,"following, subsequent",lemma
-folgt,verb,to follow (on the same path or in a sequence),form-of
-fordert,verb,"to demand, ask",form-of
+fordern,verb,"to demand, ask",lemma
 form,noun,shape,lemma
 fort,adv,away,lemma
 fortschritt,noun,"progress, advancement",lemma
@@ -810,10 +726,9 @@ foto,noun,photograph (picture created by projecting an image onto a photosensiti
 fotoapparat,noun,camera (device for making still pictures),lemma
 fotografieren,verb,to photograph,lemma
 frag,verb,to ask,form-of
-fragst,verb,to ask,form-of
-fragt,verb,to ask,form-of
+fragen,verb,to ask,lemma
 frankreich,name,France (a country located primarily in Western Europe),lemma
-franzosen,noun,Frenchman (person of French birth or nationality),form-of
+franzose,noun,Frenchman (person of French birth or nationality),lemma
 französisch,adj,French,lemma
 französischlehrer,noun,French teacher,lemma
 frau,pron,"one, they (indefinite third-person singular pronoun)",lemma
@@ -824,30 +739,24 @@ freitag,noun,Friday,lemma
 freizeit,noun,"free time, leisure time, spare time. The time during which one is not working.",lemma
 fremd,adj,strange,lemma
 fremdsprache,noun,foreign language,lemma
-fremdsprachen,noun,foreign language,form-of
 fressen,verb,to eat; to feed on; to devour,lemma
 freu,verb,"to gladden, to make glad, to make pleased",form-of
-freud,noun,apocopic form of Freude (“joy”),lemma
+freude,noun,"joy, delight, glee",lemma
+freuen,verb,"to gladden, to make glad, to make pleased",lemma
 freund,noun,friend,lemma
-freundin,noun,friend,form-of
-freundinnen,noun,friend,form-of
 freundlich,adj,"friendly, benign",lemma
 freundschaft,noun,friendship,lemma
-freut,verb,"to gladden, to make glad, to make pleased",form-of
-fried,noun,alternative form of Friede,lemma
+frieden,noun,peace,lemma
 frisch,adj,fresh,lemma
-frisst,verb,to eat; to feed on; to devour,form-of
 froh,adj,glad; (momentarily) happy; (momentarily) cheerful,lemma
 frosch,noun,frog,lemma
 frucht,noun,fruit (seed-bearing part of a plant),lemma
 fröhlich,adj,merry; cheerful; either as a character trait or fleetingly,lemma
-früchte,noun,fruit (seed-bearing part of a plant),form-of
 früh,adj,early,lemma
 frühling,noun,spring,lemma
 frühstück,noun,breakfast,lemma
 frühstücken,verb,"to have breakfast, to breakfast (to eat the morning meal)",lemma
 fuchs,noun,fox (animal),lemma
-fuhr,verb,to go at speed,form-of
 fuhren,name,"a small town in Tandel, Luxembourg",lemma
 funktionieren,verb,"to work, function",lemma
 furcht,noun,fear; fright; anxiety,lemma
@@ -857,26 +766,19 @@ fußball,noun,soccer; association football,lemma
 fußboden,noun,floor,lemma
 fähig,adj,capable (having the general capability to),lemma
 fähigkeit,noun,"ability, capability",lemma
-fährst,verb,to go at speed,form-of
-fährt,verb,to go at speed,form-of
 fällen,verb,"to cut down, to chop down, to fell (a tree)",lemma
-fängt,verb,to catch (grab something flying in the air),form-of
 fühl,verb,"to feel (a thing, sensation, emotion - a noun)",form-of
-fühlst,verb,"to feel (a thing, sensation, emotion - a noun)",form-of
-fühlt,verb,"to feel (a thing, sensation, emotion - a noun)",form-of
+fühlen,verb,"to feel (a thing, sensation, emotion - a noun)",lemma
 führen,verb,to lead,lemma
 führerschein,noun,"driver's license (US), driver's licence (Aus), driving licence (UK)",lemma
-führt,verb,subjunctive II,form-of
 fünf,noun,five,lemma
 fünfzehn,noun,fifteen (number),lemma
 fünfzig,noun,fifty (number),lemma
 für,prep,describes an abstract directionality towards a person or matter,lemma
 fürcht,verb,to fear,form-of
-fürchtet,verb,to fear,form-of
+fürchten,verb,to fear,lemma
 füttern,verb,to feed (to give food to),lemma
-füße,noun,foot (body part),form-of
 füßen,noun,Switzerland and Liechtenstein standard spelling of Füßen,lemma
-gab,verb,to give (changing ownership),form-of
 gaben,verb,to give (changing ownership),form-of
 gang,noun,"motion, movement, progress, way, going",lemma
 ganz,adj,"entire, whole, complete",lemma
@@ -888,23 +790,21 @@ gast,noun,guest,lemma
 geben,verb,to give (changing ownership),lemma
 gebiet,noun,"area, region",lemma
 gebiss,noun,set of teeth,lemma
-geboren,verb,"to give birth; referring to labour, or to labour and pregnancy as a whole",form-of
 gebrauch,noun,"use, usage",lemma
 gebroch,verb,to break,form-of
 geburt,noun,birth,lemma
 geburtstag,noun,birthday,lemma
+gebären,verb,"to give birth; referring to labour, or to labour and pregnancy as a whole",lemma
 gebäude,noun,"building, edifice, structure",lemma
 gedacht,verb,to think,form-of
-gedanken,noun,a thought [with an (+ accusative) ‘[of/about] (something)’],form-of
+gedanke,noun,a thought [with an (+ accusative) ‘[of/about] (something)’],lemma
 gedicht,noun,poem,lemma
 geduld,noun,patience,lemma
 geduldig,adj,"patient (ability or willingness to accept or tolerate delays, problems, or suffering)",lemma
 gedächtnis,noun,memory (ability to recall),lemma
 gefahr,noun,"danger, hazard, peril, risk",lemma
-gefeuert,verb,to fire,form-of
-gefiel,verb,to please; to appeal to [with dative ‘someone’] (idiomatically translated by English like with the dative object as the subject),form-of
+gefallen,verb,to please; to appeal to [with dative ‘someone’] (idiomatically translated by English like with the dative object as the subject),lemma
 gefragt,verb,to ask,form-of
-gefreut,verb,"to gladden, to make glad, to make pleased",form-of
 gefund,verb,to find; to discover,form-of
 gefährlich,adj,"dangerous, hazardous",lemma
 gefängnis,noun,"prison, jail (building)",lemma
@@ -917,18 +817,12 @@ gegenseitig,adj,"mutual, reciprocal",lemma
 gegenteil,noun,opposite (contrary thing),lemma
 gegenwart,noun,the present,lemma
 gegenüber,adv,on the opposite side,lemma
-gegessen,verb,to eat,form-of
-geglaubt,verb,to believe something (to consider true),form-of
 gegner,noun,"adversary, opponent, enemy",lemma
 gegründet,adj,"founded, established",lemma
-geh,verb,"to go, to walk",form-of
-gehabt,verb,forms the perfect aspect (have),form-of
 gehalt,noun,"content, fraction (amount or percentage of some material in a mass)",lemma
 geheimnis,noun,secret,lemma
-geheimnisse,noun,secret,form-of
 gehen,verb,"to go, to walk",lemma
 gehirn,noun,brain,lemma
-gehofft,verb,to hope,form-of
 gehorchen,verb,to obey,lemma
 geht's,contraction,contraction of geht es,lemma
 geige,noun,"violin, fiddle",lemma
@@ -941,16 +835,16 @@ geld,noun,money,lemma
 geldbeutel,noun,"wallet, purse",lemma
 gelegenheit,noun,"opportunity, chance, instance, occasion",lemma
 geliebt,adj,loved,lemma
-geliehen,verb,to borrow,form-of
 gelingen,verb,"to turn out well, to work out, to go smoothly, to succeed, to come off",lemma
 gelogen,adj,untrue; having been lied about,lemma
 gelt,particle,alternative form of gell,lemma
+gelten,verb,to be valid; to count; to hold true,lemma
 gelungen,adj,"successful, well done",lemma
 gemein,adj,"mean, nasty, wicked",lemma
 gemeinsam,adj,"common, mutual, shared",lemma
 gemeint,adj,intended,lemma
 gemälde,noun,painting,lemma
-gemüs,noun,vegetable; vegetables (kinds of plants),form-fallback
+gemüse,noun,vegetable; vegetables (kinds of plants),lemma
 genannt,adj,"called, mentioned, named",lemma
 genau,adj,exact,lemma
 genauso,adv,"just as, just the same",lemma
@@ -966,25 +860,20 @@ geraten,verb,to turn out; to succeed; to thrive,lemma
 gerecht,adj,"just, fair",lemma
 gerechtigkeit,noun,justice,lemma
 gericht,noun,court (of justice),lemma
-geriet,verb,to turn out; to succeed; to thrive,form-of
 gern,adv,"willingly; gladly; with pleasure; usually expressed verbally in English, with like, enjoy etc.",lemma
 geruch,noun,"smell, odour",lemma
 gerät,noun,"device, tool, appliance, machine",lemma
 geräusch,noun,"noise, sound",lemma
 gerücht,noun,rumor / rumour,lemma
-gesamte,adj,"total, whole, entire, overall, big",form-of
-gesamten,adj,"total, whole, entire, overall, big",form-of
-geschah,verb,to occur; to happen,form-of
+gesamt,adj,"total, whole, entire, overall, big",lemma
 geschehen,verb,to occur; to happen,lemma
 geschenk,noun,"present, gift",lemma
-geschicht,noun,history,form-of
-geschieht,verb,to occur; to happen,form-of
+geschichte,noun,history,lemma
 geschirr,noun,dishware,lemma
 geschmack,noun,taste,lemma
-geschnitten,verb,to cut; to carve; to slice,form-of
 geschoss,noun,projectile,lemma
 geschwindigkeit,noun,"speed, pace, tempo, velocity, rate",lemma
-geschwist,noun,sibling,lemma
+geschwister,noun,sibling,lemma
 geschäft,noun,"shop, store (establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well)",lemma
 gesellschaft,noun,company (presence of other people in general),lemma
 gesetz,noun,"law, legal act, bill, statute",lemma
@@ -993,18 +882,11 @@ gespräch,noun,"conversation, chat, talk (conversing between people or parties, 
 gestellt,adj,staged; contrived; faked,lemma
 gestern,adv,yesterday,lemma
 gestiegen,adj,risen,lemma
-gestochen,verb,"to be sharp, to stick out",form-of
-gestohlen,verb,to steal,form-of
 gestorben,adj,deceased (no longer alive),lemma
-gestrichen,verb,to stroke,form-of
-gestritten,verb,to argue; to fight; to quarrel,form-of
 gesund,adj,healthy (enjoying health),lemma
 gesundheit,noun,health (state of being in good physical condition and free from illness),lemma
 getränk,noun,"drink, beverage (liquid for consumption)",lemma
-geträumt,verb,to dream,form-of
 gewalt,noun,strong or violent force,lemma
-gewann,verb,to win; to be victorious,form-of
-gewechselt,verb,"to change, to exchange",form-of
 gewicht,noun,weight,lemma
 gewinn,noun,"profit, gain, yield",lemma
 gewinnen,verb,to win; to be victorious,lemma
@@ -1013,25 +895,16 @@ gewohnheit,noun,habit,lemma
 gewonnen,adj,"gained, won",lemma
 gewöhnen,verb,"to accustom, inure, make accustomed",lemma
 gewöhnlich,adj,"usual, normal, ordinary, everyday",lemma
-gezwungen,verb,to force; to compel; to make (someone do something),form-of
 geändert,adj,changed,lemma
-gib,verb,to give (changing ownership),form-of
-gibst,verb,to give (changing ownership),form-of
-gibt,verb,to give (changing ownership),form-of
 gift,noun,poison; toxin; venom,lemma
-gilt,verb,to be valid; to count; to hold true,form-of
-ging,verb,"to go, to walk",form-of
-gingen,verb,subjunctive II,form-of
 gipfel,noun,"peak, pinnacle",lemma
 gitarre,noun,guitar,lemma
 glas,noun,glass,lemma
 glaub,verb,to believe something (to consider true),form-of
-glaubst,verb,to believe something (to consider true),form-of
-glaubt,verb,to believe something (to consider true),form-of
+glauben,verb,to believe something (to consider true),lemma
 gleich,adj,equal,lemma
-gleicht,verb,"to be like, to equal to, to resemble",form-of
+gleichen,verb,"to be like, to equal to, to resemble",lemma
 gleichzeitig,adj,"simultaneous, concurrent, coincident, concomitant",lemma
-gläser,noun,glass,form-of
 glück,noun,"happiness, joy, bliss (state or emotion)",lemma
 glücklich,adj,happy; both momentarily and generally in life,lemma
 gold,noun,"gold (chemical element, Au)",lemma
@@ -1057,37 +930,29 @@ grund,noun,"ground, land (usually as someone's property)",lemma
 grundlage,noun,foundation,lemma
 gruppe,noun,group,lemma
 größe,noun,"size, height",lemma
-größer,adj,"big, large, large-scale",form-of
-größte,adj,"big, large, large-scale",form-of
-größten,adj,"big, large, large-scale",form-of
 grün,adj,green (in colour),lemma
 gründe,verb,"to found, to establish (a community, settlement, organization, company, etc.)",form-of
 gründen,verb,"to found, to establish (a community, settlement, organization, company, etc.)",lemma
 gründlich,adj,"thorough, in-depth",lemma
 grünen,verb,to be green; to become green,lemma
-guck,verb,"to look, to direct one's gaze at something",form-of
 gucken,verb,"to look, to direct one's gaze at something",lemma
 gut,adj,"good (acting in the interest of what is beneficial, ethical, or moral)",lemma
 gäb,verb,subjunctive II,form-of
 gänzlich,adj,"sheer, stark, outright",lemma
-gäste,noun,guest,form-of
-götter,noun,gods,form-of
 güte,noun,"kindness, clemency",lemma
 haar,noun,"hair (a singular hair, not limited to the head)",lemma
 haben,verb,forms the perfect aspect (have),lemma
 hafen,noun,harbour/harbor; port; haven,lemma
 hahn,noun,"cock, rooster",lemma
-hal,noun,neck,form-fallback
 halb,adj,"half, halfway",lemma
-half,verb,to help (someone); to assist; to aid,form-of
 hallo,noun,"hullabaloo, cheering (often welcoming or celebratory)",lemma
+hals,noun,neck,lemma
 halt,adv,"Indicating that something is generally known, or cannot be changed, or the like; often untranslatable; so, just, simply, indeed, well",lemma
 halten,verb,to hold (an object in one's hands),lemma
 hammer,verb,contraction of haben + wir,lemma
 han,name,a male given name,form-fallback
 hand,noun,hand,lemma
 handeln,verb,to act; to take action,lemma
-handelt,verb,to act; to take action,form-of
 handschrift,noun,handwriting,lemma
 handschuh,noun,"any handwear; glove, mitten, mitt, gauntlet",lemma
 handtasche,noun,"handbag, (US) purse",lemma
@@ -1105,13 +970,13 @@ haus,noun,"house, building",lemma
 hausaufgaben,noun,homework,lemma
 hawaii,name,"Hawaii, Hawaii Island (an island of Hawaii archipelago, Pacific Ocean, of Hawaii County, State of Hawaii, United States)",lemma
 he,intj,An exclamation to get attention; hey,lemma
+heben,verb,to lift; to raise,lemma
 heiligen,verb,to hallow; to make holy,lemma
 heim,adv,"home, to the house; always as a direction, thus never in the sense of at home",lemma
 heimat,noun,"home, home town, homeland, native land",lemma
 heimlich,adj,"secret, clandestine (done or kept in secret)",lemma
 heimweg,noun,way home,lemma
 heiraten,verb,to marry; to get married,lemma
-heiratet,verb,to marry; to get married,form-of
 heiß,adj,hot (having a high temperature),lemma
 heißen,verb,"to have a name; to be named; to be called; but implying that one “owns” this name, not necessarily that one goes by it",lemma
 held,noun,hero,lemma
@@ -1123,44 +988,33 @@ heran,adv,"near, close to the speaker, over to (to the direction of the speaker 
 heraus,adv,out of (in the direction of the speaker); out over here; out from there,lemma
 herausfinden,verb,to find out,lemma
 herausforderung,noun,"challenge, that which encourages someone to dare more; (loosely) any task or condition that to bear one has to stretch one's boundaries",lemma
-herausgefunden,verb,to find out,form-of
 herbst,noun,"autumn, fall",lemma
 herein,adv,in (in the direction of the speaker),lemma
 hergestellt,adj,"produced, made, manufactured",lemma
 herr,noun,"man, gentleman",lemma
-herrn,noun,"man, gentleman",form-of
 herrschen,verb,"to rule, to reign, to have dominion",lemma
-herrscht,verb,"to rule, to reign, to have dominion",form-of
 herum,adv,"about, around.",lemma
 herunter,adv,"down, downwards (to the own location downwards)",lemma
 hervor,adv,forth (in the direction of the speaker),lemma
 herz,noun,heart,lemma
-herzen,verb,"to hug, embrace",lemma
 herzlich,adj,"warm, warmhearted, friendly, affectionate, cordial",lemma
 heute,adv,today,lemma
-heutige,adj,today's (of the day of today),form-of
-heutigen,adj,today's (of the day of today),form-of
+heutig,adj,today's (of the day of today),lemma
 heutzutage,adv,"nowadays, these days (in the present era; in the world as it is today)",lemma
 hex,verb,"to perform witchcraft, cast a spell/spells",form-of
-hielt,verb,to hold (an object in one's hands),form-of
-hielten,verb,to hold (an object in one's hands),form-of
 hier,adv,"here; in this place; refers to an environment one is currently in, or to something within reach",lemma
 hierbleiben,verb,to stay here,lemma
 hierher,adv,"to here, here (to this place), hither",lemma
-hierhergekommen,verb,to get here,form-of
-hieß,verb,"to have a name; to be named; to be called; but implying that one “owns” this name, not necessarily that one goes by it",form-of
-hilf,verb,subjunctive II,form-of
-hilfst,verb,to help (someone); to assist; to aid,form-of
-hilft,verb,to help (someone); to assist; to aid,form-of
+hierherkommen,verb,to get here,lemma
+hilfe,noun,"help, aid",lemma
 himmel,noun,sky,lemma
 hin,adj,"gone (somewhere), left, situated",lemma
 hinauf,adv,"up; upward; upwards (from the own location upwards, in direction away from the speaker)",lemma
 hinaus,adv,out (away from the speaker),lemma
 hinein,adv,in (away from the speaker),lemma
-hingegangen,verb,"to go (elsewhere, to somewhere)",form-of
 hingegen,adv,on the other hand,lemma
 hingehen,verb,"to go (elsewhere, to somewhere)",lemma
-hingelegt,verb,"to put down, lay down",form-of
+hinlegen,verb,"to put down, lay down",lemma
 hinsicht,noun,"regard, aspect, respect, viewpoint",lemma
 hinten,adv,behind; in the back,lemma
 hinter,adv,over; to some place fairly nearby,lemma
@@ -1171,25 +1025,18 @@ hinunter,adv,"down, downwards (from the own location downwards)",lemma
 hinzu,adv,"in addition, besides",lemma
 hinzufügen,verb,"to say (after saying something else), to add",lemma
 hitze,noun,heat,lemma
-hob,verb,to lift; to raise,form-of
 hobby,noun,a hobby (activity),lemma
 hoch,adj,"high, tall",lemma
 hochzeit,noun,"wedding, marriage (a ceremony in which people are married and/or a celebration thereof)",lemma
 hof,noun,"yard, court, courtyard (open area by a house or enclosed by houses)",lemma
-hoffe,verb,to hope,form-of
 hoffen,verb,to hope,lemma
 hoffentlich,adv,hopefully (it is hoped that),lemma
 hoffnung,noun,"hope, the belief or expectation that something wished for can or will really happen.",lemma
-hofft,verb,to hope,form-of
-hohe,adj,"high, tall",form-of
-hohen,adj,"high, tall",form-of
-hol,verb,"to (go) get, to fetch (to go somewhere and take something to bring back)",form-of
 holen,verb,"to (go) get, to fetch (to go somewhere and take something to bring back)",lemma
-holt,verb,"to (go) get, to fetch (to go somewhere and take something to bring back)",form-of
 holz,noun,wood (material),lemma
 honig,noun,honey,lemma
 horizont,noun,horizon (line where the sky appears to meet the earth; (figurative) range of someone’s thinking or insight),lemma
-hos,noun,trousers,form-fallback
+hose,noun,trousers,lemma
 hotel,noun,hotel,lemma
 huhn,noun,chicken,lemma
 humor,noun,humor (something funny),lemma
@@ -1199,36 +1046,24 @@ hunger,noun,hunger,lemma
 hungrig,adj,hungry (desirous of food),lemma
 hut,noun,hat,lemma
 hälfte,noun,half; fifty percent of something,lemma
-hält,verb,to hold (an object in one's hands),form-of
-hältst,verb,to hold (an object in one's hands),form-of
-hände,noun,hand,form-of
-händen,noun,hand,form-of
 hängen,verb,"to hang, to be suspended",lemma
 hässlich,adj,ugly,lemma
-hättest,verb,subjunctive II,form-of
-hättet,verb,subjunctive II,form-of
 häufig,adj,frequent,lemma
-häuser,noun,"house, building",form-of
-höchst,adv,"highly, extremely",lemma
 höflich,adj,polite (well-mannered),lemma
-höh,adj,"high, tall",form-of
+höhe,noun,"height, altitude",lemma
 höhl,verb,to hollow out,form-of
 hölle,noun,hell,lemma
-hör,verb,to hear (to perceive sounds (or a sound) through the ear),form-of
 hören,verb,to hear (to perceive sounds (or a sound) through the ear),lemma
-hört,verb,to hear (to perceive sounds (or a sound) through the ear),form-of
 hübsch,adj,"pretty, handsome",lemma
 hügel,noun,hill,lemma
 hühner,noun,chicken,form-of
 hütte,noun,"hut, cabin, shack, cottage (small house, typically built of light materials rather than stone)",lemma
 ich,pron,I (first person singular nominative (subject) pronoun),lemma
 idee,noun,idea,lemma
-ideen,noun,idea,form-of
 idiot,noun,idiot; moron,lemma
 ignorieren,verb,to ignore (deliberately pay no attention to),lemma
 ihm,pron,he,form-of
 ihn,pron,(obsolete) dative of sie; them (indirect object).,lemma
-ihnen,pron,she,form-of
 ihr,pron,"you, ye (plural, familiar)",lemma
 im,noun,"initialism of Inoffizieller Mitarbeiter / Inoffizielle Mitarbeiterin (“unofficial collaborator”), an informant in the German Democratic Republic who delivered private information t",lemma
 immer,adv,always,lemma
@@ -1237,9 +1072,9 @@ indem,conj,by (indicates a means),lemma
 indien,name,India (a country in South Asia),lemma
 information,noun,"a piece of information; (in the plural) information, intelligence (things to be known about a topic)",lemma
 inhalt,noun,content,lemma
-inn,name,"Inn (a right tributary of the Danube in Switzerland, Austria and Germany)",lemma
+innen,adv,within,lemma
 innenstadt,noun,inner city,lemma
-inneren,adj,inner,form-of
+inner,adj,inner,lemma
 innerhalb,adv,"within, inside (spatial)",lemma
 ins,contraction,contraction of in (“(in)to”) + das (“the”) (accusative singular neuter),lemma
 insekt,noun,insect,lemma
@@ -1266,30 +1101,27 @@ irren,verb,"to wander (to move around aimlessly, being unable to find where one 
 irrtum,noun,"error, mistake",lemma
 islam,name,Islam,lemma
 iss,name,ISS,lemma
-isst,verb,to eat,form-of
 italien,name,Italy (a country in Southern Europe),lemma
+italiener,noun,"Italian (person, or a type of chicken, or car)",lemma
 italienisch,adj,Italian,lemma
-ißt,verb,to eat,form-of
 ja,adv,obviously; certainly; of course; as you know; as is generally known (indicates and emphasises that one is expressing an established fact),lemma
-jack,noun,jacket,form-fallback
+jacke,noun,jacket,lemma
 jagen,verb,to hunt (game),lemma
 jahr,noun,"year (solar year, the time it takes the Earth to complete one orbit of the Sun)",lemma
 jahrhundert,noun,a century (period of 100 years),lemma
 jan,name,"a male given name, variant of Johann, popular in the later 20th century",lemma
 januar,noun,January,lemma
 japan,name,Japan (a country in East Asia),lemma
+japaner,noun,Japanese (person),lemma
 japanisch,adj,"Japanese (of or relating to Japan, the Japanese people, or the Japanese language)",lemma
 je,adv,ever,lemma
-jed,pron,each,form-of
+jeder,pron,each,lemma
 jedermann,pron,everyone,lemma
 jederzeit,adv,anytime,lemma
 jedesmal,adv,every time,curated-phrase
 jedoch,adv,"however, yet, nevertheless",lemma
 jemals,adv,ever,lemma
 jemand,pron,"someone, somebody",lemma
-jene,pron,"that, that one",form-of
-jenem,pron,"that, that one",form-of
-jenen,pron,"that, that one",form-of
 jener,pron,"that, that one",lemma
 jesu,name,Jesus,form-of
 jetzt,adv,"now (at this moment, right now)",lemma
@@ -1301,20 +1133,15 @@ juni,noun,June,lemma
 jupiter,name,Jupiter,lemma
 jäger,noun,hunter (male or of unspecified sex),lemma
 jünger,noun,disciple (one who learns from and follows a usually religious or philosophical teacher; male or unspecified sex),lemma
-jüngst,adv,lately,lemma
-kaffe,noun,"backwater, Hicksville, bumfuck (a backwards, boring rural town or village)",form-of
+kaffee,noun,coffee (beverage made by infusing coffee beans in hot water),lemma
 kaiser,noun,emperor (ruler of certain monarchies; highest monarch),lemma
 kalt,adj,"cold, chilly; the physical perception of something (objects, weather, body etc.) to have a low temperature",lemma
-kam,verb,to come; to arrive,form-of
 kamen,name,"a municipality of North Rhine-Westphalia, Germany",lemma
 kamera,noun,camera (device for taking photographs or filming),lemma
 kampf,noun,"struggle, battle, campaign, fight",lemma
 kanada,name,Canada (a country in North America),lemma
 kanadier,noun,Canadian (person from Canada),lemma
 kaninchen,noun,rabbit,lemma
-kann,verb,"to be able (to do or be something), to have the possibility of, can.",form-of
-kannst,verb,"to be able (to do or be something), to have the possibility of, can.",form-of
-kannte,verb,to know; to be acquainted with; to be familiar with,form-of
 kapitel,noun,chapter (section of a text),lemma
 kapitän,noun,captain,lemma
 kaputt,adj,"destroyed, broken, out of order",lemma
@@ -1322,35 +1149,27 @@ karl,name,a male given name from Old High German,lemma
 karriere,noun,career (occupational path),lemma
 karte,noun,"card (flat, normally rectangular piece of stiff paper, plastic etc.)",lemma
 karten,noun,card game,lemma
-kartoffeln,noun,potato,form-of
-kat,noun,clipping of Katalysator (“catalytic converter”),lemma
+kartoffel,noun,potato,lemma
 katastrophe,noun,"catastrophe, disaster, calamity",lemma
-katz,noun,apocopic form of Katze (“cat”),lemma
+kater,noun,"tomcat, tom, male cat",lemma
+katze,noun,"house cat, Felis silvestris catus",lemma
 kauf,noun,purchase,lemma
 kaufen,verb,"to buy, to purchase",lemma
-kauft,verb,"to buy, to purchase",form-of
 kaum,adv,"barely, hardly (qualifying verbs or adjectives)",lemma
-kehrt,verb,to sweep,form-of
+kehren,verb,to sweep,lemma
 kein,pron,no; not a(n); not one; not any,lemma
 keinerlei,adj,"no … whatsoever, no … at all",lemma
 keks,noun,"cookie (US), biscuit (UK)",lemma
 keller,noun,cellar,lemma
 kellner,noun,waiter (male or of unspecified gender),lemma
-kenn,verb,to know; to be acquainted with; to be familiar with,form-of
 kennen,verb,to know; to be acquainted with; to be familiar with,lemma
-kennengelernt,verb,"to get to know, become acquainted with (a person, place, thing); to befriend.",form-of
 kennenlernen,verb,"to get to know, become acquainted with (a person, place, thing); to befriend.",lemma
-kennenzulernen,verb,"to get to know, become acquainted with (a person, place, thing); to befriend.",form-of
-kennst,verb,to know; to be acquainted with; to be familiar with,form-of
-kennt,verb,to know; to be acquainted with; to be familiar with,form-of
 kenntnis,noun,knowledge,lemma
 kerl,noun,"fellow, guy, chap, bloke",lemma
 kerze,noun,candle,lemma
-kerzen,noun,candles,form-of
 kilo,noun,kilo,lemma
 kilometer,noun,kilometer (unit of measure),lemma
 kind,noun,kid; child (young person),lemma
-kindern,noun,kid; child (young person),form-of
 kindheit,noun,childhood,lemma
 kino,noun,cinema,lemma
 kirche,noun,church (building),lemma
@@ -1359,7 +1178,6 @@ kiste,noun,"chest, box",lemma
 klang,noun,"sound, tone",lemma
 klapp,verb,"to clap (make a soft clapping sound, particularly of something being closed)",form-of
 klar,adj,clear; transparent; bright,lemma
-klaren,adj,clear; transparent; bright,form-of
 klasse,adj,"great, awesome",lemma
 klassenkamerad,noun,classmate,lemma
 klassenzimmer,noun,classroom,lemma
@@ -1369,14 +1187,12 @@ kleid,noun,"dress, gown (kind of woman's garment)",lemma
 kleiden,verb,"to dress, to clothe",lemma
 kleidung,noun,clothing; apparel,lemma
 klein,adj,"small, little, wee (in physical size or extent)",lemma
-kleinste,adj,"small, little, wee (in physical size or extent)",form-of
 klima,noun,climate,lemma
 klimaanlage,noun,air conditioner,lemma
-klingelt,verb,to ring (to produce the sound of a bell or a similar sound),form-of
+klingeln,verb,to ring (to produce the sound of a bell or a similar sound),lemma
 klingen,verb,to ring; to clink,lemma
-klopft,verb,subjunctive II,form-of
+klopfen,verb,"to knock, to rap (strike rather gently with something hard)",lemma
 klug,adj,"intelligent, prudent, wise, smart, clever",lemma
-klüger,adj,"intelligent, prudent, wise, smart, clever",form-of
 km,noun,abbreviation of Kaltmiete,lemma
 knapp,adj,scarce,lemma
 kneipe,noun,"pub, bar",lemma
@@ -1386,9 +1202,8 @@ knopf,noun,button (fastener),lemma
 koch,noun,cook (one who cooks; male or unspecified gender),lemma
 kochen,verb,"to cook, to prepare food (chiefly hot food for lunch or supper)",lemma
 koffer,noun,a case; a suitcase or briefcase,lemma
-kollegen,noun,"colleague, coworker, workmate, fellow worker or member",form-of
+kollege,noun,"colleague, coworker, workmate, fellow worker or member",lemma
 komisch,adj,"comedic, comic, pertaining to comedy",lemma
-komm,verb,to come; to arrive,form-of
 komma,noun,"comma (,)",lemma
 kommen,verb,to come; to arrive,lemma
 kommend,adj,"coming, next",lemma
@@ -1397,8 +1212,6 @@ kommunikation,noun,"communication, exchange of signs",lemma
 komplett,adj,"complete, entire (including all possible parts or elements)",lemma
 kompliziert,adj,"complicated, complex",lemma
 konferenz,noun,conference,lemma
-konnt,verb,"to be able (to do or be something), to have the possibility of, can.",form-of
-konntest,verb,"to be able (to do or be something), to have the possibility of, can.",form-of
 kontakt,noun,contact,lemma
 konto,noun,account,lemma
 kontrolle,noun,inspection,lemma
@@ -1426,43 +1239,33 @@ kriegen,verb,to get,lemma
 krise,noun,crisis (unstable situation),lemma
 kritik,noun,criticism (negative judgement),lemma
 kritisieren,verb,"to criticize, to criticise",lemma
-kräfte,noun,forces,form-of
 kuchen,noun,"pie; cake; tart (foodstuff made of baked dough, other than bread)",lemma
 kugel,noun,"a ball, usually solid",lemma
 kuh,noun,cow (female bovine animal at or near adulthood),lemma
 kultur,noun,culture,lemma
-kund,adj,"known, having come to someone's knowledge",lemma
+kunde,noun,"customer, patron, client",lemma
 kunst,noun,art,lemma
-kur,noun,treatment at a health resort,lemma
+kurs,noun,course (direction),lemma
 kurz,adj,"short, quick, brief",lemma
 kuss,noun,kiss,lemma
 kälte,noun,coldness; cold,lemma
-käm,verb,subjunctive II,form-of
 kämpfen,verb,"to fight, to struggle",lemma
-käs,noun,cheese,lemma
+käse,noun,cheese,lemma
 kätzchen,noun,catkin (type of blossom),lemma
 könig,noun,"king (monarch, chess, card games)",lemma
 königin,noun,queen,lemma
 können,verb,"to be able (to do or be something), to have the possibility of, can.",lemma
-könnt,verb,subjunctive II,form-of
-könntest,verb,subjunctive II,form-of
-könntet,verb,subjunctive II,form-of
 körper,noun,"body (of a person, animal, etc.)",lemma
 köstlich,adj,costly; precious,lemma
 küche,noun,kitchen (room),lemma
-küh,noun,cow (female bovine animal at or near adulthood),form-of
 kühlschrank,noun,refrigerator,lemma
-kümmer,verb,"to take care, to look after",form-of
 kümmern,verb,"to take care, to look after",lemma
-kümmert,verb,"to take care, to look after",form-of
 künstler,noun,artist,lemma
 künstlich,adj,artificial,lemma
 kürzlich,adj,recent,lemma
 küssen,verb,to kiss,lemma
-küsst,verb,to kiss,form-of
 küste,noun,coast,lemma
 lachen,verb,to laugh,lemma
-lacht,verb,to laugh,form-of
 laden,verb,"to load (something) e.g. into a container or onto a vehicle, to load up",lemma
 lag,noun,"latency, lag (the delay between a request and its response)",lemma
 lampe,noun,"lamp, light (piece of furniture, or fixture mounted on a wall or ceiling, holding one or more electric light sockets)",lemma
@@ -1472,8 +1275,6 @@ lang,adj,long; lengthy (in space or time),lemma
 langsam,adj,slow (taking a long time to move or travel; not happening in a short time),lemma
 langweilen,verb,to bore (inspire boredom in someone),lemma
 langweilig,adj,"boring, dull, tedious",lemma
-las,verb,"to read (to look at and understand symbols, words, or data)",form-of
-lass,verb,alternative spelling of lass,lemma
 lassen,verb,to allow; to permit; to let,lemma
 last,noun,"load, burden",lemma
 lastwagen,noun,"truck, lorry",lemma
@@ -1482,20 +1283,14 @@ lauf,noun,"run, race",lemma
 laufen,verb,to walk; to jog; to run (to move on foot; either at a normal or an increased speed),lemma
 laune,noun,"mood, humor",lemma
 laut,adj,"loud, noisy",lemma
-lautet,verb,"to be, to read (have a certain content or wording)",form-of
-laß,verb,alternative spelling of lass,lemma
-laßt,verb,to allow; to permit; to let,form-of
+lauten,verb,"to be, to read (have a certain content or wording)",lemma
 leben,verb,"to live, to be alive",lemma
 lebensmittel,noun,"any item or substance intended for human consumption (excluding drugs other than alcohol), food, comestible",lemma
-lebt,verb,simple present,form-of
 leck,adj,leaky,lemma
 lediglich,adv,merely,lemma
 leer,adj,empty,lemma
-leg,verb,subjunctive I,form-of
 legen,verb,to lie down,lemma
-legt,verb,to lie down,form-of
-lehnt,verb,to lean,form-of
-lehr,verb,"to teach (a class, a subject); to be a teacher",form-of
+lehnen,verb,to lean,lemma
 lehren,verb,"to teach (a class, a subject); to be a teacher",lemma
 lehrerin,noun,teacher,form-of
 leiche,noun,"dead body, corpse, cadaver, carcass",lemma
@@ -1505,34 +1300,30 @@ leiden,verb,"to suffer, to experience pain, sorrow, etc.",lemma
 leidenschaft,noun,passion (powerful emotion),lemma
 leihen,verb,to borrow,lemma
 leis,adj,alternative form of leise,lemma
+leise,adj,"quiet, soft, low",lemma
 leisten,verb,"to perform (a task, work), to accomplish (a task), to achieve (a goal)",lemma
 leistung,noun,"performance, accomplishment, achievement",lemma
-leit,noun,ladder,form-fallback
+leiter,noun,ladder,lemma
 lektion,noun,"lesson (chapter of a textbook, section of a course)",lemma
 lernen,verb,"to learn, to acquire knowledge",lemma
-lernt,verb,"to learn, to acquire knowledge",form-of
-les,verb,"to read (to look at and understand symbols, words, or data)",form-of
 lesen,verb,"to read (to look at and understand symbols, words, or data)",lemma
 letzt,noun,only in fixed expressions,lemma
+letzte,adj,last,lemma
 letztemal,adv,superseded spelling of letzte Mal (“(the) last time”),lemma
 letztlich,adv,"finally, ultimately",lemma
 leut,noun,alternative form of Leute,lemma
+leute,noun,"people (several individual persons, a group of people in general, esp. of one kind or another), folk (folks), peeps (slang), guys (boys and/or girls)",lemma
 licht,adj,sparse (e.g. of hair or a forest),lemma
-lie,verb,"to read (to look at and understand symbols, words, or data)",form-of
 lieb,adj,lovable; dear; darling; sweet; good-hearted; kind,lemma
+lieben,verb,"to love, to have a strong affection for (someone or something)",lemma
 liebst,verb,"to love, to have a strong affection for (someone or something)",form-of
-liebt,verb,"to love, to have a strong affection for (someone or something)",form-of
 lied,noun,song (musical composition sung with vocals or vocal lyrics),lemma
-lief,verb,to walk; to jog; to run (to move on foot; either at a normal or an increased speed),form-of
 liegen,verb,to lie (to be in a horizontal position),lemma
-liest,verb,"to read (to look at and understand symbols, words, or data)",form-of
-ließ,verb,Switzerland and Liechtenstein standard spelling of ließ,lemma
-ließen,verb,to allow; to permit; to let,form-of
 linda,name,a female given name from the Germanic languages,lemma
 linie,noun,line,lemma
 link,adj,left,lemma
-lippen,noun,lip,form-of
-list,noun,"cunning, craft",lemma
+lippe,noun,lip,lemma
+liste,noun,list,lemma
 liter,noun,"liter, litre",lemma
 literatur,noun,"literature (written works collectively, often about a certain topic, in a certain language etc.)",lemma
 lkw,noun,abbreviation of Lastkraftwagen (“truck”),lemma
@@ -1542,21 +1333,13 @@ lohn,noun,wage,lemma
 lohnen,verb,to be worthwhile,lemma
 london,name,"London (the capital city of the United Kingdom; the capital city of England, within Greater London)",lemma
 los,adv,"rid of, free of",lemma
-lud,verb,"to load (something) e.g. into a container or onto a vehicle, to load up",form-of
 luft,noun,"air, atmosphere",lemma
 lust,noun,desire; the wish to do or have something,lemma
 lustig,adj,"funny, humorous",lemma
 lächeln,verb,to smile,lemma
-lächelt,verb,to smile,form-of
 lächerlich,adj,"ridiculous, risible, laughable",lemma
-länder,noun,country (territory of a nation),form-of
-ländern,noun,country (territory of a nation),form-of
-länger,adj,long; lengthy (in space or time),form-of
 längst,adv,"long ago, long",lemma
 lärm,noun,"noise, din, racket",lemma
-lässt,verb,alternative spelling of lässt; second/third-person singular present of lassen,lemma
-läuft,verb,to walk; to jog; to run (to move on foot; either at a normal or an increased speed),form-of
-läßt,verb,alternative spelling of lässt; second/third-person singular present of lassen,lemma
 löffel,noun,spoon,lemma
 löschen,verb,"to quench (fire, thirst, or lime)",lemma
 lösen,verb,to loose; to loosen; to detach; to remove,lemma
@@ -1565,14 +1348,11 @@ löwe,noun,lion,lemma
 löwen,name,Louvain (a city in Belgium),lemma
 lügen,verb,to tell a lie; to lie (to intentionally give false information),lemma
 lügner,noun,liar (one who tells lies) (male or of unspecified gender),lemma
-mach,verb,"to make, to produce, to create (an object, arrangement, situation, etc.)",form-of
 machen,verb,"to make, to produce, to create (an object, arrangement, situation, etc.)",lemma
-macht,noun,"power, authority",lemma
-mag,verb,to like (something or someone),form-of
 magen,noun,"stomach, maw",lemma
 mahlzeit,noun,meal,lemma
 mai,noun,May (month),lemma
-mail,noun,alternative form of E-Mail (“e-mail”),lemma
+mailen,verb,"to email, e-mail",lemma
 mal,adv,times (indicating multiplication of two numbers),lemma
 male,verb,to paint (do paintwork),form-of
 malen,verb,to paint (do paintwork),lemma
@@ -1594,6 +1374,7 @@ material,noun,material (matter),lemma
 mathe,noun,"math, maths (short form of mathematics)",lemma
 mathematik,noun,mathematics (study),lemma
 mau,adj,"unwell, queasy, poorly, ill",lemma
+maus,noun,mouse (animal),lemma
 maß,noun,Switzerland and Liechtenstein standard spelling of Maß,lemma
 medien,noun,"the mediae consonants, 'b', 'd', and 'g'. (e.g. those subject to the Medienverschiebung).",lemma
 medikament,noun,"drug, medicine",lemma
@@ -1602,43 +1383,38 @@ meer,noun,sea,lemma
 mehl,noun,flour; meal (ground cereal),lemma
 mehr,adv,more,lemma
 mehrere,pron,"multiple, several; more than one; a number of",lemma
-mehreren,pron,"multiple, several; more than one; a number of",form-of
 mehrheit,noun,majority; bulk,lemma
 mehrmals,adv,"several times, repeatedly",lemma
-meilen,noun,mile (unit of distance),form-of
+meile,noun,mile (unit of distance),lemma
 mein,det,my,lemma
-meinst,verb,"to opine, to think; to believe; to suppose",form-of
-meint,verb,"to opine, to think; to believe; to suppose",form-of
+meinen,verb,"to opine, to think; to believe; to suppose",lemma
 meinung,noun,opinion,lemma
 meist,adj,much; many,form-of
-meisten,adj,much; many,form-of
+meistens,adv,mostly (for the most part),lemma
 melden,verb,"to report, to inform (about an incident or condition)",lemma
 menge,noun,quantity,lemma
 mensch,pron,"one, they (indefinite third-person singular pronoun)",lemma
 menschheit,noun,"humanity, mankind (human beings at large)",lemma
 menschlich,adj,"human, manlike",lemma
 merken,verb,"to notice, to sense, to be able to tell (the difference in a situation or state)",lemma
-mess,noun,knife,form-fallback
-met,noun,mead,lemma
+messer,noun,knife,lemma
+meter,noun,meter (unit of length),lemma
 methode,noun,manner,lemma
 mexiko,name,"Mexico (a country in North America, located south of the United States, and northwest of Guatemala and Belize from Central America)",lemma
-mich,pron,I (first person singular nominative (subject) pronoun),form-of
 miete,noun,rent,lemma
 mieten,verb,"to hire, to rent",lemma
 mike,name,a male given name,lemma
 milch,noun,milk (white liquid produced by female mammals for their young to consume),lemma
-milliarden,noun,billion (10⁹),form-of
+milliarde,noun,billion (10⁹),lemma
 million,noun,million (10⁶),lemma
-mindesten,adj,"little, few (a small amount, a small number)",form-of
+mindestens,adv,at least (at a lower limit),lemma
 minister,noun,minister (a person who is commissioned by the government for public service),lemma
 minute,noun,minute (unit of time; unit of angle),lemma
-minuten,noun,minute (unit of time; unit of angle),form-of
-mir,pron,alternative form of wir (“we”),lemma
 mist,noun,manure (domestic animals’ excrement mixed with hay),lemma
 mit,adv,among; denotes a belonging of a person or a thing to a group,lemma
-mitarbeit,noun,"cooperation, collaboration",lemma
+mitarbeiter,noun,"employee (person who works, together with others, in a particular business or institution)",lemma
+mitbringen,verb,"to bring (along, with), to accompany",lemma
 miteinander,adv,together (with),lemma
-mitgebracht,verb,"to bring (along, with), to accompany",form-of
 mitglied,noun,member,lemma
 mitkommen,verb,"to come with, to join and come along with (another person)",lemma
 mitleid,noun,"pity, compassion",lemma
@@ -1651,9 +1427,7 @@ mittel,adj,"average, middling",lemma
 mitten,adv,In the middle.,lemma
 mitternacht,noun,midnight,lemma
 mittwoch,noun,Wednesday,lemma
-mitzuteilen,verb,"to inform about, to tell, to disclose, to impart, to report, to announce",form-of
 mobiltelefon,noun,mobile phone (a portable telephone),lemma
-mochte,verb,to like (something or someone),form-of
 mode,noun,"fashion, trend",lemma
 modern,verb,"to rot, to molder",lemma
 moment,noun,moment,lemma
@@ -1670,64 +1444,52 @@ motorrad,noun,motorcycle,lemma
 mund,noun,mouth of a person,lemma
 museum,noun,"museum (building or institution dedicated to the protection and exhibition of items with scientific, historical, cultural or artistic value)",lemma
 musik,noun,music,lemma
+musiker,noun,musician,lemma
 muss,noun,"necessity, a must",lemma
-musst,verb,to have to (do something); must; to be obliged (to do something); to need (to do something).,form-of
 mut,noun,courage; bravery,lemma
 mutig,adj,courageous,lemma
 mutter,noun,mother,lemma
-muttersprach,noun,mother tongue; native language,form-fallback
+muttersprache,noun,mother tongue; native language,lemma
 muttersprachler,noun,native speaker (male or of unspecified gender) (a person who grew up with a particular language as their mother tongue),lemma
 muß,noun,"necessity, a must",lemma
-mußt,verb,to have to (do something); must; to be obliged (to do something); to need (to do something).,form-of
 mädchen,noun,girl,lemma
-männer,noun,"man, male human being",form-of
-männern,noun,"man, male human being",form-of
 märchen,noun,fairy tale (folk tale),lemma
 märz,noun,March,source-fallback
 mäuse,noun,mouse,form-of
 möbel,noun,piece of furniture,lemma
-möcht,verb,subjunctive II,form-of
-möchtest,verb,subjunctive II,form-of
-möchtet,verb,subjunctive II,form-of
 mögen,verb,to like (something or someone),lemma
 möglich,adj,possible (what can be done or achieved),lemma
-möglichen,adj,possible (what can be done or achieved),form-of
 möglicherweise,adv,"possibly, potentially",lemma
 möglichkeit,noun,"possibility, likelihood",lemma
+möglichst,adv,as much as possible,lemma
 mörder,noun,"murderer, assassin, assassinator, killer, slayer (male or of unspecified gender)",lemma
 müde,adj,tired,lemma
-müh,noun,"effort, difficulty",form-fallback
+mühe,noun,"effort, difficulty",lemma
 müll,noun,"rubbish, refuse, waste, junk, trash (US), garbage (US)",lemma
 müssen,verb,to have to (do something); must; to be obliged (to do something); to need (to do something).,lemma
-müsst,verb,subjunctive II,form-of
 mütze,noun,cap,lemma
-müßt,verb,to have to (do something); must; to be obliged (to do something); to need (to do something).,form-of
 na,intj,"well!, so!; used to introduce a statement",lemma
 nach,adv,Separated form of nach-,lemma
 nachbar,noun,neighbour,lemma
 nachbarin,noun,female neighbor,lemma
-nachbarn,noun,neighbour,form-of
 nachdem,conj,after (that),lemma
 nachdenken,verb,"to think, to reflect, to ponder",lemma
-nachgedacht,verb,"to think, to reflect, to ponder",form-of
 nachmittag,noun,afternoon (part of the day from about 2 p.m. to about 6 p.m.),lemma
 nachricht,noun,"news, piece of news, notification",lemma
 nacht,noun,night,lemma
 nachtisch,noun,"dessert, pudding (UK)",lemma
-nachzudenken,verb,"to think, to reflect, to ponder",form-of
-nacken,noun,nape of the neck,lemma
+nachts,adv,"at night, nights",lemma
+nackt,adj,naked,lemma
 nagel,noun,"A nail, the horny plate on fingers and toes of humans and certain animals which mostly consists of keratin.",lemma
 nah,adj,"near (in space or time or in an abstract sense), close, nearby",lemma
-nahm,verb,to take,form-of
-nahmen,verb,to take (something into one's possession or on one's body),form-of
 nahrung,noun,"nourishment, food",lemma
 naiv,adj,green (inexperienced),lemma
-nam,verb,to take (something into one's possession or on one's body),form-of
+nam,noun,"name (forename, Christian name, given name)",form-of
+name,noun,"name (forename, Christian name, given name)",lemma
 namen,noun,alternative form of Name,lemma
-nannte,verb,to name (to give a name to),form-of
 narr,noun,"jester, fool",lemma
 narren,verb,to fool,lemma
-nas,noun,nose,form-fallback
+nase,noun,nose,lemma
 nass,adj,wet (soaked with liquid),lemma
 nation,noun,nation (community of people),lemma
 natur,noun,nature (the natural world),lemma
@@ -1758,10 +1520,7 @@ nieder,adj,low,lemma
 niederlage,noun,"defeat, loss",lemma
 niemals,adv,never (at no time),lemma
 niemand,pron,"nobody, no one",lemma
-nimm,verb,to take (something into one's possession or on one's body),form-of
-nimmst,verb,to take (something into one's possession or on one's body),form-of
-nimmt,verb,to take (something into one's possession or on one's body),form-of
-nirgend,adv,nowhere (in no place),lemma
+nirgends,adv,nowhere (in no place),lemma
 nirgendwo,adv,nowhere (in no place),lemma
 noch,adv,"still, yet (up to and including a given time)",lemma
 nochmal,adv,once again,lemma
@@ -1776,7 +1535,6 @@ nummer,noun,number; see usage notes below,lemma
 nun,adv,"now, at this moment",lemma
 nur,adv,"only, just, merely, simply",lemma
 nutzen,verb,to make use of; to deploy; to exploit; to harness; to take (the opportunity of),lemma
-nächst,prep,"besides, in addition to",lemma
 nähe,noun,"nearness, closeness",lemma
 näher,adj,"further, more precise or detailed",lemma
 nämlich,adv,"namely, specifically; used to further specify what exactly one was talking about just before",lemma
@@ -1794,7 +1552,7 @@ offenbar,adj,apparent (evident),lemma
 offensichtlich,adj,obvious,lemma
 oft,adv,often,lemma
 oh,intj,oh,lemma
-ohn,adv,without,form-fallback
+ohne,adv,without,lemma
 ohr,noun,ear (the auditory organ),lemma
 okay,adj,OK,lemma
 oktober,noun,October,lemma
@@ -1805,20 +1563,21 @@ opa,noun,grandpa,lemma
 operation,noun,operation,lemma
 opfer,noun,sacrifice,lemma
 optimistisch,adj,optimistic,lemma
-orang,adj,orange,form-of
+orang,adj,orange,form-fallback
+orange,adj,orange,lemma
 ordentlich,adj,"tidy, orderly",lemma
 ordnung,noun,"arrangement, regulation",lemma
 organisation,noun,"organisation, organization",lemma
 original,adj,original,lemma
 ort,noun,"place, location, point, position",lemma
-ost,noun,clipping of Osten: the east,lemma
+osten,noun,East,lemma
 ozean,noun,ocean,lemma
 paar,det,some; few; a few,lemma
-packt,verb,"to pack (luggage, a bundle, etc.); to get packed",form-of
+packen,verb,"to pack (luggage, a bundle, etc.); to get packed",lemma
 paket,noun,"packet, package, parcel (the term is almost exclusively used for packages sent by mail)",lemma
 panik,noun,panic,lemma
 papa,noun,"dad, daddy",lemma
-papi,noun,daddy,lemma
+papier,noun,paper (material),lemma
 papst,noun,pope (head of the Roman Catholic Church; title of other religious leaders such as the Coptic Pope),lemma
 paradies,noun,paradise,lemma
 paris,name,Paris (the capital and largest city of France),lemma
@@ -1832,7 +1591,6 @@ party,noun,party (social gathering),lemma
 pass,noun,"pass, mountain pass",lemma
 passen,verb,to fit,lemma
 passieren,verb,to happen,lemma
-passiert,verb,it happens,lemma
 passwort,noun,password,lemma
 patient,noun,patient (male or of unspecified sex or female),lemma
 pause,noun,pause (temporary interruption in speech or an activity),lemma
@@ -1845,7 +1603,7 @@ persönlich,adj,personal,lemma
 persönlichkeit,noun,personality,lemma
 pferd,noun,horse,lemma
 pflanzen,verb,to plant,lemma
-pflegt,verb,providing care or service for someone/something,form-of
+pflegen,verb,providing care or service for someone/something,lemma
 pflicht,noun,duty,lemma
 pfund,noun,"a metric pound, 500 grams, half a kilogram",lemma
 phantasie,noun,alternative spelling of Fantasie,lemma
@@ -1863,10 +1621,11 @@ pläne,adj,"planar, flat, level, smooth",form-of
 plötzlich,adj,"sudden, abrupt, brusque",lemma
 pol,noun,pole (point on a spherical body's surface intersected by its rotational axis),lemma
 politik,noun,politics,lemma
+politiker,noun,politician,lemma
 politisch,adj,political (concerning or related to politics),lemma
 polizei,noun,police; law enforcement,lemma
 polizist,noun,police officer (male or female); policeman,lemma
-pomme,noun,"fries, French fries, chips (UK)",form-fallback
+pommes,noun,"fries, French fries, chips (UK)",lemma
 portemonnaie,noun,"wallet, purse",lemma
 portugiesisch,adj,Portuguese,lemma
 post,noun,"mail, post (sent and received letters etc.)",lemma
@@ -1898,11 +1657,11 @@ quell,noun,source,lemma
 rache,noun,revenge; vengeance,lemma
 rad,noun,wheel,lemma
 radio,noun,radio (technology that allows broadcasters to transmit audio programs; such programs),lemma
-rannte,verb,"to run; to race; to sprint (said of competing sportsmen, animals etc.)",form-of
 rasch,adj,"quick, rapid, swift",lemma
 rasen,verb,to race; to speed (drive faster than permitted),lemma
 rat,noun,"advice, counsel",lemma
-ratschläge,noun,piece of advice; (in plural) advice,form-of
+raten,verb,to advise; to recommend,lemma
+ratschlag,noun,piece of advice; (in plural) advice,lemma
 rau,adj,rough,lemma
 rauch,noun,"smoke, fume",lemma
 rauchen,verb,"to smoke, give off smoke",lemma
@@ -1916,7 +1675,6 @@ recht,adj,"right, right-hand (direction)",lemma
 rechtsanwalt,noun,lawyer,lemma
 rechtzeitig,adj,punctual,lemma
 reden,verb,"to talk, to speak, to orate",lemma
-redet,verb,"to talk, to speak, to orate",form-of
 regal,noun,"a rack of shelves, shelving, a shelf (in this collective sense), e.g. an open bookcase",lemma
 regel,noun,rule,lemma
 regelmäßig,adj,regular; according to the rule; expected; not forming an exception,lemma
@@ -1926,17 +1684,15 @@ regenschirm,noun,umbrella (used for protection against rain),lemma
 regierung,noun,government/administration,lemma
 region,noun,region,lemma
 regnen,verb,to rain,lemma
-regnet,verb,to rain,form-of
 rei,verb,to travel,form-of
 reich,adj,"rich, wealthy (having a lot of money and possessions)",lemma
 reichen,verb,to reach (extend a certain distance),lemma
-reicht,verb,to reach (extend a certain distance),form-of
 reichtum,noun,"wealth, richness",lemma
 reifen,verb,"to ripen, to mature",lemma
 reih,verb,to line up; to arrange (according to some structure),form-of
 rein,adj,"pure, clear, plain",lemma
 reis,noun,rice,lemma
-reist,verb,to travel,form-of
+reisen,verb,to travel,lemma
 reiten,verb,to ride; to do horseriding,lemma
 religion,noun,religion,lemma
 rennen,verb,"to run; to race; to sprint (said of competing sportsmen, animals etc.)",lemma
@@ -1952,9 +1708,7 @@ richt,noun,judge,form-fallback
 richtig,adj,"correct, accurate, right",lemma
 richtung,prep,"towards, to (in the context of larger scale orientation; arrival at the location is not implied)",lemma
 riechen,verb,to smell (something); to sniff (something),lemma
-rief,verb,"to call out, to shout, to cry (of a person or animal)",form-of
 riesig,adj,"gigantic, huge",lemma
-riet,verb,to advise; to recommend,form-of
 ring,noun,"a ring (a circular and hollow object, made of any material.)",lemma
 risiko,noun,risk,lemma
 riss,noun,"fissure, crack",lemma
@@ -1965,6 +1719,7 @@ roll,verb,to roll,form-of
 rom,noun,"Rom (member of the Roma people), Romani",lemma
 roman,noun,novel,lemma
 rosa,adj,coloured in a pale shade of pink,lemma
+rose,noun,rose,lemma
 rosen,noun,rose,form-of
 rot,adj,red (colour),lemma
 rotwein,noun,"red wine (red-coloured wine made mostly from black grapes, including the skin)",lemma
@@ -1981,15 +1736,10 @@ russisch,adj,Russian,lemma
 russland,name,Russia (a transcontinental country in Eastern Europe and North Asia),lemma
 rätsel,noun,"riddle, puzzle, mystery, enigma",lemma
 rücken,verb,"to move, to push",lemma
-sach,verb,alternative form of sag,lemma
+sache,noun,"matter, affair, case, question, issue",lemma
 sack,noun,"sack (large bag, especially one made of fabric)",lemma
 saft,noun,juice,lemma
-sag,verb,to say (to pronounce; communicate verbally),form-of
 sagen,verb,to say (to pronounce; communicate verbally),lemma
-sagt,verb,to say (to pronounce; communicate verbally),form-of
-sagtest,verb,to say (to pronounce; communicate verbally),form-of
-sah,verb,to see; to have sight,form-of
-sahen,verb,to see; to have sight,form-of
 salat,noun,"salad (mixed, usually cold dish)",lemma
 salz,noun,"salt, table salt, sal",lemma
 sammeln,verb,to gather; to assemble; to collect,lemma
@@ -2002,17 +1752,16 @@ satt,adj,"not hungry, satiated, full, done",lemma
 satz,noun,sentence,lemma
 sau,noun,sow (female pig),lemma
 sauber,adj,clean,lemma
-saß,verb,Switzerland and Liechtenstein standard spelling of saß,lemma
 saßen,verb,to sit; to perch,form-of
 schach,noun,chess (game),lemma
 schachtel,noun,"a small, usually square box, package or case",lemma
 schad,adj,alternative form of schade,lemma
-schadet,verb,"to hurt, to be harmful",form-of
+schaden,verb,"to hurt, to be harmful",lemma
 schaf,noun,sheep,lemma
 schaffen,verb,"to create, to call into being",lemma
 schalt,verb,to switch,form-of
-schaltet,verb,to switch,form-of
-schand,noun,"disgrace, infamy, dishonour",form-fallback
+schalten,verb,to switch,lemma
+schande,noun,"disgrace, infamy, dishonour",lemma
 scharf,adj,"sharp; able to cut (of a knife, edge)",lemma
 schatten,noun,"shade, shadow",lemma
 schatz,noun,treasure,lemma
@@ -2020,20 +1769,16 @@ schau,noun,show,lemma
 schauen,verb,"to watch, to view (a movie or other performance)",lemma
 schauspiel,noun,"play (theatrical performance), drama",lemma
 schauspielerin,noun,"actress, actor (female)",lemma
-schaut,verb,"to watch, to view (a movie or other performance)",form-of
 scheiden,verb,to dissolve (a marriage); to divorce (a couple),lemma
 scheidung,noun,separation,lemma
 scheinen,verb,to shine; to gleam,lemma
 scheitern,verb,"to fail, to conclude unsuccessfully",lemma
 scheiß,adj,"shitty, shit",lemma
 schenken,verb,"to give as a present, to gift",lemma
-schenkt,verb,"to give as a present, to gift",form-of
 scher,verb,to cut back something that grows,form-of
 scherz,noun,joke,lemma
-schi,noun,alternative spelling of Ski,lemma
 schicken,verb,"to send, to dispatch (a person, letter, money etc. to a destination or a person)",lemma
 schicksal,noun,"destiny, fate (irresistible power that predetermines events)",lemma
-schickt,verb,"to send, to dispatch (a person, letter, money etc. to a destination or a person)",form-of
 schießen,verb,to shoot; to fire,lemma
 schiff,noun,ship,lemma
 schild,noun,"sign, plate (flat surface bearing information)",lemma
@@ -2045,19 +1790,16 @@ schlafzimmer,noun,"bedroom (bed-room), bedchamber (bed-chamber)",lemma
 schlag,noun,"blow, hit",lemma
 schlagen,verb,to beat; to hit; to knock; to strike; to punch; to hammer; to pound,lemma
 schlang,verb,to wind,form-of
+schlange,noun,snake,lemma
 schlau,adj,clever in a way that enables one to achieve one's goals; slightly sly or cunning (but not usually implying any evil intentions),lemma
 schlecht,adj,"bad, evil, wicked (the opposite of good; immoral)",lemma
 schlief,verb,to sleep,form-of
 schließen,verb,Switzerland and Liechtenstein standard spelling of schließen,lemma
 schließlich,adv,"in the end, finally, eventually",lemma
 schlimm,adj,"bad, terrible, serious (seriously bad), dire, horrible, awful",lemma
-schlimmste,adj,"bad, terrible, serious (seriously bad), dire, horrible, awful",form-of
 schloss,verb,alternative form of schloss,lemma
 schlossen,verb,to hail,lemma
-schlug,verb,to beat; to hit; to knock; to strike; to punch; to hammer; to pound,form-of
 schluss,noun,"end, ending, conclusion, finish",lemma
-schläft,verb,to sleep,form-of
-schlägt,verb,to beat; to hit; to knock; to strike; to punch; to hammer; to pound,form-of
 schlüssel,noun,a key,lemma
 schmecken,verb,to taste,lemma
 schmerz,noun,"physical pain, ache (practically, as a sensation)",lemma
@@ -2070,18 +1812,16 @@ schneiden,verb,to cut; to carve; to slice,lemma
 schneien,verb,to snow,lemma
 schnell,adj,"quick, fast",lemma
 schnitt,noun,"cut, the result of cutting",lemma
-schockiert,verb,to shock,form-of
+schockieren,verb,to shock,lemma
 schokolade,noun,chocolate (food made from ground roasted cocoa beans),lemma
 schon,adv,"already (happening rather early, continuing rather long)",lemma
 schoss,noun,lap (area between the waist and knees of a seated person),lemma
 schrank,noun,"cabinet (storage closet either separate from, or built into, a wall), or (specifically):",lemma
 schrecklich,adj,"awful, terrible, horrible",lemma
 schrei,noun,"shout, cry, scream",lemma
-schreib,verb,"to write, to write out (use letters to make words and texts)",form-of
 schreiben,verb,"to write, to write out (use letters to make words and texts)",lemma
 schreibtisch,noun,"desk, cabinet (any table, frame, or case for the use of writers and readers; also a place for storing the papers)",lemma
 schreien,verb,to shout; to yell; to cry; to scream; to howl,lemma
-schrie,verb,to shout; to yell; to cry; to scream; to howl,form-of
 schrieb,noun,"something written, especially (derogatory) an official document or piece of paperwork",lemma
 schriftsteller,noun,"author, writer",lemma
 schritt,noun,"step, footstep (a single instance of walking)",lemma
@@ -2095,7 +1835,7 @@ schult,name,a surname,lemma
 schultern,verb,to shoulder (to carry something on one's shoulders),lemma
 schutz,noun,protection,lemma
 schwach,adj,"weak, lacking in strength",lemma
-schwang,noun,swing,lemma
+schwanger,adj,pregnant (of humans),lemma
 schwanz,noun,tail,lemma
 schwarz,adj,"black, reflecting little or no light",lemma
 schweden,name,Sweden (a country in Scandinavia in Northern Europe),lemma
@@ -2105,7 +1845,6 @@ schweiz,name,Switzerland (a country in Western Europe and Central Europe),lemma
 schwer,adj,"heavy, weighty",lemma
 schwert,noun,sword,lemma
 schwester,noun,sister,lemma
-schwestern,noun,sister,form-of
 schwierig,adj,"difficult, hard, challenging, tough",lemma
 schwierigkeit,noun,"difficulty, problem",lemma
 schwimmen,verb,to swim (to use swimming motions to move in the water),lemma
@@ -2114,26 +1853,21 @@ schwäche,noun,weakness,lemma
 schätzen,verb,to estimate; to guess; to suppose; to assume,lemma
 schön,adj,"beautiful, lovely, pretty, handsome",lemma
 schönheit,noun,"beauty, beautifulness",lemma
-schönste,adj,"beautiful, lovely, pretty, handsome",form-of
-schönsten,adj,"beautiful, lovely, pretty, handsome",form-of
 schüchtern,adj,"shy, timid, bashful",lemma
 schüler,noun,"pupil, student, schoolboy (male or of unspecified gender)",lemma
-schülern,noun,"pupil, student, schoolboy (male or of unspecified gender)",form-of
 schützen,verb,to defend; to protect; to shelter; to guard,lemma
 sechs,noun,six,lemma
 sechzig,noun,sixty (number),lemma
 see,noun,lake,lemma
-seel,noun,soul,form-fallback
+seele,noun,soul,lemma
 sehen,verb,to see; to have sight,lemma
 sehnsucht,noun,"yearning, longing; pining",lemma
 sehr,adv,very,lemma
-sei,verb,subjunctive I,form-of
-seien,verb,subjunctive I,form-of
 seil,noun,"rope, line, cord",lemma
 sein,verb,forms the present perfect and past perfect tenses of certain verbs,lemma
+seit,conj,since,lemma
 seitdem,adv,since,lemma
 seite,noun,side (a bounding straight edge of a two-dimensional shape),lemma
-seiten,noun,pages/sides,form-of
 sekretärin,noun,female secretary,lemma
 sekunde,noun,A unit of time; a second.,lemma
 sekunden,noun,second,form-of
@@ -2147,9 +1881,7 @@ senden,verb,to broadcast; to transmit,lemma
 sendung,noun,delivery (by a postal service),lemma
 september,noun,September,lemma
 sessel,noun,"armchair, easy chair (comfortable chair with supports for the arms or elbows)",lemma
-setz,verb,to sit down,form-of
 setzen,verb,to sit down,lemma
-setzt,verb,to sit down,form-of
 sex,noun,sex (sexual intercourse),lemma
 shirt,noun,shirt,lemma
 sich,pron,Reciprocal pronoun of the third person plural: each other (in both dative and accusative),lemma
@@ -2160,9 +1892,6 @@ sicht,noun,view,lemma
 sie,pron,she,lemma
 sieben,verb,to sift; to sieve,lemma
 sieg,noun,victory,lemma
-sieh,verb,to see; to have sight,form-of
-siehst,verb,to see; to have sight,form-of
-sieht,verb,to see; to have sight,form-of
 singen,verb,to sing,lemma
 sinn,noun,sense,lemma
 situation,noun,"situation, circumstances",lemma
@@ -2171,19 +1900,16 @@ sitzung,noun,meeting,lemma
 ski,noun,ski,lemma
 so,adv,"so, such, that",lemma
 sobald,conj,"as soon as, by the time",lemma
-socken,noun,alternative form of Socke,lemma
+socke,noun,sock,lemma
 sofa,noun,"sofa, couch (upholstered seat with a raised back that accommodates at least two people)",lemma
 sofort,adv,"immediately, at once",lemma
 sogar,adv,"even, actually, in fact",lemma
 sohn,noun,son,lemma
-solang,adv,synonym of solange,lemma
+solange,adv,meanwhile,lemma
 solch,pron,such,lemma
 soldat,noun,soldier,lemma
 soll,noun,debit,lemma
 sollen,verb,should; to be obligated (to do something); ought; shall,lemma
-sollt,verb,should; to be obligated (to do something); ought; shall,form-of
-solltest,verb,should; to be obligated (to do something); ought; shall,form-of
-solltet,verb,should; to be obligated (to do something); ought; shall,form-of
 sommer,noun,summer,lemma
 sommerferien,noun,"summer holidays, summer vacation, summer break",lemma
 sonderlich,adj,"real, particular",lemma
@@ -2211,22 +1937,19 @@ speisen,verb,"to dine, to eat in a cultured (typically upscale) setting (otherwi
 spiegel,noun,"mirror (smooth surface, usually made of glass with reflective material painted on the underside, that reflects light)",lemma
 spiel,noun,a game (instance or way of playing),lemma
 spielen,verb,to play (engage in some activity for fun or entertainment),lemma
-spielt,verb,to play (engage in some activity for fun or entertainment),form-of
 spielzeug,noun,toy,lemma
 spinnen,verb,"to spin (a thread, a web, a cocoon, etc.)",lemma
 spitz,adj,"pointed, pointy",lemma
 sport,noun,sport (athletic activity that uses physical skills competitively under a set of rules),lemma
 sprach,verb,"to speak (some language, the truth, etc.)",form-of
-sprang,verb,to spring; to leap; to bounce,form-of
+sprache,noun,"language (body of words, and set of methods of combining them)",lemma
 sprechen,verb,"to speak (some language, the truth, etc.)",lemma
 sprich,particle,"Used to introduce a (typically laconic) clarification or explanation; that is, meaning",lemma
-sprichst,verb,"to speak (some language, the truth, etc.)",form-of
-spricht,verb,"to speak (some language, the truth, etc.)",form-of
 springen,verb,to spring; to leap; to bounce,lemma
 spur,noun,trace (rest of something that indicates its former presence; (by extension) any small amount),lemma
 spuren,verb,to leave a trace,lemma
 spät,adj,late,lemma
-spätesten,adj,late,form-of
+spätestens,adv,"at the latest, not later than",lemma
 spüren,verb,"to sense, to detect, to perceive",lemma
 staat,noun,"country, state (politically constituted legal person wielding absolute power of a population and territory)",lemma
 stadt,noun,city (a large settlement),lemma
@@ -2234,19 +1957,18 @@ stahl,noun,steel,lemma
 stammen,verb,"to descend, to originate, to be derived",lemma
 stand,noun,"standing, state, status, position, situation",lemma
 standen,verb,stand,form-of
-starb,verb,to die,form-of
 stark,adj,"strong (intense, powerful, unyielding)",lemma
 statt,conj,instead of,lemma
 staub,noun,dust,lemma
+stechen,verb,"to be sharp, to stick out",lemma
 stecken,verb,to stick; to be stuck,lemma
-steckt,verb,to stick; to be stuck,form-of
 stefan,name,"a male given name, feminine equivalent Stefanie or Stephanie, equivalent to English Stephen; variant form Steffen",lemma
 stehen,verb,"to stand (to be upright, support oneself in an erect position)",lemma
 stehlen,verb,to steal,lemma
 steigen,verb,"to ascend, to climb, to rise",lemma
 stein,noun,"stone, rock",lemma
 stell,verb,"causative of stehen: to put, place, position (someone or something) such that it stands upright",form-of
-stellt,verb,"causative of stehen: to put, place, position (someone or something) such that it stands upright",form-of
+stellen,verb,"causative of stehen: to put, place, position (someone or something) such that it stands upright",lemma
 sterben,verb,to die,lemma
 stern,noun,a star; a small luminous dot that can be seen on the night sky,lemma
 stets,adv,always; constantly; the whole time (very often),lemma
@@ -2254,20 +1976,19 @@ steuer,noun,tax,lemma
 steuern,verb,"to steer, to navigate, to pilot, to operate, to control",lemma
 stich,noun,"sting, prick, stitch, stab",lemma
 stiefel,noun,boot (shoe),lemma
-stieg,verb,"to ascend, to climb, to rise",form-of
-stieß,verb,to push; to shove; to thrust,form-of
 stift,noun,"pin (short rod of metal, wood etc., used e.g. for fastening)",lemma
 stil,noun,style,lemma
 still,adj,"quiet, silent",lemma
 stimm,verb,"to be right, to be correct, to be proper, to be true",form-of
+stimmen,verb,"to be right, to be correct, to be proper, to be true",lemma
 stimmt,intj,correct,lemma
 stimmung,noun,mood (emotional state),lemma
 stinken,verb,to stink,lemma
-stirbt,verb,to die,form-of
 stirn,noun,"forehead, brow (often used as an indicator of emotion)",lemma
 stock,noun,"stick (solid, wooden, broken off twig or small branch mostly clear of leaves or smaller twigs)",lemma
 stoff,noun,"stuff, matter, substance",lemma
 stolz,adj,proud,lemma
+stoßen,verb,to push; to shove; to thrust,lemma
 strafe,verb,and imperative,form-of
 strand,noun,beach,lemma
 straße,noun,"street; road (a way wide enough to be passable for vehicles, generally paved, in or outside a settlement)",lemma
@@ -2280,33 +2001,27 @@ stress,noun,stress (emotional pressure),lemma
 strich,noun,stroke,lemma
 strom,noun,a large river,lemma
 student,noun,student (person attending lectures at a university; male or of unspecified sex),lemma
-studentin,noun,person attending lectures at university,form-of
 studieren,verb,to study at university or college level; to be a student (of),lemma
 studium,noun,study (the act of studying in general),lemma
 stuhl,noun,a chair (to sit on),lemma
 stund,noun,apocopic form of Stunde,lemma
 stundenlang,adj,lasting for hours,lemma
 sturm,adj,"befuddled, dazed, numb; dizzy, giddy; muddled",lemma
-städte,noun,city (a large settlement),form-of
 ständig,adj,"permanent, constant (without breaks)",lemma
 stärk,verb,to strengthen (to add to the power or effect of something),form-of
 stören,verb,"to disturb, to interfere, to bother",lemma
 stück,noun,"one, item, piece, unit(of something countable; often untranslated in English)",lemma
-stürzt,verb,"to fall down, to drop, to tumble",form-of
+stürzen,verb,"to fall down, to drop, to tumble",lemma
 suchen,verb,"to search, to look for",lemma
-sucht,noun,addiction,lemma
 summe,noun,sum (maths),lemma
 supermarkt,noun,supermarket,lemma
 suppe,noun,soup,lemma
 system,noun,system,lemma
-sämtliche,adj,all,form-of
+sämtlich,adj,all,lemma
 sänger,noun,"agent noun of singen; singer (person who sings, often regularly or professionally)",lemma
 sängerin,noun,"female singer, singeress, songstress",lemma
-sätze,noun,sentences,form-of
-sätzen,noun,sentence,form-of
-söhne,noun,son,form-of
-süd,noun,the south,lemma
-sünd,noun,sin,form-fallback
+süden,noun,south (direction),lemma
+sünde,noun,sin,lemma
 süß,adj,sweet,lemma
 süßigkeit,noun,"sweet, candy (piece or kind of confectionery)",lemma
 tafel,noun,"panel, board (e.g., wooden panel)",lemma
@@ -2317,13 +2032,10 @@ talent,noun,talent,lemma
 tante,noun,aunt,lemma
 tanzen,verb,to dance,lemma
 tasche,noun,bag,lemma
-taschen,noun,bag,form-of
 tasse,noun,"cup, mug (drinking vessel)",lemma
-tassen,noun,"cup, mug (drinking vessel)",form-of
 tat,noun,deed,lemma
 taten,verb,to do (to perform or execute an action),form-of
 tatsache,noun,fact (a true observation),lemma
-tatsachen,noun,fact (a true observation),form-of
 tatsächlich,adj,"actual, real, factual",lemma
 taub,adj,deaf (not hearing),lemma
 tausend,noun,thousand (set or unit of one thousand items),lemma
@@ -2335,10 +2047,9 @@ teich,noun,pond (natural or man-made),lemma
 teil,noun,"part, piece (of a whole, often in relation to living things or an abstract concept)",lemma
 teilen,verb,"to split, to share",lemma
 teilnehmen,verb,to participate (in),lemma
-teilt,verb,"to split, to share",form-of
 telefon,noun,telephone,lemma
 telefonnummer,noun,telephone number,lemma
-tell,noun,"plate, dish",form-fallback
+teller,noun,"plate, dish",lemma
 tempel,noun,temple (edifice dedicated to one or multiple deities),lemma
 temperatur,noun,temperature,lemma
 tennis,noun,tennis,lemma
@@ -2347,10 +2058,8 @@ termin,noun,date (day on which a certain event takes place),lemma
 test,noun,test,lemma
 teuer,adj,"expensive, dear (high in price)",lemma
 teufel,noun,"the Devil, Satan (supreme evil spirit in the Abrahamic religions)",lemma
-teurer,adj,"expensive, dear (high in price)",form-of
 text,noun,text (writing consisting of several sentences and forming a discrete unit),lemma
 theater,noun,theater (a place or building consisting of a stage and seats),lemma
-them,noun,"topic, subject, issue",form-of
 thema,noun,"topic, subject, issue",lemma
 theorie,noun,theory,lemma
 thomas,name,Thomas (biblical figure),lemma
@@ -2366,17 +2075,14 @@ tokio,name,"Tokyo (a prefecture, the capital and largest city of Japan)",lemma
 tokyo,name,alternative spelling of Tokio,lemma
 toll,adj,"great, nice, wonderful",lemma
 tom,name,a male given name from English,lemma
-tomaten,noun,"tomato (plant, fruit of this plant)",form-of
+tomate,noun,"tomato (plant, fruit of this plant)",lemma
 ton,noun,clay,lemma
 tor,noun,"gate, archway (passageway covered by an arch, particularly one made of masonry)",lemma
 tot,adj,"dead, deceased",lemma
 total,adj,"total, absolute, complete, utter (not used in the sense of “entire”)",lemma
 tourist,noun,tourist (male or of unspecified gender),lemma
-traf,verb,to meet; to encounter,form-of
-trafen,verb,to meet; to encounter,form-of
 tragen,verb,"to carry, to bear (something on one's person)",lemma
 trank,noun,"a drink, generally mixed of several ingredients, and often for medical or magical effect; a potion",lemma
-trat,verb,"to step, to walk (a short distance)",form-of
 trauen,verb,to trust,lemma
 traum,noun,dream,lemma
 traurig,adj,sad,lemma
@@ -2386,8 +2092,6 @@ trennen,verb,"to separate, sever, part, disunite, uncouple, segregate, unjoin, d
 treppe,noun,stairs,lemma
 treten,verb,"to step, to walk (a short distance)",lemma
 treu,adj,loyal; faithful; true,lemma
-trifft,verb,to meet; to encounter,form-of
-trink,verb,"to drink (to drink liquids (in bottles, glasses, etc.) by mouth)",form-of
 trinken,verb,"to drink (to drink liquids (in bottles, glasses, etc.) by mouth)",lemma
 tritt,noun,step,lemma
 trocken,adj,dry (not wet; lacking water),lemma
@@ -2395,24 +2099,14 @@ tropfen,verb,"to drop, drip",lemma
 trotz,prep,"in spite of, despite",lemma
 trotzdem,adv,"anyhow, nevertheless",lemma
 trug,noun,"a deception, delusion, illusion",lemma
-trugen,verb,"to carry, to bear (something on one's person)",form-of
-trägst,verb,"to carry, to bear (something on one's person)",form-of
-trägt,verb,"to carry, to bear (something on one's person)",form-of
 tränen,verb,"to water (due to irritation, pain, etc.)",lemma
 träum,verb,to dream,form-of
-träumt,verb,to dream,form-of
-tu,noun,"initialism of Technisch Universität, a university of technology.",lemma
-tue,verb,to do (to perform or execute an action),form-of
+träumen,verb,to dream,lemma
 tugend,noun,virtue,lemma
 tun,verb,to do (to perform or execute an action),lemma
 turm,noun,"tower, spire (very tall building or structure, especially with a tapering top)",lemma
-tust,verb,to do (to perform or execute an action),form-of
-tut,verb,to do (to perform or execute an action),form-of
 typ,noun,type,lemma
 täglich,adj,daily,lemma
-tät,verb,subjunctive II,form-of
-tätest,verb,subjunctive II,form-of
-töchter,noun,daughter,form-of
 töten,verb,to kill,lemma
 tür,noun,door (rigid plane on a hinge),lemma
 türkei,name,Turkey (a country located in Eastern Thrace in Southeastern Europe and Anatolia in West Asia),lemma
@@ -2424,13 +2118,11 @@ um,adj,"up, in the sense of finished",lemma
 umbringen,verb,"to kill, to murder, to do away with",lemma
 umgang,noun,"dealings, (social) intercourse",lemma
 umgeben,verb,to surround (to encircle or simultaneously extend on all sides of something),lemma
-umgebracht,verb,"to kill, to murder, to do away with",form-of
 umgebung,noun,"environment (area around something), vicinity, surroundings",lemma
 umgehen,verb,"to avoid, bypass, to go around (a physical obstacle)",lemma
 ums,contraction,contraction of um + das,lemma
 umsonst,adv,"free of charge, gratis",lemma
-umstände,noun,circumstance (an event; a fact; a particular incident),form-of
-umständen,noun,circumstance (an event; a fact; a particular incident),form-of
+umstand,noun,circumstance (an event; a fact; a particular incident),lemma
 umwelt,noun,environment; milieu; surroundings,lemma
 unbedingt,adj,absolute,lemma
 und,conj,and,lemma
@@ -2451,7 +2143,6 @@ universität,noun,university,lemma
 universum,noun,universe,lemma
 unmöglich,adj,impossible,lemma
 unrecht,adj,"wrong, unethical",lemma
-uns,pron,we,form-of
 unschuld,noun,innocence,lemma
 unschuldig,adj,innocent,lemma
 unser,det,our,lemma
@@ -2460,7 +2151,6 @@ unten,adv,below,lemma
 unter,prep,under,lemma
 unterhalten,verb,to maintain,lemma
 unterhaltung,noun,conversation,lemma
-unterhielt,verb,to maintain,form-of
 unternehmen,verb,to undertake,lemma
 unterricht,noun,"lesson, class, instruction, education",lemma
 unterrichten,verb,"to teach, to school",lemma
@@ -2475,7 +2165,7 @@ unterwegs,adv,"on one’s way, underway, en route, in transit, going, travelling
 unwahrscheinlich,adj,"unlikely, improbable",lemma
 unwissenheit,noun,ignorance,lemma
 urlaub,noun,"holiday, vacation",lemma
-ursach,noun,cause (source or reason of an event or action),form-fallback
+ursache,noun,cause (source or reason of an event or action),lemma
 urteil,noun,"judgment (the preferred spelling in a legal context), verdict, sentence (court decision)",lemma
 us,name,synonym of USA,lemma
 usa,name,initialism of the United States of America: a country in North America: USA,lemma
@@ -2491,9 +2181,9 @@ verbessert,adj,improved,lemma
 verbindung,noun,connection,lemma
 verbot,noun,"prohibition, ban",lemma
 verbracht,verb,"to spend, to pass (a period of time)",form-of
-verbrannt,verb,"to burn (to cause to be consumed by fire or flames), to incinerate, to combust",form-of
 verbrechen,verb,to do (something wrong); to be at fault for,lemma
 verbreiten,verb,"to put about, spread, circulate, disseminate sth.",lemma
+verbrennen,verb,"to burn (to cause to be consumed by fire or flames), to incinerate, to combust",lemma
 verbringen,verb,"to spend, to pass (a period of time)",lemma
 verbund,noun,compound,lemma
 verdacht,noun,suspicion,lemma
@@ -2506,13 +2196,10 @@ verfügen,verb,"to decree, to order",lemma
 verfügung,noun,"disposal, disposition (control over something)",lemma
 vergangen,adj,"past, bygone",lemma
 vergangenheit,noun,the past (time),lemma
-vergaß,verb,to forget (lose remembrance of),form-of
 vergeben,verb,to forgive,lemma
 vergeblich,adj,"unavailing, in vain, futile, useless",lemma
 vergehen,verb,"to pass, to elapse",lemma
 vergessen,verb,to forget (lose remembrance of),lemma
-vergiss,verb,to forget (lose remembrance of),form-of
-vergisst,verb,to forget (lose remembrance of),form-of
 vergleich,noun,comparison,lemma
 vergleichen,verb,to compare,lemma
 vergnügen,verb,to please,lemma
@@ -2523,24 +2210,19 @@ verhindern,verb,"to prevent, to inhibit, to keep (something) from happening.",le
 verirren,verb,to get lost,lemma
 verkauf,noun,sale,lemma
 verkaufen,verb,to sell (something in exchange for money),lemma
-verkehr,noun,ellipsis of Straßenverkehr (“road traffic”),lemma
+verkehren,verb,"to interact in someone’s sphere, to have exchange, to operate",lemma
 verlangen,verb,"to ask for, demand",lemma
 verlassen,verb,"to leave, to abandon; to depart, to forsake",lemma
 verlauf,noun,"course (of a border, etc.)",lemma
 verletzen,verb,"to hurt, to injure (cause bodily harm to someone)",lemma
 verletzt,adj,"hurt, injured",lemma
 verlieben,verb,to fall in love,lemma
-verliebt,adj,"in love, enamored",lemma
 verlieren,verb,"to lose (something, or a game)",lemma
-verließ,verb,"to leave, to abandon; to depart, to forsake",form-of
-verlor,verb,"to lose (something, or a game)",form-of
 verloren,adj,"lost, missing",lemma
 verlust,noun,"loss (all senses, except defeat, for which Niederlage is used)",lemma
-verlässt,verb,"to leave, to abandon; to depart, to forsake",form-of
-vermag,verb,to be able to; may,form-of
 vermeiden,verb,"to avoid (something happening, doing something)",lemma
 vermissen,verb,to miss (to feel the absence of someone or something),lemma
-vermute,verb,"to assume, suppose, presume, suspect, (US) guess",form-of
+vermuten,verb,"to assume, suppose, presume, suspect, (US) guess",lemma
 vermutlich,adj,"suspected, presumable, assumed",lemma
 vermögen,verb,to be able to; may,lemma
 vernunft,noun,"reason, good sense",lemma
@@ -2552,33 +2234,27 @@ verrückt,adj,"crazy, mad",lemma
 versammlung,noun,"gathering, meeting, assembly, congregation",lemma
 verschieben,verb,"to move, to shift",lemma
 verschieden,adj,different,lemma
-verschwand,verb,"to disappear, to vanish, to move out of view",form-of
 verschwinden,verb,"to disappear, to vanish, to move out of view",lemma
 verschwunden,adj,disappeared,lemma
 versehen,verb,to perform (a service or duty),lemma
-versprach,verb,to promise,form-of
 versprechen,verb,to promise,lemma
-versprochen,verb,to promise,form-of
 verspäten,verb,"to be late, to be delayed",lemma
 verspätung,noun,"delay, lateness, late arrival",lemma
 verstand,noun,intellect,lemma
-verstanden,verb,to understand,form-of
 verstecken,verb,to conceal,lemma
-versteckt,adj,hidden,lemma
 verstehen,verb,to understand,lemma
 verständlich,adj,"understandable, comprehensible",lemma
 verständnis,noun,"understanding, comprehension",lemma
 versuch,noun,attempt,lemma
 versuchen,verb,"to try, to attempt (often with an uncertain result)",lemma
-versucht,verb,"to try, to attempt (often with an uncertain result)",form-of
 verteidigen,verb,to defend (from attack),lemma
 vertrag,noun,"contract, agreement",lemma
 vertrauen,verb,"to trust, to place confidence in",lemma
 verursachen,verb,"to cause, to induce",lemma
 verurteilen,verb,"to convict, condemn, sentence",lemma
-verwandelt,verb,"to turn, to change, to transform",form-of
+verwandeln,verb,"to turn, to change, to transform",lemma
 verwandt,verb,"to use, to utilize",form-of
-verwechselt,verb,to mix up; to confuse or mistake something for something else,form-of
+verwechseln,verb,to mix up; to confuse or mistake something for something else,lemma
 verwenden,verb,"to use, to employ, to apply",lemma
 verwirren,verb,to confuse,lemma
 verzeihen,verb,to forgive; to pardon; to excuse,lemma
@@ -2592,6 +2268,7 @@ verärgert,adj,"upset, annoyed, angry",lemma
 veröffentlichen,verb,to publish,lemma
 video,noun,video,lemma
 viel,adv,"much, a lot",lemma
+vieles,pron,"much, many things",lemma
 vielleicht,adv,"perhaps, maybe",lemma
 vier,noun,four (digit or figure 4),lemma
 viertel,noun,"quarter, fourth",lemma
@@ -2612,13 +2289,13 @@ vorbei,adj,"over, past, up (of time)",lemma
 vorbereiten,verb,to prepare,lemma
 vorfahren,verb,to drive up,lemma
 vorfall,noun,incident (event or occurrence),lemma
-vorgeschlagen,verb,"to propose, to suggest",form-of
 vorgestellt,adj,"envisaged, imagined",lemma
 vorgestern,adv,"ereyesterday, the day before yesterday",lemma
 vorhaben,verb,"to intend, to have (something) planned, to have (something) to do",lemma
 vorher,adv,"beforehand, previously, before (a previously mentioned point or action)",lemma
-vorn,adv,in front,lemma
+vorne,adv,at the front,lemma
 vorschlag,noun,"suggestion, proposal (something proposed)",lemma
+vorschlagen,verb,"to propose, to suggest",lemma
 vorsicht,noun,"caution, cautiousness",lemma
 vorsichtig,adj,"deliberate (not hasty or sudden); careful, cautious, wary, circumspect",lemma
 vorstellen,verb,"to introduce (someone), to present",lemma
@@ -2627,12 +2304,10 @@ vorteil,noun,"advantage, plus, benefit, perk (of a job)",lemma
 vortrag,noun,"talk, lecture",lemma
 vorüber,adv,"gone, over, past",lemma
 vögel,verb,to mate,form-of
-völker,noun,"people, nation, folk, tribe, race (group united by culture, history, descent, and/or language)",form-of
 völlig,adj,"complete, total, utter",lemma
 wach,adj,awake,lemma
 wachsen,verb,to grow,lemma
 waffe,noun,"weapon, arm",lemma
-waffen,noun,"weapon, arm",form-of
 wagen,verb,"to dare (to do something, despite possible risks)",lemma
 wahl,noun,"choice, selection",lemma
 wahnsinn,noun,"insanity, madness",lemma
@@ -2643,13 +2318,10 @@ wahrscheinlich,adj,"likely, probable, plausible",lemma
 wald,noun,forest; woods; woodland,lemma
 wand,noun,"wall, partition",lemma
 wandern,verb,"to hike, to go trekking",lemma
-wandt,verb,to turn something so as to cook or roast it from both sides,form-of
 wann,adv,when,lemma
-warf,verb,to throw,form-of
 warm,adj,warm; mildly hot,lemma
 warnen,verb,"to warn, to caution, to admonish",lemma
 warten,verb,to wait (for),lemma
-wartet,verb,to wait (for),form-of
 warum,adv,why; for what reason,lemma
 was,adv,"clipping of etwas: a bit, somewhat",lemma
 waschen,verb,to wash,lemma
@@ -2664,31 +2336,28 @@ weg,adj,unconscious; passed out,lemma
 wegen,prep,"for, because of",lemma
 weggehen,verb,"to go away, leave, scram",lemma
 weh,adj,"sore, painful",lemma
-weht,verb,"to blow (of wind, a storm, etc.)",form-of
-weigert,verb,to refuse,form-of
+wehen,verb,"to blow (of wind, a storm, etc.)",lemma
+weigern,verb,to refuse,lemma
 weihnachten,verb,to be nearly Christmas; to have a Christmassy atmosphere,lemma
 weihnachtsmann,noun,"Santa Claus, Father Christmas",lemma
 weil,conj,"because, given that",lemma
 wein,noun,wine,lemma
 weinen,verb,"to weep, cry",lemma
-weint,verb,"to weep, cry",form-of
 weis,adv,alternative form of weise,lemma
 weisheit,noun,wisdom,lemma
 weit,adj,wide,lemma
-weiter,adv,"further, farther, more",lemma
 weiterhin,adv,still,lemma
 weitermachen,verb,"go on, keep going, continue to do something",lemma
 weiß,adj,white,lemma
 weißt,verb,Switzerland and Liechtenstein standard spelling of weißt,lemma
 welch,det,what,lemma
+welcher,pron,which (one),lemma
 wellen,verb,to wave,lemma
 welt,noun,world,lemma
 weltkrieg,noun,world war,lemma
-wem,pron,who (what person or people),form-of
-wen,pron,who (what person or people),form-of
 wenden,verb,to turn something so as to cook or roast it from both sides,lemma
 wenig,adj,"little, few (a small amount, a small number)",lemma
-wenigsten,adj,"little, few (a small amount, a small number)",form-of
+wenigstens,adv,at least,lemma
 wenn,conj,"when, whenever",lemma
 wer,pron,who (what person or people),lemma
 werbung,noun,"promotion, solicitation, recruitment",lemma
@@ -2704,58 +2373,46 @@ west,noun,the west (used without article; a short form of Westen),lemma
 wett,verb,to bet,form-of
 wettbewerb,noun,competition (contest for a prize or award),lemma
 wichtig,adj,"important, relevant, significant, weighty",lemma
-wichtigste,adj,"important, relevant, significant, weighty",form-of
-wichtigsten,adj,"important, relevant, significant, weighty",form-of
 widerstehen,verb,"to withstand, to resist",lemma
 wie,adv,how,lemma
 wieder,adv,again; indicates that the action taking place has happened before,lemma
 wiederholen,verb,to repeat (to do or say again),lemma
 wiederkommen,verb,"to return, to come back, to come again",lemma
 wiedersehen,verb,"to see again, to meet again",lemma
-wiederzusehen,verb,"to see again, to meet again",form-of
-wiegt,verb,to weigh; to be of a certain weight,form-of
+wiegen,verb,to weigh; to be of a certain weight,lemma
 wies,name,"a municipality of Styria, Austria",lemma
 wieso,adv,why,lemma
 wieviel,adv,how much; how many,curated-phrase
 wilhelm,name,"a male given name from Old High German, feminine equivalent Wilhelmina, Wilhelmine, or Minna, equivalent to English William; diminutive forms Willi, Willy",lemma
-will,verb,to want; to wish; to desire; to demand,form-of
+wille,noun,will,lemma
 willen,noun,alternative form of Wille (“will”),lemma
 willkommen,adj,welcome (received with gladness),lemma
 wind,noun,wind; the movement of air usually caused by convection or differences of air pressure,lemma
 winter,noun,winter,lemma
 wir,pron,we,lemma
-wirf,verb,to throw,form-of
-wirft,verb,to throw,form-of
 wirken,verb,"to function, to be effective, to work",lemma
 wirklich,adj,real,lemma
 wirklichkeit,noun,reality,lemma
-wirkt,verb,"to function, to be effective, to work",form-of
 wirkung,noun,effect,lemma
 wirtschaft,noun,economy,lemma
 wissen,verb,to know; to be aware of (a fact),lemma
 wissenschaft,noun,science (a branch of knowledge or academic discipline dealing with a systematic body of facts or truths),lemma
 wissenschaftler,noun,scientist,lemma
 witz,noun,joke,lemma
-wißt,verb,to know; to be aware of (a fact),form-of
 wo,adv,where (at what place),lemma
 woanders,adv,"elsewhere, somewhere else",lemma
 woche,noun,"week (period of seven days counting from Monday to Sunday, or from Sunday to Saturday)",lemma
-wochen,noun,"week (period of seven days counting from Monday to Sunday, or from Sunday to Saturday)",form-of
 wochenende,noun,"weekend (break in the working week, usually Saturday and Sunday)",lemma
 wofür,adv,"for what, wherefore, why",lemma
 woher,adv,"where from, whence",lemma
 wohin,adv,"where to, whither",lemma
 wohl,adv,"possibly, probably; as I was told (modal particle expressing an assumption, often like English must + infinitive, or (US) guess + clause)",lemma
 wohnen,verb,"to live, reside, dwell (to remain or be settled permanently, or for a considerable time)",lemma
-wohnt,verb,"to live, reside, dwell (to remain or be settled permanently, or for a considerable time)",form-of
 wohnung,noun,domicile; dwelling; lodging; abode; accommodation (any place someone lives in for a span of time longer than a holiday),lemma
 wohnzimmer,noun,living room,lemma
 wolf,noun,wolf,lemma
 wolken,name,a surname transferred from the given name,lemma
 wollen,verb,to want; to wish; to desire; to demand,lemma
-wollt,verb,to want; to wish; to desire; to demand,form-of
-wolltest,verb,to want; to wish; to desire; to demand,form-of
-wolltet,verb,to want; to wish; to desire; to demand,form-of
 womit,adv,"with what, what…with",lemma
 wonach,adv,after what,lemma
 woran,adv,"on what, at what",lemma
@@ -2768,36 +2425,20 @@ wovon,adv,"about what, what ... about",lemma
 wozu,adv,"for what reason, to what purpose, what for, why?",lemma
 wuchs,noun,growth; growing,lemma
 wund,adj,"wounded, injured, sore",lemma
+wunde,noun,"sore, wound",lemma
 wunderbar,adj,wonderful,lemma
 wunderschön,adj,"gorgeous, very beautiful",lemma
 wunsch,noun,wish (an act of wishing),lemma
-wurdest,verb,"will, to be going to, forms the future tense",form-of
-wusst,verb,to know; to be aware of (a fact),form-of
-wusstest,verb,to know; to be aware of (a fact),form-of
 wut,noun,rage; fury; outrage,lemma
-wußte,verb,to know; to be aware of (a fact),form-of
-wußten,verb,to know; to be aware of (a fact),form-of
-wußtest,verb,to know; to be aware of (a fact),form-of
-wußtet,verb,to know; to be aware of (a fact),form-of
-wächst,verb,to grow,form-of
 wählen,verb,"to choose, to select",lemma
-währen,verb,"to last, persist",lemma
+während,conj,while (at the same time as),lemma
 wände,verb,subjunctive II,form-of
 wär,verb,alternative form of wäre,lemma
-wärest,verb,subjunctive II,form-of
 wärm,verb,to warm,form-of
-wärst,verb,subjunctive II,form-of
-wäsch,noun,"wash, washing, laundry (the act of cleaning with water; an instance thereof)",form-fallback
-wäscht,verb,alternative form of wäschst,lemma
-wölfe,noun,wolf,form-of
-wörter,noun,word as an isolated unit,form-of
+wäsche,noun,"wash, washing, laundry (the act of cleaning with water; an instance thereof)",lemma
 wörterbuch,noun,"dictionary (reference work with a list of words from one or more languages, and their definitions or translations)",lemma
-wörtern,noun,word as an isolated unit,form-of
 wünsch,verb,to wish for; to make a wish for; to want; to desire,form-of
-wünscht,verb,to wish for; to make a wish for; to want; to desire,form-of
-würdest,verb,subjunctive II,form-of
-würdet,verb,subjunctive II,form-of
-wüsst,verb,subjunctive II,form-of
+wünschen,verb,to wish for; to make a wish for; to want; to desire,lemma
 wüst,adj,"desert, desolate",lemma
 wütend,adj,"furious, angry",lemma
 yen,noun,yen (unit of Japanese currency),lemma
@@ -2810,9 +2451,7 @@ zaun,noun,fence,lemma
 zehn,noun,ten (number),lemma
 zeichen,noun,"sign, token (object representing something)",lemma
 zeichnen,verb,"to draw, to sketch",lemma
-zeig,verb,"to show, make see",form-of
 zeigen,verb,"to show, make see",lemma
-zeigt,verb,"to show, make see",form-of
 zeit,prep,"for the entire time of, during",lemma
 zeitlang,noun,while,lemma
 zeitpunkt,noun,"moment (instant of time), point in time, a timepoint",lemma
@@ -2823,15 +2462,11 @@ zentrum,noun,"center, centre",lemma
 zerbrochen,adj,broken,lemma
 zerstören,verb,"to destroy, demolish, devastate, eliminate",lemma
 zeug,noun,"stuff, gear, equipment",lemma
-zieh,verb,to pull; to drag,form-of
 ziehen,verb,to pull; to drag,lemma
 ziel,noun,target,lemma
 ziemlich,adj,"considerable, sizable",lemma
 zigarette,noun,cigarette,lemma
-zigaretten,noun,cigarette,form-of
 zimmer,noun,"room (separate part of a building, enclosed by walls, a floor and a ceiling)",lemma
-zog,verb,to pull; to drag,form-of
-zogen,verb,to pull; to drag,form-of
 zoo,noun,zoo,lemma
 zu,adj,"shut, closed (made inaccessible or impassable; not open)",lemma
 zubereiten,verb,to prepare,lemma
@@ -2843,7 +2478,6 @@ zufrieden,adj,"satisfied, content, happy (with something)",lemma
 zufällig,adj,"random, by chance or stochastic",lemma
 zug,noun,procession (larger group moving together along a common route),lemma
 zugeben,verb,"to admit, confess (to own up to something)",lemma
-zugenommen,verb,to increase,form-of
 zugleich,adv,"at the same time, simultaneously",lemma
 zuhaus,adv,alternative form of zu Hause,lemma
 zuhören,verb,to listen,lemma
@@ -2852,15 +2486,14 @@ zulassen,verb,to allow,lemma
 zuletzt,adv,finally; lastly; in the end,lemma
 zum,contraction,"contraction of zu + dem, literally “to the; for the”",lemma
 zumindest,adv,at least,lemma
-zumut,adv,Mainly used in set phrases.,form-fallback
-zung,noun,tongue (organ in the mouth),form-fallback
+zumute,adv,Mainly used in set phrases.,lemma
+zunehmen,verb,to increase,lemma
+zunge,noun,tongue (organ in the mouth),lemma
 zunächst,adv,"first, first of all, in the first place, to begin with, initially",lemma
 zur,contraction,"contraction of zu + der, literally “to the (feminine)”",lemma
 zurecht,adv,only used in zurechtweisen etc.,lemma
 zurzeit,adv,currently,lemma
 zurück,adv,"back, backward, backwards, to the rear.",lemma
-zurückgekehrt,verb,to return,form-of
-zurückgekommen,verb,to return (to come back),form-of
 zurückkehren,verb,to return,lemma
 zurückkommen,verb,to return (to come back),lemma
 zusammen,adj,"together, in the same place",lemma
@@ -2869,7 +2502,6 @@ zustand,verb,dependent preterite,form-of
 zustimmen,verb,to agree,lemma
 zuviel,adv,alternative spelling of zu viel,lemma
 zuvor,adv,"before, previously",lemma
-zuzuhören,verb,to listen,form-of
 zwang,noun,"compulsion, obligation, duress",lemma
 zwanzig,noun,twenty (number),lemma
 zwar,adv,"Signals a following contrary clause, which is usually introduced with aber (“but”), stressing that the speaker is aware of the contradiction, but that it does not invalidate the st",lemma
@@ -2885,27 +2517,19 @@ zwingen,verb,to force; to compel; to make (someone do something),lemma
 zwischen,prep,between,lemma
 zwölf,noun,"twelve, a dozen",lemma
 zählen,verb,to count (to determine the number of objects in a group),lemma
-zähne,noun,tooth,form-of
-züge,noun,procession (larger group moving together along a common route),form-of
 ägypten,name,Egypt (a country in North Africa and West Asia),lemma
-ähnelt,verb,"[with dative] to resemble, be or look similar to",form-of
+ähneln,verb,"[with dative] to resemble, be or look similar to",lemma
 ähnlich,adj,"similar, alike, resembling",lemma
-älter,adj,old,form-of
 älteste,adj,old,form-of
 ändern,verb,"to change, to alter",lemma
-ändert,verb,"to change, to alter",form-of
 änderung,noun,"change, modification",lemma
-äpfel,noun,apple (fruit),form-of
 ärger,noun,"annoyance, anger",lemma
 ärgern,verb,"to annoy, to make angry",lemma
-ärgert,verb,"to annoy, to make angry",form-of
-ärzte,noun,"doctor, physician (male or of unspecified gender) (without necessarily having a postgraduate degree)",form-of
 ärztin,noun,"doctor, physician (female)",lemma
 äußeren,verb,to utter; to say; to express,form-of
 öffentlich,adj,public,lemma
 öffentlichkeit,noun,public,lemma
 öffnen,verb,to open (to make something accessible or allow for passage by moving from a shut position),lemma
-öffnet,verb,to open (to make something accessible or allow for passage by moving from a shut position),form-of
 öfter,adv,"ofttimes, from time to time",lemma
 öl,noun,oil,lemma
 österreich,name,Austria (a country in Central Europe),lemma
@@ -2924,15 +2548,14 @@ züge,noun,procession (larger group moving together along a common route),form-o
 überprüfen,verb,"to check, to verify",lemma
 überqueren,verb,"to cross, to traverse",lemma
 überraschen,verb,to surprise,lemma
-überrascht,adj,surprised,lemma
 überraschung,noun,surprise,lemma
 überreden,verb,"to talk over, to talk into, to persuade (implying that the person gives in, but is not inwardly convinced; unlike überzeugen)",lemma
 übersehen,verb,"to overlook, disregard, ignore",lemma
-übersetz,verb,"to translate, to interpret",form-of
 übersetzen,verb,"to translate, to interpret",lemma
+übersetzer,noun,translator (one who translates completed texts; male or of unspecified sex),lemma
 übersetzung,noun,translation,lemma
 überwinden,verb,"to overcome, to get over",lemma
 überzeugen,verb,to convince,lemma
 übrig,adj,"rest of, remaining",lemma
-übrigen,adj,"rest of, remaining",form-of
+übrigens,adv,by the way,lemma
 übung,noun,practice (degree of being used to and proficient in some activity),lemma

@@ -127,6 +127,18 @@ def words():
     run_script("words.py")
 
 
+def lemma_overrides():
+    run_script("lemma_overrides.py")
+
+
+def lemma_glosses():
+    run_script("lemma_glosses.py")
+
+
+def filter_vocab():
+    run_script("filter_vocab.py")
+
+
 def sentences():
     run_script("sentences.py")
 
@@ -137,10 +149,6 @@ def translations():
 
 def fetch_kaikki():
     run_script("fetch_kaikki.py")
-
-
-def lemma_glosses():
-    run_script("lemma_glosses.py")
 
 
 def glosses():
@@ -155,6 +163,14 @@ def plots():
     run_script("plots.py")
 
 
+def build():
+    """Build all derived artifacts from already downloaded source caches."""
+    for name in ("freq", "patterns", "select", "lemma-overrides", "lemmatize",
+                 "words", "lemma-glosses", "filter-vocab", "lemma-glosses",
+                 "sentences", "translations", "deck", "plots"):
+        STAGES[name]()
+
+
 STAGES = {
     "fetch": fetch,
     "freq": freq,
@@ -162,13 +178,16 @@ STAGES = {
     "select": select,
     "lemmatize": lemmatize,
     "words": words,
+    "lemma-overrides": lemma_overrides,
+    "lemma-glosses": lemma_glosses,
+    "filter-vocab": filter_vocab,
     "sentences": sentences,
     "translations": translations,
     "fetch-kaikki": fetch_kaikki,
-    "lemma-glosses": lemma_glosses,
     "glosses": glosses,
     "deck": deck,
     "plots": plots,
+    "build": build,
 }
 
 

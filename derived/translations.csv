@@ -1,5 +1,5 @@
 deu_sid,has_en,eng_text
-10008063,yes,A nail punctured the tyre.
+10008063,yes,A nail punctured the tire.
 10008456,no,
 10008740,no,
 10011935,no,
@@ -18,7 +18,6 @@ deu_sid,has_en,eng_text
 1004957,yes,Do you have a vacancy?
 1005033,yes,"I knocked on the door, but no one answered."
 10055896,yes,Drink some water to get rid of your hiccups.
-1006011,yes,Lyusya wept while listening to Mahler.
 10063337,yes,Chips with mayonnaise is delicious!
 10072374,yes,The committee is made up of fifteen members.
 1008067,no,
@@ -41,7 +40,6 @@ deu_sid,has_en,eng_text
 1014119,yes,Would you mind not doing that?
 1014120,yes,Would you mind not doing that?
 1014121,yes,Would you mind not doing that?
-10145211,no,
 10145827,no,
 1015359,no,
 10161791,no,
@@ -51,22 +49,16 @@ deu_sid,has_en,eng_text
 10189535,yes,My brain hurts whenever I read it.
 10190105,no,
 10191002,yes,Is Warsaw cheaper than London?
-10191325,yes,This bag of peanuts may contain peanuts.
-1019348,yes,Who's your favorite singer-songwriter?
 10196020,yes,Mennad spanked his daughter.
-10215761,no,
 10218697,no,
 10223986,yes,Dark energy is even more mysterious than dark matter.
 10225088,no,
 1022582,yes,Dinosaurs used to rule the earth.
 10232089,yes,Schools are expected to reopen in September.
 1023495,no,
-10244232,yes,Beowulf killed Grendel with his bare hands.
 10274904,yes,Rain is dripping from the eaves.
-10288067,yes,Mennad spoke about his depression.
 10292432,yes,Our forests deserve our protection.
 10293600,no,
-10294420,yes,My sweet tooth got the better of me.
 10294689,yes,Educators say lessons with stories involving animals appeal to students.
 10296821,no,
 10298098,yes,The meat smelt really off.
@@ -78,18 +70,13 @@ deu_sid,has_en,eng_text
 1034143,no,
 1034165,no,
 1034415,no,
-10345196,yes,Lucy left and went to Worcestershire.
 10349537,yes,Fold the dough over toward the center.
 10350586,no,
-10354469,yes,Get the free app!
-10354596,yes,The girls talked loudly.
 1035930,yes,We heard tigers roaring in the distance.
 10359881,yes,The judge read the verdict.
 10364876,no,
-10369570,yes,"Tom was smiling, but Mary was frowning."
 1037463,yes,I have no problem with this.
 1040806,no,
-10450630,no,
 1045261,yes,Your effort will surely bear fruit.
 10456183,yes,The gardener clipped the hedge.
 10458264,yes,Counting sheep helps you fall asleep.
@@ -106,7 +93,6 @@ deu_sid,has_en,eng_text
 10534271,no,
 10538404,no,
 10543933,no,
-1054802,no,
 10553262,yes,The chemicals that cool your refrigerator are warming the planet.
 1055521,yes,"As of 2012, Maggi Seasoning is 125 years old."
 10555565,no,
@@ -117,19 +103,17 @@ deu_sid,has_en,eng_text
 10576943,no,
 10593438,yes,"The Muslims call Jesus ""Issa""."
 10612493,yes,The man suspected of murdering Tom has been arrested.
-10613234,no,
 10631655,yes,This towel has a nasty smell.
 1064,yes,"Cut, wash and dry, please."
 10656670,yes,The day before yesterday was Tuesday; the day after tomorrow is Saturday.
 10675590,no,
-10688151,yes,Her sons as well as her daughter are in college.
+10700746,no,
 10702216,yes,How does Iuppiter hurl a thunderbolt?
 10706787,no,
 10712211,no,
 10712590,no,
 10738441,no,
 10741522,no,
-10747026,no,
 1075215,no,
 10756941,yes,One of the most important forms of psychiatric treatment is cosmetic surgery.
 10760815,no,
@@ -149,7 +133,6 @@ deu_sid,has_en,eng_text
 10832284,no,
 1084421,yes,Electronic components can be cleaned using pure isopropyl alcohol.
 1084450,yes,It looks familiar.
-10900107,yes,"Does a long, shallow keel help?"
 10901916,no,
 10906193,no,
 10906484,yes,The moss-covered stones were dangerously slippery.
@@ -157,7 +140,6 @@ deu_sid,has_en,eng_text
 10946226,no,
 10956198,yes,Squirrels often chase other squirrels.
 10983851,no,
-1098391,no,
 10987659,yes,"Who killed Colonel James Barclay, then?"
 10998537,yes,That leaflet can be obtained for free.
 1100,yes,A known mistake is better than an unknown truth.
@@ -191,7 +173,6 @@ deu_sid,has_en,eng_text
 1111045,no,
 11144725,yes,Never keep food in your tent.
 11144755,yes,Snoop Dogg is the most famous weed smoker in the world.
-11145216,yes,"He was wandering through the house, talking to himself."
 11151391,no,
 11163721,yes,Getting rid of bad habits is hard.
 11185399,no,
@@ -214,7 +195,6 @@ deu_sid,has_en,eng_text
 11263804,yes,Turkey is east of Greece.
 11265084,yes,Mr Turner bade farewell to his colleagues.
 1126863,no,
-11275679,yes,Let's look to the future.
 11275692,yes,Take your doctor's advice.
 1129993,yes,"When Marcus arrived, I was sleeping."
 11310054,no,
@@ -242,7 +222,6 @@ deu_sid,has_en,eng_text
 11539381,yes,My sunburn has started to blister.
 1155,yes,I liked this film.
 11550485,yes,Public utility charges will go up next April.
-11559502,yes,"They walked along the avenue, arm in arm."
 11565438,yes,The show eventually folded.
 11569461,yes,The ball clipped the crossbar.
 11579615,yes,Many people drift through life without a purpose.
@@ -256,6 +235,7 @@ deu_sid,has_en,eng_text
 11755544,yes,Strawberries and raspberries are both examples of an aggregate fruit.
 11758537,yes,Orthodox Christians prefer to baptize by immersion.
 11758574,yes,The job comes with a lot of fringe benefits.
+11761957,yes,Supply chain constraints have thrust prices upwards considerably.
 1176518,no,
 1177139,yes,Write a short essay.
 11771653,no,
@@ -272,8 +252,6 @@ deu_sid,has_en,eng_text
 11812934,yes,I take full responsibility.
 11817421,no,
 11831643,yes,It hasn't really been that long.
-11839259,yes,I'm the one who has the tickets.
-11848770,yes,We took the engine apart.
 1185368,yes,He's still at work.
 11854373,yes,Yanni drank a shot of scotch.
 11857589,yes,My IP address is static.
@@ -281,7 +259,6 @@ deu_sid,has_en,eng_text
 11861669,no,
 1186193,no,
 11868607,yes,Leonid's heart was broken into pieces.
-11870439,no,
 1187093,yes,"As soon as the weather changes, I get ill."
 1187569,no,
 11881478,yes,Matthew picked Linda up at the airport.
@@ -306,10 +283,10 @@ deu_sid,has_en,eng_text
 11955479,yes,"Vladimir lives in Adrar, in southern Algeria."
 11956352,no,
 11969309,yes,Delicious food awakens the appetite.
+11971832,yes,Don't associate with evil men.
 11973986,yes,Algeria needs to have bigger and better infrastructure.
 119750,yes,"""Why didn't you come?"" ""I had no choice."""
 11977637,yes,Giraffes have thick skin.
-11979567,yes,"Santiago called himself the ""Toronto Killer."""
 11995367,yes,Write your answers with a pencil.
 11998152,yes,Why aren't pigs kosher?
 12000036,no,
@@ -342,7 +319,6 @@ deu_sid,has_en,eng_text
 12182351,no,
 12184592,yes,Soccer is the favorite sport of the French.
 12186474,yes,The park is thickly wooded.
-12186521,yes,"Would you open the curtains, please?"
 12187692,yes,Dry the pants on the radiator.
 12187700,yes,"Oh, by the way: congratulations on your success!"
 1218780,no,
@@ -372,11 +348,9 @@ deu_sid,has_en,eng_text
 12280868,yes,Your research will surely bear fruit.
 1228366,no,
 12286936,yes,I told you I was going to do it.
-12291750,yes,Emperor Hadrian had Hadrian's Wall built.
 1231842,yes,Tom doesn't know the difference between right and wrong.
 1231882,yes,Tom can't cook very well.
 12334527,yes,Caesar erected a golden statue of Cleopatra.
-12339460,no,
 12341246,yes,All the efforts of the doctors were to no avail.
 1234496,no,
 1234499,yes,Tom doesn't know the difference between meticulous and pedantic.
@@ -388,20 +362,14 @@ deu_sid,has_en,eng_text
 12363460,no,
 1236503,no,
 12369784,yes,Many aspiring Santas attend special classes.
-1237507,no,
 12380783,no,
 12384051,yes,Some stupid series was on TV.
-12384700,yes,He drives a pimped-out Cadillac Escalade.
-12385338,yes,I yearn to see you again.
 12386146,no,
-12390821,yes,Daniel turned to the experts.
-12394982,yes,The herd dog is loyal to Carlos.
 12395064,yes,The orchestra members respected Mr Smith as a conductor.
 12395110,yes,"""She is lovely."" ""So she is."""
 1239592,no,
 12399033,yes,This umbrella cost me $30.
 1240,yes,I went to drink a beer with friends.
-12400903,yes,The two nations agreed to establish diplomatic ties.
 1240129,no,
 12401592,yes,"Where do you want to go, sir?"
 12401594,yes,I regard the contract as having been broken.
@@ -426,30 +394,22 @@ deu_sid,has_en,eng_text
 1243426,yes,Strong winds stripped the tree of its leaves.
 1243483,no,
 1244,yes,He changed a lot since the last time.
-12440108,no,
-12442551,yes,Paul knew he was being watched.
 12448485,yes,The bananas cost forty-five cents a pound.
-12448494,yes,"Matthew looked at Linda, confused."
 12449029,no,
 12450688,yes,"According to the recipe, we need mild mustard."
 12452321,yes,The strong shall devour the meek's reward.
-12452414,yes,You think that your genitals look dainty.
 12452459,yes,Judit left us in the lurch.
 1245348,no,
-1245406,no,
 12454089,yes,A couple of inmates attacked Elias.
-12455556,yes,Let's raise our glasses for a toast.
 12459154,yes,Phoenician and Hebrew are closely related.
 12459158,yes,This author is critical of the mainstream media.
 12460172,yes,I promise I'll come back someday.
-12460176,yes,I thought you were going to quit.
 1247407,no,
 12481650,yes,I don't use my cellphone much.
 12481652,yes,You seem a bit stressed.
 12484796,yes,"His style involves brute force, not finesse."
 12486024,yes,Don't tell me. Let me guess.
 1249366,yes,"Trust, but verify."
-12495706,yes,Let's bike somewhere.
 12495763,yes,Let's change the password.
 12497140,yes,Let's go out at the weekend.
 12497711,yes,Ironbridge Gorge is a Unesco world heritage site.
@@ -458,20 +418,15 @@ deu_sid,has_en,eng_text
 12526129,yes,You might want to watch your step.
 1253343,no,
 12534248,yes,His best friend is gay.
-12536700,yes,Did you think you were done?
 12537596,yes,Go and help wash up.
 12540838,yes,The pupils learnt many poems by heart.
 12546290,yes,Don't drink anything with caffeine in it.
 1254729,no,
-12547616,yes,You need to clear up the misunderstanding.
-12547618,yes,You need to clear up the misunderstanding.
 12549759,no,
 12550099,no,
-12555669,yes,Companies stopped recruiting people.
 12556292,yes,Boris finds the tool really helpful.
 12556302,yes,Jonas rang the bell at least twice.
 12561436,yes,They had to pay their rent yesterday.
-12564053,yes,An ambulance went to the scene of the accident.
 1256907,no,
 12569254,yes,Did you think you were special?
 12569255,yes,Did you think you were special?
@@ -479,44 +434,35 @@ deu_sid,has_en,eng_text
 1256928,yes,"One hopes, as long as one lives."
 12572530,yes,"Our galaxy, the Milky Way, apparently contains dark matter."
 12572536,yes,That bucket leaks. Use this one.
-12572556,yes,Sicily fell to the Normans in 1091 AD.
 12574109,no,
 12582362,yes,The entire program needs reform.
 12584108,yes,"Bees, ants, wasps, and sawflies are hymenopterans."
 12585353,no,
 12585971,yes,We have to postpone the picnic.
 1259261,yes,The captain is the last to leave a sinking ship.
+12593034,yes,"In general, Japanese are hardworking."
 12594792,yes,Did you really come here voluntarily?
-12595181,yes,Is there a cheaper way to do that?
 12596433,yes,James's stomach with rumbling with hunger.
-12598452,yes,That architect builds very modern houses.
 1260,yes,Florence is the most beautiful city in Italy.
 12602117,yes,The flight attendant asked me to change seats.
 12603063,yes,Paul is the president of Nani Inc.
-12606437,yes,Lukas took off Rima’s bandages.
 1261,yes,I met nice people.
-12611906,yes,Do you know what you're asking for?
-12613800,yes,I had a promise to keep.
 12619473,no,
 1262,yes,I talked to friends.
 12620687,yes,What do you feed your rabbits?
 12621550,yes,Buy as much food as you can.
-12629626,yes,You boys ought to be ashamed.
-12631100,yes,You're going the wrong way. You have to turn around.
+12621791,no,
 12632297,no,
 12638290,yes,In the middle of the spider's web sat a spider.
 1263844,no,
-12641880,yes,Did you and Michael have a fight?
 12644391,yes,Are you cross about something?
 12647124,yes,You sounded nervous when you called.
 1264781,yes,She has a screw loose.
 12649585,yes,You're under arrest for attempted kidnapping.
+12649800,yes,You admitted to the murder.
 1265073,no,
-12654258,yes,How often do you eat brown rice?
-12654270,yes,Could you switch off the mike?
 12654869,yes,What do you use this basket for?
 12655841,no,
-12663180,yes,The baroness cuckolded the baron.
 12668616,no,
 12671535,yes,Could you pause the video?
 12680659,no,
@@ -529,7 +475,6 @@ deu_sid,has_en,eng_text
 1268730,no,
 1268757,no,
 1268792,no,
-12688542,yes,Did you think that would last?
 12689366,yes,Her explanation is by no means satisfactory.
 12695741,yes,Do you know what you're getting yourself into?
 12697408,no,
@@ -546,9 +491,6 @@ deu_sid,has_en,eng_text
 12724092,yes,The cushion was soft and inviting.
 12725092,no,
 1273600,yes,They are loyal to their master.
-12738224,yes,Did you know Tom writes poems?
-12738226,yes,Did you know Tom writes poems?
-12739262,yes,Kangaroos can jump very far.
 12752109,yes,"""Woof! Woof, woof, woof!"" ""You tell 'em, Cookie!"""
 12754189,no,
 12766378,no,
@@ -559,10 +501,8 @@ deu_sid,has_en,eng_text
 12818762,no,
 12821755,no,
 12822787,no,
-1283365,no,
 1284187,yes,It's already out of fashion.
 12845753,no,
-12847900,yes,Yuri Gagarin flew only one space mission.
 12858098,yes,Russia borders Finland and North Korea.
 1286212,yes,I'm going there now.
 12871074,yes,"""Coffee?"" ""No, I'd prefer whisky."""
@@ -578,28 +518,19 @@ deu_sid,has_en,eng_text
 12929045,no,
 12929986,yes,The political elite assist the banking elite.
 12931708,no,
-12931724,no,
 12936104,no,
 12938573,no,
 12938575,no,
 12946063,no,
-12947628,yes,"You should invite Tom, too."
 12954674,no,
 12962488,no,
 1297253,no,
-12992164,no,
-12992904,yes,Rich farmers' wives never have cold feet.
 12994293,yes,Five thousand is half of ten thousand.
-1299719,no,
 13000738,no,
-1300123,no,
 13004974,yes,Stan types without looking at the keyboard.
-13005679,yes,This garden centre has a cozy café.
 13007466,no,
-13007561,no,
 13012629,no,
 13017259,no,
-13022476,no,
 13025311,yes,Why is the universe dark?
 13038435,yes,"Estonian, Finnish, and Hungarian are Finno-Ugric languages."
 13044510,no,
@@ -607,7 +538,6 @@ deu_sid,has_en,eng_text
 13044694,no,
 13045895,yes,Cáit is reading the newspaper.
 13047861,no,
-13053166,yes,Marina is older than Catherine.
 13064324,yes,"According to the tradition, Homer was blind."
 13064329,yes,Leon installed cameras everywhere.
 1306839,no,
@@ -636,7 +566,6 @@ deu_sid,has_en,eng_text
 13209743,no,
 13217948,yes,No one anticipated such resistance.
 1324853,no,
-13250058,no,
 1325346,no,
 13254617,yes,"Hungary is called ""Magyarország"" in Hungarian."
 13257891,no,
@@ -644,11 +573,9 @@ deu_sid,has_en,eng_text
 13271910,yes,Polite Americans are polite at all times.
 13277590,yes,He was sleeping peacefully when the alarm clock went off.
 13279420,no,
-13282572,yes,Take care of these gentlemen.
 13286249,yes,It is said that Dutch are tolerant.
 13293819,no,
 13294763,yes,The party host had a Portuguese accent.
-1329594,yes,Soft music is often conducive to sleep.
 1329600,yes,Sally met Harry at the station.
 13296813,yes,Boris disappeared forty years ago.
 13312825,yes,This went on from dawn to dusk.
@@ -664,10 +591,8 @@ deu_sid,has_en,eng_text
 13374281,yes,Mary is an artist and paints portraits.
 13382608,no,
 1338537,no,
-13385439,no,
 13388419,no,
 13389049,no,
-13394155,yes,You should've hired a lawyer.
 1339732,no,
 1340034,no,
 13400816,no,
@@ -685,12 +610,10 @@ deu_sid,has_en,eng_text
 13425708,yes,Sami's guitar is in the attic.
 13431955,no,
 1343542,yes,I stared at the man.
-13438593,no,
 1344032,yes,She cleared out all the kitchen cupboards.
 13440336,no,
 1344456,no,
 1344548,yes,Such behaviour appears highly reprehensible.
-13447468,no,
 13448125,no,
 13458039,no,
 13461849,no,
@@ -698,14 +621,12 @@ deu_sid,has_en,eng_text
 13471762,yes,Linda is Michael's annoying little sister.
 13473469,no,
 13475029,yes,I'm quoting from memory.
-13487240,no,
 13489409,yes,I have an important phone call to make.
 13493257,yes,The weather bureau stationed personnel on the island.
 135,yes,It depends on the context.
 13506593,yes,Would you mind doing the dishes?
 1352538,yes,I put my hat on.
 13531310,no,
-13532132,no,
 13534388,no,
 13542331,no,
 1354382,no,
@@ -714,14 +635,10 @@ deu_sid,has_en,eng_text
 13555817,yes,This detail has nothing to do with you.
 13555836,no,
 13563613,yes,She pawned the jewelry she'd stolen.
-13565601,yes,Lukas introduced himself to Rima.
-13565628,yes,Thor was one of the Norse gods.
-13566135,yes,I could use the practice.
 1356649,no,
 135750,yes,One winter morning I met him.
 13581868,yes,No comma is needed here.
 13584348,yes,The time traveler accidentally changed the course of history.
-13593053,no,
 13595191,yes,Stefan offered Rima a burger.
 13596257,yes,The rumor spread like wildfire.
 13597328,no,
@@ -736,6 +653,7 @@ deu_sid,has_en,eng_text
 13631437,no,
 13631482,no,
 13635395,no,
+13635782,no,
 13642647,no,
 136435,yes,She went to America with a view to studying medicine.
 136437,yes,His grandfather died of cancer a year ago.
@@ -745,46 +663,35 @@ deu_sid,has_en,eng_text
 13651011,yes,His enthusiasm quickly waned.
 1365399,no,
 13655683,yes,That meeting sealed my fate.
-13655688,yes,That meeting sealed my fate.
 13656077,no,
 1365795,no,
-13658584,no,
 13659613,yes,"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday."
-13665417,yes,I hesitated before answering.
 13667472,no,
 13668553,no,
 13668679,no,
 13668847,no,
-13673260,no,
 13678869,no,
 13682159,no,
 13684922,no,
 13685035,no,
 1368514,yes,She comes of a good family.
 13685606,no,
-13689831,yes,Press that like button and subscribe.
-13689869,yes,Sami worshipped a pagan deity.
 13696648,no,
 13698759,no,
 13701124,no,
-13701683,no,
 1370266,yes,I've just realised I've forgotten something.
 13708453,yes,A deafening silence filled the room.
 13709869,no,
 13711856,no,
 13712202,no,
-13715381,no,
 1371624,yes,Warning: Chilean Spanish may sound weird in any other place.
 13716453,yes,This carpet was a real bargain.
 13717000,no,
 13718514,no,
 13718921,yes,William collected trash on the beach.
-13719312,yes,William tried to leave without being noticed.
 1372058,no,
 13721208,no,
 13722481,no,
-13722483,no,
-13723002,yes,Did you have to steal that bike?
 13723759,yes,Dan wants to start his own radio station.
 13724946,yes,Tom is running a little behind schedule.
 13725704,yes,This mosque has room for four thousand worshippers.
@@ -804,12 +711,9 @@ deu_sid,has_en,eng_text
 13760127,yes,Your green rug in front of the sofa stinks!
 13775454,no,
 13776143,no,
-13781318,no,
 13785859,no,
-13787142,no,
 13799059,no,
 13803374,no,
-13805001,yes,Ziri and Rima were playing Monopoly.
 13808392,yes,Your singing gives me a headache.
 13808393,yes,Your singing gives me a headache.
 13810803,no,
@@ -818,14 +722,13 @@ deu_sid,has_en,eng_text
 13817045,no,
 13819495,yes,She'll be staying at the Royal Hotel next Tuesday.
 13821736,yes,The wheels of justice can move slowly.
+13822883,no,
 13822902,no,
 13823314,no,
 13824039,no,
 1383736,no,
 13838455,no,
-1385090,yes,This sound of danger lent me wings.
 1385111,no,
-13852542,yes,We didn't know you would be coming with us.
 13852639,yes,Don't laugh with your mouth open.
 13856408,no,
 13857193,no,
@@ -864,7 +767,6 @@ deu_sid,has_en,eng_text
 1392671,yes,Bill turned on the television.
 13927589,no,
 13929077,yes,"Attention, this sauce is spicier."
-1392970,yes,I forgot to lock the storeroom.
 13931685,yes,"""Is this something, or what?"" ""It sure is!"""
 13932081,yes,No one was able to pull out the mythical sword.
 13936521,no,
@@ -876,7 +778,6 @@ deu_sid,has_en,eng_text
 1394603,no,
 139478,yes,A minute has sixty seconds.
 139487,yes,I can't bear this noise anymore.
-13949483,yes,The lion is stronger than the hyena.
 13960936,no,
 13961491,no,
 13963180,yes,Were Adam and Eve married?
@@ -886,12 +787,10 @@ deu_sid,has_en,eng_text
 13981299,no,
 13981378,no,
 13985969,no,
-1399117,yes,He came back last August.
 1399252,no,
 139988,yes,He asked me whether anybody was there.
 140001,yes,"I'm sorry, I have no idea."
 140014,yes,I'm at a loss for words.
-14008743,yes,You have a cough. Drink this herbal tea.
 14008947,no,
 14009884,no,
 14011247,yes,How much traffic does your website have?
@@ -927,24 +826,21 @@ deu_sid,has_en,eng_text
 1450374,yes,Steel production reached an estimated 100 million tons last year.
 1452978,yes,All you have to do is sign this paper.
 1453098,no,
-1453145,no,
 1453177,no,
 1454137,yes,They seemed to be watching something.
 1454839,no,
 1455883,yes,George Washington was born on the twenty-second of February in seven hundred and thirty-two.
 1459512,yes,It was cheaper than I thought.
-1464191,yes,Where exactly are you going?
+1464191,yes,Where are you going exactly?
 1466939,no,
 1475678,yes,Thousands of people sleep rough in the freezing cold.
-1475914,yes,The treaty bans the use of chemical weapons.
 1481646,yes,I prefer working to doing nothing.
 1483482,no,
 1489266,no,
 1495360,no,
 1497002,yes,Tom poured himself a glass of scotch.
-1498960,yes,"She swallowed it hook, line and sinker."
 1499497,no,
-1500153,yes,The time-bomb exploded with a loud noise.
+1500153,yes,The time bomb exploded with a loud noise.
 1500792,yes,You're taking advantage of her weakness.
 1503338,yes,It's time to work together.
 1507644,no,
@@ -953,7 +849,6 @@ deu_sid,has_en,eng_text
 1511384,yes,Skillful diplomacy helps to avert war.
 1511768,yes,I heard the news through the grapevine.
 1512969,yes,A hard wind is blowing.
-1512993,no,
 1513551,yes,Smoking is strictly forbidden here.
 1513594,yes,Tom held the door open for Mary.
 1514492,yes,May I ask you some more questions?
@@ -982,20 +877,17 @@ deu_sid,has_en,eng_text
 1539615,yes,Let's go back to Unit 3.
 1540471,yes,Sick people tend to be pessimistic.
 1540498,no,
-1542571,no,
 1544293,yes,I'm not sure when he'll come.
 1546498,no,
 1549106,yes,Wait at the entrance to this building.
 1549355,yes,"This month's salary was 200,000 yen."
 1550146,yes,You can't trust computer translation.
 1550797,no,
-1551272,yes,Intel gets a huge royalty from the invention.
-1552068,yes,We saw laborers blasting rocks.
+1552353,yes,Major Anderson was ready to stop fighting.
 1555149,no,
 1555642,yes,The baseball game was canceled because of the heavy rain.
 1556390,no,
 1557927,no,
-1559085,no,
 1560971,yes,She may be a nurse. I am not sure.
 1561765,yes,Leaves were dropping silently to the ground.
 1562734,yes,You must take care of the dog.
@@ -1014,10 +906,10 @@ deu_sid,has_en,eng_text
 1597904,yes,"Good evening, ladies and gentlemen."
 1598463,no,
 1599625,yes,Draw a line on your paper.
-1599689,no,
 160,yes,One can always find time.
 1600526,yes,People have short memories.
 1600743,yes,This is old news.
+1604559,no,
 1604934,no,
 1607651,yes,"""You're very welcome,"" replied the steward."
 1607652,yes,"""Here you go,"" says the train guard."
@@ -1026,10 +918,8 @@ deu_sid,has_en,eng_text
 1617634,no,
 1623994,no,
 1627148,no,
-1634522,no,
 1635249,yes,Have you ever touched a dolphin?
 1637046,yes,I'm thinking of the plan.
-1639450,yes,You made the same mistake.
 1641090,yes,The cold north wind turned the leaves brown.
 1642435,yes,This rumor is completely unfounded.
 1644912,no,
@@ -1042,7 +932,7 @@ deu_sid,has_en,eng_text
 1653739,no,
 1654943,no,
 1657684,yes,You don't know that.
-1658994,yes,The leaves have begun to change colour.
+1658994,yes,The leaves have begun to change colors.
 1659266,yes,Now I understand what happened.
 166,yes,Most people write about their daily life.
 1660148,no,
@@ -1050,7 +940,6 @@ deu_sid,has_en,eng_text
 1665308,no,
 1668064,no,
 1673348,yes,It starts around 8:30.
-1677782,yes,Tom's great-great-great grandmother lived in Scotland.
 1678318,yes,Towns are very crowded today.
 1679723,no,
 1683988,yes,It happens more often than you would think.
@@ -1078,7 +967,6 @@ deu_sid,has_en,eng_text
 1699372,no,
 1702655,yes,Would you like to have a cup of tea?
 1706865,yes,"If a cut is bleeding, put pressure on it."
-1707280,no,
 1707332,yes,The brain needs a continuous supply of blood.
 1708006,yes,We've tried everything.
 1708008,yes,We've tried everything.
@@ -1087,6 +975,7 @@ deu_sid,has_en,eng_text
 1709276,yes,We add long examples.
 1709329,yes,He accepts gifts from students.
 1709330,yes,He accepts gifts from students.
+1709858,yes,Could you turn it down?
 1709876,no,
 1711479,no,
 1712426,yes,I wanted to talk to you.
@@ -1099,10 +988,8 @@ deu_sid,has_en,eng_text
 1718283,yes,Pour melted butter over the popcorn.
 1728595,yes,Can I go for a walk?
 1728622,yes,Where is nearest American Express office?
-1728627,no,
 1729429,yes,I am turning the sound of the radio down.
 1729452,yes,This is the first time I've ever peeled potatoes.
-1729607,no,
 1729910,no,
 1731418,yes,Gunpowder needs to be handled very carefully.
 1731453,yes,Keep away from the fire.
@@ -1111,11 +998,9 @@ deu_sid,has_en,eng_text
 1733899,no,
 1734196,no,
 1735139,yes,It looks like it's going to be sunny.
-1735287,yes,Please feel free to make suggestions.
 1737089,yes,Mr. Sato practices archery on weekends.
 1738476,no,
 1741007,no,
-1743659,yes,Petrol prices are going up and up at the moment.
 1743691,yes,Mary hasn't seen the picture yet.
 1743716,yes,"""Whose goats are these?"" ""They are Yamina's."""
 1750011,yes,The birds chirp loudly while flying rapidly.
@@ -1160,34 +1045,26 @@ deu_sid,has_en,eng_text
 180443,yes,I tried to tell you.
 1804712,yes,Tom trained his dog to bark at strangers.
 1806251,no,
-1807384,no,
 1808264,yes,Tragedy is the entertainment of the nobles.
 1809054,yes,I can't believe he did that.
-1809265,no,
 180999,yes,"I have no job, so I can never save money."
 1812040,no,
 1812172,no,
 1812258,no,
-1812961,no,
 1813199,yes,We'll be landing in 15 minutes.
 1813359,yes,My hobby is taking pictures of wild flowers.
 1813511,yes,We hurried down the stairs.
 1813868,yes,The audience interrupted the speaker.
 1814056,yes,Jack Nicholson was raised in New Jersey.
-1815871,yes,I managed to meet him.
 1816313,no,
-1816733,yes,Circumstances forced us to cancel our appointment.
-1817097,yes,Blessed are the pure in heart.
 1817905,no,
 1817914,no,
 1818253,yes,Italy invaded Ethiopia in 1935.
-1818809,no,
 1818993,yes,She still alleges innocence.
-1819205,yes,Tom put on his glasses.
+1819205,yes,Tom put his glasses on.
 1820329,yes,I didn't hear my alarm clock.
 182048,yes,Can your brother drive a car?
 1820730,yes,I didn't know that you were a monster.
-1821086,no,
 1823191,no,
 1823443,yes,This fact proves her innocence.
 1824415,no,
@@ -1207,7 +1084,6 @@ deu_sid,has_en,eng_text
 1842089,no,
 1844130,yes,What's the matter with you?
 1845268,no,
-1847096,yes,Please remind me to turn in the paper.
 1848652,yes,Tom sat cross-legged in the dark.
 1848788,yes,I have a decision to make.
 1850506,yes,"Look, your shoelaces have come undone."
@@ -1218,7 +1094,6 @@ deu_sid,has_en,eng_text
 1854325,no,
 1855082,yes,I got pregnant accidentally.
 1855462,yes,Bob expressed words of thanks on behalf of his classmates.
-1855466,yes,Bob found various kinds of nuts.
 1855545,no,
 1857683,no,
 1860895,no,
@@ -1227,11 +1102,9 @@ deu_sid,has_en,eng_text
 1866638,yes,I'm a coward when it comes to cockroaches.
 1870016,yes,Mr. Clinton was governor of Arkansas at the time.
 1870945,yes,There isn't anywhere else to park.
-1872866,yes,Tom noticed the front door was open.
-1875413,yes,Tom turned on the hot water tap.
 1878493,no,
 1878559,yes,Many Native American communities need doctors and teachers.
-1879028,no,
+1880464,yes,Helen graduated from high school last year.
 1881367,yes,He turned off the light.
 1882163,yes,"After taking a bath, I drank some soft drink."
 1882873,no,
@@ -1261,20 +1134,17 @@ deu_sid,has_en,eng_text
 1937873,no,
 1938448,yes,Tom is terribly busy at this time.
 1940943,yes,Tom is leaving for India next Friday.
-1940957,yes,Tom is in very good health.
+1940957,yes,Tom is in excellent health.
 1941838,no,
-1942433,no,
 1944164,no,
 1947981,yes,Ms. Brown seems to be an actress.
 1948496,yes,She took off her clothes.
-1948499,yes,Romeo instantly fell in love with Juliet.
 1948583,no,
 1948751,no,
 1948766,no,
 1949100,no,
 1953158,no,
 1953465,yes,That university's curriculum covers natural science and social science.
-1955935,no,
 1956582,yes,What do you want to do with it?
 1956584,yes,What do you want to do with this old chair?
 1958447,yes,"After that, internal temperature begins to climb rapidly."
@@ -1285,11 +1155,9 @@ deu_sid,has_en,eng_text
 1963765,yes,The ship was built at considerable expense.
 1967873,yes,You can't scare me.
 1969326,no,
-1970046,no,
 1973344,no,
 1973357,no,
 1974868,no,
-1978047,no,
 1979104,no,
 1981530,yes,"If you bite at it, you're a fool."
 1983080,no,
@@ -1303,21 +1171,16 @@ deu_sid,has_en,eng_text
 1996519,yes,I'll keep you posted.
 1997832,yes,It'll be too late then.
 2003548,no,
-2016376,no,
 2023370,yes,Frank Sinatra was an American singer.
 2025565,yes,Every advantage has its disadvantage.
 2037435,yes,"The ""Bolashak"" program is very useful."
-2048240,no,
 2051029,yes,The nurse took Tom's temperature.
 2051477,yes,I didn't know you played chess.
-2052581,yes,Can you will yourself to fall asleep?
 2056910,no,
 2060881,yes,Even the most carefully made plans frequently result in failure.
 2062175,no,
 2063007,yes,The apes groom each other.
 2063211,yes,Robert got the better of Jack in the game of chess.
-2063304,yes,I have something important to tell you.
-2063985,yes,Residential rooms are not to be used for commercial purposes.
 2070604,yes,The Esperanto handbooks are cheap.
 2079205,no,
 2079209,no,
@@ -1325,21 +1188,15 @@ deu_sid,has_en,eng_text
 2081753,no,
 2082698,no,
 2083018,yes,There was a minute difference between them.
-2083019,yes,Those cities have uniform traffic laws.
 2085084,yes,I can tell when someone is lying.
 2088153,yes,I should've kept my mouth shut.
 2089341,no,
-2090417,no,
-2094655,no,
 210,yes,I don't get what you mean.
 2101038,no,
 2103046,yes,That fellow is a thorough fool.
 2105190,yes,The car park in front of the bank was full.
 2112180,no,
-2112783,yes,In his opinion Brasilia was a failure in many ways.
 2123292,no,
-2123345,no,
-2123764,no,
 2125183,yes,"In general, I prefer meatless meals."
 2128664,no,
 2130933,no,
@@ -1351,7 +1208,6 @@ deu_sid,has_en,eng_text
 2134813,no,
 2137424,no,
 2141624,no,
-2143893,yes,I regret that I didn't go there.
 2144515,yes,It is outside my area of study.
 2145561,no,
 2146577,no,
@@ -1375,23 +1231,19 @@ deu_sid,has_en,eng_text
 2184035,no,
 2185934,no,
 2186792,no,
-2186924,yes,The best lawyer makes the worst neighbor.
 2190021,yes,You are in very serious trouble.
 2190159,yes,I didn't know you had a snake.
 2193253,yes,The video is a real lemon!
 2195658,yes,I had rented it the day before.
 2195759,yes,I think I'm ready.
 2195988,yes,You don't love me!
-2197016,no,
 2202530,yes,The eagle spread its wings ready for flight.
 2214002,yes,It looks like Tom is flirting with Mary.
 2214137,yes,I don't think I can do this alone.
-2214255,yes,"""Quack, quack,"" said the duck."
 2215282,no,
 2216152,yes,Can I drop off the car?
 2217561,no,
 2220187,yes,Klingons have ridged foreheads.
-2220699,yes,Are you seriously thinking about divorce?
 2224063,no,
 2224170,yes,I didn't think you'd come so soon.
 2225444,yes,"Humans are healed, but machines are repaired."
@@ -1400,20 +1252,14 @@ deu_sid,has_en,eng_text
 2231720,yes,The investigation revealed him to be a spy.
 2232895,no,
 2234370,yes,Muslims pray in mosques.
-2234840,yes,What do you remember?
 2241730,no,
 2249896,yes,Your singing puts professional singers to shame.
 2256190,yes,This plant is edible.
-2260260,no,
-2260957,yes,I thought I knew everything.
 2263509,no,
 2265935,yes,"Excuse me, but you're mistaken."
-2266725,yes,Everyone smiles in the same language.
 2274863,no,
-2276723,no,
 2276729,no,
 2277853,no,
-2278889,yes,A lot of birthday cards will arrive soon.
 2280478,no,
 2283974,yes,The situation is deteriorating dramatically.
 2290779,no,
@@ -1426,42 +1272,34 @@ deu_sid,has_en,eng_text
 2300405,no,
 2301726,yes,The bride was wearing a white wedding dress.
 2304861,yes,White smoke billowed from the Sistine Chapel.
-2304878,yes,She put the dirty laundry in the washing machine.
 2307030,yes,Pskov is in the south of Russia.
 2309693,yes,Search your pockets again to make sure of it.
 2319085,no,
-2321218,yes,My neighbor always mows his lawn on Sunday mornings.
 2321435,yes,My hobby is my aquarium.
 2324790,yes,This container is completely watertight.
 2325091,no,
-2328013,yes,"You're a beginner, but you learn fast."
-2328027,yes,We'll paint the fence tomorrow.
 2329546,yes,You are mad to try to do it all alone.
-2333916,no,
 2334817,no,
 2338135,yes,The actual volume of the truck is thirty cubic meters.
 2339726,yes,Nudists regard nudity as normal.
 2339782,yes,Nuclear power plants rely upon the fission of uranium to generate heat.
 2340205,yes,Is it reachable by bike?
 2342103,yes,I don't for a moment doubt your honesty.
-2342158,no,
 2343733,yes,This teacher is in charge of the third year class.
 2343956,yes,The British climbed the hill.
 2344895,yes,A committee of congressmen has arrived.
 235,yes,"It's not much of a surprise, is it?"
 2353973,no,
-2356635,yes,All our sanitary facilities are heated by solar energy.
 2357471,yes,Sign on the dotted line.
 2357674,yes,She presented him with a box of Havana cigars.
 236461,yes,I bought it for twelve dollars.
 2365252,no,
 2369286,yes,You shouldn't prejudge people.
-2376921,yes,Do you want beef or pork?
 2377114,no,
 2377192,yes,This factory makes toys.
+2389787,no,
 2392929,no,
 2393301,no,
-2393465,no,
 2393510,no,
 2393715,yes,Please give me back my pen.
 2397388,no,
@@ -1469,20 +1307,18 @@ deu_sid,has_en,eng_text
 2405975,yes,This bottle holds a fifth of a gallon.
 2406205,yes,Jesus has abs of steel.
 2406756,no,
+2408980,yes,'Hayastan' is Armenia's name in Armenian.
 2418439,yes,Record the broadcast on tape.
 2422456,yes,The lawyer spoke on and on.
 2423167,no,
 2423574,no,
 2424253,no,
-2425635,yes,Take the jug to the dining room.
-2434727,no,
 2435908,no,
 2441361,yes,I didn't want to scare you.
 2441630,yes,You don't even know Tom.
 2446226,yes,Members of that tribe settled along the river.
 2446470,no,
 2448399,yes,Did Marika teach you Swedish as well?
-2448450,yes,Did Marika dress like a Japanese woman?
 245,yes,I don't know what to do anymore.
 2453145,no,
 2454608,no,
@@ -1494,9 +1330,7 @@ deu_sid,has_en,eng_text
 2469948,no,
 2475067,no,
 2478848,yes,Do I look okay?
-2485465,yes,Keep away from the vertical cliff!
 2486177,no,
-2486589,no,
 2487632,yes,The tax bore hard on the peasantry.
 2488502,no,
 2489170,yes,The statement imported that changes were necessary.
@@ -1506,11 +1340,9 @@ deu_sid,has_en,eng_text
 2493089,no,
 2493108,yes,Thick morning fog obscured the horizon.
 2493166,yes,The fog gradually began to lift.
-2497954,yes,The skit was presented by fifth grade students.
 2499057,yes,The desire he has had for years has been fulfilled.
 2499551,no,
 2499607,yes,"Egoists do not meet, they collide with each other."
-2503706,no,
 2506314,no,
 2506400,no,
 2509776,no,
@@ -1543,11 +1375,9 @@ deu_sid,has_en,eng_text
 2637093,no,
 2650964,no,
 2657087,no,
-2663897,yes,Marcus called the referee an idiot.
 2664240,no,
 2665492,yes,The board will decide that.
 2670734,no,
-2672268,yes,"According to statistics, world population is on the rise."
 2672721,yes,Hamburg is Germany's second largest city.
 2673639,no,
 2676966,yes,All the food is organic and local.
@@ -1555,11 +1385,9 @@ deu_sid,has_en,eng_text
 2683467,no,
 2684887,no,
 2686865,no,
-2690545,no,
 2691300,yes,This stable contains twelve stalls.
 2692969,no,
 2695717,no,
-2695727,no,
 2695809,no,
 2696378,no,
 2696393,no,
@@ -1573,9 +1401,7 @@ deu_sid,has_en,eng_text
 2707673,yes,She dropped me off at my apartment.
 2707752,no,
 2711118,no,
-2715245,yes,His jokes fell flat.
 2716670,no,
-2718130,yes,His alibi seemed cast-iron.
 2720282,no,
 2722083,yes,What is the area of this city?
 2722340,yes,The grandmother closed the creaking garden gate.
@@ -1592,11 +1418,11 @@ deu_sid,has_en,eng_text
 2744455,yes,I thought I told you not to come here.
 2746685,yes,Napoleon called the English a nation of shopkeepers.
 2748462,no,
+2750159,no,
 2750191,yes,I just want to take a picture.
 2754624,yes,The Met Office warns of thick fog.
 2755842,yes,Have you noticed anything out of the ordinary?
 2756143,no,
-2756886,no,
 2756919,no,
 2756954,no,
 2757096,yes,I didn't want to scare you.
@@ -1625,13 +1451,12 @@ deu_sid,has_en,eng_text
 2798556,no,
 2798780,no,
 2799264,yes,"Syria is called ""Suriyah"" in Arabic."
+2803061,no,
 2804343,no,
 2808153,no,
 2810925,no,
-2812951,no,
 2814073,yes,Sign above this line.
 2826177,no,
-2829150,no,
 2829710,yes,I hope I'm wrong.
 2829753,no,
 2830245,no,
@@ -1666,13 +1491,10 @@ deu_sid,has_en,eng_text
 2898768,no,
 2908076,no,
 2909029,no,
-2911860,yes,Can you teach me how to play the bagpipes?
 2914804,yes,The world sometimes seems meaningless.
 2927317,no,
 2929472,yes,You're such a weirdo.
-2929674,no,
 2929690,yes,Creating good sauces is my passion.
-2933109,yes,Dr. Jackson has a good bedside manner.
 2936117,no,
 2941994,no,
 2942472,no,
@@ -1680,8 +1502,6 @@ deu_sid,has_en,eng_text
 2962062,no,
 2962904,no,
 2966305,yes,Sorry I'm late. I overslept.
-2967200,yes,You're acting very strangely.
-2969988,no,
 2972376,yes,Get your ass in here!
 2973081,yes,I think I'll take this tie.
 2975953,yes,It's minus forty degrees Celsius outside.
@@ -1716,10 +1536,8 @@ deu_sid,has_en,eng_text
 3050989,yes,My daughter will get married in June.
 3054329,yes,What do you want to protect us from?
 3059538,no,
-3063079,no,
 3071156,no,
 3072444,no,
-3072713,no,
 3072757,no,
 3074157,yes,Tom realized Mary was unhappy.
 3074672,yes,Read chapter four by Friday.
@@ -1727,15 +1545,12 @@ deu_sid,has_en,eng_text
 3085250,yes,I like listening to him.
 3086207,yes,I nodded to show that I agreed.
 3089104,yes,The slippers are under the bed.
-3090369,no,
 3097499,yes,Watch out for the pedestrians.
-3101795,no,
 3104189,yes,"Happy birthday, Dad."
 3104596,no,
 3113564,yes,I have to admit I'm curious.
 3117224,no,
 3119776,no,
-3120620,no,
 3125892,yes,There is no limit to human desire.
 3125975,yes,Exercise is the best way to get rid of stress.
 3126681,no,
@@ -1750,6 +1565,7 @@ deu_sid,has_en,eng_text
 3142442,no,
 3143299,yes,Are you questioning my decision?
 3149145,no,
+3150987,no,
 3154550,no,
 3154604,yes,The snow was brilliant in the morning sun.
 3155809,yes,Mars resembles our planet in some ways.
@@ -1765,15 +1581,13 @@ deu_sid,has_en,eng_text
 3187862,yes,Around 75% of Europeans are Christians.
 3207561,yes,I was afraid I'd fall asleep at the wheel.
 3220166,no,
-3222410,no,
 3222923,no,
 3224634,yes,Let's have breakfast and then go out.
 3226125,no,
 3229800,yes,Our relationship is like an adventure.
 3234001,yes,The streets are brightly lit.
 3243343,no,
-3249487,yes,I spend a lot of time practising the guitar.
-3249639,yes,Interlingua has five older sisters.
+3249487,yes,I spend a lot of time practicing the guitar.
 3250282,no,
 3255432,yes,This jumper is itchy round the neck.
 3257264,no,
@@ -1781,10 +1595,8 @@ deu_sid,has_en,eng_text
 3261179,yes,There was a moment of meaningful silence.
 3263545,yes,The order came too late.
 3269117,yes,Tom was always available when you needed him.
-3269721,yes,His argument was based on facts.
 3274913,yes,The picture was hung upside down.
 3275582,yes,It's high time to go. See you later.
-3278055,yes,Do you want to take that risk?
 3278708,yes,A drop of sweat ran down his nose.
 328,yes,It won't start before eight-thirty.
 3280668,no,
@@ -1804,7 +1616,7 @@ deu_sid,has_en,eng_text
 331890,yes,Paris is the capital of France.
 331891,yes,Ottawa is Canada's capital.
 331892,yes,London is the capital of England.
-331896,yes,She gave him a watch.
+331896,yes,She gave him a clock.
 3319632,no,
 3320681,no,
 332149,yes,"The opposite of ""inconvenient"" is ""convenient""."
@@ -1814,7 +1626,6 @@ deu_sid,has_en,eng_text
 3327082,yes,The kids are cleaning their bikes.
 3329424,yes,The rolls are baked by the baker.
 333643,yes,Bill can run faster than Bob.
-3342941,no,
 3344524,no,
 3346230,yes,I'm going to the beach. What about you?
 3360978,yes,I prefer a systematic method.
@@ -1822,8 +1633,6 @@ deu_sid,has_en,eng_text
 3364915,yes,He gave a loud cry for help.
 3371441,no,
 3372495,no,
-3373979,yes,His absence was due to the storm.
-3376284,yes,It happened in broad daylight.
 338288,yes,This truck transports fresh food from Aomori to Tokyo.
 338294,no,
 338302,no,
@@ -1834,13 +1643,11 @@ deu_sid,has_en,eng_text
 3385739,no,
 3386036,yes,What was Mary's last name before she got married?
 3386174,yes,Tom is mowing his front lawn.
-3386638,no,
 3388822,no,
 3392386,no,
 3393933,no,
 3395642,yes,That is why Yoshio has caught a cold.
 3402761,no,
-3405861,yes,What made you want to become an anaesthetist?
 3406767,yes,"Actually, I'm currently unemployed."
 3407360,yes,You're welcome to come back anytime.
 340783,yes,We all went to the party except Joe.
@@ -1874,7 +1681,7 @@ deu_sid,has_en,eng_text
 341581,yes,She is married to a foreigner.
 341587,yes,How much did the glasses cost?
 341594,yes,What've you done with my glasses?
-341617,yes,I'll ring you tonight.
+341617,yes,I'll call you tonight.
 341661,yes,We must look at the problem from a global point of view.
 341668,no,
 341683,yes,I prefer coffee to tea.
@@ -1934,7 +1741,7 @@ deu_sid,has_en,eng_text
 344537,yes,"He's a good violinist, is this not true?"
 344559,no,
 344572,yes,Are you going anywhere this summer?
-344595,yes,He took an important decision.
+344595,yes,He made an important decision.
 344635,yes,I wrote a letter to Jim.
 344642,yes,Let's stop and have a rest.
 344645,yes,He thinks that blue is the most beautiful colour.
@@ -1956,7 +1763,7 @@ deu_sid,has_en,eng_text
 345484,yes,Do you play football or rugby?
 345556,yes,He married a rich girl.
 3456130,yes,His antisocial behavior isolated him.
-346955,yes,"Yes, I think that's OK."
+346955,yes,"Yes, I think it's okay."
 346973,yes,I forget his name.
 3471923,yes,I wonder if anyone wants to do my homework for me?
 3474462,yes,Cows are considered sacred animals in India.
@@ -1988,6 +1795,7 @@ deu_sid,has_en,eng_text
 349893,yes,I like weak coffee better than strong.
 349901,no,
 3499417,no,
+349962,yes,Food is digested in the stomach.
 349967,yes,He can swim very fast.
 350011,yes,My mother is not always at home.
 350013,yes,The men went hunting for lions.
@@ -2017,7 +1825,6 @@ deu_sid,has_en,eng_text
 352027,yes,Why did you come to Japan?
 352097,yes,You can't please everyone.
 352099,yes,That's why he did it.
-3522360,no,
 352280,yes,I'm sorry to hear it.
 352523,yes,She cried all night.
 352550,yes,He found a ball in the garden.
@@ -2037,7 +1844,7 @@ deu_sid,has_en,eng_text
 353061,yes,Have you ever seen a UFO?
 353088,yes,I'm annoyed at his selfishness.
 353094,yes,She turned down his invitation.
-353110,yes,I forgot his name.
+353110,yes,I forget his name.
 353250,yes,This novel is interesting enough.
 353274,yes,Time is up. Hand in your papers.
 353298,yes,His eyes betrayed his fear.
@@ -2059,14 +1866,12 @@ deu_sid,has_en,eng_text
 354524,yes,How much were those glasses?
 354525,yes,Most girls think they're pretty.
 354810,yes,His name is known throughout this country.
-3549584,yes,The sirens went off.
 355043,no,
 355167,yes,Her story can't be true.
 3553239,yes,"I'm fine, thanks!"
 3555455,yes,"The ablative plural of ""rosa"" is ""rosis""."
 3555532,no,
 3556127,no,
-3557117,yes,You said you were ready.
 355956,yes,We think we are over the worst.
 355958,yes,There's no way to find his house.
 3561090,no,
@@ -2078,7 +1883,6 @@ deu_sid,has_en,eng_text
 356531,yes,My left arm is asleep.
 356569,yes,I tried again and again.
 356578,yes,I'll return at 6:30.
-356585,yes,He pressed the button and waited.
 356587,yes,He is married with two children.
 356616,no,
 356620,yes,They were fooling themselves.
@@ -2086,7 +1890,6 @@ deu_sid,has_en,eng_text
 356647,yes,I'm too busy to help her.
 356648,yes,I'm too busy to help him.
 356667,yes,But I wasn't afraid.
-3571024,yes,He laughed heartily.
 357132,yes,"""Who helped you?"" ""Tom did."""
 357458,yes,Carol often watches horror movies.
 357462,yes,He often thinks with his eyes shut.
@@ -2100,7 +1903,6 @@ deu_sid,has_en,eng_text
 358247,yes,Their house is far from the station.
 358304,yes,Have a look at the world map.
 3583430,yes,"Why are you staring at me, demon?"
-3583492,yes,"""Geografie"" and ""Erdkunde"" are synonymous words."
 358369,yes,Call me this evening.
 358370,yes,Call me this evening.
 358386,no,
@@ -2132,12 +1934,10 @@ deu_sid,has_en,eng_text
 359673,yes,I've read that book several times.
 359674,yes,Have you read this book yet?
 359676,yes,She read a cookbook last night.
-3596800,no,
 360,yes,And nobody helped you?
 360332,yes,Did you find your contact lenses?
 360533,yes,"Andersen was afraid of dogs, too."
 360561,yes,My mother is on a diet.
-3605753,no,
 360582,yes,You're wearing your sweater inside out.
 360598,yes,There is a lot of furniture in his room.
 360621,yes,He is familiar with computers.
@@ -2205,7 +2005,6 @@ deu_sid,has_en,eng_text
 363376,yes,Most people like watching TV.
 363393,yes,He built the house for himself.
 363406,yes,I can't afford a new car.
-3638665,no,
 363907,yes,This is a beautiful flower.
 363918,yes,She did not agree to the proposal.
 363950,yes,I like to do a few exercises to loosen up before I run.
@@ -2274,12 +2073,12 @@ deu_sid,has_en,eng_text
 368541,no,
 368542,no,
 368556,yes,Jeff thinks he will never fall in love.
+368604,yes,Oranges are sweeter than lemons.
 368637,no,
 368686,no,
 368689,yes,The bird spread its wings.
 368711,yes,I agree with you absolutely.
 368740,yes,I can't put up with his insolence.
-368794,yes,"Would you lend me a hand, Taro?"
 3690067,no,
 3691170,no,
 369118,yes,Put price labels on each individual item.
@@ -2307,7 +2106,6 @@ deu_sid,has_en,eng_text
 370035,yes,He usually gets up at six.
 370104,yes,I dreamt a strange dream.
 370118,yes,What did you do with my pants?
-3701268,no,
 370145,no,
 370151,no,
 370171,no,
@@ -2319,7 +2117,6 @@ deu_sid,has_en,eng_text
 370467,yes,You might've heard of it.
 370486,yes,We associate Egypt with the Nile.
 370492,yes,There's a hut under the bridge.
-370496,yes,He is digging his own grave.
 370510,yes,I don't know what to think.
 3707816,yes,My son is my biggest headache.
 370784,yes,The sun always rises in the east.
@@ -2328,9 +2125,7 @@ deu_sid,has_en,eng_text
 370903,yes,"If you invite him, he may come."
 370907,yes,I want to see the manager.
 3709635,no,
-3710729,no,
 371130,yes,We don't have to hurry.
-3714870,no,
 3714885,no,
 371824,yes,The toast has burned black.
 371830,no,
@@ -2345,7 +2140,7 @@ deu_sid,has_en,eng_text
 372920,no,
 372943,yes,There is a marked difference between them.
 372960,no,
-373,yes,Round trip? Only one-way.
+373,yes,Round trip? Just one way.
 373090,yes,Please get dressed.
 373127,yes,It is anything but big.
 374,yes,It's a pity when somebody dies.
@@ -2354,21 +2149,17 @@ deu_sid,has_en,eng_text
 374564,yes,When did you buy the watch?
 3748191,no,
 3751997,yes,"The great Roman hero, Julius Caesar, was murdered."
-3753591,yes,He won a sizeable amount of money.
 375411,yes,"Look at this picture, please."
 375412,no,
 3755310,no,
-3755363,yes,Who are you calling a donkey?
 3770630,yes,I use my VISA card.
 3771605,no,
 3776757,yes,"In fact, Grant did not agree."
 3778507,yes,Can we bring the date forward?
 378534,yes,These flowers bloom earlier than others do.
 3786900,yes,He was subjected to severe criticism.
-3788271,yes,Few people understood his comment.
 3790771,no,
 379080,no,
-3795339,no,
 379919,no,
 380149,yes,I found the empty tin.
 3801613,no,
@@ -2384,7 +2175,6 @@ deu_sid,has_en,eng_text
 383217,no,
 383238,yes,Many relatives came to the confirmation.
 3835283,yes,Fuckin' earthquake was terrible!
-3835349,no,
 383940,yes,I want to speak about my love.
 384222,no,
 384242,yes,It's my first time travelling.
@@ -2396,7 +2186,6 @@ deu_sid,has_en,eng_text
 3867678,no,
 3868200,yes,My client wants to plead guilty.
 386990,yes,Fill out the form below.
-3870709,yes,He sent an angry customer to the manager.
 387985,yes,I wish you good luck.
 3880584,yes,"All of you speak French, right?"
 388203,no,
@@ -2404,7 +2193,6 @@ deu_sid,has_en,eng_text
 3887842,yes,I searched my pockets for the wallet.
 3887969,no,
 389129,yes,Have you come with your family?
-3892755,yes,"Dr. Patterson, a psychologist, tested Koko's intelligence."
 3894002,yes,Don't sign the contract in pencil.
 3897818,yes,The FBI secretly wiretapped the criminal's room.
 391497,yes,Describe the accident in detail.
@@ -2420,7 +2208,6 @@ deu_sid,has_en,eng_text
 394189,no,
 394213,no,
 394218,yes,"Mike, how's it going?"
-394241,yes,"Nice to meet you, Mrs Jones."
 394256,no,
 394482,no,
 394559,no,
@@ -2437,7 +2224,6 @@ deu_sid,has_en,eng_text
 396544,yes,"And you, how are you?"
 396665,no,
 396683,yes,You must follow the rules.
-396689,yes,Trains come more often than buses.
 396857,yes,Tom arrived last.
 396921,yes,Kyoto depends on the tourist industry.
 396935,no,
@@ -2462,13 +2248,12 @@ deu_sid,has_en,eng_text
 399512,yes,Wear warm clothes in winter.
 399527,no,
 399564,yes,My wife is preparing dinner right now.
-3995776,no,
 399723,yes,Our city is free from air pollution.
 399728,yes,Air pollution is a big problem in this country.
 399753,yes,Where can I get my baggage?
 399763,no,
 399764,no,
-399772,yes,We need to water the flowers.
+399772,yes,We have to water the flowers.
 399790,no,
 399891,yes,Bob is popular at school.
 399925,yes,Leave it to me.
@@ -2519,7 +2304,6 @@ deu_sid,has_en,eng_text
 406848,yes,She has a lot of work to do.
 406862,yes,"At last, we got to the lake."
 406972,yes,He's at home in France.
-4073034,no,
 407680,yes,He was busy copying his friend's notebook.
 407704,no,
 407766,yes,He ran faster than his brother did.
@@ -2549,7 +2333,6 @@ deu_sid,has_en,eng_text
 4125757,yes,Eighty percent of communication is non-verbal.
 4127849,yes,This text requires no abridgement.
 412788,yes,The snail shot out its horns.
-413045,yes,The weak are food for the strong.
 413548,yes,I dare say there'll be taxis at the station.
 413746,no,
 413747,yes,Good luck in your exam.
@@ -2562,12 +2345,10 @@ deu_sid,has_en,eng_text
 415194,yes,We have a black and white dog.
 416333,yes,You can keep this tape until tomorrow.
 416671,yes,He arrived too early.
-4167007,no,
 4173286,yes,"The cooked rice is tainted, the fried rice is consumed."
 417584,yes,He is as busy as ever.
 417591,yes,"She greeted me with ""Good morning."""
 4177809,yes,Paul is a friendly person.
-417926,yes,Trains were disrupted due to a thunderstorm.
 4181702,no,
 4181815,yes,Prices keep on soaring.
 418465,no,
@@ -2577,11 +2358,8 @@ deu_sid,has_en,eng_text
 419082,yes,It's a ten minutes walk to the bus stop.
 419103,yes,I like to eat hot soup.
 419123,yes,How do you pronounce her name?
-4192280,yes,Jim made a superfluous remark.
 4199109,yes,Beethoven wrote nine symphonies.
-4210225,no,
-422363,yes,Did you like the movie?
-4225636,yes,Somebody wants to kill me.
+422363,yes,Did you enjoy the film?
 423258,no,
 423323,no,
 423685,yes,The book is very small.
@@ -2653,7 +2431,6 @@ deu_sid,has_en,eng_text
 444005,yes,I wouldn't dream of it.
 444018,yes,The price of the picture is £10.
 444126,yes,My grandad likes to go rambling.
-4443850,yes,Chimpanzees can learn remarkable tricks.
 444394,no,
 444469,yes,When does the train go?
 444481,yes,Good evening. How are you?
@@ -2665,18 +2442,14 @@ deu_sid,has_en,eng_text
 445053,no,
 445216,no,
 4453526,no,
-4453531,no,
 4454925,no,
 446,yes,You found me where no one else was looking.
-4460153,no,
 446049,yes,I doubt that she loves you.
 446187,yes,I think this is all right.
 4464060,yes,My cell phone has a built-in digital camera.
 446546,yes,When did the incident occur?
 448635,yes,We must help each other.
 448668,yes,I have been to the U.S. twice.
-4488047,yes,Who had this idea?
-4489190,yes,It was snowing that day.
 448930,yes,He squashed my hat flat.
 449208,yes,She had a healthy baby.
 449994,yes,Where was it that you found this key?
@@ -2688,10 +2461,8 @@ deu_sid,has_en,eng_text
 450743,yes,They submitted to their leader's order.
 451355,no,
 452246,yes,Estella and I are going for a walk.
-4522704,no,
 452421,yes,He looked at me in surprise.
 453074,yes,He can neither read nor write.
-4538338,no,
 453984,yes,The governor appeared on TV in person.
 453988,yes,Call me tomorrow.
 454121,yes,I can't sleep at night.
@@ -2704,7 +2475,6 @@ deu_sid,has_en,eng_text
 455147,yes,Trier is the oldest city in Germany.
 455198,yes,This book is really old!
 455266,yes,I'm sure that this is a fresh water fish.
-455308,yes,I felt the sweat trickle down my brow.
 455344,yes,He can't stay long.
 455345,yes,He stayed in London for a long time.
 455658,no,
@@ -2723,7 +2493,6 @@ deu_sid,has_en,eng_text
 4617814,yes,The unexpected always happens.
 463697,yes,I love to play golf.
 4640749,no,
-464184,yes,Say the alphabet backwards.
 465552,yes,This is my mother. Her name is Beatrice.
 465608,yes,Ken dashed up the slope.
 4659738,no,
@@ -2750,6 +2519,7 @@ deu_sid,has_en,eng_text
 475490,yes,That's not a cat. It's a dog.
 475833,yes,Please write it down.
 476107,yes,I can't find my bag.
+476114,yes,You're taking a lot for granted.
 4762469,no,
 4772410,no,
 4772532,no,
@@ -2757,8 +2527,6 @@ deu_sid,has_en,eng_text
 477768,yes,Dad looked at Mom shyly.
 477787,yes,That's why I didn't come yesterday.
 477791,no,
-4779140,yes,Robert Smith is the singer of the group The Cure.
-478447,yes,It rained for hours and hours.
 4785097,no,
 479786,yes,Where can I have my watch repaired?
 4799246,yes,You change your opinion every minute.
@@ -2775,11 +2543,10 @@ deu_sid,has_en,eng_text
 482260,yes,His breath smells like goat cheese.
 4826942,no,
 4827126,no,
-4829823,no,
 4829899,no,
 483361,yes,Guns don't kill people. People kill people.
 483372,yes,"Doctor, my name is Mutaz."
-483376,yes,I love to go to the movies.
+483376,yes,I love going to the cinema.
 4834548,no,
 483492,yes,This photo was taken in Nara.
 4838657,yes,We need every available chair.
@@ -2793,13 +2560,11 @@ deu_sid,has_en,eng_text
 485466,yes,I'm afraid I must say goodbye.
 4861371,no,
 4867054,yes,He was just trying to be friendly.
-4867063,no,
 4867150,yes,Tom's boots sank into the deep snow.
 486854,yes,They formed a new government.
 4870419,no,
 4873362,no,
 4874726,no,
-4875527,yes,I loved Marika's sense of humor.
 4878469,yes,Has Tom made any progress?
 488017,yes,Polish nails are more expensive than the Chinese ones.
 4884243,no,
@@ -2823,7 +2588,6 @@ deu_sid,has_en,eng_text
 4933908,no,
 493558,yes,They adapted themselves to the change quickly.
 494,yes,It's very hot today.
-494272,no,
 4943697,no,
 4945042,yes,Tom suffers from chronic pain.
 494824,yes,What do you want to tell me?
@@ -2832,9 +2596,7 @@ deu_sid,has_en,eng_text
 4954965,no,
 4956778,no,
 496,yes,I've never seen a red refrigerator.
-4962471,yes,Some countries refuse to take refugees.
 4965802,yes,Castro Alves was a famous Brazilian poet.
-4967343,no,
 4977692,no,
 4977694,no,
 4977695,no,
@@ -2843,9 +2605,7 @@ deu_sid,has_en,eng_text
 4982854,no,
 4997394,yes,The autumn wind is rustling the trees.
 5013085,no,
-5016396,no,
-5022689,yes,He knew how ridiculous he sounded.
-5026176,no,
+5020409,no,
 5035667,yes,Tom has three adult sons.
 503635,yes,Change is the only constant.
 503974,yes,It was good fun.
@@ -2858,15 +2618,12 @@ deu_sid,has_en,eng_text
 5064127,yes,Tom harasses marginalized people on the Internet.
 5064299,yes,"From the commutative law, it follows that -(-x) = x and 1/(1/x) = x."
 5064404,yes,Freedom begins where ignorance ends.
-5071663,no,
 5075869,yes,"""Thanks very much for your help."" ""Pleasure."""
 507869,no,
 5081296,yes,Yoga can help lower stress.
-5083196,yes,"Likewise, it was nice to meet you."
 508539,yes,She is well versed in Spanish literature.
 5088010,yes,The Democratic Party needs major reform.
 509,yes,How did you come up with this crazy idea?
-5090959,no,
 509420,no,
 509654,yes,The couple put their house on the market.
 510958,no,
@@ -2885,7 +2642,6 @@ deu_sid,has_en,eng_text
 517001,no,
 5174173,yes,Tighten the strap around the suitcase.
 5177596,no,
-518349,yes,Let f be the canonical map.
 518357,yes,I want to make love with you.
 518615,yes,A scream broke the silence.
 518623,no,
@@ -2901,12 +2657,9 @@ deu_sid,has_en,eng_text
 5218447,no,
 5218471,no,
 5223301,no,
-522465,yes,Oranges have a high vitamin content.
-5233178,no,
 5233749,yes,"At first, the idea seemed absurd."
 5239000,yes,It worried me that she looked pale.
 5249491,yes,Tom smoked a cigarette out of boredom.
-5253276,yes,We spent two unforgettable weeks in Cusco.
 5253863,yes,Iceland beat England in the round of 16.
 5253866,yes,Always pay attention to your surroundings.
 525691,no,
@@ -2920,7 +2673,6 @@ deu_sid,has_en,eng_text
 5301117,yes,What symptoms have you noticed?
 5301606,yes,Numerous examples can be given.
 5303146,yes,There is a black BMW parked in front of your house.
-5311742,yes,Mr What's-his-name rang you.
 531214,yes,I don't know if I'll have time.
 5314177,no,
 531700,yes,Can you think of something better?
@@ -2928,6 +2680,7 @@ deu_sid,has_en,eng_text
 5322022,yes,It's usually hot in July.
 532575,yes,I've decided to continue studying.
 5328180,yes,Birds change the shape of their wings to turn and maneuver.
+5337457,no,
 5338615,yes,There are dirty dishes in the sink.
 5340131,no,
 5345690,no,
@@ -2948,7 +2701,6 @@ deu_sid,has_en,eng_text
 5388330,yes,The mood in the courtroom was tense.
 5399012,no,
 5400889,yes,The paediatric practice is on the fifth floor.
-540243,yes,"""Manpower"" is the world's largest temp agency."
 540326,yes,Do you have a boyfriend?
 540989,yes,What else do you have in your pocket?
 5412035,no,
@@ -2958,21 +2710,16 @@ deu_sid,has_en,eng_text
 543793,no,
 5442163,yes,We're glad to have Tom here.
 5442866,yes,I'm not really very thirsty.
-5449415,no,
 5455463,yes,Without disasters there would be no heroes.
 545746,yes,Can I help you do something?
 545773,yes,Don't let that dog come near me!
 545827,yes,We must observe the rules.
-547865,yes,I'm cold. May I close the window?
+547865,yes,I'm cold. Can I close the window?
 5485024,yes,"Come the end of the month, Tom is usually skint."
-5488139,yes,These rapprochements eventually led to a reconciliation between the two peoples.
 5488143,no,
 5488158,no,
-5488221,yes,You don't value me.
-5499579,yes,Tom eventually learned what Mary was up to.
 5499613,yes,He can overcome any obstacle.
 550201,yes,I had no idea that you were coming.
-5506200,yes,This kind of blouse is beginning to look a bit old-fashioned.
 5507248,yes,Mark and Leonor broke off their relationship.
 5511591,yes,There are a lot of things that could go wrong with that.
 551562,yes,Just a little more patience.
@@ -2983,16 +2730,13 @@ deu_sid,has_en,eng_text
 5551205,no,
 555254,no,
 556007,yes,Can I help you somehow?
-558363,yes,Did you father sons and daughters?
 5587773,yes,I just wanted to say goodbye.
 5589509,yes,A robin flew into the bush.
 5591628,no,
 560584,yes,He outweighs me by 10 kg.
-560610,yes,Drivers should be aware of the traffic rules.
 560617,yes,Tom attached the string to the kite.
 560650,yes,Raising a child demands patience.
 560890,yes,"No, I don't know."
-5609084,yes,Come over here and help me.
 560964,yes,The alarm clock is ten minutes fast.
 5610332,yes,Tom eventually signed the document.
 561069,yes,"""Here you are,"" the steward says."
@@ -3002,23 +2746,19 @@ deu_sid,has_en,eng_text
 562297,yes,I'm sorry I was so rude.
 562298,yes,I'm sorry I was so rude.
 564226,yes,I can't afford a car.
-5651092,no,
 5656574,no,
 566038,yes,He set fire to his own house.
 5661797,yes,A schwa represents a neutral vowel.
 5661891,no,
 566365,no,
-5667693,yes,You had better put on your crash helmet.
 5671927,yes,Tom would treat you with respect.
 5683435,no,
 5683436,no,
 568451,yes,My father offered his services to a well-known trade company.
 568503,yes,This lack of responsibility is driving me crazy.
-568514,no,
 569355,no,
 570139,no,
 5704277,no,
-5720957,yes,I've recently changed brands of toothpaste.
 5720962,yes,I intend to come with you.
 574644,yes,I wonder why karaoke is so popular.
 5749835,yes,"""Are they Dutch?"" ""No, they're Belgian."""
@@ -3032,6 +2772,7 @@ deu_sid,has_en,eng_text
 577517,yes,I didn't get along with her.
 5777137,no,
 5783152,no,
+5790272,yes,Tom hated Canadian politics.
 5791243,yes,Canadian cuisine is horrible.
 579529,no,
 579720,no,
@@ -3068,7 +2809,7 @@ deu_sid,has_en,eng_text
 587811,no,
 588586,no,
 5887014,yes,Princess Diana's tragic death shocked the world.
-5887034,yes,I can't go on like this.
+5887034,yes,I can't go on like that.
 5888935,yes,"By the way, we're now flying over Poland."
 589613,yes,I can't stay long today.
 5896333,no,
@@ -3119,27 +2860,21 @@ deu_sid,has_en,eng_text
 599333,no,
 599342,yes,We'll talk about this in detail later.
 5994108,no,
-5998220,yes,The pyramids still hold many secrets.
 6000095,yes,Parking was a nightmare.
-6002102,yes,It's marvellous to listen to a learned person.
 6011979,yes,The noisy machine disturbs the silence.
 6013684,no,
 601460,yes,He is very friendly to us.
-601584,yes,He left the meeting for no reason.
 601670,no,
 601843,yes,He's always looking at you.
 6018582,yes,He can't stand being contradicted.
 6021201,yes,The piano was out of tune; it sounded very bad.
 6021282,no,
 6021455,no,
-6027676,no,
 602769,yes,The maths homework was easier than I expected.
 602966,yes,He asked me to pass him the salt.
-6034599,no,
 603500,no,
 603501,no,
 603667,yes,He comes here every three days.
-6041267,no,
 6047319,no,
 6048126,yes,I'm a translator. I translate books.
 604827,yes,My father grows rice.
@@ -3182,7 +2917,6 @@ deu_sid,has_en,eng_text
 6107,yes,He told me he would go to Venice.
 6108,yes,I don't agree with him.
 6108418,yes,Brain cells are particularly sensitive to a loss of oxygen.
-6110595,no,
 6112746,yes,A thousand South Korean Won equals about 0.88 US dollars.
 611604,yes,When did you see the film?
 611605,yes,When did you see the film?
@@ -3219,7 +2953,6 @@ deu_sid,has_en,eng_text
 6207507,yes,The cook carefully read the recipe.
 620916,yes,Tom didn't have dinner last night.
 620922,yes,Did you have a good time yesterday?
-621270,yes,Mt. Fuji is Japan's tallest mountain.
 621494,yes,"""What's the matter with you?"" she demanded."
 6219136,no,
 622,yes,That's the absolute truth.
@@ -3245,7 +2978,6 @@ deu_sid,has_en,eng_text
 6298579,yes,Her red dress was unique.
 630,yes,You didn't tell him anything?
 6301817,no,
-6304523,yes,Common sense is not that common.
 6309121,yes,Leif Erikson discovered North America before Christopher Columbus.
 6312196,yes,The highest mountain of Slovenia is the Triglav.
 631897,no,
@@ -3259,7 +2991,6 @@ deu_sid,has_en,eng_text
 634410,yes,The swimmers were numb with cold.
 635001,no,
 635254,no,
-635416,no,
 636671,yes,He has access to the American Embassy.
 6373331,no,
 637442,yes,"She brought apples, oranges, and so on."
@@ -3267,7 +2998,6 @@ deu_sid,has_en,eng_text
 637787,yes,The girl burst into tears.
 638293,yes,I don't like long drives.
 6383050,no,
-638332,yes,Roger Miller died of lung cancer in 1992.
 6383914,yes,Don't bring food inside the tent.
 638617,yes,Our teacher will return from abroad in August.
 6392093,yes,Fabergé eggs are very valuable.
@@ -3283,7 +3013,7 @@ deu_sid,has_en,eng_text
 644396,yes,Angola was once a Portuguese territory.
 644406,yes,This song sounds sad.
 6448837,yes,Mary took a long warm bath.
-645127,yes,"For me, this is not a problem."
+645127,yes,"For me, that is not a problem."
 645128,no,
 6459607,no,
 6462518,yes,"If anyone can do that, it's Tom."
@@ -3294,21 +3024,17 @@ deu_sid,has_en,eng_text
 6473624,yes,Handicapped parking is available.
 6477083,yes,Mary and Alice wore matching outfits.
 648,yes,What made you change your mind?
-6483051,yes,A Venusian day is longer than a Venusian year.
 651832,yes,Your plan sounds great.
 653402,yes,He brought back several souvenirs.
 6535130,yes,Tom flushed the drugs down the toilet.
 654400,yes,"Although natto smells awful, it is delicious."
 654559,yes,They adopted the little girl.
 6547982,yes,Time is the number one killer.
-655250,yes,He handed down books from the shelf.
 655337,yes,Mary is cute. So is Jane.
 6553540,no,
 6553733,yes,This well never runs dry.
 655375,yes,Why is machine translation useless?
-6562053,no,
 656442,yes,He told us to keep quiet.
-6565899,yes,I bought shampoo and toothpaste.
 6568585,yes,The doors were locked from the outside.
 6569292,no,
 656960,yes,Tom is eager to buy a new car.
@@ -3317,37 +3043,30 @@ deu_sid,has_en,eng_text
 657336,yes,I noticed that she was wearing new glasses.
 657981,no,
 658197,yes,She woke up on her own.
-6584622,yes,This dog collar is too tight.
-6590822,yes,Hindi and Urdu are one language.
 6595783,no,
 6597306,no,
 659787,yes,Hey! What's up Doc?
-6599364,no,
 6608735,yes,I don't have any artistic talent.
-6611320,yes,Tom paused for several moments.
 661389,yes,He spends all his time extolling her virtues.
 6615893,no,
 6615931,yes,We must respect each other.
-661746,no,
 662124,yes,You have to give three months' rent as a deposit.
 662175,yes,That's enough for today. I'm tired.
 662716,yes,Did you study by yourself?
 6631564,no,
 663192,yes,Are they coming at six or at seven?
-664044,yes,I can't sleep at all.
+664044,yes,I can't sleep at all!
 664049,yes,This doll costs only sixty cents.
 664162,yes,She's getting breakfast ready.
 664202,yes,Have you recently taken a trip anywhere?
 6643278,yes,"Don't do that again, OK?"
 6643644,yes,I'm going to stop you.
 6643681,yes,I know what to watch for.
-6644189,yes,I love what I do.
 664531,yes,What's with you?
 664860,yes,There's no way I can accept that.
 664919,yes,She decided to resign.
 664939,yes,You don't need to worry about it.
 665664,yes,I've decided that we won't go.
-666255,no,
 666667,yes,The policeman commanded them to stop.
 6672208,yes,The snow was making it hard to see.
 6672320,yes,It's been snowing all morning.
@@ -3357,9 +3076,8 @@ deu_sid,has_en,eng_text
 6681637,no,
 6681878,no,
 6688664,yes,Tom was utterly disappointed.
-669771,yes,Tom went back to his hometown.
+669771,yes,Tom returned to his home town.
 6698176,no,
-6703710,no,
 6703719,yes,O positive is the most common blood type.
 670449,no,
 6717831,yes,The sheet of paper was torn.
@@ -3374,7 +3092,6 @@ deu_sid,has_en,eng_text
 675452,yes,You must keep to the rules.
 675568,yes,His crude jokes made Jane angry.
 675569,yes,Advertising makes up about 7% of this company's expenses.
-6760123,yes,Peaches are larger than apricots.
 6760857,yes,The hut was wantonly destroyed.
 6768087,yes,Having a college degree doesn't guarantee you'll get a job.
 676973,no,
@@ -3384,11 +3101,9 @@ deu_sid,has_en,eng_text
 6775406,no,
 677667,yes,This does not concern you at all.
 677891,yes,He was patiently digging for facts.
-678567,yes,Ben put his hands in his pockets.
 678572,no,
 678653,yes,We have run short of food.
 679893,yes,Where did you see the woman?
-6808281,yes,I have a clear plan.
 6808994,yes,Please buy a package of spaghetti noodles.
 6819131,yes,The iron uses a lot of electricity.
 682,yes,Every opinion is a mixture of truth and mistakes.
@@ -3408,16 +3123,13 @@ deu_sid,has_en,eng_text
 686235,no,
 6865497,yes,Your colorful shirt really stands out.
 6866093,no,
-6867327,yes,Do you know Noah's ark?
 6874649,yes,The fruit is ripening on the fruit tree.
-6879686,yes,Tom is a lot tougher than he looks.
 688,yes,I went to the zoo yesterday.
 688535,yes,You're right. I'll go by taxi.
 689,yes,We won the battle.
 689085,yes,He is cleverer than I.
 689416,yes,We regard the situation as serious.
 689648,yes,Watch what you're doing!
-691393,yes,Mr Smith made him some toys.
 6916569,yes,Are compulsive liars the best salesmen?
 6921257,yes,Tell everyone at home I said hi.
 6922610,no,
@@ -3432,8 +3144,6 @@ deu_sid,has_en,eng_text
 695972,yes,It's the third biggest city in Serbia.
 6964383,no,
 6964738,yes,The mouse ate the grasshopper.
-6970982,yes,Tom promised he'd quit smoking.
-6971612,yes,What you're doing is illegal.
 6971886,yes,"In Paris, Benjamin Franklin was considered a backwoods Voltaire."
 6972189,yes,"Limburger is often dismissed as ""stinky cheese""."
 697805,no,
@@ -3452,11 +3162,9 @@ deu_sid,has_en,eng_text
 700306,yes,I'm lost. Could you please help me?
 7006880,no,
 700812,yes,"Please excuse me, I have to leave."
-700901,yes,Let's call the dog Skipper.
 7010158,yes,"In other words, Tom lied."
 701249,yes,I never go anywhere.
 7015329,yes,I'm good at keeping secrets.
-7016370,yes,Could I borrow your notes?
 701756,no,
 702,yes,We went to London last year.
 7023714,yes,Renewable energy is getting cheaper all the time.
@@ -3467,7 +3175,6 @@ deu_sid,has_en,eng_text
 7031202,yes,Bathers in Argentina were attacked by piranhas.
 703371,yes,A miss is as good as a mile.
 703452,yes,What do you base your theory on?
-7034628,no,
 7036260,no,
 703802,yes,What did you do today?
 704583,yes,There were fifty passengers in the bus.
@@ -3475,7 +3182,7 @@ deu_sid,has_en,eng_text
 704688,no,
 705158,no,
 7054234,no,
-7058701,yes,Our flat is spartanly furnished.
+7058701,yes,Our flat is furnished spartanly.
 7059787,no,
 7060156,no,
 7060169,no,
@@ -3485,12 +3192,10 @@ deu_sid,has_en,eng_text
 7065967,yes,He lacks qualifications in the subject.
 7066125,no,
 7069245,no,
-706982,yes,Mr Smith lives in Kyoto now.
 7074073,no,
 707551,yes,You put far too much pepper in it.
 7078217,yes,"Galileo's father, Vincenzo Galilei, was a well-known musician."
 708233,yes,Portugal has decriminalized the personal possession of drugs.
-7083200,no,
 708489,yes,The valley was twenty miles wide.
 7088207,yes,The result was rather modest.
 710,yes,This is such a sad story.
@@ -3512,13 +3217,11 @@ deu_sid,has_en,eng_text
 716301,yes,What time do we get to San Francisco?
 7164101,no,
 716691,yes,Emperor Nero was an extremely evil tyrant.
-717494,no,
 718393,no,
 719077,yes,Colorless green ideas sleep furiously.
 7193879,yes,These mushrooms aren't edible.
 719821,yes,Bogdan Tanjević will resign because of colon cancer.
 7200919,yes,That isn't very complicated.
-720264,yes,"In some countries, the punishment for treason can be life in prison."
 720289,yes,I realized it only then.
 720706,yes,The crowd filled the square.
 721018,yes,She rarely goes out on Sundays.
@@ -3546,13 +3249,11 @@ deu_sid,has_en,eng_text
 728265,yes,He said he was suffering from a bad headache.
 728333,yes,"""Natto"" smells awful but tastes terrific."
 7287396,yes,Leave it to the professionals.
-7289975,yes,Get a ticket for me.
 729126,yes,That's not a grasshopper. It's a locust!
 7295120,yes,You're very well respected.
 729674,yes,He presented her with a doll.
 7296832,no,
 7299786,yes,Tom isn't in a very good mood.
-7302824,yes,Mary grew up surrounded by books.
 730660,yes,"Don't be so wild, Jack."
 7309997,yes,I am interested in swimming.
 731816,yes,As a secretary she is a prize.
@@ -3561,7 +3262,6 @@ deu_sid,has_en,eng_text
 733208,yes,The United States has close ties to Mexico.
 7340687,no,
 734539,yes,These apples look very fresh.
-7361595,no,
 7362736,yes,Tom's soup tasted surprisingly good.
 7366206,yes,I didn't pay any attention to Tom's warning.
 737341,yes,We drove through unfamiliar territory.
@@ -3572,29 +3272,23 @@ deu_sid,has_en,eng_text
 742236,yes,David can't be at home.
 742641,no,
 742808,no,
-7429243,yes,"When Mary finds out, heads are going to roll."
 742950,yes,I felt left out.
 743824,yes,"""When did you return?"" ""I came back the day before yesterday."""
 744298,no,
 7443238,no,
-7448765,yes,You should take up knitting.
-7448808,yes,Tom has expressed similar ideas.
 7452657,yes,Tom would get depressed doing that.
 7452694,yes,Tom was the only person punished.
 7453025,yes,Tom hopes to return to Australia.
 7456758,yes,Tom didn't sound too optimistic.
-7458817,yes,Language has the power to shape the way we think.
 7458920,yes,This program has an intuitive user interface.
 746014,yes,Everywhere looks beautiful in the spring.
 7460476,yes,We've been invited to the opening ceremony.
-7463979,yes,All the ladies wore evening dress.
 7467759,yes,I hate lawyers.
 7470205,yes,Why did you need a chainsaw?
 747704,yes,Fresh fruits and vegetables are good for your health.
 747753,yes,I will study English hard from now on.
 7478041,yes,Mary told Tom that she thought John was asleep.
 7478129,yes,Mary told Tom that she thought John was cold.
-7480028,yes,Are you learning two languages at once?
 7480277,no,
 7482318,yes,Your handwriting is quite elegant.
 748689,yes,Bagpipes produce a very strange sound.
@@ -3604,7 +3298,6 @@ deu_sid,has_en,eng_text
 749741,no,
 749851,yes,I can't stand him.
 750359,yes,Did you know that you were wearing odd socks?
-750616,no,
 752152,yes,"Now that you are eighteen, you can get a driver's license."
 7523149,no,
 7523546,yes,Keep these seats for the elderly.
@@ -3622,7 +3315,6 @@ deu_sid,has_en,eng_text
 755449,yes,My hobby is collecting stamps.
 755453,yes,The enemy dropped bombs on the factory.
 755754,yes,Mary represented her team in the competition.
-756016,yes,The recession caused many businesses to close.
 756040,yes,Mary was thinking about her question.
 756069,yes,The students protested against the unfair exam.
 756077,yes,The factory produces thousands of bottles every month.
@@ -3635,7 +3327,6 @@ deu_sid,has_en,eng_text
 7576246,yes,There's nowhere to sit down.
 7577403,no,
 7583531,no,
-7586221,yes,The basket is full of bottles.
 758815,yes,She came up with a possible solution.
 759315,yes,We're going to see a foreign film tonight.
 760466,yes,She squeezed the juice from several oranges.
@@ -3650,10 +3341,8 @@ deu_sid,has_en,eng_text
 7636666,yes,Tom missed his flight.
 7637062,yes,Tom described the incident in detail.
 7637389,no,
-7646501,yes,He who angers you conquers you.
 764861,yes,The sky looks threatening.
 7657793,yes,Tom has been warned on several occasions.
-766222,no,
 7666118,no,
 766964,yes,I don't want to do his work for him.
 767229,yes,'Radioactivity' is a chemical term.
@@ -3669,9 +3358,7 @@ deu_sid,has_en,eng_text
 7697057,yes,Mary wore a tight-fitting sweater.
 7697292,yes,Tom was secretly very excited.
 770060,no,
-770428,yes,The stock price index was off 200 points yesterday.
 7705526,no,
-770866,yes,I got bored with his long talk.
 7709008,yes,He's fighting a losing battle.
 7712359,yes,She was kind enough to take me to hospital.
 771787,yes,"Of course, the yield should exceed production costs."
@@ -3681,7 +3368,6 @@ deu_sid,has_en,eng_text
 772607,yes,The navy defends our seacoast.
 772675,yes,Music is considered food for the soul.
 772677,yes,Who committed this murder?
-772871,no,
 7729315,yes,Tom piled his plate high.
 7743162,no,
 7752771,yes,She has infinite resources.
@@ -3691,18 +3377,14 @@ deu_sid,has_en,eng_text
 776065,yes,The hunter shot the fox dead.
 7764931,no,
 7770011,no,
-7770885,yes,She deserved the punishment she got.
-7773291,yes,Mary hopes that she can win.
 777468,yes,The sun is rising already.
 7774837,no,
-7776924,yes,Don't disturb her while she is sleeping.
 7777183,yes,Let me make my position clear.
 777882,yes,These ice cubes will melt soon.
 7781316,yes,I advise you all to get plenty of rest.
 7781934,no,
 778258,yes,"Take your clothes off, please."
 7786851,yes,She won't agree to a divorce.
-7788432,yes,The statistics contained errors.
 778951,yes,And like that it's correct?
 7790600,yes,The milk is quenching my thirst.
 7790752,yes,I haven't thought about it at all.
@@ -3740,7 +3422,6 @@ deu_sid,has_en,eng_text
 7854551,yes,Tom knows Ancient Greek and Latin.
 7855355,yes,Fill the bucket up with sand.
 7856646,yes,Underage drinking is a serious problem.
-785894,yes,He was in the habit of getting up early.
 7865273,yes,The key can be picked up at reception.
 7866556,yes,Follow the instructions carefully.
 786964,yes,A six-figure income isn't uncommon for physicians.
@@ -3751,7 +3432,6 @@ deu_sid,has_en,eng_text
 7876131,yes,He promises to ring as soon as he arrives.
 7883021,yes,I am happy to receive corrections.
 7884602,yes,He's missing his right shoe.
-788479,yes,She decided to chuck her job in.
 7885499,no,
 7885789,no,
 7887370,yes,What are you unhappy with this time?
@@ -3770,7 +3450,6 @@ deu_sid,has_en,eng_text
 7935805,yes,The referee disallowed a clear goal.
 7938686,no,
 794128,no,
-7949433,yes,Tom is sensitive to the needs of others.
 7958797,yes,Do you think you can manage?
 7960920,no,
 796551,yes,We're moving out of this apartment next month.
@@ -3778,15 +3457,14 @@ deu_sid,has_en,eng_text
 796720,yes,She thinks that she's always right.
 796756,yes,He is thinking about the problem.
 796898,no,
+7970589,no,
 797555,yes,I've thought about you a lot.
 797870,yes,I would like you to introduce me to her.
-7980318,no,
 7981907,yes,Tom's silence confirmed Mary's suspicions.
 7983874,yes,Sophie is going to knock on Claudia's door.
 7990460,no,
 7992812,no,
 8001796,no,
-8021607,yes,Don't forget to change the cat litter.
 8039476,yes,Why does lightning flash and thunder rumble?
 804822,yes,They crossed the Atlantic Ocean.
 8064632,yes,I like Baden-Württemberg better.
@@ -3797,9 +3475,8 @@ deu_sid,has_en,eng_text
 8091532,yes,I wish you could've been there.
 8098635,no,
 8098820,no,
+8099784,yes,Snakes can be hard to spot.
 810095,yes,He tried to knock at the door.
-8101173,no,
-8103307,no,
 8105354,no,
 8108262,yes,"To turn the device on, press this button."
 8108946,yes,Every third sheep is sick.
@@ -3821,31 +3498,24 @@ deu_sid,has_en,eng_text
 8157478,yes,A study showed that eating too fast contributes to obesity.
 8160345,yes,Comparison is not proof.
 8168213,yes,His efforts achieved nothing.
-8168987,no,
 817435,yes,She poured a cup of tea for me.
-8180356,yes,Doctors in white coats were striding along the corridor.
 8186130,yes,Prior preparation prevents poor performance.
 8186264,yes,Peel and dice the onions.
-8187111,yes,Madame de Pompadour was Louis XV's mistress.
 8190737,yes,"Pardon me, can you repeat that?"
 8190891,yes,St. Patrick is the patron saint of Ireland.
 8195532,yes,I'm desperate and confused.
 82,yes,"Happy birthday, Muiriel!"
 820189,yes,We import flour from America.
 8202157,yes,Hans is a German businessman.
-820521,yes,The spokesman explained the contents of the treaty to the press.
-820539,yes,His sudden appearance surprised us all.
 821,yes,But you've never told me about this!
 8212875,yes,Esperanto is a popular constructed language.
 8217934,yes,All you're doing is trying to escape reality.
 8220452,yes,Make sure you pack a bathing suit.
 8220471,yes,That's what I tried to tell her.
-8221151,yes,"For lunch, it was mostly just stew."
 8223347,yes,Methanol is also called wood alcohol.
 8223364,no,
 8224039,no,
 822564,yes,He hired some new workers.
-8227570,yes,Go put your pajamas on.
 8227597,yes,Go put your pajamas on.
 8228093,yes,Wet firewood doesn't burn well.
 823106,yes,You have made only a few spelling mistakes.
@@ -3853,27 +3523,23 @@ deu_sid,has_en,eng_text
 8237675,yes,The check got lost in the mail.
 8242406,yes,"Well, maybe I can help you."
 8244539,no,
-8247180,yes,Could you mow the lawn?
-8248225,yes,He kissed the corner of her mouth.
 825047,yes,We sail for San Francisco on Monday.
 825769,no,
 825950,yes,I'll treat you to sushi.
 826,yes,I went for a walk to get some air.
 8262238,yes,Samsung is a Korean company.
-827534,yes,Please defend me from such bad men.
 8282828,yes,Tom is the head of the research group.
 8285273,no,
 8286952,no,
 8288910,no,
 8289311,no,
-8291027,yes,Other colours are available on request.
+8291215,yes,"Above all, drinking water is needed."
 8291224,no,
 829160,yes,I like watching sunsets.
 829172,yes,He extended his right arm.
 8292713,no,
 8293028,yes,She said she felt offended.
 829312,yes,I don't mind hot weather.
-8294481,no,
 8294734,no,
 8295137,yes,"In principle, there is a need for greater participation."
 8298040,yes,Albert Einstein received the Nobel Prize in 1921.
@@ -3883,13 +3549,11 @@ deu_sid,has_en,eng_text
 8304878,no,
 8308069,yes,Tom neglected his studies.
 8308119,no,
-8309934,yes,I didn't know the protocol.
 8312266,no,
 831270,yes,Did he pass the exam?
 831328,yes,I'm sure I've seen him before.
 8317384,no,
 8317386,yes,Rabbits like carrots.
-8319408,yes,Would you care to comment?
 8320862,no,
 8321120,yes,Is the battery fully charged?
 8331419,yes,He injured his wrist.
@@ -3898,7 +3562,6 @@ deu_sid,has_en,eng_text
 8339157,yes,There's a light on on the first floor next door.
 8339281,yes,"To start with, we'll question the staff."
 8346202,yes,You can adjust the height and gradient.
-8350840,yes,Tom made a radical decision.
 835730,yes,You may not behave so childishly.
 836092,yes,My brother polished the silver.
 8363994,yes,That's Orion's sword.
@@ -3908,7 +3571,6 @@ deu_sid,has_en,eng_text
 838,yes,Did you say that I could never win?
 838031,yes,Paper napkins are sold in packs of ten.
 8383399,yes,Translate and shut up!
-839029,yes,My boots started to mildew.
 839713,yes,He got the runs in Mexico.
 839993,yes,Kristy Anderson is the wife of Larry Ewing.
 840,yes,What happened? There's water all over the apartment.
@@ -3922,23 +3584,17 @@ deu_sid,has_en,eng_text
 8431863,yes,Tom shot and killed a tiger.
 8435604,yes,Why didn't Cinderella's shoe disappear after midnight?
 843698,yes,You must get rid of such a habit.
-8467319,yes,Mary didn't recognize her ex-husband.
 846838,yes,We must look into the matter at once.
 846891,no,
-8471664,no,
 8492807,no,
 8496589,yes,Someone deleted my comment.
 8497928,yes,That song's copyrighted.
 8500816,yes,Tom said he hoped Mary was getting better.
 850100,no,
 850157,yes,The number of cars is increasing.
-851120,yes,I couldn't bear any more insults.
 851203,yes,"Staying awake is good, but you should sleep at night."
-851641,yes,The steam train abruptly stopped.
-8516811,no,
 851683,yes,Your editor will be excited.
 852453,no,
-852584,no,
 852589,yes,She always dresses in black.
 852645,no,
 8547367,yes,I was criticized for doing that.
@@ -3946,9 +3602,9 @@ deu_sid,has_en,eng_text
 8560910,no,
 8572918,yes,"Alpha, beta and gamma are Greek letters."
 8576185,no,
-8581561,yes,Tom hid in the shed.
 8585928,no,
 8596719,yes,Sheep were grazing in the meadow.
+8599079,yes,I'm surrounded by unfair people.
 8600973,yes,She makes dolls in her spare time.
 8601102,no,
 860163,yes,He seized me by the neck.
@@ -3958,7 +3614,6 @@ deu_sid,has_en,eng_text
 860609,no,
 8613332,yes,Death is preferable to shame.
 8627351,yes,See the example given above.
-8629204,yes,The bard played the lute.
 863,yes,When are we eating? I'm hungry!
 8631816,yes,Kissing can spread the virus.
 8633462,yes,How did Algeria's economic crisis begin?
@@ -3974,17 +3629,14 @@ deu_sid,has_en,eng_text
 8643285,yes,The photo album contains mostly family photos.
 8643400,yes,I speak broken English fluently.
 8645346,yes,He said he was feeling hungry.
-864717,yes,You’ve had eleven bottles of beer!
 8647593,no,
 8648395,yes,Sami swam back to shore.
 8655857,no,
 8667326,yes,The lion is hunting an antelope.
 8671798,no,
-867778,yes,Betty got over the shock.
 8677944,yes,Mary was starting to feel a little uncomfortable.
 8679571,yes,Could you sort this list alphabetically?
 868,yes,"How do you pronounce ""pronounce""?"
-868408,no,
 8684590,yes,You promised you'd be there.
 8686374,yes,A drop of oil often works wonders.
 8688892,yes,I watch my weight very carefully.
@@ -4008,18 +3660,15 @@ deu_sid,has_en,eng_text
 874,yes,I learnt a lot from you.
 8745733,yes,The lion is stalking its prey.
 8745762,yes,I don't take any responsibility at all.
-8747375,no,
 875997,yes,Look at this high mountain.
 8762748,yes,Tom was dying of thirst.
 8763346,yes,"Come on, sleepyhead. Wake up!"
 8764995,no,
-8767776,no,
 8768132,yes,Aluminium became more expensive than gold.
 8768958,yes,The package was seized by customs.
 877,yes,She got sick this weekend.
 8775146,no,
 8784172,no,
-8784234,no,
 8786851,yes,He brought his guests some drinks.
 8786863,yes,He cared for his sick father.
 8796109,yes,Germany is to ban employers from snooping on Facebook.
@@ -4043,7 +3692,6 @@ deu_sid,has_en,eng_text
 8834664,yes,We've really got to hurry.
 8837200,yes,People are bustling about.
 8839865,yes,He knows what he's talking about.
-8839968,yes,"Would you dice this courgette, please?"
 8844720,yes,Copernicus studied medicine at the university of Padua.
 884538,yes,She is still a girl.
 8845580,yes,This book weighs a kilogram.
@@ -4060,15 +3708,12 @@ deu_sid,has_en,eng_text
 8881048,yes,Don't forget to bring a pen.
 8886145,no,
 8887992,yes,Are all the doors locked?
-8888004,yes,I opened the back door.
-8891393,yes,I never really thought about it.
 8896441,no,
 8898099,yes,I entered the cave cautiously.
 8898147,yes,Tom left the meeting early.
 890350,yes,Buy some tofu on your way home.
 890370,yes,His wife teaches me Italian.
 8910634,no,
-8911435,no,
 8916056,no,
 8916082,no,
 8933622,no,
@@ -4078,18 +3723,15 @@ deu_sid,has_en,eng_text
 8942800,no,
 894766,no,
 894838,yes,The surgery is quite difficult.
-8958981,no,
 8960036,no,
 8963582,yes,He lost 30 kilograms.
 8968810,yes,I thought you were French teachers.
-8968812,yes,I thought you were a French teacher.
 8969578,no,
 8970451,yes,"Unlike Tom, Mary isn't annoyingly demanding."
 8970591,yes,I thought the judge's decision was fair.
 8975664,yes,People who wear masks tend to touch their faces more.
 8976424,yes,A giraffe could go weeks without water.
 8977062,no,
-897746,no,
 8980429,no,
 898508,yes,The sun rises early in the morning.
 898612,no,
@@ -4102,7 +3744,7 @@ deu_sid,has_en,eng_text
 9012199,no,
 901346,yes,Have you ever seen a kangaroo?
 901629,no,
-9020949,yes,Dr. Jackson is one of the leading cardiologists in Boston.
+9016756,yes,Which team are you cheering for?
 9029467,yes,Tom often complains about mosquitoes.
 903001,no,
 903409,yes,He's easily upset.
@@ -4121,7 +3763,6 @@ deu_sid,has_en,eng_text
 909872,yes,She's smarter than him.
 909907,yes,She visited him once a year.
 910472,yes,He does not speak unless he is asked to.
-910907,no,
 910996,no,
 911014,yes,She doesn't listen to him.
 911501,no,
@@ -4132,7 +3773,6 @@ deu_sid,has_en,eng_text
 911831,yes,Korea allowed an inspection by the IAEA.
 911937,no,
 911967,yes,Is it a boy or a girl?
-912417,no,
 9125360,yes,"Relax, have fun, and enjoy yourself."
 9135436,yes,The bird is eating little insects.
 913550,no,
@@ -4146,7 +3786,6 @@ deu_sid,has_en,eng_text
 9141641,no,
 915214,yes,The rooster crows at sunrise.
 915691,yes,"No matter what you do, do your best."
-915917,no,
 917147,no,
 917179,yes,You'll never take me alive!
 9171799,yes,The girl broke the window.
@@ -4167,11 +3806,9 @@ deu_sid,has_en,eng_text
 923644,yes,A kilo of ketchup is equivalent to two kilos of tomatoes.
 9237097,yes,Tom slapped Mike on the back.
 925050,yes,Sue picked up a pencil off the floor.
-925513,yes,A candle without a wick is no candle at all.
 9257997,yes,Changing outside is embarrassing.
 927093,yes,They found the stolen money.
 927199,no,
-927257,yes,Rockefeller was governor of New York.
 927587,no,
 9275901,no,
 927809,no,
@@ -4194,29 +3831,25 @@ deu_sid,has_en,eng_text
 9353628,no,
 9357930,no,
 935931,yes,I don't like the look of it.
-936188,yes,Sit here and get yourself warm.
 936197,yes,Return the book as soon as possible.
 936374,yes,My father usually watches TV after dinner.
 936433,yes,My wife is preparing dinner right now.
 936470,no,
 937292,yes,She poured brandy into the glasses.
 938517,no,
-938569,no,
 9392604,yes,Today is 23 November 2016.
-9400917,yes,The giraffe was walking along the river bank.
 940231,yes,He felt pain and compassion.
 940548,no,
 941321,yes,One should respect one's spouse.
 942923,no,
+942946,no,
 942950,no,
 942966,no,
 943139,yes,Can you do without an English dictionary?
 943175,no,
 943204,yes,Who was the last to reach the goal?
-9432962,no,
 943392,yes,This truck is in need of repair.
 9435494,no,
-9436207,yes,Put on your school uniform.
 9440966,no,
 944302,yes,Thursday night is free beer night.
 945189,yes,May I ask you some questions?
@@ -4242,18 +3875,14 @@ deu_sid,has_en,eng_text
 9525803,yes,The neighbours are too nosy.
 955089,yes,Are you afraid of the dark?
 955275,yes,Sometimes it's better to say nothing.
-955497,yes,Richard Roberts is the author of numerous books.
-955639,yes,You should acknowledge your failure.
 955659,no,
 957690,no,
-9581872,yes,Tom lived in the center of Boston.
+958190,no,
 9583762,no,
-959070,no,
 9595859,yes,The universe has always existed.
 9601821,yes,Turn right at the first traffic light.
 9608748,yes,We lived close by the sea.
 9611722,yes,The sound is too low.
-9611840,yes,I don't like dark colours.
 962256,yes,These chairs are not comfortable.
 9637490,no,
 963765,yes,The reporter criticized the politician.
@@ -4268,11 +3897,9 @@ deu_sid,has_en,eng_text
 9685902,no,
 968745,no,
 9687912,yes,The aeroplane made a soft landing.
-968813,no,
 9689759,yes,He's lazy and dishonest.
 9690181,no,
 969160,no,
-969267,yes,They found no such proof.
 9696537,no,
 9700978,no,
 9701854,yes,The candle burned the whole night.
@@ -4284,7 +3911,6 @@ deu_sid,has_en,eng_text
 972132,no,
 9732243,no,
 973879,yes,The minister contradicted his own statement.
-974530,yes,We are hoping for your quick recovery.
 9755157,no,
 975558,yes,The meeting ended earlier than usual.
 975595,no,
@@ -4297,10 +3923,8 @@ deu_sid,has_en,eng_text
 9777102,no,
 978165,yes,He leaves for Tokyo tomorrow.
 9787820,yes,I warned him several times.
-9789962,yes,I ate black sesame ice cream.
 979447,yes,Your dog was born this year.
 980133,no,
-9808659,no,
 9816589,no,
 981861,yes,Thousands of soldiers and civilians were dying.
 981899,yes,A doctor examined Mr. Brown.
@@ -4317,7 +3941,6 @@ deu_sid,has_en,eng_text
 9869347,no,
 9870816,no,
 987827,no,
-988825,no,
 988947,yes,It's still light out.
 989112,yes,It's late. I have to go.
 989126,yes,Correct the following sentences.
@@ -4325,22 +3948,17 @@ deu_sid,has_en,eng_text
 989744,yes,Another thing that is required is a dictionary.
 9927841,yes,I headed for the exit.
 993257,yes,I've got a provisional licence.
+994116,yes,It's a kinda ridicule unnecessary fibonacci-syllabic-heap.
 9941897,no,
-9941913,no,
 9944860,yes,Don't pick unnecessary fights.
-9949264,yes,Put the pliers in the tool box.
 9960388,no,
 9968720,no,
 9969200,no,
 9972975,no,
 9975649,no,
 9976130,no,
-9976197,no,
 9978949,no,
 9981618,yes,She says that she's lonely.
-9982196,no,
-9984831,yes,Tom took out some coins.
-9987296,no,
 9988114,yes,Did aliens bomb Sodom and Gomorrah?
 9991456,yes,I wasn't offered a job.
 999320,no,

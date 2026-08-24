@@ -1,0 +1,7 @@
+form,ref,reason
+lehrerin,lehrer,target-is-not-a-lexical-headword
+tausend,Teufel!,invalid-single-word-reference
+diejenigen,diejenige,target-is-not-a-lexical-headword
+trinkst,triften,Kaikki source link conflicts with the German form
+freundinnen,freundin,target-is-not-a-lexical-headword
+nützt,nützen,target-is-not-a-lexical-headword
