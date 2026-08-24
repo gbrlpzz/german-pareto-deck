@@ -41,7 +41,7 @@ word_model = genanki.Model(
 pattern_model = genanki.Model(
     MODEL_PAT, "GP Pattern (cloze)",
     fields=[{"name": "Sentence"}, {"name": "Translation"}, {"name": "Class"}],
-    model_type=genanki.MODEL_CLOZE,
+    model_type=genanki.Model.CLOZE,
     templates=[{"name": "cloze", "qfmt": "{{cloze:Sentence}}",
                 "afmt": "{{cloze:Sentence}}<br><div class=\"en\">{{Translation}}</div>"}],
     css=CSS)
@@ -55,6 +55,36 @@ def load(path):
 def blank(text, form):
     pat = re.compile(r"\b" + re.escape(form) + r"\b", re.IGNORECASE)
     return pat.sub("______", text, count=1)
+
+
+def make_cloze(de, pattern):
+    """Cloze the pattern inside the sentence; None if it does not occur.
+
+    Apostrophe-stripped retry covers token forms like gehts <-> geht's.
+    Strict word-boundary matching otherwise; unmatched patterns are skipped
+    and counted (build log), never silently dropped.
+    """
+    def attempt(text):
+        if " \u2026 " in pattern:
+            a, b = pattern.split(" \u2026 ")
+            m1 = re.search(r"\b" + re.escape(a) + r"\b", text, re.IGNORECASE)
+            if not m1:
+                return None
+            out = text[:m1.start()] + "{{c1::" + m1.group(0) + "}}" + text[m1.end():]
+            m2 = re.search(r"\b" + re.escape(b) + r"\b", out, re.IGNORECASE)
+            if not m2:
+                return None
+            return out[:m2.start()] + "{{c1::" + m2.group(0) + "}}" + out[m2.end():]
+        m = re.search(r"\b" + re.escape(pattern) + r"\b", text, re.IGNORECASE)
+        if not m:
+            return None
+        return text[:m.start()] + "{{c1::" + m.group(0) + "}}" + text[m.end():]
+
+    for text in (de, de.replace("'", "")):
+        got = attempt(text)
+        if got:
+            return got
+    return None
 
 
 def main():
@@ -73,7 +103,7 @@ def main():
             continue
         de = s["de_text"]
         en = trans.get(s["sid"], "")
-        _, g = gloss.get(f, ("", ""))
+        _, g = gloss.get(r["lemma"], gloss.get(f, ("", "")))
         note = genanki.Note(
             model=word_model,
             fields=[f, g, blank(de, f), de, en, r["tier"]],
@@ -83,16 +113,7 @@ def main():
         n_words += 1
 
     n_pat = 0
-    for r in load("patterns_selected.csv"):
-        exs = [x for x in r["examples"].split(";") if x]
-        sent_sid = exs[0] if exs else ""
-        if not sent_sid:
-            continue
-        # sentence text: recover from translations input corpus via word_sentences? no -
-        # pattern sentences come from the corpus; we stored only ids in patterns.csv.
-        # The deck stage therefore reads the corpus once for the needed sids.
-        n_pat += 1  # placeholder replaced below
-
+    n_skipped = [0]
     # pattern sentence texts
     need = set()
     for r in load("patterns_selected.csv"):
@@ -114,31 +135,21 @@ def main():
         if not exs:
             continue
         de = sid_text[exs[0]]
-        pattern = r["pattern"]
-        cloze = de
-        if " \u2026 " in pattern:
-            a, b = pattern.split(" \u2026 ")
-            m1 = re.search(r"\b" + re.escape(a) + r"\b", cloze, re.IGNORECASE)
-            if m1:
-                cloze = cloze[:m1.start()] + "{{c1::" + m1.group(0) + "}}" + cloze[m1.end():]
-            m2 = re.search(r"\b" + re.escape(b) + r"\b", cloze, re.IGNORECASE)
-            if m2:
-                cloze = cloze[:m2.start()] + "{{c2::" + m2.group(0) + "}}" + cloze[m2.end():]
-        else:
-            m = re.search(r"\b" + re.escape(pattern) + r"\b", cloze, re.IGNORECASE)
-            if m:
-                cloze = cloze[:m.start()] + "{{c1::" + m.group(0) + "}}" + cloze[m.end():]
+        cloze = make_cloze(de, r["pattern"])
+        if cloze is None:
+            n_skipped[0] += 1
+            continue
         note = genanki.Note(
             model=pattern_model,
             fields=[cloze, trans.get(exs[0], ""), r["class"]],
-            guid=genanki.guid_for("gppat", pattern),
+            guid=genanki.guid_for("gppat", r["pattern"]),
             tags=[r["group"], r["class"]])
         decks["pat"].add_note(note)
         n_pat += 1
 
     OUT.parent.mkdir(exist_ok=True)
     genanki.Package(list(decks.values())).write_to_file(str(OUT))
-    print(f"word cards: {n_words}  pattern cards: {n_pat}")
+    print(f"word cards: {n_words}  pattern cards: {n_pat}  patterns skipped (no cloze match): {n_skipped[0]}")
     print("wrote", OUT)
 
 

@@ -14,7 +14,7 @@ TAG = re.compile(r"<[^>]+>")
 
 done = set()
 if OUT.exists():
-    done = {r["form"] for r in csv.DictReader(open(OUT))}
+    done = {r["form"] for r in csv.DictReader(open(OUT)) if r["gloss"].strip()}
 
 forms = []
 with open(DERIVED / "top_forms.csv") as fh:
@@ -53,6 +53,6 @@ for f in forms:
     fetched += 1
     if fetched % 200 == 0:
         print("fetched", fetched, flush=True)
-    time.sleep(0.12)
+    time.sleep(0.55)   # stay well under Wiktionary anonymous rate limits
 out.close()
 print("glosses complete:", fetched)

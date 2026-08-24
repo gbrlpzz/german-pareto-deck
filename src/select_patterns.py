@@ -36,7 +36,8 @@ rows = list(csv.DictReader(open(DERIVED / "patterns.csv")))
 
 cand = {}
 for g, target, classes in GROUPS:
-    pool = [r for r in rows if r["class"] in classes and int(r["count"]) > 0]
+    pool = [r for r in rows if r["class"] in classes and int(r["count"]) > 0
+            and r["examples"].strip()]   # D5: every card needs an authentic sentence
     if g == "bundle":
         pool = [r for r in pool if int(r.get("n") or 0) >= 3]
     pool.sort(key=lambda r: -int(r["count"]))

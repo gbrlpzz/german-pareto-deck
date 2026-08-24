@@ -36,16 +36,16 @@
     },
     "particle_connector": {
       "target": 70,
-      "available": 1820,
+      "available": 1507,
       "assigned": 85,
       "classes": {
-        "particle_frame": 21,
-        "connector_bundle": 64
+        "particle_frame": 20,
+        "connector_bundle": 65
       }
     },
     "bundle": {
       "target": 70,
-      "available": 7147,
+      "available": 6387,
       "assigned": 85,
       "classes": {
         "lexical_bundle": 85

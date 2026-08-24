@@ -349,7 +349,6 @@ particle_connector,17,particle_frame,sie ist noch,47,5.59,bundle,3,613661;860222
 particle_connector,18,particle_frame,ist schon wieder,46,6.74,bundle,3,1585868;1124776;1124778
 particle_connector,19,particle_frame,noch nicht gesehen,43,6.51,bundle,3,1610410;1743691;3925095
 particle_connector,20,particle_frame,habe dir doch gesagt dass,40,6.32,bundle,5,12286936;6849805
-particle_connector,21,particle_frame,ist noch ein,40,5.6,bundle,3,344327;404650;749725
 particle_connector,1,connector_bundle,glaubt dass,183,12.85,bundle,2,586301;491552;368556
 particle_connector,2,connector_bundle,ich kann nicht glauben dass,178,13.34,bundle,5,1754202;1809054;1959544
 particle_connector,3,connector_bundle,schneller als,170,12.84,bundle,2,333643;407766;364431
@@ -385,35 +384,36 @@ particle_connector,32,connector_bundle,gilt als,81,8.78,bundle,2,1223924;772675;
 particle_connector,33,connector_bundle,kaum dass,81,7.79,bundle,2,2793568;1187093;1898981
 particle_connector,34,connector_bundle,wenn du ihn,80,8.87,bundle,3,341963;343060;370903
 particle_connector,35,connector_bundle,leichter als,80,8.76,bundle,2,599333;457203;602769
-particle_connector,36,connector_bundle,dass sie glaubten elke sei,78,8.83,bundle,5,
-particle_connector,37,connector_bundle,aber niemand,78,7.87,bundle,2,596936;1005033;367890
-particle_connector,38,connector_bundle,bemerkt dass,76,8.41,bundle,2,1335372;1652592;1370266
-particle_connector,39,connector_bundle,ich hoffe dass du,75,8.66,bundle,4,409130;808666;723615
-particle_connector,40,connector_bundle,erfahren dass,75,8.04,bundle,2,1365795;1817905;1767966
-particle_connector,41,connector_bundle,ist dass er,74,7.49,bundle,3,394833;586058;927199
-particle_connector,42,connector_bundle,damit aufhören,74,8.56,bundle,2,1014119;1014120;1014121
-particle_connector,43,connector_bundle,als einziger,74,8.5,bundle,2,7452694;5855921;4259909
-particle_connector,44,connector_bundle,ich wusste nicht dass du,71,8.43,bundle,5,1186193;550201;1514991
-particle_connector,45,connector_bundle,erst dann,71,8.2,bundle,2,720289;7938686
-particle_connector,46,connector_bundle,bist du sicher dass du,69,8.31,bundle,5,1516521;1691000;418983
-particle_connector,47,connector_bundle,als erstes,69,8.23,bundle,2,1325346;1406965;1665308
-particle_connector,48,connector_bundle,schwerer als,67,8.07,bundle,2,412303;412304;560584
-particle_connector,49,connector_bundle,ich bezweifle dass,66,8.12,bundle,3,365714;398659;446049
-particle_connector,50,connector_bundle,mehr als ich,66,7.91,bundle,3,404153;762268;526771
-particle_connector,51,connector_bundle,wenn man ihn,65,8.04,bundle,3,4735750;910472;3269117
-particle_connector,52,connector_bundle,dann ist es,65,7.89,bundle,3,3484445;6462518;6320885
-particle_connector,53,connector_bundle,als letzter,65,7.73,bundle,2,396857;943204;1259261
-particle_connector,54,connector_bundle,ist stärker als,64,8.0,bundle,3,364960;344362;437458
-particle_connector,55,connector_bundle,dass man ihn,64,7.96,bundle,3,1774950;3503054;4724310
-particle_connector,56,connector_bundle,teurer als,64,7.91,bundle,2,398658;481138;488017
-particle_connector,57,connector_bundle,damit beschäftigt,64,7.91,bundle,2,404622;361105;407680
-particle_connector,58,connector_bundle,dass sie glaube dass,63,7.94,bundle,4,7478041;7478129
-particle_connector,59,connector_bundle,als ich ihn,63,7.74,bundle,3,936470;604972;977157
-particle_connector,60,connector_bundle,ich hätte nie gedacht dass,62,7.87,bundle,5,1443011;2081753;2082698
-particle_connector,61,connector_bundle,zeit damit,62,7.28,bundle,2,338302;3249487;661389
-particle_connector,62,connector_bundle,als du denkst,61,7.8,bundle,3,1683988;1734196;1336742
-particle_connector,63,connector_bundle,höher als,61,7.71,bundle,2,633497;728245;770060
-particle_connector,64,connector_bundle,ich glaube nicht dass es,60,7.75,bundle,5,907727;760626;852453
+particle_connector,36,connector_bundle,aber niemand,78,7.87,bundle,2,596936;1005033;367890
+particle_connector,37,connector_bundle,bemerkt dass,76,8.41,bundle,2,1335372;1652592;1370266
+particle_connector,38,connector_bundle,ich hoffe dass du,75,8.66,bundle,4,409130;808666;723615
+particle_connector,39,connector_bundle,erfahren dass,75,8.04,bundle,2,1365795;1817905;1767966
+particle_connector,40,connector_bundle,ist dass er,74,7.49,bundle,3,394833;586058;927199
+particle_connector,41,connector_bundle,damit aufhören,74,8.56,bundle,2,1014119;1014120;1014121
+particle_connector,42,connector_bundle,als einziger,74,8.5,bundle,2,7452694;5855921;4259909
+particle_connector,43,connector_bundle,ich wusste nicht dass du,71,8.43,bundle,5,1186193;550201;1514991
+particle_connector,44,connector_bundle,erst dann,71,8.2,bundle,2,720289;7938686
+particle_connector,45,connector_bundle,bist du sicher dass du,69,8.31,bundle,5,1516521;1691000;418983
+particle_connector,46,connector_bundle,als erstes,69,8.23,bundle,2,1325346;1406965;1665308
+particle_connector,47,connector_bundle,schwerer als,67,8.07,bundle,2,412303;412304;560584
+particle_connector,48,connector_bundle,ich bezweifle dass,66,8.12,bundle,3,365714;398659;446049
+particle_connector,49,connector_bundle,mehr als ich,66,7.91,bundle,3,404153;762268;526771
+particle_connector,50,connector_bundle,wenn man ihn,65,8.04,bundle,3,4735750;910472;3269117
+particle_connector,51,connector_bundle,dann ist es,65,7.89,bundle,3,3484445;6462518;6320885
+particle_connector,52,connector_bundle,als letzter,65,7.73,bundle,2,396857;943204;1259261
+particle_connector,53,connector_bundle,ist stärker als,64,8.0,bundle,3,364960;344362;437458
+particle_connector,54,connector_bundle,dass man ihn,64,7.96,bundle,3,1774950;3503054;4724310
+particle_connector,55,connector_bundle,teurer als,64,7.91,bundle,2,398658;481138;488017
+particle_connector,56,connector_bundle,damit beschäftigt,64,7.91,bundle,2,404622;361105;407680
+particle_connector,57,connector_bundle,dass sie glaube dass,63,7.94,bundle,4,7478041;7478129
+particle_connector,58,connector_bundle,als ich ihn,63,7.74,bundle,3,936470;604972;977157
+particle_connector,59,connector_bundle,ich hätte nie gedacht dass,62,7.87,bundle,5,1443011;2081753;2082698
+particle_connector,60,connector_bundle,zeit damit,62,7.28,bundle,2,338302;3249487;661389
+particle_connector,61,connector_bundle,als du denkst,61,7.8,bundle,3,1683988;1734196;1336742
+particle_connector,62,connector_bundle,höher als,61,7.71,bundle,2,633497;728245;770060
+particle_connector,63,connector_bundle,ich glaube nicht dass es,60,7.75,bundle,5,907727;760626;852453
+particle_connector,64,connector_bundle,jedesmal wenn,60,7.69,bundle,2,12005389;9638419;10189535
+particle_connector,65,connector_bundle,dadurch dass,60,7.53,bundle,2,1412400;2290779;1483482
 bundle,1,lexical_bundle,das ist kein,252,15.7,bundle,3,403647;729126;623039
 bundle,2,lexical_bundle,haben sie die,216,14.01,bundle,3,398893;626753;679893
 bundle,3,lexical_bundle,gibt es keine,209,14.44,bundle,3,372960;365588;399723
