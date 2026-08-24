@@ -12,12 +12,16 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 DERIVED = ROOT / "derived"
 
-sel = list(csv.DictReader(open(DERIVED / "patterns_selected.csv")))
 need = set()
-for r in sel:
+for r in csv.DictReader(open(DERIVED / "patterns_selected.csv")):
     for s in r["examples"].split(";"):
         if s.strip():
             need.add(s.strip())
+ws = DERIVED / "word_sentences.csv"
+if ws.exists():
+    for r in csv.DictReader(open(ws)):
+        if r["sid"]:
+            need.add(r["sid"])
 print("sentences needing translation:", len(need), flush=True)
 
 tid_for = collections.defaultdict(set)

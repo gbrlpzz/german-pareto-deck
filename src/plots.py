@@ -3,7 +3,7 @@
 
     .venv/bin/python src/plots.py
 """
-import csv, pathlib
+import csv, json, pathlib
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
@@ -66,5 +66,29 @@ ax.grid(axis="y", alpha=0.25)
 fig.tight_layout()
 fig.savefig(FIGS / "fig2_marginal_gains.png")
 plt.close(fig)
+
+# ---- Figure 3: final deck pattern mix ----
+sel_summary = DERIVED / "selection_summary.json"
+if sel_summary.exists():
+    s = json.load(open(sel_summary))
+    labels, vals = [], []
+    for g in ["routine", "perfekt_modal", "separable", "funkverb",
+              "particle_connector", "bundle"]:
+        for c, k in s["groups"][g]["classes"].items():
+            labels.append(f"{c}  ({g})")
+            vals.append(k)
+    order = sorted(range(len(vals)), key=lambda i: vals[i])
+    labels = [labels[i] for i in order]
+    vals = [vals[i] for i in order]
+    fig, ax = plt.subplots(figsize=(8, 4.6), dpi=150)
+    ax.barh(labels, vals, color="#4878CF")
+    for i, v in enumerate(vals):
+        ax.text(v + 1, i, str(v), va="center", fontsize=8)
+    ax.set_xlabel("cards in deck")
+    ax.set_title("Deck composition: 500 pattern cards (D3 total, D4 mix, D8 criteria)")
+    ax.grid(axis="x", alpha=0.25)
+    fig.tight_layout()
+    fig.savefig(FIGS / "fig3_deck_pattern_mix.png")
+    plt.close(fig)
 
 print("figures written:", *[f.name for f in sorted(FIGS.glob('*.png'))])
