@@ -104,3 +104,37 @@ Figure 1 (`docs/figures/fig1_coverage_curves.png`) visualizes the measured curve
 Figure 2 (`docs/figures/fig2_marginal_gains.png`) visualizes the marginal-return argument
 in §4a. Regenerate with `.venv/bin/python src/plots.py`; anchor values for the OpenSubtitles
 series live in `derived/subtitles_curve.csv`.
+
+
+## 10. Decision D8 — no arbitrary thresholds (owner directive)
+
+Applied to EVERY selection in this repo, not only vocabulary size. Each constant is one of:
+
+- **(a) DATA-DERIVED** — computed by a stated formula from the corpus at run time;
+- **(b) LITERATURE** — anchored to a cited source;
+- **(c) HEURISTIC** — explicitly flagged, with rationale and observed effect.
+
+### Selection registry
+
+| Constant | Value | Type | Justification |
+|---|---|---|---|
+| Collocation admission | t ≥ 2 | LIT | conventional significance for association measures (Evert 2004; Church et al. 1991) |
+| Bundle min observations | O ≥ 4 | LIT | stability floor of the t statistic (t ≤ √O as E → 0) |
+| Frame min observations | O ≥ 10 | LIT+DATA | same statistic; higher floor for sparse two-slot co-occurrences |
+| Function-word set | 184 tokens | DATA | linguistically defined closed class (articles, pronouns, prepositions, conjunctions, particles, auxiliaries), enumerated — not a rank cutoff |
+| Proper-name blocklist | 20 tokens | HEURISTIC | manual review of top bundles; Tatoeba name-factory tokens ("Tom und Maria …") |
+| Exemplar sentence window | IQR [5, 9] | DATA | the corpus's own interquartile sentence-length range, computed at run time |
+| Pattern total | 500 | LIT | PHRASE-List scale (Martinez & Schmitt 2012); = D3 |
+| Group targets | 50/120/100/90/70/70 | LIT | research-report reasoned mix; = D4 |
+| Bundle length | n ≥ 3 tokens | LIT | listable multiword units; PHRASE-List median length 3 |
+| Shortfall redistribution | ∝ D4 targets | RULE | groups with unavailable candidates release their deficit to surplus groups proportionally |
+| Within-group class split | ∝ availability | DATA | e.g. perfekt/modal split 103/43 follows observed candidate pools |
+| Rank within class | corpus frequency | GOAL | deck goal is coverage; significance already guaranteed at admission |
+| Funktionsverbgefüge shape guards | len ≤ 9, no *ge-* | HEURISTIC | prevents *Haltestelle*→"halt" and *gebrochen*→"geb" stem collisions |
+| Word cutoffs | 2,000 / 4,000 | LIT+DATA | = D2 |
+| Translation choice | shortest per sentence | RULE | card fit |
+| EN glosses | best-effort | NOTE | quality enhancement, not a selection threshold |
+
+Observed redistribution (v0.1): one move of 78 slots, funkverbgefüge (20 available of 90)
+and routine (42 of 50) shortfalls absorbed by perfekt/modal, separable, particle/connector,
+bundle — trace in `derived/selection_summary.json`.

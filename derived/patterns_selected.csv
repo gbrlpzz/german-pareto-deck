@@ -1,0 +1,501 @@
+group,rank,class,pattern,count,tscore,kind,n,examples
+routine,1,routine,nicht wahr,1438,0.0,routine,0,355167;361417;344537
+routine,2,routine,ich weiß nicht,1356,0.0,routine,0,210;245;261
+routine,3,routine,keine ahnung,324,0.0,routine,0,140001;435707;581439
+routine,4,routine,in ordnung,283,0.0,routine,0,369874;446187;346955
+routine,5,routine,vielen dank,217,0.0,routine,0,342029;347951;356638
+routine,6,routine,es tut mir leid,188,0.0,routine,0,410992;352280;344
+routine,7,routine,bis morgen,129,0.0,routine,0,338309;353751;416333
+routine,8,routine,viel spaß,104,0.0,routine,0,503974;620922;330601
+routine,9,routine,ich habe keine zeit,88,0.0,routine,0,362672;363963;344441
+routine,10,routine,meiner meinung nach,84,0.0,routine,0,369196;450048;395431
+routine,11,routine,viel glück,82,0.0,routine,0,1401513;387985;413747
+routine,12,routine,guten tag,77,0.0,routine,0,714343;403851;404146
+routine,13,routine,wie geht es dir,75,0.0,routine,0,394218;406774;396544
+routine,14,routine,kein problem,73,0.0,routine,0,1037463;789482;645127
+routine,15,routine,ich bin müde,70,0.0,routine,0,579529;662175;395287
+routine,16,routine,gute nacht,59,0.0,routine,0,1002;404221;535996
+routine,17,routine,was ist los,58,0.0,routine,0,659787;664531;621494
+routine,18,routine,guten morgen,53,0.0,routine,0,404689;6065;417591
+routine,19,routine,alles gute,47,0.0,routine,0,1206461;355043;932798
+routine,20,routine,herzlichen glückwunsch,43,0.0,routine,0,1111031;697964;82
+routine,21,routine,auf wiedersehen,42,0.0,routine,0,732283;485466;622709
+routine,22,routine,ich weiß es nicht,40,0.0,routine,0,1240249;560890;789719
+routine,23,routine,natürlich nicht,32,0.0,routine,0,352551;1222502;1226945
+routine,24,routine,danke schön,29,0.0,routine,0,2291558;403064;1983336
+routine,25,routine,ich habe hunger,28,0.0,routine,0,1690550;863;1690552
+routine,26,routine,guten abend,22,0.0,routine,0,444481;1597904;6062
+routine,27,routine,mir geht es gut,18,0.0,routine,0,3553239;444746;1535945
+routine,28,routine,ich muss los,18,0.0,routine,0,344352;989112;700812
+routine,29,routine,mir ist kalt,13,0.0,routine,0,814159;343615;547865
+routine,30,routine,ach so,12,0.0,routine,0,657981;716205;394256
+routine,31,routine,bitte schön,12,0.0,routine,0,1607651;1607652;561069
+routine,32,routine,was ist mit dir,12,0.0,routine,0,1201901;1844130;3346230
+routine,33,routine,wie bitte,12,0.0,routine,0,1515147;2738775;2871586
+routine,34,routine,na ja,11,0.0,routine,0,4682978;8916056;8242406
+routine,35,routine,ich habe durst,8,0.0,routine,0,1690552;1690552;943175
+routine,36,routine,gern geschehen,8,0.0,routine,0,12258367;2786012;5075869
+routine,37,routine,bis bald,5,0.0,routine,0,8098820;394482;3275582
+routine,38,routine,pass auf dich auf,4,0.0,routine,0,1125391;724939;589971
+routine,39,routine,bis dann,3,0.0,routine,0,353839;6376408;7054234
+routine,40,routine,gute besserung,3,0.0,routine,0,5992220;8500816;6681637
+routine,41,routine,bis später,1,0.0,routine,0,3982832
+routine,42,routine,mir ist heiß,1,0.0,routine,0,8237338
+perfekt_modal,1,perfekt_frame,hat … gesagt,1322,34.76,frame,0,351698;6095;6107
+perfekt_modal,2,perfekt_frame,habe … gesehen,888,28.88,frame,0,136445;341243;496
+perfekt_modal,3,perfekt_frame,hat … gemacht,707,25.19,frame,0,341272;136448;342300
+perfekt_modal,4,perfekt_frame,habe … gesagt,491,20.39,frame,0,369816;855;445216
+perfekt_modal,5,perfekt_frame,habe … gehört,484,21.15,frame,0,341236;342522;342560
+perfekt_modal,6,perfekt_frame,hast … gesehen,464,20.91,frame,0,359070;353061;344484
+perfekt_modal,7,perfekt_frame,hat … gekauft,451,20.32,frame,0,330461;360637;342798
+perfekt_modal,8,perfekt_frame,ist … gegangen,428,18.61,frame,0,340881;343042;136435
+perfekt_modal,9,perfekt_frame,habe … gekauft,416,19.75,frame,0,136256;343608;236461
+perfekt_modal,10,perfekt_frame,habe … gemacht,409,18.98,frame,0,353005;6187;359649
+perfekt_modal,11,perfekt_frame,ist … passiert,405,17.73,frame,0,348422;6157;840
+perfekt_modal,12,perfekt_frame,hast … gesagt,369,18.2,frame,0,630;838;821
+perfekt_modal,13,perfekt_frame,ist … gekommen,360,16.59,frame,0,344276;349825;342081
+perfekt_modal,14,perfekt_frame,habe … vergessen,357,18.13,frame,0,353110;366498;351787
+perfekt_modal,15,perfekt_frame,ist … geworden,340,16.67,frame,0,341248;341715;877
+perfekt_modal,16,perfekt_frame,hat … getan,339,16.95,frame,0,353010;352099;439701
+perfekt_modal,17,perfekt_frame,hat … gefallen,332,17.32,frame,0,1155;422363;369168
+perfekt_modal,18,perfekt_frame,hast … gemacht,329,17.45,frame,0,353009;341594;6079
+perfekt_modal,19,perfekt_frame,hat … gegeben,317,17.17,frame,0,331896;344926;370145
+perfekt_modal,20,perfekt_frame,hat … angst,317,16.57,frame,0,351098;348855;351607
+perfekt_modal,21,perfekt_frame,ist … stadt,312,14.21,frame,0,1260;431;6085
+perfekt_modal,22,perfekt_frame,ist … leicht,291,14.89,frame,0,347916;341375;350195
+perfekt_modal,23,perfekt_frame,habe … gefunden,288,16.33,frame,0,343090;380149;360904
+perfekt_modal,24,perfekt_frame,hat … gesehen,287,14.55,frame,0,507869;368204;632949
+perfekt_modal,25,perfekt_frame,habe … angst,265,15.37,frame,0,620;341668;342622
+perfekt_modal,26,perfekt_frame,ist … gestorben,265,15.2,frame,0,136444;135992;136437
+perfekt_modal,27,perfekt_frame,habe … gegessen,256,15.42,frame,0,350678;342586;350677
+perfekt_modal,28,perfekt_frame,habe … getroffen,242,15.14,frame,0,1261;591;135750
+perfekt_modal,29,perfekt_frame,ist … hauptstadt,225,14.13,frame,0,331890;331891;331892
+perfekt_modal,30,perfekt_frame,habe … getan,223,13.72,frame,0,441432;345009;356530
+perfekt_modal,31,perfekt_frame,hat … gefunden,222,13.82,frame,0,352550;360905;374170
+perfekt_modal,32,perfekt_frame,habt … gesehen,220,14.54,frame,0,611604;976022;901346
+perfekt_modal,33,perfekt_frame,hat … geschrieben,215,13.72,frame,0,139116;330596;139165
+perfekt_modal,34,perfekt_frame,hat … gegessen,212,13.61,frame,0,592268;450008;620916
+perfekt_modal,35,perfekt_frame,bin … gegangen,206,13.94,frame,0,688;1240;826
+perfekt_modal,36,perfekt_frame,sind … gegangen,204,13.62,frame,0,350013;702;340783
+perfekt_modal,37,perfekt_frame,hast … gehört,204,13.63,frame,0,370467;360830;370789
+perfekt_modal,38,perfekt_frame,hast … gekauft,203,13.79,frame,0,361014;374564;426290
+perfekt_modal,39,perfekt_frame,ist … gewesen,199,10.95,frame,0,158;367316;364968
+perfekt_modal,40,perfekt_frame,hat … erzählt,193,13.25,frame,0,608483;1009287;860609
+perfekt_modal,41,perfekt_frame,habe … gelesen,191,13.33,frame,0,359673;358417;693
+perfekt_modal,42,perfekt_frame,habe … versucht,186,13.12,frame,0,356569;180443;344535
+perfekt_modal,43,perfekt_frame,habe … gelernt,183,13.04,frame,0,874;287;139397
+perfekt_modal,44,perfekt_frame,ist … gefährlich,178,12.35,frame,0,138816;332361;349901
+perfekt_modal,45,perfekt_frame,hat … arbeit,178,10.37,frame,0,406826;406848;361377
+perfekt_modal,46,perfekt_frame,hatte … angst,175,12.93,frame,0,356667;360533;341567
+perfekt_modal,47,perfekt_frame,ist … arbeit,175,5.61,frame,0,365037;369638;353274
+perfekt_modal,48,perfekt_frame,hat … vergessen,174,11.57,frame,0,352022;399764;341962
+perfekt_modal,49,perfekt_frame,hat … geholfen,166,12.4,frame,0,338348;357132;360
+perfekt_modal,50,perfekt_frame,habe … gebeten,155,12.07,frame,0,342820;412313;351575
+perfekt_modal,51,perfekt_frame,bin … gekommen,154,11.91,frame,0,347993;477787;815
+perfekt_modal,52,perfekt_frame,hat … gebeten,151,11.72,frame,0,344678;602966;399493
+perfekt_modal,53,perfekt_frame,sind … gekommen,150,11.43,frame,0,353682;389129;399790
+perfekt_modal,54,perfekt_frame,hast … gegessen,149,11.83,frame,0,644;967;904
+perfekt_modal,55,perfekt_frame,habe … verstanden,147,11.73,frame,0,414297;577517;424260
+perfekt_modal,56,perfekt_frame,ist … bekannt,146,10.92,frame,0,350969;344656;354810
+perfekt_modal,57,perfekt_frame,hat … gelernt,146,11.27,frame,0,641826;411080;516064
+perfekt_modal,58,perfekt_frame,ist … gefallen,143,8.48,frame,0,345250;700;345047
+perfekt_modal,59,perfekt_frame,ist … interessant,138,10.64,frame,0,353250;353694;338314
+perfekt_modal,60,perfekt_frame,bist … gekommen,137,11.41,frame,0,352027;509;119750
+perfekt_modal,61,perfekt_frame,habe … geschrieben,136,10.86,frame,0,360723;344635;348141
+perfekt_modal,62,perfekt_frame,hat … gewonnen,134,11.12,frame,0,369143;370386;384222
+perfekt_modal,63,perfekt_frame,habe … gesprochen,133,10.97,frame,0,1262;365949;380786
+perfekt_modal,64,perfekt_frame,ist … beschäftigt,133,9.11,frame,0,417584;361105;436056
+perfekt_modal,65,perfekt_frame,hat … gebracht,132,10.98,frame,0,353003;443875;648
+perfekt_modal,66,perfekt_frame,hat … gestohlen,132,11.01,frame,0,341284;361468;398612
+perfekt_modal,67,perfekt_frame,hast … getan,131,10.66,frame,0,521562;629;707551
+perfekt_modal,68,perfekt_frame,habe … gegeben,128,10.64,frame,0,381123;408757;426460
+perfekt_modal,69,perfekt_frame,war … überrascht,126,10.89,frame,0,352790;342624;353831
+perfekt_modal,70,perfekt_frame,habt … gemacht,125,10.83,frame,0,703802;823106;370118
+perfekt_modal,71,perfekt_frame,hast … gefunden,124,10.65,frame,0,360332;449994;446
+perfekt_modal,72,perfekt_frame,hat … beigebracht,123,10.89,frame,0,361609;344530;368328
+perfekt_modal,73,perfekt_frame,hat … gekostet,122,10.87,frame,0,341587;354524;341990
+perfekt_modal,74,perfekt_frame,hat … gefragt,120,10.34,frame,0,413746;139988;362162
+perfekt_modal,75,perfekt_frame,hat … versucht,118,9.89,frame,0,684873;343050;810095
+perfekt_modal,76,perfekt_frame,habe … gedacht,117,10.25,frame,0,797555;570139;626752
+perfekt_modal,77,perfekt_frame,ist … selbst,116,0.86,frame,0,406642;613501;581449
+perfekt_modal,78,perfekt_frame,bin … gewesen,114,10.11,frame,0,360646;361599;385561
+perfekt_modal,79,perfekt_frame,bist … gegangen,114,10.37,frame,0,361382;364443;368368
+perfekt_modal,80,perfekt_frame,ist … geschichte,112,6.75,frame,0,710;361126;404683
+perfekt_modal,81,perfekt_frame,bin … beschäftigt,112,10.22,frame,0,365355;356647;356648
+perfekt_modal,82,perfekt_frame,ist … gefahren,111,9.01,frame,0,404131;343083;349865
+perfekt_modal,83,perfekt_frame,ist … genauso,110,8.97,frame,0,332357;340816;353601
+perfekt_modal,84,perfekt_frame,hat … geheiratet,110,10.09,frame,0,341532;341535;345556
+perfekt_modal,85,perfekt_frame,ist … verheiratet,110,9.05,frame,0,341581;344701;356587
+perfekt_modal,86,perfekt_frame,habe … arbeit,109,7.88,frame,0,360900;361839;180999
+perfekt_modal,87,perfekt_frame,hat … selbst,108,6.36,frame,0,347942;1166;363393
+perfekt_modal,88,perfekt_frame,ist … entfernt,108,9.37,frame,0,358247;366401;341995
+perfekt_modal,89,perfekt_frame,hat … genommen,108,9.78,frame,0,442650;402375;423832
+perfekt_modal,90,perfekt_frame,habe … gewartet,107,10.1,frame,0,461423;357798;362210
+perfekt_modal,91,perfekt_frame,hat … gesprochen,106,9.36,frame,0,852645;686235;644212
+perfekt_modal,92,perfekt_frame,hast … gelernt,105,9.93,frame,0,590706;622959;662716
+perfekt_modal,93,perfekt_frame,habt … gesagt,105,9.65,frame,0,942950;1761226;1121694
+perfekt_modal,94,perfekt_frame,hat … getroffen,103,9.21,frame,0,584072;344595;344647
+perfekt_modal,95,perfekt_frame,hast … angst,103,9.43,frame,0,755392;955089;811261
+perfekt_modal,96,perfekt_frame,hat … verändert,102,9.74,frame,0,340914;353317;1244
+perfekt_modal,97,perfekt_frame,hat … nacht,101,7.99,frame,0,352523;6061;359676
+perfekt_modal,98,perfekt_frame,hat … aufgehört,101,9.74,frame,0,15773;342533;343488
+perfekt_modal,99,perfekt_frame,hat … geändert,101,9.73,frame,0,351683;369826;372281
+perfekt_modal,100,perfekt_frame,ist … überhaupt,101,6.08,frame,0,351772;373127;372608
+perfekt_modal,101,perfekt_frame,ist … wahrheit,100,4.5,frame,0,622;1100;682
+perfekt_modal,102,perfekt_frame,hast … gelesen,99,9.61,frame,0,349827;359674;431166
+perfekt_modal,103,perfekt_frame,ist … beliebt,99,9.39,frame,0,399891;364460;439395
+perfekt_modal,1,modal_frame,kann … machen,287,14.97,frame,0,340845;423258;427269
+perfekt_modal,2,modal_frame,kann … helfen,264,15.16,frame,0,545746;556007;443952
+perfekt_modal,3,modal_frame,kann … sprechen,190,12.51,frame,0,353785;361016;367562
+perfekt_modal,4,modal_frame,kann … finden,172,12.37,frame,0,160;426784;476107
+perfekt_modal,5,modal_frame,muss … machen,158,11.54,frame,0,344522;359559;359562
+perfekt_modal,6,modal_frame,kann … kaufen,148,11.38,frame,0,352782;358220;397794
+perfekt_modal,7,modal_frame,möchte … sprechen,127,10.86,frame,0,370907;348135;383940
+perfekt_modal,8,modal_frame,will … machen,124,9.86,frame,0,518357;594626;766964
+perfekt_modal,9,modal_frame,kann … spielen,114,9.91,frame,0,347962;358621;358609
+perfekt_modal,10,modal_frame,will … sprechen,113,9.92,frame,0,1100871;703;695591
+perfekt_modal,11,modal_frame,kann … fahren,109,9.54,frame,0,182048;352783;352802
+perfekt_modal,12,modal_frame,kann … verstehen,102,9.37,frame,0,406383;554557;439895
+perfekt_modal,13,modal_frame,kann … lassen,93,7.86,frame,0,594486;479786;784095
+perfekt_modal,14,modal_frame,kann … ertragen,91,9.4,frame,0,342652;368740;139487
+perfekt_modal,15,modal_frame,können … machen,91,8.18,frame,0,587356;342030;726055
+perfekt_modal,16,modal_frame,kannst … helfen,87,8.88,frame,0,437482;454295;359030
+perfekt_modal,17,modal_frame,müssen … machen,87,8.48,frame,0,361486;787406;846838
+perfekt_modal,18,modal_frame,kann … kommen,85,7.14,frame,0,351628;579720;372777
+perfekt_modal,19,modal_frame,kann … schreiben,84,8.45,frame,0,409093;435512;453074
+perfekt_modal,20,modal_frame,kannst … machen,83,8.24,frame,0,352097;738209;752152
+perfekt_modal,21,modal_frame,können … helfen,83,8.36,frame,0,1519101;1713045;700306
+perfekt_modal,22,modal_frame,kann … bekommen,76,7.72,frame,0,341700;399753;413548
+perfekt_modal,23,modal_frame,will … lernen,76,8.09,frame,0,360997;815382;747753
+perfekt_modal,24,modal_frame,will … kaufen,74,8.13,frame,0,626757;360750;646872
+perfekt_modal,25,modal_frame,kann … schwimmen,73,7.94,frame,0,349967;354514;358611
+perfekt_modal,26,modal_frame,kann … ausstehen,73,8.48,frame,0,749851;930792;360936
+perfekt_modal,27,modal_frame,möchte … machen,73,7.53,frame,0,362722;363950;369747
+perfekt_modal,28,modal_frame,kann … leisten,72,8.2,frame,0,564226;363406;645128
+perfekt_modal,29,modal_frame,soll … machen,72,7.75,frame,0,397781;480354;673574
+perfekt_modal,30,modal_frame,wollte … machen,71,7.64,frame,0,1525504;1555149;510958
+perfekt_modal,31,modal_frame,kann … bleiben,67,6.95,frame,0,455344;589613;344
+perfekt_modal,32,modal_frame,möchte … kaufen,67,7.88,frame,0,481886;581347;656960
+perfekt_modal,33,modal_frame,kann … warten,65,6.9,frame,0,340820;356338;388203
+perfekt_modal,34,modal_frame,will … wissen,65,6.96,frame,0,668082;360779;360780
+perfekt_modal,35,modal_frame,kann … schlafen,65,7.35,frame,0,454121;664044;725944
+perfekt_modal,36,modal_frame,muss … kaufen,64,7.54,frame,0,442191;424257;359551
+perfekt_modal,37,modal_frame,können … sprechen,60,6.86,frame,0,353705;353706;363360
+perfekt_modal,38,modal_frame,muss … lernen,58,6.96,frame,0,95;359533;697805
+perfekt_modal,39,modal_frame,muss … lassen,58,6.74,frame,0,359544;370444;1136
+perfekt_modal,40,modal_frame,musst … machen,58,7.16,frame,0,363277;369878;359550
+perfekt_modal,41,modal_frame,wollte … sprechen,58,7.16,frame,0,1688443;1712426;1390555
+perfekt_modal,42,modal_frame,wollen … machen,56,6.71,frame,0,841371;884583;481778
+perfekt_modal,43,modal_frame,kann … erklären,55,6.97,frame,0,254;928451;1056476
+separable,1,separable_frame,sieht … aus,500,21.96,frame,0,341539;342987;350897
+separable,2,separable_frame,siehst … aus,138,11.46,frame,0,392850;392853;372899
+separable,3,separable_frame,rufe … an,113,10.48,frame,0,353798;341617;359026
+separable,4,separable_frame,kommt … an,100,7.72,frame,0,135;351091;348145
+separable,5,separable_frame,hängt … ab,99,9.92,frame,0,396921;367142;511880
+separable,6,separable_frame,kommt … vor,97,8.81,frame,0,1084450;842003;935931
+separable,7,separable_frame,stimme … zu,96,8.32,frame,0,368711;6108;397923
+separable,8,separable_frame,ruft … an,77,8.63,frame,0,358369;789092;796716
+separable,9,separable_frame,kehrte … zurück,77,8.76,frame,0,605519;669771;367463
+separable,10,separable_frame,fängt … an,75,8.44,frame,0,370171;331884;328
+separable,11,separable_frame,steht … auf,75,6.84,frame,0,412186;370035;400008
+separable,12,separable_frame,sieht … an,74,7.17,frame,0,1144;362709;782528
+separable,13,separable_frame,findet … statt,70,8.35,frame,0,351805;454808;437807
+separable,14,separable_frame,rufen … an,69,8.05,frame,0,453988;358370;363312
+separable,15,separable_frame,hört … an,64,7.47,frame,0,350965;644406;651832
+separable,16,separable_frame,stehe … auf,63,7.68,frame,0,362285;365619;408784
+separable,17,separable_frame,lehnte … ab,62,7.86,frame,0,353094;363918;368057
+separable,18,separable_frame,bot … an,62,7.77,frame,0,616946;509654;568451
+separable,19,separable_frame,stellte … vor,59,7.49,frame,0,473969;432654;347987
+separable,20,separable_frame,fährt … ab,57,7.46,frame,0,444469;383114;414499
+separable,21,separable_frame,fangen … an,57,7.31,frame,0,710087;964234;1270949
+separable,22,separable_frame,schaut … an,54,7.13,frame,0,357458;375411;601843
+separable,23,separable_frame,fällt … ein,53,6.04,frame,0,531700;346973;444005
+separable,24,separable_frame,sehen … aus,53,4.82,frame,0,498143;609021;639528
+separable,25,separable_frame,geht … an,53,3.76,frame,0,619978;626251;677667
+separable,26,separable_frame,schauen … an,52,6.96,frame,0,358304;375412;361462
+separable,27,separable_frame,kommt … zurück,48,6.58,frame,0,351585;367385;638617
+separable,28,separable_frame,sehen … an,48,3.38,frame,0,689416;622195;759315
+separable,29,separable_frame,kennt … aus,47,6.1,frame,0,360621;508539;439329
+separable,30,separable_frame,hole … ab,43,6.54,frame,0,517001;516999;344697
+separable,31,separable_frame,kamen … an,41,5.96,frame,0,365870;406862;367452
+separable,32,separable_frame,halte … aus,40,5.88,frame,0,362322;342117;361439
+separable,33,separable_frame,geht … aus,40,3.37,frame,0,678653;721018;1103279
+separable,34,separable_frame,setzte … auf,40,5.72,frame,0,1352538;1819205;1712485
+separable,35,separable_frame,sehe … an,39,5.29,frame,0,369922;767268;882560
+separable,36,separable_frame,zieht … an,39,5.94,frame,0,1315409;911783;852589
+separable,37,separable_frame,hielt … an,38,5.51,frame,0,340898;441707;554542
+separable,38,separable_frame,ziehe … vor,38,6.08,frame,0,1481646;656998;626270
+separable,39,separable_frame,diese … aus,37,0.49,frame,0,608639;734539;784188
+separable,40,separable_frame,sieht … fern,37,6.05,frame,0,784166;754796;936374
+separable,41,separable_frame,denke … nach,36,4.8,frame,0,975680;1637046;1516669
+separable,42,separable_frame,spricht … aus,35,4.67,frame,0,868;365801;419123
+separable,43,separable_frame,passt … auf,34,5.2,frame,0,404667;537552;341123
+separable,44,separable_frame,haben … vor,34,-3.21,frame,0,1956582;1403664;1956584
+separable,45,separable_frame,gibt … aus,33,0.8,frame,0,360715;364480;404402
+separable,46,separable_frame,wachte … auf,33,5.64,frame,0,594417;658197;1389100
+separable,47,separable_frame,bereitet … zu,32,5.09,frame,0,1010852;399564;936433
+separable,48,separable_frame,macht … aus,32,2.54,frame,0,1256907;829312;675569
+separable,49,separable_frame,hörte … zu,31,2.76,frame,0,361355;808186;345259
+separable,50,separable_frame,hört … zu,31,3.21,frame,0,369874;911014;697871
+separable,51,separable_frame,sehe … aus,31,4.79,frame,0,2478848;2492200;1270960
+separable,52,separable_frame,zündete … an,30,5.43,frame,0,357482;566038;917392
+separable,53,separable_frame,diese … an,30,-3.06,frame,0,364181;580520;404641
+separable,54,separable_frame,nehme … an,30,4.91,frame,0,931702;1008067;850100
+separable,55,separable_frame,ihre … aus,30,0.38,frame,0,1590632;1080713;1627148
+separable,56,separable_frame,nimmt … an,30,4.86,frame,0,1225557;1709329;1709330
+separable,57,separable_frame,kommen … an,29,1.41,frame,0,438819;716301;663192
+separable,58,separable_frame,stelle … vor,29,4.93,frame,0,797870;1428669;454445
+separable,59,separable_frame,komme … zurück,28,5.16,frame,0,356578;402013;397940
+separable,60,separable_frame,dachte … nach,28,4.17,frame,0,639934;401098;756040
+separable,61,separable_frame,setzte … ab,28,5.22,frame,0,2779087;521356;2707673
+separable,62,separable_frame,fühlt … an,27,4.87,frame,0,345043;366348;441711
+separable,63,separable_frame,bereitet … vor,27,5.11,frame,0,348434;664162;609010
+separable,64,separable_frame,schaute … an,27,4.88,frame,0,452421;477768;350180
+separable,65,separable_frame,komme … vor,27,4.63,frame,0,676973;1923358;1923361
+separable,66,separable_frame,kenne … aus,26,4.08,frame,0,1223244;814068;940548
+separable,67,separable_frame,schaltete … aus,25,4.93,frame,0,1881367;2574892;341891
+separable,68,separable_frame,denkt … nach,25,4.42,frame,0,796756;357462;1733461
+separable,69,separable_frame,geht … vor,25,2.7,frame,0,357804;560964;402526
+separable,70,separable_frame,breitete … aus,25,4.96,frame,0,368689;365871;368686
+separable,71,separable_frame,lade … ein,25,4.86,frame,0,825950;368290;536606
+separable,72,separable_frame,starrte … an,25,4.92,frame,0,1343542;1390632;1418883
+separable,73,separable_frame,ziehen … an,24,4.25,frame,0,330597;373090;439389
+separable,74,separable_frame,schaltete … ein,24,4.69,frame,0,1527706;362601;613624
+separable,75,separable_frame,bereitete … zu,24,4.67,frame,0,1768879;1768880;379080
+separable,76,separable_frame,hört … auf,24,3.66,frame,0,1220046;1344456;444394
+separable,77,separable_frame,kehren … zurück,23,4.79,frame,0,1539615;712279;938517
+separable,78,separable_frame,gehen … aus,22,-0.78,frame,0,1190257;341416;814864
+separable,79,separable_frame,stimmte … zu,22,4.02,frame,0,594544;414505;911831
+separable,80,separable_frame,geht … los,22,4.42,frame,0,1219292;1790812;1673348
+separable,81,separable_frame,nehmen … an,21,2.67,frame,0,344930;369278;338294
+separable,82,separable_frame,ziehe … an,21,4.33,frame,0,360794;356270;1194896
+separable,83,separable_frame,ihre … an,21,-3.8,frame,0,358240;927587;742808
+separable,84,separable_frame,geht … zu,21,-12.89,frame,0,587405;860217;921996
+separable,85,separable_frame,legte … ab,21,4.51,frame,0,1948496;2134813;623472
+separable,86,separable_frame,geht … auf,21,-3.51,frame,0,808296;1204322;710086
+separable,87,separable_frame,geben … zurück,21,4.29,frame,0,2670734;2393715;936197
+separable,88,separable_frame,füllen … aus,20,4.41,frame,0,432630;368376;386990
+separable,89,separable_frame,trat … ein,20,3.78,frame,0,911676;380836;812586
+separable,90,separable_frame,ziehen … aus,20,3.96,frame,0,778258;393445;796551
+separable,91,separable_frame,hörte … an,20,3.35,frame,0,603500;603501;783440
+separable,92,separable_frame,kommen … zurück,20,3.96,frame,0,3383493;701756;2982943
+separable,93,separable_frame,stellte … ein,20,2.82,frame,0,822564;952386;952393
+separable,94,separable_frame,siehst … an,19,3.31,frame,0,1679723;362245;1123207
+separable,95,separable_frame,unsere … an,19,1.13,frame,0,363272;504834;460094
+separable,96,separable_frame,sonne … auf,19,2.35,frame,0,777468;898508;370784
+separable,97,separable_frame,streckte … aus,19,4.32,frame,0,829172;412788;927959
+separable,98,separable_frame,stellt … her,19,4.34,frame,0,582542;757094;756077
+separable,99,separable_frame,geht … weg,19,3.49,frame,0,582670;1341131;1268529
+separable,100,separable_frame,machte … zu,19,-0.08,frame,0,2493089;682946;699320
+separable,101,separable_frame,kommt … aus,19,0.56,frame,0,1520096;910996;726478
+separable,102,separable_frame,schaut … aus,19,4.09,frame,0,757441;764861;746014
+separable,103,separable_frame,schenkte … ein,19,3.86,frame,0,1497002;817435;937292
+separable,104,separable_frame,passen … auf,19,3.95,frame,0,1003677;907735;942923
+separable,105,separable_frame,schaue … an,18,4.08,frame,0,364394;829160;875997
+separable,106,separable_frame,halte … fern,18,4.23,frame,0,1731453;545773;365635
+separable,107,separable_frame,läuft … aus,18,3.75,frame,0,392558;952383;952375
+separable,108,separable_frame,mädchen … aus,18,2.25,frame,0,913979;485340;637787
+separable,109,separable_frame,baut … an,18,4.12,frame,0,1900217;604827;1900211
+separable,110,separable_frame,brachte … mit,18,3.21,frame,0,1514589;1386501;637442
+separable,111,separable_frame,höre … zu,18,1.9,frame,0,3085250;712576;1812258
+separable,112,separable_frame,holt … ab,18,4.22,frame,0,2489242;3165773;3402761
+separable,113,separable_frame,hörst … zu,17,3.22,frame,0,331188;2101038;504386
+separable,114,separable_frame,gehst … hin,17,4.06,frame,0,1134628;1464191;344572
+separable,115,separable_frame,gehen … weg,17,2.85,frame,0,1733899;1832973;349778
+separable,116,separable_frame,regt … auf,17,4.02,frame,0,353088;365939;903409
+separable,117,separable_frame,kommt … her,17,3.89,frame,0,710120;359059;603667
+separable,118,separable_frame,gehe … hin,17,3.99,frame,0,1286212;701249;367563
+separable,119,separable_frame,hielt … auf,17,2.71,frame,0,1513594;369884;455345
+separable,120,separable_frame,halten … an,17,2.47,frame,0,394559;783195;455658
+separable,121,separable_frame,reist … ab,17,4.1,frame,0,404746;978165;1940943
+separable,122,separable_frame,schreiben … auf,17,1.56,frame,0,475833;1009302;408182
+funkverb,1,funkverbgefüge,eine frage stellen,44,0.0,frame,0,398;364970;365945
+funkverb,2,funkverbgefüge,keine sorgen machen,38,0.0,frame,0,1142407;1356649;664939
+funkverb,3,funkverbgefüge,eine pause machen,36,0.0,frame,0,349806;344642;349809
+funkverb,4,funkverbgefüge,ein paar fragen stellen,35,0.0,frame,0,342639;945189;1514492
+funkverb,5,funkverbgefüge,eine entscheidung treffen,25,0.0,frame,0,1848788;942966;957690
+funkverb,6,funkverbgefüge,den mund halten,23,0.0,frame,0,656442;955275;1845268
+funkverb,7,funkverbgefüge,die arbeit machen,17,0.0,frame,0,360982;789804;342030
+funkverb,8,funkverbgefüge,ein taxi nehmen,15,0.0,frame,0,362114;433318;688535
+funkverb,9,funkverbgefüge,meine mutter macht,14,0.0,frame,0,706099;1332138;682698
+funkverb,10,funkverbgefüge,das alleine machen,13,0.0,frame,0,1228366;1824415;2329546
+funkverb,11,funkverbgefüge,meine hausaufgaben machen,12,0.0,frame,0,344522;782440;3471923
+funkverb,12,funkverbgefüge,die klappe halten,12,0.0,frame,0,1840151;2088153;1040806
+funkverb,13,funkverbgefüge,dem laufenden halten,12,0.0,frame,0,1996518;1996519;3940861
+funkverb,14,funkverbgefüge,eine freude machen,12,0.0,frame,0,4977692;4977694;4977695
+funkverb,15,funkverbgefüge,die regeln halten,11,0.0,frame,0,396683;545827;675452
+funkverb,16,funkverbgefüge,einen spaziergang machen,10,0.0,frame,0,1728595;3323662;693685
+funkverb,17,funkverbgefüge,den neuesten stand bringen,10,0.0,frame,0,715930;7811580;7811593
+funkverb,18,funkverbgefüge,ein foto machen,10,0.0,frame,0,1852412;1205149;2750191
+funkverb,19,funkverbgefüge,ein nickerchen machen,10,0.0,frame,0,2762046;2879324;1410995
+funkverb,20,funkverbgefüge,keine angst machen,10,0.0,frame,0,1967873;2441361;2757096
+particle_connector,1,particle_frame,noch ein bisschen,85,9.21,bundle,3,551562;352803;370281
+particle_connector,2,particle_frame,ich habe dir doch gesagt,71,8.43,bundle,5,10772760;10339671;2744455
+particle_connector,3,particle_frame,haben sie noch,65,7.84,bundle,3,1004957;1340340;540989
+particle_connector,4,particle_frame,doch gar nicht,64,7.99,bundle,3,1657684;1897942;2441630
+particle_connector,5,particle_frame,noch gar nicht,64,7.98,bundle,3,11831643;3280901;7790752
+particle_connector,6,particle_frame,es ist doch,62,7.61,bundle,3,7574971;3142420;3142442
+particle_connector,7,particle_frame,ist es noch,57,6.78,bundle,3,3285748;988947;2184035
+particle_connector,8,particle_frame,was ist denn das für,54,7.35,bundle,5,3280668;598777;3032610
+particle_connector,9,particle_frame,schon einmal gesehen,54,7.35,bundle,3,1176518;831328;396243
+particle_connector,10,particle_frame,ja das ist,54,7.15,bundle,3,1546498;1709876;783240
+particle_connector,11,particle_frame,es sei denn,53,7.27,bundle,3,10094717;1882873;2141624
+particle_connector,12,particle_frame,wir haben schon,53,7.22,bundle,3,1708006;1708008;1023495
+particle_connector,13,particle_frame,haben wir noch,53,7.19,bundle,3,1995667;2895736;450263
+particle_connector,14,particle_frame,hast du schon einmal einen,52,7.21,bundle,5,1540498;1635249;344484
+particle_connector,15,particle_frame,ja gar nicht,50,7.07,bundle,3,1240129;2101038;2195988
+particle_connector,16,particle_frame,das ist schon,50,6.39,bundle,3,1317356;1284187;1600743
+particle_connector,17,particle_frame,sie ist noch,47,5.59,bundle,3,613661;860222;884538
+particle_connector,18,particle_frame,ist schon wieder,46,6.74,bundle,3,1585868;1124776;1124778
+particle_connector,19,particle_frame,noch nicht gesehen,43,6.51,bundle,3,1610410;1743691;3925095
+particle_connector,20,particle_frame,habe dir doch gesagt dass,40,6.32,bundle,5,12286936;6849805
+particle_connector,21,particle_frame,ist noch ein,40,5.6,bundle,3,344327;404650;749725
+particle_connector,1,connector_bundle,glaubt dass,183,12.85,bundle,2,586301;491552;368556
+particle_connector,2,connector_bundle,ich kann nicht glauben dass,178,13.34,bundle,5,1754202;1809054;1959544
+particle_connector,3,connector_bundle,schneller als,170,12.84,bundle,2,333643;407766;364431
+particle_connector,4,connector_bundle,es tut mir leid dass,160,12.65,bundle,5,561090;562297;562298
+particle_connector,5,connector_bundle,tut mir leid dass ich,149,12.21,bundle,5,367028;402371;561090
+particle_connector,6,connector_bundle,wenn jemand,142,10.99,bundle,2,2085084;374;1891395
+particle_connector,7,connector_bundle,dass dies,142,10.68,bundle,2,455266;1190958;1312388
+particle_connector,8,connector_bundle,ich bin mir sicher dass,131,11.45,bundle,5,408524;633662;406346
+particle_connector,9,connector_bundle,lieber als,131,10.69,bundle,2,341683;349893;344494
+particle_connector,10,connector_bundle,als erster,127,11.14,bundle,2,927809;1250299;1291511
+particle_connector,11,connector_bundle,es tut mir leid aber,118,10.86,bundle,5,2265935;969160;1839216
+particle_connector,12,connector_bundle,tut mir leid aber ich,104,10.2,bundle,5,2393301;969160;2832231
+particle_connector,13,connector_bundle,klüger als,101,9.97,bundle,2,370254;689085;909872
+particle_connector,14,connector_bundle,fest dass,101,9.45,bundle,2,1187569;361442;399451
+particle_connector,15,connector_bundle,gut aber,101,7.67,bundle,2,1013897;718393;851203
+particle_connector,16,connector_bundle,denken dass,98,8.67,bundle,2,354525;355956;395426
+particle_connector,17,connector_bundle,ich hätte nicht gedacht dass,97,9.85,bundle,5,1200074;1893402;2224170
+particle_connector,18,connector_bundle,denkt dass,97,9.15,bundle,2,427529;796720;344645
+particle_connector,19,connector_bundle,ich glaube nicht dass ich,94,9.7,bundle,5,1802814;2214137;2229930
+particle_connector,20,connector_bundle,als sonst,94,9.06,bundle,2,461744;439678;975558
+particle_connector,21,connector_bundle,er sagte dass er,92,9.59,bundle,4,1105533;366449;728265
+particle_connector,22,connector_bundle,bemerkte dass,91,9.32,bundle,2,752638;657336;749638
+particle_connector,23,connector_bundle,dann wird,91,7.94,bundle,2,3709635;1997832;768584
+particle_connector,24,connector_bundle,dass jeder,91,7.41,bundle,2,1756094;2634035;2634019
+particle_connector,25,connector_bundle,früher als,89,8.52,bundle,2,378534;348417;372332
+particle_connector,26,connector_bundle,schöner als,88,9.17,bundle,2,575297;575298;575299
+particle_connector,27,connector_bundle,dass jemand,88,7.35,bundle,2,1081822;1428881;1691117
+particle_connector,28,connector_bundle,ich finde dass,87,9.29,bundle,3,344559;1663338;599021
+particle_connector,29,connector_bundle,es sieht so aus als,84,9.17,bundle,5,1735139;1827777;2214002
+particle_connector,30,connector_bundle,als ich dachte,84,9.13,bundle,3,1459512;782070;1590820
+particle_connector,31,connector_bundle,ich wusste gar nicht dass,81,9.0,bundle,5,2051477;1820730;2190159
+particle_connector,32,connector_bundle,gilt als,81,8.78,bundle,2,1223924;772675;1214578
+particle_connector,33,connector_bundle,kaum dass,81,7.79,bundle,2,2793568;1187093;1898981
+particle_connector,34,connector_bundle,wenn du ihn,80,8.87,bundle,3,341963;343060;370903
+particle_connector,35,connector_bundle,leichter als,80,8.76,bundle,2,599333;457203;602769
+particle_connector,36,connector_bundle,dass sie glaubten elke sei,78,8.83,bundle,5,
+particle_connector,37,connector_bundle,aber niemand,78,7.87,bundle,2,596936;1005033;367890
+particle_connector,38,connector_bundle,bemerkt dass,76,8.41,bundle,2,1335372;1652592;1370266
+particle_connector,39,connector_bundle,ich hoffe dass du,75,8.66,bundle,4,409130;808666;723615
+particle_connector,40,connector_bundle,erfahren dass,75,8.04,bundle,2,1365795;1817905;1767966
+particle_connector,41,connector_bundle,ist dass er,74,7.49,bundle,3,394833;586058;927199
+particle_connector,42,connector_bundle,damit aufhören,74,8.56,bundle,2,1014119;1014120;1014121
+particle_connector,43,connector_bundle,als einziger,74,8.5,bundle,2,7452694;5855921;4259909
+particle_connector,44,connector_bundle,ich wusste nicht dass du,71,8.43,bundle,5,1186193;550201;1514991
+particle_connector,45,connector_bundle,erst dann,71,8.2,bundle,2,720289;7938686
+particle_connector,46,connector_bundle,bist du sicher dass du,69,8.31,bundle,5,1516521;1691000;418983
+particle_connector,47,connector_bundle,als erstes,69,8.23,bundle,2,1325346;1406965;1665308
+particle_connector,48,connector_bundle,schwerer als,67,8.07,bundle,2,412303;412304;560584
+particle_connector,49,connector_bundle,ich bezweifle dass,66,8.12,bundle,3,365714;398659;446049
+particle_connector,50,connector_bundle,mehr als ich,66,7.91,bundle,3,404153;762268;526771
+particle_connector,51,connector_bundle,wenn man ihn,65,8.04,bundle,3,4735750;910472;3269117
+particle_connector,52,connector_bundle,dann ist es,65,7.89,bundle,3,3484445;6462518;6320885
+particle_connector,53,connector_bundle,als letzter,65,7.73,bundle,2,396857;943204;1259261
+particle_connector,54,connector_bundle,ist stärker als,64,8.0,bundle,3,364960;344362;437458
+particle_connector,55,connector_bundle,dass man ihn,64,7.96,bundle,3,1774950;3503054;4724310
+particle_connector,56,connector_bundle,teurer als,64,7.91,bundle,2,398658;481138;488017
+particle_connector,57,connector_bundle,damit beschäftigt,64,7.91,bundle,2,404622;361105;407680
+particle_connector,58,connector_bundle,dass sie glaube dass,63,7.94,bundle,4,7478041;7478129
+particle_connector,59,connector_bundle,als ich ihn,63,7.74,bundle,3,936470;604972;977157
+particle_connector,60,connector_bundle,ich hätte nie gedacht dass,62,7.87,bundle,5,1443011;2081753;2082698
+particle_connector,61,connector_bundle,zeit damit,62,7.28,bundle,2,338302;3249487;661389
+particle_connector,62,connector_bundle,als du denkst,61,7.8,bundle,3,1683988;1734196;1336742
+particle_connector,63,connector_bundle,höher als,61,7.71,bundle,2,633497;728245;770060
+particle_connector,64,connector_bundle,ich glaube nicht dass es,60,7.75,bundle,5,907727;760626;852453
+bundle,1,lexical_bundle,das ist kein,252,15.7,bundle,3,403647;729126;623039
+bundle,2,lexical_bundle,haben sie die,216,14.01,bundle,3,398893;626753;679893
+bundle,3,lexical_bundle,gibt es keine,209,14.44,bundle,3,372960;365588;399723
+bundle,4,lexical_bundle,gibt es eine,205,14.27,bundle,3,367317;370492;400628
+bundle,5,lexical_bundle,ich bin mir nicht sicher,201,14.18,bundle,5,1509574;1544293;1560971
+bundle,6,lexical_bundle,in die stadt,187,13.63,bundle,3,352580;450127;484476
+bundle,7,lexical_bundle,wir müssen uns,184,13.56,bundle,3,371130;448635;409898
+bundle,8,lexical_bundle,er ist sehr,182,13.22,bundle,3,601460;356288;365559
+bundle,9,lexical_bundle,wir haben die,179,13.11,bundle,3,689;369788;372228
+bundle,10,lexical_bundle,kennt nicht den unterschied zwischen,176,13.27,bundle,5,1231842;1234496;1234499
+bundle,11,lexical_bundle,das ist keine,175,12.91,bundle,3,369165;235;475490
+bundle,12,lexical_bundle,in der bibliothek,170,13.03,bundle,3,406413;361555;686
+bundle,13,lexical_bundle,gibt es einen,168,12.93,bundle,3,402535;404910;372943
+bundle,14,lexical_bundle,wir haben einen,159,12.55,bundle,3,368541;415194;397999
+bundle,15,lexical_bundle,sie hat ihn,159,12.46,bundle,3,906169;761052;909907
+bundle,16,lexical_bundle,ich habe zwei,156,12.42,bundle,3,361086;361414;343608
+bundle,17,lexical_bundle,sie haben sich,154,12.14,bundle,3,356620;493378;493558
+bundle,18,lexical_bundle,das ist meine,154,12.02,bundle,3,465989;516063;465552
+bundle,19,lexical_bundle,was ist dein,150,12.2,bundle,3,620671;923504;704688
+bundle,20,lexical_bundle,haben sie einen,149,12.04,bundle,3,540326;404316;460342
+bundle,21,lexical_bundle,wo ist mein,147,12.09,bundle,3,426307;1772576;1773518
+bundle,22,lexical_bundle,in diesem land,144,12.0,bundle,3,340818;432972;399728
+bundle,23,lexical_bundle,meine mutter ist,142,11.9,bundle,3,360561;363307;350011
+bundle,24,lexical_bundle,ich weiß nicht was ich,139,11.79,bundle,5,140014;358386;370510
+bundle,25,lexical_bundle,ich mag keine,139,11.77,bundle,3,368336;391515;638293
+bundle,26,lexical_bundle,wir müssen die,132,11.42,bundle,3,399772;341410;368325
+bundle,27,lexical_bundle,die meisten menschen,131,11.44,bundle,3,363376;166;1394603
+bundle,28,lexical_bundle,haben sie den,131,11.14,bundle,3,677029;904977;611605
+bundle,29,lexical_bundle,in diesem jahr,130,11.4,bundle,3,979447;612841;913857
+bundle,30,lexical_bundle,ich werde die,126,10.76,bundle,3,367481;749741;427492
+bundle,31,lexical_bundle,wir müssen das,124,11.08,bundle,3,370801;641203;341661
+bundle,32,lexical_bundle,das ist so,124,10.35,bundle,3,710;1075215;761182
+bundle,33,lexical_bundle,und das ist,124,9.09,bundle,3,396404;1105548;1254729
+bundle,34,lexical_bundle,sie haben mich,123,10.88,bundle,3,721098;585829;450537
+bundle,35,lexical_bundle,ich gebe dir,122,11.04,bundle,3,592;628949;400122
+bundle,36,lexical_bundle,ich habe beschlossen,121,10.99,bundle,3,418465;532575;665664
+bundle,37,lexical_bundle,haben sie es,121,10.43,bundle,3,1126863;1315482;642451
+bundle,38,lexical_bundle,und komme aus,120,10.95,bundle,3,12419727;12419739;12419741
+bundle,39,lexical_bundle,in seinem zimmer,119,10.91,bundle,3,353306;360598;403394
+bundle,40,lexical_bundle,ich weiß nicht ob ich,117,10.82,bundle,5,261;531214;93
+bundle,41,lexical_bundle,mein name ist,117,10.81,bundle,3,483372;396385;742641
+bundle,42,lexical_bundle,weißt du wo,117,10.81,bundle,3,358212;353035;340817
+bundle,43,lexical_bundle,es ist die,116,7.73,bundle,3,732662;695972;384242
+bundle,44,lexical_bundle,es ist an der zeit,115,10.72,bundle,5,1314641;1503338;1291415
+bundle,45,lexical_bundle,ich frage mich warum,114,10.68,bundle,4,574644;863738;595626
+bundle,46,lexical_bundle,nicht besonders gut,114,10.67,bundle,3,1231882;1538242;1388543
+bundle,47,lexical_bundle,sie haben das,114,9.9,bundle,3,654559;927093;341052
+bundle,48,lexical_bundle,ich weiß nicht wie ich,112,10.58,bundle,5,358394;358395;592929
+bundle,49,lexical_bundle,sei nicht so,111,10.5,bundle,3,730660;760644;341111
+bundle,50,lexical_bundle,sie haben eine,110,10.17,bundle,3,741671;486854;682853
+bundle,51,lexical_bundle,es ist unmöglich,109,10.43,bundle,3,355958;367511;380790
+bundle,52,lexical_bundle,heute ist es,108,10.14,bundle,3,356303;362642;494
+bundle,53,lexical_bundle,von anfang an,107,10.34,bundle,3,590469;441167;445216
+bundle,54,lexical_bundle,er ist zu,107,8.44,bundle,3,416671;406972;374098
+bundle,55,lexical_bundle,dies ist eine,106,10.27,bundle,3,363907;342125;370151
+bundle,56,lexical_bundle,ist das eine,106,8.91,bundle,3,1598463;1015359;418865
+bundle,57,lexical_bundle,bin mir nicht sicher ob,105,10.25,bundle,5,1863577;1863579;3050817
+bundle,58,lexical_bundle,das erste mal dass ich,104,10.2,bundle,5,5855240;1729452;1852841
+bundle,59,lexical_bundle,fast jeden tag,104,10.2,bundle,3,359055;359061;407704
+bundle,60,lexical_bundle,was geschehen ist,104,10.19,bundle,3,697933;1659266;1313961
+bundle,61,lexical_bundle,ich finde das,104,10.11,bundle,3,1166359;445053;1243483
+bundle,62,lexical_bundle,ist die hauptstadt von,103,10.15,bundle,4,331890;331891;331892
+bundle,63,lexical_bundle,die zahl der,103,10.14,bundle,3,850157;769530;477791
+bundle,64,lexical_bundle,ich fühlte mich,102,10.09,bundle,3,742950;682619;784130
+bundle,65,lexical_bundle,sie hat ihre,102,9.96,bundle,3,349849;349850;367339
+bundle,66,lexical_bundle,hör auf zu,101,10.04,bundle,3,608484;394189;697867
+bundle,67,lexical_bundle,in den usa,100,10.0,bundle,3,448668;682576;369923
+bundle,68,lexical_bundle,das buch ist,99,9.79,bundle,3,423685;428931;455198
+bundle,69,lexical_bundle,so ist es,99,9.29,bundle,3,778951;812428;911817
+bundle,70,lexical_bundle,es gibt einen,98,9.85,bundle,3,368542;361962;365236
+bundle,71,lexical_bundle,auf der arbeit,98,9.85,bundle,3,1185368;932570;955659
+bundle,72,lexical_bundle,was ist das für ein,97,9.85,bundle,5,362809;381394;451355
+bundle,73,lexical_bundle,in meinem zimmer,97,9.85,bundle,3,359023;344459;406724
+bundle,74,lexical_bundle,ich warte auf,97,9.83,bundle,3,439605;609220;755252
+bundle,75,lexical_bundle,was ist deine,97,9.76,bundle,3,372920;767262;923505
+bundle,76,lexical_bundle,ich liebe es,97,9.69,bundle,3,463697;419103;483376
+bundle,77,lexical_bundle,was du tust,96,9.79,bundle,3,689648;915691;419011
+bundle,78,lexical_bundle,ist sehr schön,96,9.78,bundle,3,353311;362636;366445
+bundle,79,lexical_bundle,ist es ein,96,8.15,bundle,3,345024;911967;913816
+bundle,80,lexical_bundle,zu hause sein,94,9.67,bundle,3,454204;667398;742236
+bundle,81,lexical_bundle,was wollen sie,94,9.65,bundle,3,1133830;494824;710662
+bundle,82,lexical_bundle,sie müssen sich,94,9.62,bundle,3,1777640;1562734;411746
+bundle,83,lexical_bundle,haben sie etwas,94,9.59,bundle,3,343554;403392;474552
+bundle,84,lexical_bundle,ist für die,94,8.63,bundle,3,551620;509420;397534
+bundle,85,lexical_bundle,mit der zeit,93,9.56,bundle,3,1591044;1654943;1550797

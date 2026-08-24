@@ -1,24 +1,74 @@
 {
+  "sentences": 778331,
+  "tokens": 6062716,
+  "length_iqr": [
+    5,
+    9
+  ],
+  "criteria": {
+    "tscore_min": 2.0,
+    "min_obs_bundle": 4,
+    "min_obs_frame": 10,
+    "function_words": 184,
+    "name_blocklist": [
+      "alice",
+      "anna",
+      "bob",
+      "heinz",
+      "ivan",
+      "johannes",
+      "john",
+      "ken",
+      "klaus",
+      "lisa",
+      "maria",
+      "mary",
+      "mr",
+      "mrs",
+      "paul",
+      "peter",
+      "svetlana",
+      "tanin",
+      "tom",
+      "yuri"
+    ]
+  },
+  "per_n": {
+    "2": {
+      "passed_tscore": 76518,
+      "kept_after_cap": 5000
+    },
+    "3": {
+      "passed_tscore": 52657,
+      "kept_after_cap": 5000
+    },
+    "4": {
+      "passed_tscore": 18234,
+      "kept_after_cap": 5000
+    },
+    "5": {
+      "passed_tscore": 5006,
+      "kept_after_cap": 5000
+    }
+  },
   "totals": {
     "routine": 46,
-    "perfekt_frame": 713,
-    "separable_frame": 81,
-    "modal_frame": 209,
-    "funkverbgefüge": 2,
-    "particle_frame": 100,
-    "connector_bundle": 404,
-    "lexical_bundle": 694
+    "perfekt_frame": 1199,
+    "separable_frame": 258,
+    "modal_frame": 493,
+    "funkverbgefüge": 20,
+    "particle_frame": 460,
+    "connector_bundle": 1360,
+    "lexical_bundle": 8899
   },
-  "sentences": 778331,
-  "runtime_s": 17.3,
   "top_by_class": {
     "routine": [
-      "ich weiß nicht",
       "nicht wahr",
-      "es tut mir leid",
+      "ich weiß nicht",
       "keine ahnung",
       "in ordnung",
       "vielen dank",
+      "es tut mir leid",
       "bis morgen",
       "viel spaß"
     ],
@@ -28,63 +78,70 @@
       "hat … gemacht",
       "habe … gesagt",
       "habe … gehört",
-      "haben … gesagt",
-      "ist … passiert",
-      "hast … gesehen"
+      "hast … gesehen",
+      "hat … gekauft",
+      "ist … gegangen"
     ],
     "separable_frame": [
       "sieht … aus",
       "siehst … aus",
       "rufe … an",
       "kommt … an",
-      "stimme … zu",
+      "hängt … ab",
       "kommt … vor",
-      "sehen … aus",
-      "hängt … ab"
+      "stimme … zu",
+      "ruft … an"
     ],
     "modal_frame": [
+      "kann … machen",
       "kann … helfen",
       "kann … sprechen",
       "kann … finden",
+      "muss … machen",
       "kann … kaufen",
-      "kann … spielen",
       "möchte … sprechen",
-      "kann … fahren",
-      "kann … verstehen"
+      "will … machen"
     ],
     "funkverbgefüge": [
+      "eine frage stellen",
+      "keine sorgen machen",
+      "eine pause machen",
       "ein paar fragen stellen",
-      "das nicht noch einmal machen"
+      "eine entscheidung treffen",
+      "den mund halten",
+      "die arbeit machen",
+      "ein taxi nehmen"
     ],
     "particle_frame": [
-      "das erste mal dass ich",
-      "ist das erste mal dass",
-      "es ist das erste mal",
+      "noch ein bisschen",
       "ich habe dir doch gesagt",
-      "hast du das letzte mal",
-      "bist du schon einmal",
-      "was hast du denn",
-      "hast du schon einmal einen"
+      "haben sie noch",
+      "doch gar nicht",
+      "noch gar nicht",
+      "es ist doch",
+      "ist es noch",
+      "was ist denn das für"
     ],
     "connector_bundle": [
-      "tom und maria sagten johannes",
-      "und maria sagten johannes dass",
-      "maria sagten johannes dass sie",
-      "und maria sagten johannes sie",
-      "tom und maria haben johannes",
-      "und maria haben johannes gesagt",
+      "glaubt dass",
       "ich kann nicht glauben dass",
-      "maria sagte tom dass sie"
+      "schneller als",
+      "es tut mir leid dass",
+      "tut mir leid dass ich",
+      "wenn jemand",
+      "dass dies",
+      "ich bin mir sicher dass"
     ],
     "lexical_bundle": [
-      "um wie viel uhr",
-      "ich bin mir nicht sicher",
-      "kennt nicht den unterschied zwischen",
-      "tom kennt nicht den unterschied",
-      "maria sagte tom sie glaube",
-      "ich weiß nicht ob ich",
-      "so schnell wie möglich",
-      "wie man das macht"
+      "wird das",
+      "zu lassen",
+      "die beiden",
+      "zu arbeiten",
+      "er spricht",
+      "am meisten",
+      "auf französisch",
+      "im haus"
     ]
-  }
+  },
+  "runtime_s": 25.7
 }

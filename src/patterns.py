@@ -275,7 +275,8 @@ def main():
             # Funktionsverbgefüge: det (adj) noun + light verb, mined in situ
             for i in range(len(tk) - 2):
                 if tk[i] in DETS and tk[i + 2].startswith(LIGHT_STEMS) and \
-                   tk[i + 2] not in FUNCTION_WORDS and len(tk[i + 2]) >= 5 and \
+                   tk[i + 2] not in FUNCTION_WORDS and 5 <= len(tk[i + 2]) <= 9 and \
+                   not tk[i + 2].startswith("ge") and \
                    tk[i + 1] not in FUNCTION_WORDS and len(tk[i + 1]) >= 4:
                     key = " ".join(tk[i:i + 3])
                     fv_counts[key] += 1
@@ -283,6 +284,7 @@ def main():
                         fv_ex[key].append((len(tk), sid))
                 if i + 3 < len(tk) and tk[i] in DETS and \
                    tk[i + 3].startswith(LIGHT_STEMS) and tk[i + 3] not in FUNCTION_WORDS and \
+                   not tk[i + 3].startswith("ge") and len(tk[i + 3]) <= 9 and \
                    tk[i + 1] not in FUNCTION_WORDS and tk[i + 2] not in FUNCTION_WORDS:
                     key = " ".join(tk[i:i + 4])
                     fv_counts[key] += 1
@@ -316,6 +318,7 @@ def main():
         ex = sorted(bundle_ex.get(idx, []))
         out_rows.append({"class": classify(k), "pattern": " ".join(k),
                          "count": obs, "tscore": round(tsc, 2), "kind": "bundle",
+                         "n": len(k),
                          "examples": ";".join(sid for _, sid in ex[:3])})
     for key, obs in frame_counts.items():
         if " \u2026 " not in key:
@@ -329,7 +332,7 @@ def main():
         exp = uni[a] * uni[b] / total
         out_rows.append({"class": cls, "pattern": key, "count": obs,
                          "tscore": round((obs - exp) / obs ** 0.5, 2),
-                         "kind": "frame",
+                         "kind": "frame", "n": 0,
                          "examples": ";".join(sid for _, sid in ex[:3])})
     for key, obs in fv_counts.items():
         k = key.split()
@@ -337,13 +340,13 @@ def main():
             continue
         ex = sorted(fv_ex.get(key, []))
         out_rows.append({"class": "funkverbgefüge", "pattern": key, "count": obs,
-                         "tscore": 0.0, "kind": "frame",
+                         "tscore": 0.0, "kind": "frame", "n": 0,
                          "examples": ";".join(sid for _, sid in ex[:3])})
     for r in ROUTINES:
         ex = sorted(routine_ex.get(r, []))
         out_rows.append({"class": "routine", "pattern": r,
                          "count": routine_counts.get(r, 0), "tscore": 0.0,
-                         "kind": "routine",
+                         "kind": "routine", "n": 0,
                          "examples": ";".join(sid for _, sid in ex[:3])})
 
     DERIVED.mkdir(exist_ok=True)
@@ -353,7 +356,7 @@ def main():
     out_rows.sort(key=lambda r: (order.get(r["class"], 9), -r["count"]))
     with open(DERIVED / "patterns.csv", "w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=["class", "pattern", "count", "tscore",
-                                           "kind", "examples"])
+                                           "kind", "n", "examples"])
         w.writeheader()
         w.writerows(out_rows)
 

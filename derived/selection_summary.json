@@ -1,0 +1,59 @@
+{
+  "total_target": 500,
+  "groups": {
+    "routine": {
+      "target": 50,
+      "available": 42,
+      "assigned": 42,
+      "classes": {
+        "routine": 42
+      }
+    },
+    "perfekt_modal": {
+      "target": 120,
+      "available": 1692,
+      "assigned": 146,
+      "classes": {
+        "perfekt_frame": 103,
+        "modal_frame": 43
+      }
+    },
+    "separable": {
+      "target": 100,
+      "available": 258,
+      "assigned": 122,
+      "classes": {
+        "separable_frame": 122
+      }
+    },
+    "funkverb": {
+      "target": 90,
+      "available": 20,
+      "assigned": 20,
+      "classes": {
+        "funkverbgefüge": 20
+      }
+    },
+    "particle_connector": {
+      "target": 70,
+      "available": 1820,
+      "assigned": 85,
+      "classes": {
+        "particle_frame": 21,
+        "connector_bundle": 64
+      }
+    },
+    "bundle": {
+      "target": 70,
+      "available": 7147,
+      "assigned": 85,
+      "classes": {
+        "lexical_bundle": 85
+      }
+    }
+  },
+  "redistribution_moves": [
+    78
+  ],
+  "final_total": 500
+}
