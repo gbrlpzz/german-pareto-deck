@@ -13,7 +13,7 @@ with every number either measured here or cited. Non-goal: reading-literature co
 | D3 | Pattern deck size | ~500 cards (min viable 300) | ADOPTED |
 | D4 | Pattern class mix | see §4b table | ADOPTED |
 | D5 | Card format | production cloze sentence; recognition reverse only for particles/routines | ADOPTED |
-| D6 | Lemma handling | form-level lists + lemmatization pass; bias documented | PARTIAL |
+| D6 | Lemma handling | rule-based lemmatizer (`src/lemmatize.py`), 24.5% of types grouped, suppletive paradigms via closed dictionary, conservative by design | IMPLEMENTED |
 | D7 | Licensing | code Apache-2.0; no raw-corpus redistribution; refetch instead | ADOPTED |
 
 ## 1. Terms
@@ -138,3 +138,18 @@ Applied to EVERY selection in this repo, not only vocabulary size. Each constant
 Observed redistribution (v0.1): one move of 78 slots, funkverbgefüge (20 available of 90)
 and routine (42 of 50) shortfalls absorbed by perfekt/modal, separable, particle/connector,
 bundle — trace in `derived/selection_summary.json`.
+
+
+## 11. Build results (v0.1)
+
+| Artifact | Count | Notes |
+|---|---:|---|
+| Word cards | 2,963 | 1,507 core + 1,456 extension; from top-4,000 forms — the ~26% form-to-lemma compression matches the D2 adjustment |
+| Pattern cards | 461 | from 500 selected; 39 skipped at build with explicit accounting (authentic sentence could not host the cloze: punctuation/apostrophe variants) |
+| Translations attached | ~65% of cards | Tatoeba deu-eng links; untranslated cards still carry the authentic sentence + gloss |
+| EN glosses | best-effort | Wiktionary definitions, rate-limit-aware fetcher, resume-safe |
+| Tests | OK | schema + selection-invariant suite; lemmatizer rule tests |
+
+Known limitations at ship: form-level residual homograph merges (~0.3%, no POS resource);
+preterite vowel-change forms outside the closed dictionary stay ungrouped; 39-pattern cloze
+skips; Tatoeba register bias (Fig. 1 bracket). All are visible in the decision log above.

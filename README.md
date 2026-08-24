@@ -2,7 +2,7 @@
 
 > **Suggested GitHub description:** German Anki deck sized by evidence — the Pareto-optimal core vocabulary taught inside the highest-frequency sentence patterns. Reproducible pipeline, every number traced to its source.
 
-Status: **work in progress** — data layer and methodology complete; pattern extraction and deck assembly active.
+Status: **v0.1 released** — deck, pipeline, tests and methodology complete. Download: [Releases](https://github.com/gbrlpzz/german-pareto-deck/releases/latest).
 
 ## Scientific overview
 
@@ -48,12 +48,22 @@ stopping at 4,000 instead of marching to 10,000+.*
 
 ## What the deck teaches
 
-- **Word cards** — production direction: English cue plus example sentence with the target
-  blanked; the back shows the German form, the completed sentence, a chunk gloss, and (when
-  available) the authentic English translation.
-- **Pattern cards** — the pattern is cloze-deleted inside one authentic Tatoeba sentence;
-  recognition reverses are reserved for modal particles and routines.
-- Tags encode tier (`core` / `ext`) and pattern class, so anything can be suspended selectively.
+v0.1 ships **3,425 cards**:
+
+- **2,963 word cards** (1,507 core / 1,456 extension) — production direction: English cue
+  plus example sentence with the target blanked; the back shows the German form, the
+  completed sentence, a best-effort English gloss, and (when available) the authentic
+  English translation. Lemma-grouped (rule-based lemmatizer), tagged by tier and rank band.
+- **461 pattern cards** — the pattern cloze-deleted inside one authentic Tatoeba sentence
+  with its English translation. 500 patterns are selected (Fig. 3); 39 are dropped at build
+  time with explicit accounting when the authentic sentence cannot host the cloze.
+- Tags encode tier (`core` / `ext`), rank band, pattern group and class, so anything can be
+  suspended selectively.
+
+![Deck composition](docs/figures/fig3_deck_pattern_mix.png)
+
+*Figure 3. Final pattern mix: the D4 literature allocation after D8-significant candidate
+availability and documented redistribution (trace: `derived/selection_summary.json`).*
 
 ## Companion documents
 
@@ -73,10 +83,24 @@ flowchart LR
 
 ```bash
 python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
-.venv/bin/python src/pipeline.py fetch     # re-downloads corpora, prints sha256
-.venv/bin/python src/pipeline.py freq      # -> derived/top_forms.csv
-.venv/bin/python src/plots.py              # regenerates every figure in docs/figures
-# WIP: patterns / sentences / deck stages -> out/german-pareto-deck.apkg
+.venv/bin/python src/pipeline.py fetch       # re-downloads corpora, prints sha256
+.venv/bin/python src/pipeline.py freq        # -> derived/top_forms.csv
+.venv/bin/python src/pipeline.py patterns    # -> derived/patterns.csv (D8 criteria)
+.venv/bin/python src/select_patterns.py      # -> derived/patterns_selected.csv (500)
+.venv/bin/python src/lemmatize.py            # -> derived/lemma_groups.csv
+.venv/bin/python src/words.py                # -> derived/wordlist.csv
+.venv/bin/python src/sentences.py            # -> derived/word_sentences.csv
+.venv/bin/python src/translations.py         # -> derived/translations.csv
+.venv/bin/python src/glosses.py              # -> derived/glosses.csv (best-effort, slow)
+.venv/bin/python src/deck.py                 # -> out/german-pareto-deck.apkg
+.venv/bin/python src/plots.py                # regenerates every figure in docs/figures
+```
+
+Tests:
+
+```bash
+.venv/bin/python -m unittest test_pipeline -v
+.venv/bin/python test_lemmatize.py
 ```
 
 ## Repository layout

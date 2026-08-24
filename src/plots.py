@@ -28,12 +28,11 @@ sx, sy = read_curve(DERIVED / "subtitles_curve.csv")
 
 # ---- Figure 1: coverage curves -------------------------------------------
 fig, ax = plt.subplots(figsize=(8, 4.8), dpi=150)
+ax.axhline(95, ls=":", c="gray", lw=1.2,
+           label="95% comprehension threshold (Laufer 1989)")
 ax.plot(tx, ty, lw=2, label="Tatoeba deu corpus (this repo, 6.06M tokens)")
 ax.plot(sx, sy, "o--", lw=2, ms=5,
         label="OpenSubtitles-2016 DE (independent measurement, 95.9M tokens)")
-ax.axhline(95, ls=":", c="gray", lw=1)
-ax.text(110, 95.5, "95% minimal-comprehension threshold (Laufer 1989)",
-        fontsize=8, color="gray")
 for x, lbl, c in [(2000, "core\n2,000", "tab:green"), (4000, "complete\n4,000", "tab:red")]:
     ax.axvline(x, ls="--", lw=1, alpha=0.6, c=c)
     ax.annotate(lbl, xy=(x, 55), xytext=(x * 1.3, 60), fontsize=8, color=c,
@@ -85,7 +84,7 @@ if sel_summary.exists():
     for i, v in enumerate(vals):
         ax.text(v + 1, i, str(v), va="center", fontsize=8)
     ax.set_xlabel("cards in deck")
-    ax.set_title("Deck composition: 500 pattern cards (D3 total, D4 mix, D8 criteria)")
+    ax.set_title("Deck composition: 500 pattern cards (D3/D4/D8)")
     ax.grid(axis="x", alpha=0.25)
     fig.tight_layout()
     fig.savefig(FIGS / "fig3_deck_pattern_mix.png")
